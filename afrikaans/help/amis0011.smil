@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Stel teks style" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:00:23" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="22.697s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_0012" id="amis_0012" />
+<seq>
+<audio src="17_Stel_teks_style.mp3" clip-begin="npt=0.000s" clip-end="npt=2.159s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_005d" id="xami_005d" />
+<seq>
+<audio src="17_Stel_teks_style.mp3" clip-begin="npt=2.159s" clip-end="npt=8.710s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_005e" id="xami_005e" />
+<seq>
+<audio src="17_Stel_teks_style.mp3" clip-begin="npt=8.710s" clip-end="npt=13.264s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_005f" id="xami_005f" />
+<seq>
+<audio src="17_Stel_teks_style.mp3" clip-begin="npt=13.264s" clip-end="npt=20.424s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0060" id="xami_0060" />
+<seq>
+<audio src="17_Stel_teks_style.mp3" clip-begin="npt=20.424s" clip-end="npt=22.697s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

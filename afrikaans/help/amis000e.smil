@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Om hulp te kry met AMIS" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:00:13" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="12.795s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_000f" id="amis_000f" />
+<seq>
+<audio src="14_Om_hulp_te_kry_met_AMIS.mp3" clip-begin="npt=0.000s" clip-end="npt=2.359s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0049" id="xami_0049" />
+<seq>
+<audio src="14_Om_hulp_te_kry_met_AMIS.mp3" clip-begin="npt=2.359s" clip-end="npt=5.218s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_004a" id="xami_004a" />
+<seq>
+<audio src="14_Om_hulp_te_kry_met_AMIS.mp3" clip-begin="npt=5.218s" clip-end="npt=8.655s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_004b" id="xami_004b" />
+<seq>
+<audio src="14_Om_hulp_te_kry_met_AMIS.mp3" clip-begin="npt=8.655s" clip-end="npt=12.795s" id="qwrt_0004" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

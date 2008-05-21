@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Gebruik van die navigasie systaaf" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:00:18" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="18.116s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_000c" id="amis_000c" />
+<seq>
+<audio src="11_Gebruik_van_die_navigasie_syst.mp3" clip-begin="npt=0.000s" clip-end="npt=3.055s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0032" id="xami_0032" />
+<seq>
+<audio src="11_Gebruik_van_die_navigasie_syst.mp3" clip-begin="npt=3.055s" clip-end="npt=9.213s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0033" id="xami_0033" />
+<seq>
+<audio src="11_Gebruik_van_die_navigasie_syst.mp3" clip-begin="npt=9.213s" clip-end="npt=12.258s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0034" id="xami_0034" />
+<seq>
+<audio src="11_Gebruik_van_die_navigasie_syst.mp3" clip-begin="npt=12.258s" clip-end="npt=13.819s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0035" id="xami_0035" />
+<seq>
+<audio src="11_Gebruik_van_die_navigasie_syst.mp3" clip-begin="npt=13.819s" clip-end="npt=18.116s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

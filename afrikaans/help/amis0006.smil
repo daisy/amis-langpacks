@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Skerm Uitleg" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:02:05" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="124.889s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_0007" id="amis_0007" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=0.000s" clip-end="npt=1.837s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0017" id="xami_0017" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=1.837s" clip-end="npt=18.593s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0018" id="xami_0018" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=18.593s" clip-end="npt=29.434s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0019" id="xami_0019" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=29.434s" clip-end="npt=31.775s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_001a" id="xami_001a" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=31.775s" clip-end="npt=56.527s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_001b" id="xami_001b" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=56.527s" clip-end="npt=61.072s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_001c" id="xami_001c" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=61.072s" clip-end="npt=90.695s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_001d" id="xami_001d" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=90.695s" clip-end="npt=93.582s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_001e" id="xami_001e" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=93.582s" clip-end="npt=122.041s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_001f" id="xami_001f" />
+<seq>
+<audio src="06_Skerm_Uitleg.mp3" clip-begin="npt=122.041s" clip-end="npt=124.889s" id="qwrt_000A" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

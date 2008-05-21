@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Wat is DAISY?" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:01:30" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="89.669s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_0004" id="amis_0004" />
+<seq>
+<audio src="03_Wat_is_DAISY.mp3" clip-begin="npt=0.000s" clip-end="npt=1.554s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0008" id="xami_0008" />
+<seq>
+<audio src="03_Wat_is_DAISY.mp3" clip-begin="npt=1.554s" clip-end="npt=24.974s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0009" id="xami_0009" />
+<seq>
+<audio src="03_Wat_is_DAISY.mp3" clip-begin="npt=24.974s" clip-end="npt=38.031s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_000a" id="xami_000a" />
+<seq>
+<audio src="03_Wat_is_DAISY.mp3" clip-begin="npt=38.031s" clip-end="npt=58.108s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_000b" id="xami_000b" />
+<seq>
+<audio src="03_Wat_is_DAISY.mp3" clip-begin="npt=58.108s" clip-end="npt=76.061s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_000c" id="xami_000c" />
+<seq>
+<audio src="03_Wat_is_DAISY.mp3" clip-begin="npt=76.061s" clip-end="npt=89.669s" id="qwrt_0006" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

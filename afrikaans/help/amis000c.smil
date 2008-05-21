@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Die maak van boekmerke" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:00:16" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="15.690s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_000d" id="amis_000d" />
+<seq>
+<audio src="12_Die_maak_van_boekmerke.mp3" clip-begin="npt=0.000s" clip-end="npt=2.159s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0036" id="xami_0036" />
+<seq>
+<audio src="12_Die_maak_van_boekmerke.mp3" clip-begin="npt=2.159s" clip-end="npt=8.071s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0037" id="xami_0037" />
+<seq>
+<audio src="12_Die_maak_van_boekmerke.mp3" clip-begin="npt=8.071s" clip-end="npt=9.826s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0038" id="xami_0038" />
+<seq>
+<audio src="12_Die_maak_van_boekmerke.mp3" clip-begin="npt=9.826s" clip-end="npt=15.690s" id="qwrt_0004" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

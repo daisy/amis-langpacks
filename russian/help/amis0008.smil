@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+    <head>    
+        <meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+        <meta name="dc:format" content="Daisy 2.02" />
+        <meta name="title" content="&#1054;&#1090;&#1082;&#1088;&#1099;&#1090;&#1080;&#1077; &#1082;&#1085;&#1080;&#1075;&#1080;" />
+        <meta name="dc:title" content="AMIS User Guide" />
+        <meta name="ncc:timeInThisSmil" content="0:00:27" />
+        <layout>        
+            <region id="txtView" />
+        </layout>
+    </head>
+    <body>
+        <seq dur="26.900s">    
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#amis_0009" id="amis_0009" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=0.000s" clip-end="npt=1.275s" id="qwrt_0001" />
+                </seq>
+            </par>
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#xami_0021" id="xami_0021" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=1.275s" clip-end="npt=7.035s" id="qwrt_0002" />
+                </seq>
+            </par>
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#xami_0022" id="xami_0022" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=7.035s" clip-end="npt=8.225s" id="qwrt_0003" />
+                </seq>
+            </par>
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#xami_0023" id="xami_0023" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=8.225s" clip-end="npt=11.854s" id="qwrt_0004" />
+                </seq>
+            </par>
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#xami_0024" id="xami_0024" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=11.854s" clip-end="npt=14.348s" id="qwrt_0005" />
+                </seq>
+            </par>
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#xami_0025" id="xami_0025" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=14.348s" clip-end="npt=20.244s" id="qwrt_0006" />
+                </seq>
+            </par>
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#xami_0026" id="xami_0026" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=20.244s" clip-end="npt=23.428s" id="qwrt_0007" />
+                </seq>
+            </par>
+            <par endsync="last">        
+                <text src="amishelp-russian-entity.html#xami_0027" id="xami_0027" />
+                <seq>            
+                    <audio src="amis003B.mp3" clip-begin="npt=23.428s" clip-end="npt=26.900s" id="qwrt_0008" />
+                </seq>
+            </par>
+        </seq>
+    </body>
+</smil>

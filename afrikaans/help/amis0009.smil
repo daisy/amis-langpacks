@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Beheer terugspeel" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:00:23" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="23.487s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_000a" id="amis_000a" />
+<seq>
+<audio src="09_Beheer_terugspeel.mp3" clip-begin="npt=0.000s" clip-end="npt=1.750s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0028" id="xami_0028" />
+<seq>
+<audio src="09_Beheer_terugspeel.mp3" clip-begin="npt=1.750s" clip-end="npt=9.110s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0029" id="xami_0029" />
+<seq>
+<audio src="09_Beheer_terugspeel.mp3" clip-begin="npt=9.110s" clip-end="npt=11.394s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_002a" id="xami_002a" />
+<seq>
+<audio src="09_Beheer_terugspeel.mp3" clip-begin="npt=11.394s" clip-end="npt=13.939s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_002b" id="xami_002b" />
+<seq>
+<audio src="09_Beheer_terugspeel.mp3" clip-begin="npt=13.939s" clip-end="npt=23.487s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

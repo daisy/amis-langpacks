@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Kry informasie oor die publikasie" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:00:51" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="50.595s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_000e" id="amis_000e" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=0.000s" clip-end="npt=3.550s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0039" id="xami_0039" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=3.550s" clip-end="npt=16.094s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_003a" id="xami_003a" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=16.094s" clip-end="npt=16.968s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_003b" id="xami_003b" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=16.968s" clip-end="npt=18.031s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_003c" id="xami_003c" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=18.031s" clip-end="npt=19.583s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_003d" id="xami_003d" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=19.583s" clip-end="npt=20.885s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_003e" id="xami_003e" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=20.885s" clip-end="npt=22.123s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_003f" id="xami_003f" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=22.123s" clip-end="npt=23.202s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0040" id="xami_0040" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=23.202s" clip-end="npt=24.561s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0041" id="xami_0041" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=24.561s" clip-end="npt=25.443s" id="qwrt_000A" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0042" id="xami_0042" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=25.443s" clip-end="npt=26.601s" id="qwrt_000B" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0043" id="xami_0043" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=26.601s" clip-end="npt=31.731s" id="qwrt_000C" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0044" id="xami_0044" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=31.731s" clip-end="npt=33.092s" id="qwrt_000D" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0045" id="xami_0045" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=33.092s" clip-end="npt=38.845s" id="qwrt_000E" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0046" id="xami_0046" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=38.845s" clip-end="npt=43.320s" id="qwrt_000F" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0047" id="xami_0047" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=43.320s" clip-end="npt=45.879s" id="qwrt_0010" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_0048" id="xami_0048" />
+<seq>
+<audio src="13_Kry_informasie_oor_die_publika.mp3" clip-begin="npt=45.879s" clip-end="npt=50.595s" id="qwrt_0011" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

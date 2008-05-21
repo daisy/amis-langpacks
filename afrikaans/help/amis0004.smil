@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="Ondersteunde Formate" />
+<meta name="dc:title" content="AMIS Gebruikersgids" />
+<meta name="ncc:timeInThisSmil" content="0:00:21" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="20.851s">
+<par endsync="last">
+<text src="amishelp-afrikaans.html#amis_0005" id="amis_0005" />
+<seq>
+<audio src="04_Ondersteunde_Formate.mp3" clip-begin="npt=0.000s" clip-end="npt=2.150s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_000d" id="xami_000d" />
+<seq>
+<audio src="04_Ondersteunde_Formate.mp3" clip-begin="npt=2.150s" clip-end="npt=6.079s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_000e" id="xami_000e" />
+<seq>
+<audio src="04_Ondersteunde_Formate.mp3" clip-begin="npt=6.079s" clip-end="npt=9.358s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-afrikaans.html#xami_000f" id="xami_000f" />
+<seq>
+<audio src="04_Ondersteunde_Formate.mp3" clip-begin="npt=9.358s" clip-end="npt=20.851s" id="qwrt_0004" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>
