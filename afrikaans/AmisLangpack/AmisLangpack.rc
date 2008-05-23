@@ -1,0 +1,677 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\AmisGuiMFC2.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_SIDEBAR, DIALOG
+    BEGIN
+        RIGHTMARGIN, 86
+        BOTTOMMARGIN, 181
+    END
+
+    IDD_SEARCHDAISY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 305
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 280
+    END
+
+    IDD_GOTOPAGE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 147
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 66
+    END
+
+    IDD_FIND, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 185
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 71
+    END
+
+    IDD_CDSEARCH, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 246
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 173
+    END
+
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 172
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 115
+    END
+
+    IDD_PUBLICATIONSUMMARY, DIALOG
+    BEGIN
+        LEFTMARGIN, 6
+        RIGHTMARGIN, 315
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 178
+    END
+
+    IDD_OPENURL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 258
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 56
+    END
+
+    IDD_PREFERENCES, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 249
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 216
+    END
+
+    IDD_TEXTSTYLE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 165
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 142
+    END
+
+    IDD_READING_OPTIONS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 229
+        TOPMARGIN, 6
+        BOTTOMMARGIN, 184
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_AMISTYPE MENU 
+BEGIN
+    POPUP "&Lêer"
+    BEGIN
+        MENUITEM "Maak &oop\tCtrl+O", 				ID_AMIS_OPEN_FILE
+        MENUITEM "Maak &BA (bronadres)(URL) oop\tCtrl+b", 			ID_AMIS_OPEN_URL
+        MENUITEM "Maak &toe",                      ID_AMIS_CLOSE_BOOK
+        MENUITEM "&Laai laserskyf\tCtrl+L",            ID_AMIS_LOAD_CD
+        MENUITEM "Soek &deur drywers...",           ID_AMIS_SEARCH_LOCAL_DRIVES
+        MENUITEM SEPARATOR
+        MENUITEM "&Voorkeure...",             ID_AMIS_SHOW_PREFERENCES
+        MENUITEM SEPARATOR
+        POPUP "O&nlangse"
+        BEGIN
+            MENUITEM "Leeg",                       ID_AMIS_RECENT_BOOKS_EMPTY, INACTIVE
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "&Gaan uit\tAlt+F4",               ID_AMIS_EXIT
+    END
+    POPUP "&Aansig"
+    BEGIN
+        MENUITEM "S&ystaaf",                    ID_AMIS_TOGGLE_SIDEBAR, CHECKED
+        MENUITEM "&Basiese aansig\tF11",       ID_AMIS_TOGGLE_VIEW
+        MENUITEM SEPARATOR
+        POPUP "B&ladsy styl"
+        BEGIN
+            MENUITEM "Geen",                        ID_AMIS_NO_PAGE_STYLES, CHECKED
+        END
+        MENUITEM "&Groter font",                ID_AMIS_BIGGER_FONT
+        MENUITEM "&Kleiner font",               ID_AMIS_SMALLER_FONT
+        MENUITEM "&Teks styl...",              ID_AMIS_SHOW_TEXTSTYLE
+    END
+    POPUP "&Speel"
+    BEGIN
+        MENUITEM "&Speel\tSpasie",                ID_AMIS_PLAYPAUSE
+        MENUITEM SEPARATOR
+        MENUITEM "&Ontsnap\tEsc",                ID_AMIS_ESCAPE
+        MENUITEM SEPARATOR
+        MENUITEM "V&inniger\tCtrl++",             ID_AMIS_FASTER
+        MENUITEM "S&tadiger\tCtrl+-",             ID_AMIS_SLOWER
+        MENUITEM "&Normale  spoed\tCtrl+0",       ID_AMIS_RESET_SPEED
+        MENUITEM SEPARATOR
+        MENUITEM "Ver&hoog die volume\tCtrl+Op",   ID_AMIS_INCREASE_VOLUME
+        MENUITEM "Ver&minder die volume\tCtrl+Af", ID_AMIS_DECREASE_VOLUME
+    END
+    POPUP "&Navigeer"
+    BEGIN
+        MENUITEM "Vo&rige afdeling\tOp",       ID_AMIS_PREVIOUS_SECTION
+        MENUITEM "Vo&lgende afdeling\tAf",         ID_AMIS_NEXT_SECTION
+        POPUP "Toon &afdeling diepte"
+        BEGIN
+            MENUITEM "Leeg",                       ID_AMIS_SECTION_DEPTH_EMPTY
+        END
+        MENUITEM SEPARATOR
+        MENUITEM "Vorige frase\tLinks",       ID_AMIS_PREVIOUS_PHRASE
+        MENUITEM "Volgende frase\tRegs",          ID_AMIS_NEXT_PHRASE
+        MENUITEM SEPARATOR
+        MENUITEM "Vorige bladsy\tCtrl+Links",    ID_AMIS_PREVIOUS_PAGE
+        MENUITEM "Volgende bladsy\tCtrl+Regs",       ID_AMIS_NEXT_PAGE
+        MENUITEM "Gaan na bladsy...\tCtrl+G",       ID_AMIS_GOTO_PAGE
+        MENUITEM SEPARATOR
+        MENUITEM "&Vind in teks...\tCtrl+V",       ID_AMIS_FIND_IN_TEXT
+    END
+    POPUP "&Boekmerke"
+    BEGIN
+        MENUITEM "&Maak 'n boekmerk\tCtrl+M",       ID_AMIS_ADD_BOOKMARK
+        MENUITEM SEPARATOR
+    END
+    POPUP "&Informasie"
+    BEGIN
+        MENUITEM "L&ees opsies...",         ID_AMIS_SHOW_READING_OPTIONS
+        MENUITEM "&Publikasie opsomming...",        ID_AMIS_SHOW_PUBLICATION_SUMMARY
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&Inhoud",              ID_AMIS_SHOW_HELP_CONTENTS
+        MENUITEM "Sleutelbord &kortpaaie",         ID_AMIS_SHOW_KEYBOARD_SHORTCUTS
+        MENUITEM "&Aangaande AMIS",                 ID_AMIS_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_SIDEBAR DIALOGEX 0, 0, 175, 183
+STYLE DS_SETFONT | DS_FIXEDSYS | DS_CONTROL | WS_CHILD | WS_VISIBLE | WS_CLIPCHILDREN | WS_BORDER
+FONT 8, "MS Shell Dlg", 0, 0, 0x0
+BEGIN
+    CONTROL         "Tab1",IDC_TAB,"SysTabControl32",TCS_BOTTOM,0,163,175,18
+    CONTROL         "Tree1",IDC_TREE,"SysTreeView32",TVS_HASLINES | TVS_SHOWSELALWAYS | WS_BORDER | WS_TABSTOP,0,0,175,164
+    CONTROL         "List1",IDC_LIST_PAGE,"SysListView32",LVS_LIST | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_SHAREIMAGELISTS | LVS_ALIGNLEFT | LVS_NOCOLUMNHEADER | WS_BORDER | WS_TABSTOP,0,0,175,164
+END
+
+IDD_SEARCHDAISY DIALOGEX 0, 0, 312, 287
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Soek na DAISY boeke"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    LTEXT           "U kan in u rekenaar na DAISY boeke soek. Sleutel 'n baan in of blaai vir die lêer waarna u soek, druk dan Soek om die soektog te begin.",IDC_SEARCHINSTRUCTIONS,7,7,298,30
+    EDITTEXT        IDC_SEARCHPATH,7,39,245,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Blaai...",IDC_BROWSE,260,39,45,13
+    PUSHBUTTON      "&Soektog",IDC_STARTSEARCH,103,63,50,15
+    CTEXT           "Gereed",IDC_SEARCHING,7,92,298,13,NOT WS_VISIBLE
+    LISTBOX         IDC_FILESFOUND,7,105,298,156,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Maak &oop",IDC_OPENBOOK,103,266,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,158,266,50,14
+    PUSHBUTTON      "S&top",IDC_STOPSEARCH,158,63,50,15
+END
+
+IDD_GOTOPAGE DIALOGEX 0, 0, 154, 73
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Gaan na bladsy"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    LTEXT           "Sleutel die nommer of merker van die bladsy waarna toe u wil gaan in:",IDC_GOTOPAGE_CAPTION,7,7,140,20
+    EDITTEXT        IDC_PAGENUM,7,27,86,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "Reg",IDOK,23,52,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,82,52,50,14
+END
+
+IDD_FIND DIALOGEX 0, 0, 192, 78
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Vind in teks"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    LTEXT           "Soek deur die teks van die boek in enige rigting.",IDC_FIND_DESCRIPTION,7,7,178,8
+    EDITTEXT        IDC_SEARCHSTRING,7,22,178,13,ES_AUTOHSCROLL
+    CONTROL         "Vind vorige",IDC_FINDPREVIOUS,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,41,58,10
+    DEFPUSHBUTTON   "Reg",IDOK,42,57,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,99,57,50,14
+END
+
+IDD_CDSEARCH DIALOGEX 0, 0, 253, 180
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Talle boeke gevind"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    LTEXT           "Meer as een boek is gevind op hierdie laserskyf.  Kies asseblief 'n boek uit die onderstaande lys.",IDC_MULTIVOLCD_INSTRUCTIONS,7,7,239,25
+    LISTBOX         IDC_BOOKLIST,7,32,239,125,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "Maak &oop",IDC_OPENBOOK,73,159,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,130,159,50,14
+END
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 179, 122
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Aangaande AMIS"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    ICON            IDI_AMIS,IDC_AMISICON,11,17,21,20
+    LTEXT           "AMIS: Aanpasbare Multimedia Informasie Sisteem",IDC_AMISNAME,40,10,132,31,SS_NOPREFIX
+    LTEXT           "Version 3.0 beta 2",IDC_VERSION,39,44,128,8
+    LTEXT           "Release Date: 14 May 2008",IDC_VERSIONNOTE,40,59,124,11
+    LTEXT           "Copyright (c) 2008 DAISY for All",IDC_COPYRIGHT,40,75,132,16
+    DEFPUSHBUTTON   "Reg",IDOK,65,101,50,14,WS_GROUP
+END
+
+IDD_PUBLICATIONSUMMARY DIALOGEX 0, 0, 322, 186
+STYLE DS_SETFONT | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Publikasie Opsomming"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    LTEXT           "Informasie oor die publikasie en u huidige posisie",IDC_PUBLICATIONSUMMARYCAPTION,6,7,309,17
+    CONTROL         "",IDC_SUMMARYLIST,"SysListView32",LVS_REPORT | LVS_ALIGNLEFT | LVS_NOCOLUMNHEADER | WS_BORDER | WS_TABSTOP,6,25,309,137
+    DEFPUSHBUTTON   "Reg",IDOK,137,164,50,14
+END
+
+IDD_OPENURL DIALOGEX 0, 0, 265, 63
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Open BA "
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Sleutel die BA van die boek wat u wil oop maak in:",IDC_OPENURL_CAPTION,7,7,146,8
+    EDITTEXT        IDC_URL,7,26,251,12,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "Reg",IDOK,79,42,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,133,42,50,14
+END
+
+IDD_PREFERENCES DIALOGEX 0, 0, 256, 223
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Voorkeure"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "Gebruik self-spraak",IDC_ISSELFVOICING,"Button",BS_AUTOCHECKBOX | BS_NOTIFY | WS_TABSTOP,7,7,241,10
+    LTEXT           "Kies TTS stem:",IDC_SELTTSLABEL,7,22,242,8
+    COMBOBOX        IDC_TTSVOICES,7,35,108,88,CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    CONTROL         "Blok die teks terwyl dit hardop gelees word",IDC_HIGHLIGHTTEXT,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,59,242,10
+    CONTROL         "Laai die boek wat u laaste gelees het, met selflaai",IDC_LOADLASTBOOK,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,76,242,10
+    CONTROL         "Begin in basiese aansig modus",IDC_STARTINBASICVIEW,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,94,242,10
+    CONTROL         "Vries oudio wanneer applikasies geruil word ",IDC_PAUSEONLOSTFOCUS,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,112,242,10
+    CONTROL         "Versper die skermbewaarder terwyl gelees word",IDC_DISABLESCREENSAVER,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,130,242,10
+    LTEXT           "U gebruik tans AMIS in: ",IDC_CURRLANG,7,153,242,8
+    COMBOBOX        IDC_INSTALLEDLANGUAGES,7,166,108,88,CBS_DROPDOWNLIST | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    ICON            IDI_LANGICON,IDC_LANGICON,127,164,20,20
+    DEFPUSHBUTTON   "Reg",IDOK,57,202,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,112,202,50,14
+END
+
+IDD_TEXTSTYLE DIALOGEX 0, 0, 172, 149
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Teks styl"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Systaaf font:",IDC_FONTLABEL,7,7,155,12
+    COMBOBOX        IDC_FONT,7,20,155,63,CBS_DROPDOWN | CBS_SORT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Geblokte teks kleur:",IDC_HIGHLIGHTFOREGROUNDLABEL,7,45,155,11
+    COMBOBOX        IDC_HIGHLIGHTFOREGROUND,7,57,155,63,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Geblokte agtergrond kleur:",IDC_HIGHLIGHTBACKGROUNDLABEL,7,83,156,8
+    COMBOBOX        IDC_HIGHLIGHTBACKGROUND,7,98,156,52,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   "Reg",IDOK,30,128,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,94,128,50,14
+END
+
+IDD_READING_OPTIONS DIALOGEX 0, 0, 236, 191
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Lees Opsies"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Hierdie boek bevat die volgende spesiale tipe items. Gemerkte items sal gespeel word. Ongemerkte items sal oorgeslaan word.",IDC_READING_OPTIONS_INSTRUCTIONS,7,6,222,26
+    LISTBOX         IDC_OPTIONS_LIST,7,33,222,134,LBS_OWNERDRAWFIXED | LBS_HASSTRINGS | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    DEFPUSHBUTTON   "Reg",IDOK,65,170,50,14
+    PUSHBUTTON      "&Kanselleer",IDCANCEL,121,170,50,14
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BOOKSHELFMAG        BITMAP                  "bookshelfmag.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,4,0,0
+ PRODUCTVERSION 2,4,0,0
+ FILEFLAGSMASK 0x37L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "FileDescription", "AMIS (Adaptive Multimedia Information System)"
+            VALUE "FileVersion", "3, 0, 0, 0"
+            VALUE "InternalName", "AMIS"
+            VALUE "LegalCopyright", "Copyright (C) 2008"
+            VALUE "OriginalFilename", "AMIS.exe"
+            VALUE "ProductName", "AMIS (Adaptive Multimedia Information System)"
+            VALUE "ProductVersion", "3, 0, 0, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_AMIS                ICON                    "amis.ico"
+IDI_LANGICON            ICON                    "flag.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_AMISTYPE ACCELERATORS 
+BEGIN
+    "M",            ID_AMIS_ADD_BOOKMARK, VIRTKEY, CONTROL, NOINVERT
+    "Q",            ID_AMIS_DECREASE_SECTION_DEPTH, VIRTKEY, CONTROL, NOINVERT
+    VK_DOWN,        ID_AMIS_DECREASE_VOLUME, VIRTKEY, CONTROL, NOINVERT
+    VK_DOWN,        ID_AMIS_DECREASE_UI_VOLUME, VIRTKEY, SHIFT, CONTROL, NOINVERT
+    VK_ESCAPE,      ID_AMIS_ESCAPE,         VIRTKEY, NOINVERT
+    VK_F4,          ID_AMIS_EXIT,  VIRTKEY, ALT, NOINVERT
+    VK_ADD,         ID_AMIS_FASTER,         VIRTKEY, CONTROL, NOINVERT
+    VK_OEM_PLUS,    ID_AMIS_FASTER,         VIRTKEY, CONTROL, NOINVERT
+    "V",            ID_AMIS_FIND_IN_TEXT,   VIRTKEY, CONTROL, NOINVERT
+    VK_F3,          ID_AMIS_FIND_NEXT_IN_TEXT, VIRTKEY, NOINVERT
+    VK_F3,          ID_AMIS_FIND_PREVIOUS_IN_TEXT, VIRTKEY, SHIFT, NOINVERT
+    "Y",            ID_AMIS_FOCUS_ON_SIDEBAR, VIRTKEY, CONTROL, NOINVERT
+    "T",            ID_AMIS_FOCUS_ON_TEXT,  VIRTKEY, CONTROL, NOINVERT
+    "G",            ID_AMIS_GOTO_PAGE,      VIRTKEY, CONTROL, NOINVERT
+    "P",            ID_AMIS_INCREASE_SECTION_DEPTH, VIRTKEY, CONTROL, NOINVERT
+    VK_UP,          ID_AMIS_INCREASE_VOLUME, VIRTKEY, CONTROL, NOINVERT
+    VK_UP,          ID_AMIS_INCREASE_UI_VOLUME, VIRTKEY, SHIFT, CONTROL, NOINVERT
+    "L",            ID_AMIS_LOAD_CD,        VIRTKEY, CONTROL, NOINVERT
+    VK_RIGHT,       ID_AMIS_NEXT_PAGE,      VIRTKEY, CONTROL, NOINVERT
+    VK_RIGHT,       ID_AMIS_NEXT_PHRASE,    VIRTKEY, NOINVERT
+    VK_DOWN,        ID_AMIS_NEXT_SECTION,   VIRTKEY, NOINVERT
+    "O",            ID_AMIS_OPEN_FILE,      VIRTKEY, CONTROL, NOINVERT
+    "B",            ID_AMIS_OPEN_URL,       VIRTKEY, CONTROL, NOINVERT
+    VK_SPACE,       ID_AMIS_PLAYPAUSE,      VIRTKEY, NOINVERT
+    VK_LEFT,        ID_AMIS_PREVIOUS_PAGE,  VIRTKEY, CONTROL, NOINVERT
+    VK_LEFT,        ID_AMIS_PREVIOUS_PHRASE, VIRTKEY, NOINVERT
+    VK_UP,          ID_AMIS_PREVIOUS_SECTION, VIRTKEY, NOINVERT
+    "H",            ID_AMIS_RESET_HIGHLIGHT_COLORS, VIRTKEY, SHIFT, CONTROL, NOINVERT
+    "0",            ID_AMIS_RESET_SPEED,    VIRTKEY, CONTROL, NOINVERT
+    VK_F1,          ID_AMIS_SHOW_HELP_CONTENTS, VIRTKEY, NOINVERT
+    VK_OEM_MINUS,   ID_AMIS_SLOWER,         VIRTKEY, CONTROL, NOINVERT
+    VK_SUBTRACT,    ID_AMIS_SLOWER,         VIRTKEY, CONTROL, NOINVERT
+    "F",            ID_AMIS_TOGGLE_AUDIO_CONTENT_PLAYBACK, VIRTKEY, SHIFT, CONTROL, NOINVERT
+    "S",            ID_AMIS_TOGGLE_AUDIO_SELFVOICING_PLAYBACK, VIRTKEY, SHIFT, CONTROL, NOINVERT
+    VK_F11,         ID_AMIS_TOGGLE_VIEW,    VIRTKEY, NOINVERT
+    VK_DOWN,        ID_AMIS_DECREASE_CONTENT_VOLUME, VIRTKEY, SHIFT, CONTROL, ALT, NOINVERT
+    VK_UP,          ID_AMIS_INCREASE_CONTENT_VOLUME, VIRTKEY, SHIFT, CONTROL, ALT, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDR_MAINFRAME           "AMIS"
+    IDR_AMISTYPE            "\nAMIS\nAMIS\nAMIS\n"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "AMIS"
+    AFX_IDS_IDLEMESSAGE     "Gereed"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+    AFX_IDS_MDICHILD        "Activate this window"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_PROPSHT_CAPTION     "NOT USED (said Preferences)"
+    IDS_META_TITLE          "Titel:"
+    IDS_META_AUTHOR         "Outeur:"
+    IDS_META_PUBLISHER      "Publiseerder:"
+    IDS_META_DESCRIPTION    "Beskrywing:"
+    IDS_META_NARRATOR       "Verteller:"
+    IDS_META_TOTAL_DURATION "Totale duur:"
+    IDS_META_TOTAL_PAGES    "Totale bladsye:"
+    IDS_META_DATE           "Datum:"
+    IDS_META_FORMAT         "Formaat:"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_SELFOLDER_TITLE     "Kies 'n lêer"
+    IDS_SELFOLDER_INSTR     "Kies 'n lêer uit die gids hieronder."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_FOLDERDOESNOTEXIST  "Die lêer %s bestaan nie. Moet die lêer geskep word?"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_FOLDERINVALID       "Hierdie lêer naam is ongeldig. Kies asseblief 'n ander een."
+    IDS_FOLDERCANTBECREATED "Hierdie lêer kan nie geskep word nie.  Gaan asseblief weer na."
+    IDS_FILE_OPEN_DAISY_BOOKS "DAISY Boeke"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_AMIS_BIGGER_FONT     "Geleidelik vergroot die font grootte."
+    ID_AMIS_SMALLER_FONT    "Geleidelik verklein die font grootte."
+    ID_AMIS_PLAYPAUSE       "Begin of vries die gesinkroniseerde terugspeel."
+    ID_AMIS_ESCAPE          "Spring uit die huidige speelende item of struktuur."
+    ID_AMIS_FASTER          "Verhoog die terugspeel spoed."
+    ID_AMIS_SLOWER          "Verminder die terugspeel spoed."
+    ID_AMIS_RESET_SPEED     "Herstel die terugspeel spoed na normaal."
+    ID_AMIS_INCREASE_VOLUME "Verhoog die volume geleidelik."
+    ID_AMIS_DECREASE_VOLUME "Verminder  die volume geleidelik."
+    ID_AMIS_PREVIOUS_SECTION "Gaan na die vorige afdeling."
+    ID_AMIS_NEXT_SECTION    "Gaan na die volgende afdeling."
+    ID_AMIS_PREVIOUS_PHRASE "Gaan na die vorige frase."
+    ID_AMIS_NEXT_PHRASE     "Gaan na die volgende frase."
+    ID_AMIS_PREVIOUS_PAGE   "Gaan na die vorige bladsy."
+END
+
+STRINGTABLE 
+BEGIN
+    ID_AMIS_NEXT_PAGE       "Gaan na die volgende bladsy."
+    ID_AMIS_GOTO_PAGE       "Gaan na 'n spesifieke bladsy."
+    ID_AMIS_FIND_IN_TEXT    "Soek vir 'n woord of frase in die teks."
+    ID_AMIS_ADD_BOOKMARK    "Boekmerk jou huidige posisie."
+    ID_AMIS_SHOW_READING_OPTIONS 
+                            "Kyk na die lees opsies vir hierdie publikasie."
+    ID_AMIS_SHOW_PUBLICATION_SUMMARY 
+                            "Kyk na die informasie oor hierdie publikasie."
+    ID_AMIS_SHOW_HELP_CONTENTS "Kry hulp deur AMIS te gebruik "
+    ID_AMIS_ABOUT           "Vind uit oor AMIS en DAISY-vir-almal."
+END
+
+STRINGTABLE 
+BEGIN
+    ID_AMIS_OPEN_FILE       "Maak 'n DAISY boek oop vanaf die plaaslike lêer sisteem"
+    ID_AMIS_CLOSE_BOOK      "Maak die DAISY publikasie toe"
+    ID_AMIS_LOAD_CD         "Laai 'n DAISY boek van die cd drywer af"
+    ID_AMIS_SEARCH_LOCAL_DRIVES "Soek deur plaaslike drywers vir DAISY boeke"
+    ID_AMIS_SHOW_PREFERENCES "Hierdie is die applikasie voorkeure dialoog."
+    ID_AMIS_EXIT            "Gaan uit AMIS"
+    ID_AMIS_TOGGLE_SIDEBAR  "Skakel die systaaf aan of af."
+    ID_AMIS_TOGGLE_VIEW     "Verander die aansig na basiese modus."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_META_FEATURES       "Kenmerke:"
+    IDS_META_CURRENT_PAGE   "Huidige bladsy:"
+    IDS_META_CURRENT_SECTION "Huidige afdeling:"
+    IDS_META_MAX_SECTION_DEPTH "Maks. afdeling diepte:"
+    IDS_META_TOC_ENTRIES    "Totale TOC(tabel van inhoud) items: "
+    IDS_META_SECTION_CONTENTS_LIST "%d onderafdelings,  %d bladsye "
+    IDS_META_SECTION_CONTENTS "Afdeling inhoud: "
+    IDS_NOT_AVAILABLE       "Nie beskikbaar"
+    IDS_SEARCHING           "Besig om te soek..."
+    IDS_SEARCH_STOPPED      "Soektog gestop."
+    IDS_NO_FILES_FOUND      "Soektog voltooi: geen lêers gevind."
+    IDS_ONE_FILE_FOUND      "Soektog voltooi: een lêer gevind."
+    IDS_FILES_FOUND         "%d lêers is gevind. "
+    IDS_NO_BOOKS_ON_CD      "Geen DAISY boeke is gevind op hierdie cd-drywer."
+    IDS_PLEASE_RESTART      "Begin asseblief oor om die taal van AMIS te verander."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_ERROR_OPENING_RELOADING 
+                            "Die boek kon nie oopgemaak word nie.  AMIS sal jou vorige boek weer oop maak."
+    IDS_ERROR_OPENING       "Die boek kon nie oopgemaak word nie."
+    IDS_NAVIGATION          "Navigasie"
+    IDS_SECTIONS            "Afdelings"
+    IDS_PAGES               "Bladsye"
+    IDS_FOOTNOTES           "Voetnotas"
+    IDS_PRODUCER_NOTES      "Vervaardiger notas"
+    IDS_SIDEBARS            "Systawe"
+    IDS_GROUPED_ITEMS       "Gegroepeerde items"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\AmisLangpack.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
+
