@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<moduleDesc xmlns="http://amisproject.org" id="eng-US" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
+<moduleDesc xmlns="http://amisproject.org" id="afr-ZA" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
 	<label>
-			<text>U.S. English</text>
+			<text>Afrikaans</text>
 			<audio src="./thislang.mp3"/>
 			<image src="./flag.ico"/>
 	</label>
