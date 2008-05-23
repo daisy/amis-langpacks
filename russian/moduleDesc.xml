@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<moduleDesc xmlns="http://amisproject.org" id="rus-KZ" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
+	<label>
+			<text>Русский язык (Russian)</text>
+			<audio src="./thislang.mp3"/>
+			<image src="./flag.ico"/>
+	</label>
+</moduleDesc>
