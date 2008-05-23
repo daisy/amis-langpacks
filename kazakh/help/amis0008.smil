@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="&#1050;&#1110;&#1090;&#1072;&#1087;&#1090;&#1099; &#1072;&#1096;&#1091;" />
+<meta name="dc:title" content="AMIS User Guide" />
+<meta name="ncc:timeInThisSmil" content="0:00:23" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="22.737s">
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#amis_0009" id="amis_0009" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=0.000s" clip-end="npt=1.078s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0021" id="xami_0021" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=1.078s" clip-end="npt=7.816s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0022" id="xami_0022" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=7.816s" clip-end="npt=8.848s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0023" id="xami_0023" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=8.848s" clip-end="npt=11.846s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0024" id="xami_0024" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=11.846s" clip-end="npt=14.103s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0025" id="xami_0025" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=14.103s" clip-end="npt=18.531s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0026" id="xami_0026" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=18.531s" clip-end="npt=20.422s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0027" id="xami_0027" />
+<seq>
+<audio src="08__.mp3" clip-begin="npt=20.422s" clip-end="npt=22.737s" id="qwrt_0008" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="DAISY &#1076;&#1077;&#1075;&#1077;&#1085;&#1110;&#1084;&#1110;&#1079; &#1085;&#1077;?" />
+<meta name="dc:title" content="AMIS User Guide" />
+<meta name="ncc:timeInThisSmil" content="0:01:27" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="87.052s">
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#amis_0004" id="amis_0004" />
+<seq>
+<audio src="03_DAISY__.mp3" clip-begin="npt=0.000s" clip-end="npt=1.436s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0008" id="xami_0008" />
+<seq>
+<audio src="03_DAISY__.mp3" clip-begin="npt=1.436s" clip-end="npt=26.938s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0009" id="xami_0009" />
+<seq>
+<audio src="03_DAISY__.mp3" clip-begin="npt=26.938s" clip-end="npt=45.994s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_000a" id="xami_000a" />
+<seq>
+<audio src="03_DAISY__.mp3" clip-begin="npt=45.994s" clip-end="npt=63.902s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_000b" id="xami_000b" />
+<seq>
+<audio src="03_DAISY__.mp3" clip-begin="npt=63.902s" clip-end="npt=78.776s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_000c" id="xami_000c" />
+<seq>
+<audio src="03_DAISY__.mp3" clip-begin="npt=78.776s" clip-end="npt=87.052s" id="qwrt_0006" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

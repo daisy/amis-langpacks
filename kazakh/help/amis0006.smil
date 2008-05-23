@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="&#1069;&#1082;&#1088;&#1072;&#1085;&#1085;&#1099;&#1187; &#1086;&#1088;&#1085;&#1072;&#1083;&#1072;&#1089;&#1091;&#1099;" />
+<meta name="dc:title" content="AMIS User Guide" />
+<meta name="ncc:timeInThisSmil" content="0:01:49" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="109.087s">
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#amis_0007" id="amis_0007" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=0.000s" clip-end="npt=1.703s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0017" id="xami_0017" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=1.703s" clip-end="npt=17.328s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0018" id="xami_0018" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=17.328s" clip-end="npt=27.309s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_0019" id="xami_0019" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=27.309s" clip-end="npt=29.561s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_001a" id="xami_001a" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=29.561s" clip-end="npt=50.737s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_001b" id="xami_001b" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=50.737s" clip-end="npt=53.439s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_001c" id="xami_001c" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=53.439s" clip-end="npt=79.612s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_001d" id="xami_001d" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=79.612s" clip-end="npt=81.744s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_001e" id="xami_001e" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=81.744s" clip-end="npt=107.411s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-kazakh-entity.html#xami_001f" id="xami_001f" />
+<seq>
+<audio src="06__.mp3" clip-begin="npt=107.411s" clip-end="npt=109.087s" id="qwrt_000A" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>
