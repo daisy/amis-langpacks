@@ -1,0 +1,383 @@
+[Tags]
+1=h1.title
+2=h1
+3=h2
+4=h3
+5=h4
+6=h5
+7=h6
+8=span.page-normal
+9=span.page-front
+10=span.page-special
+11=p
+12=div
+13=span
+14=span.sidebar
+15=span.noteref
+16=span.optional-prodnote
+17=div.group
+18=li
+19=dt
+20=dd
+21=address
+22=abbr
+23=acronym
+24=blockquote
+25=cite
+26=code
+27=dfn
+28=kbd
+29=pre
+30=q
+31=samp
+32=var
+33=caption
+34=td
+35=th
+36=div.notebody
+37=div.continued
+38=strong
+39=span.notice
+40=span.sentence
+41=span.image
+[h1.title]
+Desc=Daisy 2.02 Title
+Name=h1
+Class=title
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=1
+ID=Yes
+[h1]
+Desc=xhtml heading level 1
+Name=h1
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=1
+ID=Yes
+[h2]
+Desc=xhtml heading level 2
+Name=h2
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=2
+ID=Yes
+[h3]
+Desc=xhtml heading level 3
+Name=h3
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=3
+ID=Yes
+[h4]
+Desc=xhtml heading level 4
+Name=h4
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=4
+ID=Yes
+[h5]
+Desc=xhtml heading level 5
+Name=h5
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=5
+ID=Yes
+[h6]
+Desc=xhtml heading level 6
+Name=h6
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=6
+ID=Yes
+[span.page-normal]
+Desc=Daisy 2.02 normal page
+Name=span
+Class=page-normal
+NCC=Yes
+LinkBack=Yes
+Nested=Yes
+Level=0
+ID=Yes
+[span.page-front]
+Desc=Daisy 2.02 front page
+Name=span
+Class=page-front
+NCC=Yes
+LinkBack=Yes
+Nested=Yes
+Level=0
+ID=Yes
+[span.page-special]
+Desc=Daisy 2.02 special page
+Name=span
+Class=page-special
+NCC=Yes
+LinkBack=Yes
+Nested=Yes
+Level=0
+ID=Yes
+[p]
+Desc=xhtml paragraph
+Name=p
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[div]
+Desc=xhtml generic language/style container
+Name=div
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[span]
+Desc=xhtml generic language/style container
+Name=span
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes
+[span.sidebar]
+Desc=Daisy 2.02 sidebar
+Name=span
+Class=sidebar
+NCC=Yes
+LinkBack=Yes
+Nested=Yes
+Level=0
+ID=Yes
+[span.noteref]
+Desc=Daisy 2.02 footnote reference
+Name=span
+Class=noteref
+NCC=Yes
+LinkBack=Yes
+Nested=Yes
+Level=0
+ID=Yes
+[span.optional-prodnote]
+Desc=Daisy 2.02 producers note
+Name=span
+Class=optional-prodnote
+NCC=Yes
+LinkBack=Yes
+Nested=Yes
+Level=0
+ID=Yes
+[div.group]
+Desc=Daisy 2.02 group
+Name=div
+Class=group
+NCC=Yes
+LinkBack=Yes
+Nested=No
+Level=0
+ID=Yes
+[li]
+Desc=xhtml list item
+Name=li
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[dt]
+Desc=xhtml definition term
+Name=dt
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[dd]
+Desc=xhtml definition
+Name=dd
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[address]
+Desc=xhtml information on author
+Name=address
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[abbr]
+Desc=xhtml abbreviation
+Name=abbr
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[acronym]
+Desc=xhtml acronym
+Name=acronym
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[blockquote]
+Desc=xhtml block-like quotes
+Name=blockquote
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[cite]
+Desc=xhtml citation
+Name=cite
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[code]
+Desc=xhtml program code
+Name=code
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[dfn]
+Desc=xhtml definitional
+Name=dfn
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[kbd]
+Desc=xhtml user keyboard input
+Name=kbd
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes
+[pre]
+Desc=xhtml preformatted text
+Name=pre
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[q]
+Desc=xhtml inlined quote
+Name=q
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes
+[samp]
+Desc=xhtml sample
+Name=samp
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[var]
+Desc=xhtml variable
+Name=var
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes
+[caption]
+Desc=xhtml table caption
+Name=caption
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[td]
+Desc=xhtml table (cell) data
+Name=td
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[th]
+Desc=xhtml table header
+Name=th
+NCC=No
+LinkBack=Yes
+Nested=No
+Level=0
+ID=Yes
+[div.notebody]
+Desc=footnote body
+Name=div
+Class=notebody
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes
+[div.continued]
+Desc=DAISY 2.02 NCC only books
+Name=div
+Class=continued
+NCC=No
+LinkBack=No
+Nested=No
+Level=0
+ID=Yes
+[strong]
+Desc=xhtml strong
+Name=strong
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes
+[span.notice]
+Desc=DAISY 2.02 non skippable sidebar
+Name=span
+Class=notice
+NCC=No
+LinkBack=Yes
+Nested=Yes
+Level=0
+ID=Yes
+[span.sentence]
+Desc=sentence
+Name=span
+Class=sentence
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes
+[span.image]
+Desc=image
+Name=span
+Class=image
+NCC=No
+LinkBack=No
+Nested=Yes
+Level=0
+ID=Yes

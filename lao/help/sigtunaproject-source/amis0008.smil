@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+    <meta name="ncc:generator" content="LpStudioGen 1.6" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:title" content="AMIS User Guide" />
+    <meta name="ncc:totalElapsedTime" content="00:00:00" />
+    <meta name="ncc:timeInThisSmil" content="00:00:00" />
+    <layout>
+        <region id="txtView" />
+    </layout>
+</head>
+<body>
+    <seq dur="0.000s">
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#amis_0009" id="amis_0009" />
+        </par>
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#xami_0019" id="xami_0019" />
+        </par>
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#xami_001a" id="xami_001a" />
+        </par>
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#xami_001b" id="xami_001b" />
+        </par>
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#xami_001c" id="xami_001c" />
+        </par>
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#xami_001d" id="xami_001d" />
+        </par>
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#xami_001e" id="xami_001e" />
+        </par>
+        <par endsync="last">
+            <text src="amishelp-lao-entity.html#xami_001f" id="xami_001f" />
+        </par>
+    </seq>
+</body>
+</smil>

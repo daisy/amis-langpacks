@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat kaz-KZ  ..\..\..\langpacks\kazakh ..\..\..\amis\bin\settings\lang debug"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat lao-LA  ..\..\..\langpacks\lao ..\..\..\amis\bin\settings\lang debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat kaz-KZ  ..\..\..\langpacks\kazakh ..\..\..\amis\bin\settings\lang release"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat lao-LA  ..\..\..\langpacks\lao ..\..\..\amis\bin\settings\lang release"
 			/>
 		</Configuration>
 	</Configurations>

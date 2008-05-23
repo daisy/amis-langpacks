@@ -4,18 +4,18 @@
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
             <caption>
-                <text id="t1">Lêer</text>
+                <text id="t1">Фаил</text>
                 <audio from="" src="./audio/aud1.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_OPEN_FILE" widget="menuItem toolbarItem">
                 <note>This is going to be a menu item and a toolbar item</note>
                 <icon src="./open.png" type="smallIcon"/>
                 <caption>
-                    <text id="t2">Maak oop</text>
+                    <text id="t2">... нээх</text>
                     <audio from="" src="./audio/aud2.mp3"/>
                 </caption>
                 <description>
-                    <text id="t3">Maak 'n DAISY boek oop vanaf die plaaslike lêer sisteem</text>
+                    <text id="t3">Локал фаил системээс DAISY-гийн номыг нээх</text>
                     <audio from="" src="./audio/aud3.mp3"/>
                 </description>
                 <!--keys = the actual keys; text = the name of the keys-->
@@ -32,19 +32,19 @@
                 <note>This is going to be a menu item</note>
                 <icon src="./open.png" type="smallIcon"/>
                 <caption>
-                    <text id="t327">Maak BA (bronadres)(URL) oop</text>
+                    <text id="t327">...г интернетээс нээх</text>
                     <audio from="" src="./audio/aud6.mp3"/>
                 </caption>
                 <description>
-                    <text id="t328">Maak 'n DAISY publikasie deur 'n BA oop</text>
+                    <text id="t328">DAISY-гийн номыг интернетээс нээх</text>
                     <audio from="" src="./audio/aud7.mp3"/>
                 </description>
-                <accelerator keys="Ctrl+B">
-                    <text id="t329">Ctrl+b</text>
+                <accelerator keys="Ctrl+U">
+                    <text id="t329">Ctrl+U</text>
                     <audio from="" src="./audio/aud8.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t330">b</text>
+                    <text id="t330">U</text>
                     <audio from="" src="./audio/aud9.mp3"/>
                 </mnemonic>
             </action>
@@ -52,15 +52,15 @@
                 <note>This is going to be a menu item</note>
                 <icon src="./close.png" type="smallIcon"/>
                 <caption>
-                    <text id="t331">Maak toe</text>
+                    <text id="t331">Хаах</text>
                     <audio from="" src="./audio/aud10.mp3"/>
                 </caption>
                 <description>
-                    <text id="t332">Maak die DAISY publikasie toe</text>
+                    <text id="t332">DAISY номыг хаах</text>
                     <audio from="" src="./audio/aud11.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t333">t</text>
+                    <text id="t333">C</text>
                     <audio from="" src="./audio/aud12.mp3"/>
                 </mnemonic>
             </action>
@@ -69,11 +69,11 @@
                 <icon src="./settings/img/cd3.ico" type="smallIcon"/>
                 <icon src="./settings/img/cd_big.ico" type="largeIcon"/>
                 <caption>
-                    <text id="t6">Laai laserskyf</text>
+                    <text id="t6">CD/диск/-г уншуулах ба ачааллах</text>
                     <audio from="" src="./audio/aud13.mp3"/>
                 </caption>
                 <description>
-                    <text id="t7">Laai 'n DAISY boek van die cd drywer af</text>
+                    <text id="t7">DAISY номыг CD ROM-с уншуулах</text>
                     <audio from="" src="./audio/aud14.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+L">
@@ -88,48 +88,48 @@
             <action mfcid="ID_AMIS_SEARCH_LOCAL_DRIVES" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t10">Soek deur drywers...</text>
+                    <text id="t10">драиверуудыг хайх</text>
                     <audio from="" src="./audio/aud17.mp3"/>
                 </caption>
                 <description>
-                    <text id="t11">Soek deur plaaslike drywers vir DAISY boeke</text>
+                    <text id="t11">Local drive-с DAISY номуудыг хайх</text>
                     <audio from="" src="./audio/aud18.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t12">d</text>
+                    <text id="t12">S</text>
                     <audio from="" src="./audio/aud19.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_PREFERENCES" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t13">Voorkeure...</text>
+                    <text id="t13">Тохиргооны цонх</text>
                     <audio from="" src="./audio/aud20.mp3"/>
                 </caption>
                 <description>
-                    <text id="t14">Hierdie is die applikasie voorkeure dialoog.</text>
+                    <text id="t14">Энэ бол тохиргооны диалог цонх юм.</text>
                     <audio from="" src="./audio/aud21.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t15">v</text>
+                    <text id="t15">P</text>
                     <audio from="" src="./audio/aud22.mp3"/>
                 </mnemonic>
             </action>
             <container id="recentBooksList">
                 <note>This is the menu header for the recent books sub-menu.</note>
                 <caption>
-                    <text id="t16">Onlangse</text>
+                    <text id="t16">Одоо</text>
                     <audio from="" src="./audio/aud23.mp3"/>
                 </caption>
                 <switch element="action">
                     <action condition="ID_AMIS_RECENT_BOOKS_EMPTY" mfcid="ID_AMIS_RECENT_BOOKS_EMPTY" widget="menuItem">
                         <note>This is going to be a menu item</note>
                         <caption>
-                            <text id="t17">Leeg</text>
+                            <text id="t17">Хоосон</text>
                             <audio from="" src="./audio/aud24.mp3"/>
                         </caption>
                         <description>
-                            <text id="t18">Daar is geen onlangse geleesde boeke nie.</text>
+                            <text id="t18">Одоогоор уншиж буй ном алга байна.</text>
                             <audio from="" src="./audio/aud25.mp3"/>
                         </description>
                     </action>
@@ -143,18 +143,18 @@
                     </action>
                 </switch>
                 <mnemonic>
-                    <text id="t19">n</text>
+                    <text id="t19">R</text>
                     <audio from="" src="./audio/aud26.mp3"/>
                 </mnemonic>
             </container>
             <action mfcid="ID_AMIS_EXIT" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t20">Gaan uit</text>
+                    <text id="t20">Гарах</text>
                     <audio from="" src="./audio/aud27.mp3"/>
                 </caption>
                 <description>
-                    <text id="t21">Gaan uit AMIS</text>
+                    <text id="t21">AMIS-с гарах</text>
                     <audio from="" src="./audio/aud28.mp3"/>
                 </description>
                 <accelerator keys="Alt+F4">
@@ -162,7 +162,7 @@
                     <audio from="" src="./audio/aud29.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t23">g</text>
+                    <text id="t23">x</text>
                     <audio from="" src="./audio/aud30.mp3"/>
                 </mnemonic>
             </action>
@@ -171,39 +171,39 @@
                 <audio from="" src="./audio/aud31.mp3"/>
             </accelerator>
             <mnemonic>
-                <text id="t25">l</text>
+                <text id="t25">F</text>
                 <audio from="" src="./audio/aud32.mp3"/>
             </mnemonic>
         </container>
         <container id="view">
             <note>This is the menu header &quot;View&quot;</note>
             <caption>
-                <text id="t26">Aansig</text>
+                <text id="t26">/вью/ үзэгдэц </text>
                 <audio from="" src="./audio/aud33.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_TOGGLE_SIDEBAR" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t27">Systaaf</text>
+                    <text id="t27">Саидбар</text>
                     <audio from="" src="./audio/aud34.mp3"/>
                 </caption>
                 <description>
-                    <text id="t28">Skakel die systaaf aan of af.</text>
+                    <text id="t28">саидбарыг нээх хаах</text>
                     <audio from="" src="./audio/aud35.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t29">y</text>
+                    <text id="t29">S</text>
                     <audio from="" src="./audio/aud36.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_TOGGLE_VIEW" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t30">Basiese aansig</text>
+                    <text id="t30">Ерөнхий вью буюу үзэгдэц</text>
                     <audio from="" src="./audio/aud37.mp3"/>
                 </caption>
                 <description>
-                    <text id="t31">Verander die aansig na basiese modus.</text>
+                    <text id="t31">Вью менюг үндсэн байдалд оруулах</text>
                     <audio from="" src="./audio/aud38.mp3"/>
                 </description>
                 <accelerator keys="F11">
@@ -218,13 +218,13 @@
             <container id="pageStylesList">
                 <note>This is the menu header for the list of styles available for this page.</note>
                 <caption>
-                    <text id="t334">Bladsy styl</text>
+                    <text id="t334">Хуудсаны стиль</text>
                     <audio from="" src="./audio/aud41.mp3"/>
                 </caption>
                 <action mfcid="ID_AMIS_NO_PAGE_STYLES" widget="menuItem">
                     <note>This is going to be a menu item</note>
                     <caption>
-                        <text id="t335">Geen</text>
+                        <text id="t335">Гүйцэтгэсэнгүй</text>
                         <audio from="" src="./audio/aud42.mp3"/>
                     </caption>
                 </action>
@@ -237,7 +237,7 @@
                     </list>
                 </action>
                 <mnemonic>
-                    <text id="t336">l</text>
+                    <text id="t336">P</text>
                     <audio from="" src="./audio/aud43.mp3"/>
                 </mnemonic>
             </container>
@@ -245,11 +245,11 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/font.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t38">Groter font</text>
+                    <text id="t38">Томовтор үсгийн фонт</text>
                     <audio from="" src="./audio/aud44.mp3"/>
                 </caption>
                 <description>
-                    <text id="t39">Geleidelik vergroot die font grootte.</text>
+                    <text id="t39">Үсгийн фонтыг аажмаар томосгох</text>
                     <audio from="" src="./audio/aud45.mp3"/>
                 </description>
                 <mnemonic>
@@ -261,26 +261,26 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/font.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t337">Kleiner font</text>
+                    <text id="t337">Багавтар үсгийн фонт</text>
                     <audio from="" src="./audio/aud47.mp3"/>
                 </caption>
                 <description>
-                    <text id="t338">Geleidelik verklein die font grootte.</text>
+                    <text id="t338">Үсгийн фонтыг аажмаар багасгах</text>
                     <audio from="" src="./audio/aud48.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t339">k</text>
+                    <text id="t339">M</text>
                     <audio from="" src="./audio/aud49.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_TEXTSTYLE" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t340">Teks styl...</text>
+                    <text id="t340">...н текстын стиль</text>
                     <audio from="" src="./audio/aud50.mp3"/>
                 </caption>
                 <description>
-                    <text id="t341">Verander die teks styl eienskappe.</text>
+                    <text id="t341">Текст стилийн тохиргоог өөрчилөх. </text>
                     <audio from="" src="./audio/aud51.mp3"/>
                 </description>
                 <mnemonic>
@@ -302,14 +302,14 @@
                 <audio from="" src="./audio/aud53.mp3"/>
             </accelerator>
             <mnemonic>
-                <text id="t45">a</text>
+                <text id="t45">V</text>
                 <audio from="" src="./audio/aud54.mp3"/>
             </mnemonic>
         </container>
         <container id="play">
             <note>This is the menu header &quot;Play&quot;</note>
             <caption>
-                <text id="t46">Speel</text>
+                <text id="t46">Уншуулах/тоглуулах</text>
                 <audio from="" src="./audio/aud55.mp3"/>
             </caption>
             <switch element="action">
@@ -318,19 +318,19 @@
                     <icon src="./settings/img/play-big.ico" type="smallIcon"/>
                     <icon src="./settings/img/play_big.ico" type="largeIcon"/>
                     <caption>
-                        <text id="t47">Speel</text>
+                        <text id="t47">Уншуулах/тоглуулах</text>
                         <audio from="" src="./audio/aud56.mp3"/>
                     </caption>
                     <description>
-                        <text id="t48">Begin of vries die gesinkroniseerde terugspeel.</text>
+                        <text id="t48">Тоглуулагчыг эхлүүлэх түр зогсоох </text>
                         <audio from="" src="./audio/aud57.mp3"/>
                     </description>
                     <accelerator keys="Space">
-                        <text id="t49">Spasie</text>
+                        <text id="t49">Спэис</text>
                         <audio from="" src="./audio/aud58.mp3"/>
                     </accelerator>
                     <mnemonic>
-                        <text id="t50">s</text>
+                        <text id="t50">P</text>
                         <audio from="" src="./audio/aud59.mp3"/>
                     </mnemonic>
                 </action>
@@ -339,19 +339,19 @@
                     <icon src="./settings/img/pause.ico" type="smallIcon"/>
                     <icon src="./settings/img/pause_big.ico" type="largeIcon"/>
                     <caption>
-                        <text id="t51">Vries</text>
+                        <text id="t51">Түр зогсоох</text>
                         <audio from="" src="./audio/aud60.mp3"/>
                     </caption>
                     <description>
-                        <text id="t52">Begin of vries terugspeel van hierdie DAISY boek.</text>
+                        <text id="t52">DAISY ноины тоглуулагчыг эхлүүлэх түр зогсоох</text>
                         <audio from="" src="./audio/aud61.mp3"/>
                     </description>
                     <accelerator keys="Space">
-                        <text id="t53">Spasie</text>
+                        <text id="t53">Спэис</text>
                         <audio from="" src="./audio/aud62.mp3"/>
                     </accelerator>
                     <mnemonic>
-                        <text id="t54">v</text>
+                        <text id="t54">a</text>
                         <audio from="" src="./audio/aud63.mp3"/>
                     </mnemonic>
                 </action>
@@ -359,19 +359,19 @@
             <action mfcid="ID_AMIS_ESCAPE" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t55">Ontsnap</text>
+                    <text id="t55">Үгүйсгэх</text>
                     <audio from="" src="./audio/aud64.mp3"/>
                 </caption>
                 <description>
-                    <text id="t56">Spring uit die huidige speelende item of struktuur.</text>
+                    <text id="t56">Одоо уншуулж буй буюу тухайн үйлдлээс өөр тийш шилжих</text>
                     <audio from="" src="./audio/aud65.mp3"/>
                 </description>
                 <accelerator keys="Esc">
-                    <text id="t57">Esc</text>
+                    <text id="t57">Искэип</text>
                     <audio from="" src="./audio/aud66.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t58">o</text>
+                    <text id="t58">E</text>
                     <audio from="" src="./audio/aud67.mp3"/>
                 </mnemonic>
             </action>
@@ -379,11 +379,11 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/fullspeedahead.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t59">Vinniger</text>
+                    <text id="t59">Хурдан</text>
                     <audio from="" src="./audio/aud68.mp3"/>
                 </caption>
                 <description>
-                    <text id="t60">Verhoog die terugspeel spoed.</text>
+                    <text id="t60">Тоглуулагчын дууг нэмэх.</text>
                     <audio from="" src="./audio/aud69.mp3"/>
                 </description>
                 <accelerator keys="Ctrl++">
@@ -391,7 +391,7 @@
                     <audio from="" src="./audio/aud70.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t62">i</text>
+                    <text id="t62">F</text>
                     <audio from="" src="./audio/aud71.mp3"/>
                 </mnemonic>
             </action>
@@ -399,11 +399,11 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/slowdown.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t63">Stadiger</text>
+                    <text id="t63">Удаавтар</text>
                     <audio from="" src="./audio/aud72.mp3"/>
                 </caption>
                 <description>
-                    <text id="t64">Verminder die terugspeel spoed.</text>
+                    <text id="t64">Тоглуулагчын дууг удаашруулах.</text>
                     <audio from="" src="./audio/aud73.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+-">
@@ -411,7 +411,7 @@
                     <audio from="" src="./audio/aud74.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t66">t</text>
+                    <text id="t66">S</text>
                     <audio from="" src="./audio/aud75.mp3"/>
                 </mnemonic>
             </action>
@@ -419,11 +419,11 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/normalspeed.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t67">Normale  spoed</text>
+                    <text id="t67">Энгийн хурд</text>
                     <audio from="" src="./audio/aud76.mp3"/>
                 </caption>
                 <description>
-                    <text id="t68">Herstel die terugspeel spoed na normaal.</text>
+                    <text id="t68">Тоглуулагчийн Reset товчийг ашиглан энгийн байдалд байлгах. </text>
                     <audio from="" src="./audio/aud77.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+0">
@@ -438,38 +438,38 @@
             <action mfcid="ID_AMIS_INCREASE_VOLUME" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t71">Verhoog die volume</text>
+                    <text id="t71">Дууг нэмэх</text>
                     <audio from="" src="./audio/aud80.mp3"/>
                 </caption>
                 <description>
-                    <text id="t72">Verhoog die volume geleidelik.</text>
+                    <text id="t72">Дууг аажмаар өсгөх.</text>
                     <audio from="" src="./audio/aud81.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Up">
-                    <text id="t73">Ctrl+Op</text>
+                    <text id="t73">Ctrl+дээшээ курсор </text>
                     <audio from="" src="./audio/aud82.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t74">h</text>
+                    <text id="t74">I</text>
                     <audio from="" src="./audio/aud83.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_DECREASE_VOLUME" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t75">Verminder die volume</text>
+                    <text id="t75">Дууг багасгах</text>
                     <audio from="" src="./audio/aud84.mp3"/>
                 </caption>
                 <description>
-                    <text id="t76">Verminder  die volume geleidelik.</text>
+                    <text id="t76">Дууг аажмаар намасгах.</text>
                     <audio from="" src="./audio/aud85.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Down">
-                    <text id="t77">Ctrl+Af</text>
+                    <text id="t77">Ctrl+доошоо курсор</text>
                     <audio from="" src="./audio/aud86.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t78">m</text>
+                    <text id="t78">D</text>
                     <audio from="" src="./audio/aud87.mp3"/>
                 </mnemonic>
             </action>
@@ -478,14 +478,14 @@
                 <audio from="" src="./audio/aud88.mp3"/>
             </accelerator>
             <mnemonic>
-                <text id="t80">s</text>
+                <text id="t80">P</text>
                 <audio from="" src="./audio/aud89.mp3"/>
             </mnemonic>
         </container>
         <container id="navigate">
             <note>This is the menu header &quot;Navigate&quot;</note>
             <caption>
-                <text id="t81">Navigeer</text>
+                <text id="t81">Удирдах</text>
                 <audio from="" src="./audio/aud90.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_PREVIOUS_SECTION" widget="menuItem toolbarItem">
@@ -493,19 +493,19 @@
                 <icon src="./settings/img/prevsection.ico" type="smallIcon"/>
                 <icon src="./settings/img/prevsection_big.ico" type="largeIcon"/>
                 <caption>
-                    <text id="t82">Vorige afdeling</text>
+                    <text id="t82">Эхний хэсэг</text>
                     <audio from="" src="./audio/aud91.mp3"/>
                 </caption>
                 <description>
-                    <text id="t83">Gaan na die vorige afdeling.</text>
+                    <text id="t83">Эхний хэсэг рүү очих.</text>
                     <audio from="" src="./audio/aud92.mp3"/>
                 </description>
                 <accelerator keys="Up">
-                    <text id="t84">Op</text>
+                    <text id="t84">Дээшээ</text>
                     <audio from="" src="./audio/aud93.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t85">r</text>
+                    <text id="t85">P</text>
                     <audio from="" src="./audio/aud94.mp3"/>
                 </mnemonic>
             </action>
@@ -514,37 +514,37 @@
                 <icon src="./settings/img/nextsection.ico" type="smallIcon"/>
                 <icon src="./settings/img/nextsection_big.ico" type="largeIcon"/>
                 <caption>
-                    <text id="t86">Volgende afdeling</text>
+                    <text id="t86">Дараагийн хэсэг</text>
                     <audio from="" src="./audio/aud95.mp3"/>
                 </caption>
                 <description>
-                    <text id="t87">Gaan na die volgende afdeling.</text>
+                    <text id="t87">Дараагийн хэсэг рүү очих.</text>
                     <audio from="" src="./audio/aud96.mp3"/>
                 </description>
                 <accelerator keys="Down">
-                    <text id="t88">Af</text>
+                    <text id="t88">доошоо курсор</text>
                     <audio from="" src="./audio/aud97.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t89">l</text>
+                    <text id="t89">N</text>
                     <audio from="" src="./audio/aud98.mp3"/>
                 </mnemonic>
             </action>
             <container id="sectiondepth">
                 <note>This is the &quot;show section depth&quot; sub-menu pop-up</note>
                 <caption>
-                    <text id="t90">Toon afdeling diepte</text>
+                    <text id="t90">Хэсгийн хэмжээг харуулах</text>
                     <audio from="" src="./audio/aud99.mp3"/>
                 </caption>
                 <switch element="action">
                     <action condition="ID_AMIS_SECTION_DEPTH_EMPTY" mfcid="ID_AMIS_SECTION_DEPTH_EMPTY" widget="menuItem">
                         <note>This is going to be a menu item</note>
                         <caption>
-                            <text id="t91">Leeg</text>
+                            <text id="t91">Хоосон</text>
                             <audio from="" src="./audio/aud100.mp3"/>
                         </caption>
                         <description>
-                            <text id="t92">Daar is geen afdeling vlakke nie.</text>
+                            <text id="t92">Хэсгийн түвшин байхгүй байна.</text>
                             <audio from="" src="./audio/aud101.mp3"/>
                         </description>
                     </action>
@@ -558,7 +558,7 @@
                     </action>
                 </switch>
                 <mnemonic>
-                    <text id="t93">a</text>
+                    <text id="t93">S</text>
                     <audio from="" src="./audio/aud102.mp3"/>
                 </mnemonic>
             </container>
@@ -566,15 +566,15 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/prevphasecirc.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t94">Vorige frase</text>
+                    <text id="t94">Эхний өгүүлбэр</text>
                     <audio from="" src="./audio/aud103.mp3"/>
                 </caption>
                 <description>
-                    <text id="t95">Gaan na die vorige frase.</text>
+                    <text id="t95">Эхний өгүүлбэрт очих.  </text>
                     <audio from="" src="./audio/aud104.mp3"/>
                 </description>
                 <accelerator keys="Left">
-                    <text id="t96">Links</text>
+                    <text id="t96">зүүн курсор</text>
                     <audio from="" src="./audio/aud105.mp3"/>
                 </accelerator>
             </action>
@@ -582,15 +582,15 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/nextphrasecirc.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t97">Volgende frase</text>
+                    <text id="t97">Дараагийн өгүүлбэр</text>
                     <audio from="" src="./audio/aud106.mp3"/>
                 </caption>
                 <description>
-                    <text id="t98">Gaan na die volgende frase.</text>
+                    <text id="t98">Дараагийн өгүүлбэрт очих.</text>
                     <audio from="" src="./audio/aud107.mp3"/>
                 </description>
                 <accelerator keys="Right">
-                    <text id="t99">Regs</text>
+                    <text id="t99">баруун курсор</text>
                     <audio from="" src="./audio/aud108.mp3"/>
                 </accelerator>
             </action>
@@ -598,15 +598,15 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/prevpage.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t100">Vorige bladsy</text>
+                    <text id="t100">Эхний хуудас</text>
                     <audio from="" src="./audio/aud109.mp3"/>
                 </caption>
                 <description>
-                    <text id="t101">Gaan na die vorige bladsy.</text>
+                    <text id="t101">Эхний хуудас руу очих.</text>
                     <audio from="" src="./audio/aud110.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Left">
-                    <text id="t102">Ctrl+Links</text>
+                    <text id="t102">Ctrl+зүүн курсор</text>
                     <audio from="" src="./audio/aud111.mp3"/>
                 </accelerator>
             </action>
@@ -614,26 +614,26 @@
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/nextpage.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t103">Volgende bladsy</text>
+                    <text id="t103">Дараагийн хуудас.</text>
                     <audio from="" src="./audio/aud112.mp3"/>
                 </caption>
                 <description>
-                    <text id="t104">Gaan na die volgende bladsy.</text>
+                    <text id="t104">Дараагийн хуудас руу очих.</text>
                     <audio from="" src="./audio/aud113.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Right">
-                    <text id="t105">Ctrl+Regs</text>
+                    <text id="t105">Ctrl+баруун курсор</text>
                     <audio from="" src="./audio/aud114.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_GOTO_PAGE" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t106">Gaan na bladsy...</text>
+                    <text id="t106">.. н хуудас руу очих.</text>
                     <audio from="" src="./audio/aud115.mp3"/>
                 </caption>
                 <description>
-                    <text id="t107">Gaan na 'n spesifieke bladsy.</text>
+                    <text id="t107">Тусгайлсан хуудас руу очих.</text>
                     <audio from="" src="./audio/aud116.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+G">
@@ -644,19 +644,19 @@
             <action mfcid="ID_AMIS_FIND_IN_TEXT" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t109">Vind in teks...</text>
+                    <text id="t109">... текстийг хайх.</text>
                     <audio from="" src="./audio/aud118.mp3"/>
                 </caption>
                 <description>
-                    <text id="t110">Soek vir 'n woord of frase in die teks.</text>
+                    <text id="t110">Текст дотор үг өгүүлбэрээр нь хайх.</text>
                     <audio from="" src="./audio/aud119.mp3"/>
                 </description>
-                <accelerator keys="Ctrl+V">
-                    <text id="t111">Ctrl+V</text>
+                <accelerator keys="Ctrl+F">
+                    <text id="t111">Ctrl+F</text>
                     <audio from="" src="./audio/aud120.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t112">v</text>
+                    <text id="t112">F</text>
                     <audio from="" src="./audio/aud121.mp3"/>
                 </mnemonic>
             </action>
@@ -672,26 +672,26 @@
         <container id="bookmarks">
             <note>This is the menu header &quot;Bookmarks&quot;</note>
             <caption>
-                <text id="t115">Boekmerke</text>
+                <text id="t115">бүүкмаркууд</text>
                 <audio from="" src="./audio/aud124.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_ADD_BOOKMARK" widget="menuItem toolbarItem">
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/adbookmark.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t116">Maak 'n boekmerk</text>
+                    <text id="t116">бүүкмарк нэмэх.</text>
                     <audio from="" src="./audio/aud125.mp3"/>
                 </caption>
                 <description>
-                    <text id="t117">Boekmerk jou huidige posisie.</text>
+                    <text id="t117">Одоо байгаа бүүкмарк.</text>
                     <audio from="" src="./audio/aud126.mp3"/>
                 </description>
-                <accelerator keys="Ctrl+M">
-                    <text id="t118">Ctrl+M</text>
+                <accelerator keys="Ctrl+D">
+                    <text id="t118">Ctrl+D</text>
                     <audio from="" src="./audio/aud127.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t119">m</text>
+                    <text id="t119">A</text>
                     <audio from="" src="./audio/aud128.mp3"/>
                 </mnemonic>
             </action>
@@ -715,32 +715,32 @@
         <container id="info">
             <note>This is the menu header &quot;Info&quot;</note>
             <caption>
-                <text id="t122">Informasie</text>
+                <text id="t122">Мэдээлэл.</text>
                 <audio from="" src="./audio/aud131.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_SHOW_READING_OPTIONS" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t123">Lees opsies...</text>
+                    <text id="t123">Унших тохиргоо.</text>
                     <audio from="" src="./audio/aud132.mp3"/>
                 </caption>
                 <description>
-                    <text id="t124">Kyk na die lees opsies vir hierdie publikasie.</text>
+                    <text id="t124">Энэ хэвлэлийн унших тохиргоог харуулах.</text>
                     <audio from="" src="./audio/aud133.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t125">e</text>
+                    <text id="t125">R</text>
                     <audio from="" src="./audio/aud134.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_PUBLICATION_SUMMARY" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t343">Publikasie opsomming...</text>
+                    <text id="t343">Номын товч мэдээ.</text>
                     <audio from="" src="./audio/aud135.mp3"/>
                 </caption>
                 <description>
-                    <text id="t344">Kyk na die informasie oor hierdie publikasie.</text>
+                    <text id="t344">Энэ хэвлэлийн мэдээлэлийг харуулах.</text>
                     <audio from="" src="./audio/aud136.mp3"/>
                 </description>
                 <mnemonic>
@@ -760,30 +760,30 @@
         <container id="help">
             <note>This is the menu header &quot;Help&quot;</note>
             <caption>
-                <text id="t137">Help</text>
+                <text id="t137">Тусламж.</text>
                 <audio from="" src="./audio/aud140.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_SHOW_HELP_CONTENTS" widget="menuItem toolbarItem">
                 <caption>
-                    <text id="t138">Inhoud</text>
+                    <text id="t138">Гарчигууд.</text>
                     <audio from="" src="./audio/aud141.mp3"/>
                 </caption>
                 <description>
-                    <text id="t139">Kry hulp deur AMIS te gebruik </text>
+                    <text id="t139">AMIS-н тусламжийг хэрэглэх.</text>
                     <audio from="" src="./audio/aud142.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t140">i</text>
+                    <text id="t140">C</text>
                     <audio from="" src="./audio/aud143.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_KEYBOARD_SHORTCUTS" widget="menuItem">
                 <caption>
-                    <text id="t373">Sleutelbord kortpaaie</text>
+                    <text id="t373">Товчлууруудын ойлголт.</text>
                     <audio from="" src="./audio/aud144.mp3"/>
                 </caption>
                 <description>
-                    <text id="t374">Sien en hoor al die sleutelbord kortpaaie vir AMIS.</text>
+                    <text id="t374">AMIS-н бүх товчлууруудын командыг харах ба сонсох.</text>
                     <audio from="" src="./audio/aud145.mp3"/>
                 </description>
                 <mnemonic>
@@ -794,11 +794,11 @@
             <action mfcid="ID_AMIS_ABOUT" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t141">Aangaande AMIS</text>
+                    <text id="t141">AMIS-н тухай</text>
                     <audio from="" src="./audio/aud147.mp3"/>
                 </caption>
                 <description>
-                    <text id="t142">Vind uit oor AMIS en DAISY-vir-almal.</text>
+                    <text id="t142">AMIS болон DAISY-for-All-н тухай олж мэдэх</text>
                     <audio from="" src="./audio/aud148.mp3"/>
                 </description>
                 <mnemonic>
@@ -820,11 +820,11 @@
         <dialog mfcid="IDD_FIND">
             <note>This is the find in text dialog</note>
             <caption>
-                <text id="t146">Vind in teks</text>
+                <text id="t146">Текстээр хайх</text>
                 <audio from="" src="./audio/aud152.mp3"/>
             </caption>
             <description mfcid="IDC_FIND_DESCRIPTION">
-                <text id="t147">Soek deur die teks van die boek in enige rigting.</text>
+                <text id="t147">Номыг болон бусад зааваруудаас тестээр хайх. </text>
                 <audio from="" src="./audio/aud153.mp3"/>
             </description>
             <prompt type="instructions">
@@ -834,14 +834,14 @@
             </prompt>
             <control mfcid="IDC_SEARCHSTRING" widget="textfield autoplay">
                 <description>
-                    <text id="t151">Tik die teks waarna gesoek word in hierdie veld.</text>
+                    <text id="t151">Хайх талбар дээр текстээ бичих.</text>
                     <audio from="" src="./audio/aud154.mp3"/>
                 </description>
             </control>
             <control mfcid="IDC_FINDPREVIOUS" widget="radiobutton">
                 <note>This indicates the direction of the search</note>
                 <caption>
-                    <text id="t152">Vind vorige</text>
+                    <text id="t152">Эхний хайлт.</text>
                     <audio from="" src="./audio/aud155.mp3"/>
                 </caption>
                 <description>
@@ -857,7 +857,7 @@
                     <promptItem refid="ok_button_caption"/>
                 </caption>
                 <description>
-                    <text id="t149">Druk om te begin soek na die teks in die lêer.</text>
+                    <text id="t149">Фаил дахь хайл дээр хайж эхлэх.</text>
                     <audio from="" src="./audio/aud156.mp3"/>
                 </description>
             </control>
@@ -869,7 +869,7 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t150">k</text>
+                    <text id="t150">C</text>
                     <audio from="" src="./audio/aud157.mp3"/>
                 </mnemonic>
             </control>
@@ -877,11 +877,11 @@
         <dialog mfcid="IDD_CDSEARCH">
             <note>This dialog appears when more than one book is on a CD-ROM</note>
             <caption>
-                <text id="t154">Talle boeke gevind</text>
+                <text id="t154">Олон ном олдлоо.</text>
                 <audio from="" src="./audio/aud158.mp3"/>
             </caption>
             <description mfcid="IDC_MULTIVOLCD_INSTRUCTIONS">
-                <text id="t155">Meer as een boek is gevind op hierdie laserskyf.  Kies asseblief 'n boek uit die onderstaande lys.</text>
+                <text id="t155">Нэгээс их ном дискгээс олдлоо. Дараахь жагсаалнаас номоо сонгоно уу.</text>
                 <audio from="" src="./audio/aud159.mp3"/>
             </description>
             <prompt type="instructions">
@@ -907,17 +907,17 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t156">k</text>
+                    <text id="t156">C</text>
                     <audio from="" src="./audio/aud160.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_OPENBOOK" widget="button">
                 <caption>
-                    <text id="t157">Maak oop</text>
+                    <text id="t157">Нээх.</text>
                     <audio from="" src="./audio/aud161.mp3"/>
                 </caption>
                 <description>
-                    <text id="t158">Druk om hierdie dialoog toe te maak en die gekose boek oop te maak.</text>
+                    <text id="t158">Диалог цонхоо хаагаад сонгосон номоо нээ.</text>
                     <audio from="" src="./audio/aud162.mp3"/>
                 </description>
                 <mnemonic>
@@ -929,11 +929,11 @@
         <dialog mfcid="IDD_ABOUTBOX">
             <note>This dialog gives some basic information about AMIS.</note>
             <caption>
-                <text id="t161">Aangaande AMIS</text>
+                <text id="t161">AMIS-н тухай.</text>
                 <audio from="" src="./audio/aud164.mp3"/>
             </caption>
             <description>
-                <text id="t162">Dialoog met informasie oor AMIS sagteware.</text>
+                <text id="t162">AMIS-н програмын тухай мэдээлэл бүхий диалог цонх.</text>
                 <audio from="" src="./audio/aud165.mp3"/>
             </description>
             <prompt type="instructions">
@@ -942,7 +942,7 @@
             </prompt>
             <control mfcid="IDC_AMISNAME" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t163">AMIS: Aanpasbare Multimedia Informasie Sisteem</text>
+                    <text id="t163">AMIS: Тусгай Мэдээлэлийн Малтимедиа Систем</text>
                     <audio from="" src="./audio/aud166.mp3"/>
                 </caption>
             </control>
@@ -976,11 +976,11 @@
         <dialog mfcid="IDD_SEARCHDAISY">
             <note>This dialog is for searching your hard drive for DAISY books.</note>
             <caption>
-                <text id="t167">Soek na DAISY boeke</text>
+                <text id="t167">DAISY номуудыг хайх.</text>
                 <audio from="" src="./audio/aud170.mp3"/>
             </caption>
             <description mfcid="IDC_SEARCHINSTRUCTIONS">
-                <text id="t168">U kan in u rekenaar na DAISY boeke soek. Sleutel 'n baan in of blaai vir die lêer waarna u soek, druk dan Soek om die soektog te begin.</text>
+                <text id="t168">Компьютертээ DAISY-нийн номыг хайхадаа хайх фолдер дээр камыг болон фолдерын нэрийг нь бичээд хайж эхлүүлнэ.</text>
                 <audio from="" src="./audio/aud171.mp3"/>
             </description>
             <prompt type="instructions">
@@ -990,41 +990,41 @@
             </prompt>
             <control mfcid="IDC_SEARCHPATH" widget="textfield autoplay">
                 <description>
-                    <text id="t169">Tik die baan na die lêer in hierdie veld in.</text>
+                    <text id="t169">Хайх талбар дээр замыг нь бичих.</text>
                     <audio from="" src="./audio/aud172.mp3"/>
                 </description>
             </control>
             <control mfcid="IDC_BROWSE" widget="button">
                 <caption>
-                    <text id="t260">Blaai...</text>
+                    <text id="t260">... харах</text>
                     <audio from="" src="./audio/aud173.mp3"/>
                 </caption>
                 <description>
-                    <text id="t261">Druk om die blaailêer dialoog oop te maak.</text>
+                    <text id="t261">харах диалогийн нээхийг дарах.</text>
                     <audio from="" src="./audio/aud174.mp3"/>
                 </description>
             </control>
             <control mfcid="IDC_STARTSEARCH" widget="button">
                 <caption>
-                    <text id="t170">Soektog</text>
+                    <text id="t170">Хайх</text>
                     <audio from="" src="./audio/aud175.mp3"/>
                 </caption>
                 <description>
-                    <text id="t171">Druk om soektog te begin.</text>
+                    <text id="t171">Хайж эхлэхийг дарах.</text>
                     <audio from="" src="./audio/aud176.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t172">s</text>
+                    <text id="t172">S</text>
                     <audio from="" src="./audio/aud177.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_STOPSEARCH" widget="button">
                 <caption>
-                    <text id="t173">Stop</text>
+                    <text id="t173">Зогсоох.</text>
                     <audio from="" src="./audio/aud178.mp3"/>
                 </caption>
                 <description>
-                    <text id="t174">Druk om soektog te stop.</text>
+                    <text id="t174">Хайж байгааг зогсоох.</text>
                     <audio from="" src="./audio/aud179.mp3"/>
                 </description>
                 <mnemonic>
@@ -1035,23 +1035,23 @@
             <control mfcid="IDC_SEARCHING" widget="textlabel">
                 <switch element="caption">
                     <caption condition="default">
-                        <text id="t176">Gereed</text>
+                        <text id="t176">Бэлэн</text>
                         <audio from="" src="./audio/aud181.mp3"/>
                     </caption>
                     <caption condition="WhileSearching">
-                        <text id="t177">Besig om te soek...</text>
+                        <text id="t177">... г хайж байна.</text>
                         <audio from="" src="./audio/aud182.mp3"/>
                     </caption>
                     <caption condition="SearchAborted">
-                        <text id="t178">Soektog gestop.</text>
+                        <text id="t178">Хайлт зогслоо.</text>
                         <audio from="" src="./audio/aud183.mp3"/>
                     </caption>
                     <caption condition="SearchCompleteNoFilesFound">
-                        <text id="t179">Soektog voltooi: geen lêers gevind.</text>
+                        <text id="t179">Бүрэн хайлаа. Фаил олдсонгүй.</text>
                         <audio from="" src="./audio/aud184.mp3"/>
                     </caption>
                     <caption condition="SearchCompleteOneFileFound">
-                        <text id="t180">Soektog voltooi: een lêer gevind.</text>
+                        <text id="t180">Бүрэн хайлаа. Нэг фаил олдлоо.</text>
                         <audio from="" src="./audio/aud185.mp3"/>
                     </caption>
                     <caption condition="SearchCompleteFilesFound">
@@ -1059,7 +1059,7 @@
                             <promptVar name="NUM_FILES_FOUND"/>
                             <promptItem>
                                 <note>This is used in the sentence &quot;7 files were found&quot;</note>
-                                <text id="t181">lêers is gevind.</text>
+                                <text id="t181">Фаилууд олдлоо.</text>
                                 <audio from="" src="./audio/aud186.mp3"/>
                             </promptItem>
                         </prompt>
@@ -1078,11 +1078,11 @@
             </control>
             <control mfcid="IDC_OPENBOOK" widget="button">
                 <caption>
-                    <text id="t183">Maak oop</text>
+                    <text id="t183">Нээх</text>
                     <audio from="" src="./audio/aud187.mp3"/>
                 </caption>
                 <description>
-                    <text id="t184">Druk om die gekose titel oop te maak.</text>
+                    <text id="t184">Сонгосон гарчигаа нээх.</text>
                     <audio from="" src="./audio/aud188.mp3"/>
                 </description>
                 <mnemonic>
@@ -1098,7 +1098,7 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t186">k</text>
+                    <text id="t186">C</text>
                     <audio from="" src="./audio/aud190.mp3"/>
                 </mnemonic>
             </control>
@@ -1106,11 +1106,11 @@
         <dialog mfcid="IDD_READING_OPTIONS">
             <note>This dialog lets the user control rendering of skippable structures.</note>
             <caption>
-                <text id="t187">Lees Opsies</text>
+                <text id="t187">Унших тохиргоо</text>
                 <audio from="" src="./audio/aud191.mp3"/>
             </caption>
             <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
-                <text id="t188">Hierdie boek bevat die volgende spesiale tipe items. Gemerkte items sal gespeel word. Ongemerkte items sal oorgeslaan word.</text>
+                <text id="t188">Энэ ном дараахь хэрэгсэлүүдийн тусгай бичигдэл агуулж байга. Тоглуулах рхэрэгсэлийг шалга. Шалгагдахгүй нь алгасана. </text>
                 <audio from="" src="./audio/aud192.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1120,7 +1120,7 @@
             </prompt>
             <control mfcid="IDC_OPTIONS_LIST" widget="list autoplay">
                 <caption>
-                    <text id="t190">Lees opsies lys:</text>
+                    <text id="t190">Унших тохиргооны жагсаалт</text>
                     <audio from="" src="./audio/aud193.mp3"/>
                 </caption>
                 <description>
@@ -1155,7 +1155,7 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t381">k</text>
+                    <text id="t381">C</text>
                     <audio from="" src="./audio/aud194.mp3"/>
                 </mnemonic>
             </control>
@@ -1163,11 +1163,11 @@
         <dialog mfcid="IDD_PREFERENCES">
             <note>This dialog lets the user set some basic preferences for AMIS.</note>
             <caption>
-                <text id="t218">Voorkeure</text>
+                <text id="t218">Тохиргоонууд</text>
                 <audio from="" src="./audio/aud195.mp3"/>
             </caption>
             <description>
-                <text id="t219">Hier kan u algemene voorkeure vir AMIS stel.</text>
+                <text id="t219">Энэ AMIS-н ерөнхий тохиргооууд байна.</text>
                 <audio from="" src="./audio/aud196.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1177,7 +1177,7 @@
             </prompt>
             <control mfcid="IDC_ISSELFVOICING" widget="checkbox autoplay">
                 <caption>
-                    <text id="t220">Gebruik self-spraak</text>
+                    <text id="t220">Өөрийн дууг хэрэглэх.</text>
                     <audio from="" src="./audio/aud197.mp3"/>
                 </caption>
                 <description>
@@ -1190,7 +1190,7 @@
             </control>
             <control mfcid="IDC_TTSVOICES" widget="list">
                 <caption mfcid="IDC_SELTTSLABEL">
-                    <text id="t221">Kies TTS stem:</text>
+                    <text id="t221">TTS-н ярьдаг хэрэгсэлийг сонгох.</text>
                     <audio from="" src="./audio/aud198.mp3"/>
                 </caption>
                 <list repeat="yes">
@@ -1204,7 +1204,7 @@
             </control>
             <control mfcid="IDC_HIGHLIGHTTEXT" widget="checkbox">
                 <caption>
-                    <text id="t346">Blok die teks terwyl dit hardop gelees word</text>
+                    <text id="t346">Чангаар унших текст идэвхжих.</text>
                     <audio from="" src="./audio/aud199.mp3"/>
                 </caption>
                 <description>
@@ -1217,7 +1217,7 @@
             </control>
             <control mfcid="IDC_LOADLASTBOOK" widget="checkbox">
                 <caption>
-                    <text id="t225">Laai die boek wat u laaste gelees het, met selflaai</text>
+                    <text id="t225">Стар ап дээрхь уншигдах байгаа номыг ачааллах. </text>
                     <audio from="" src="./audio/aud200.mp3"/>
                 </caption>
                 <description>
@@ -1230,7 +1230,7 @@
             </control>
             <control mfcid="IDC_STARTINBASICVIEW" widget="checkbox">
                 <caption>
-                    <text id="t223">Begin in basiese aansig modus</text>
+                    <text id="t223">Зндсэн үзэгдэц хэлбэр буюу үндсэн вью моодыг эхлүүлэх.</text>
                     <audio from="" src="./audio/aud201.mp3"/>
                 </caption>
                 <description>
@@ -1243,7 +1243,7 @@
             </control>
             <control mfcid="IDC_PAUSEONLOSTFOCUS" widget="checkbox">
                 <caption>
-                    <text id="t347">Vries oudio wanneer applikasies geruil word </text>
+                    <text id="t347">Тохиргооны диалог цонхыг нээхэд аудио пауз ыуюу түр зогсоно.</text>
                     <audio from="" src="./audio/aud202.mp3"/>
                 </caption>
                 <description>
@@ -1256,7 +1256,7 @@
             </control>
             <control mfcid="IDC_DISABLESCREENSAVER" widget="checkbox">
                 <caption>
-                    <text id="t348">Versper die skermbewaarder terwyl gelees word</text>
+                    <text id="t348">Уншигдаж байхад дэлгэц амраагчийг хаана.</text>
                     <audio from="" src="./audio/aud203.mp3"/>
                 </caption>
                 <description>
@@ -1271,7 +1271,7 @@
                 <caption mfcid="IDC_CURRLANG">
                     <prompt>
                         <promptItem>
-                            <text id="t349">U gebruik tans AMIS in: </text>
+                            <text id="t349">Та AMIS-н ...г  ашиглаж байна. </text>
                             <audio from="" src="./audio/aud204.mp3"/>
                         </promptItem>
                         <promptVar name="CURRENT_LANGUAGE_NAME"/>
@@ -1302,7 +1302,7 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t350">k</text>
+                    <text id="t350">C</text>
                     <audio from="" src="./audio/aud205.mp3"/>
                 </mnemonic>
             </control>
@@ -1310,11 +1310,11 @@
         <dialog mfcid="IDD_GOTOPAGE">
             <note>This dialog lets the user jump to a certain page</note>
             <caption>
-                <text id="t231">Gaan na bladsy</text>
+                <text id="t231">Хуудас руу очих</text>
                 <audio from="" src="./audio/aud206.mp3"/>
             </caption>
             <description mfcid="IDC_GOTOPAGE_CAPTION">
-                <text id="t236">Sleutel die nommer of merker van die bladsy waarna toe u wil gaan in:</text>
+                <text id="t236">..руу очихдоо хуудасны дугаар болон шошгыг хий.</text>
                 <audio from="" src="./audio/aud207.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1324,7 +1324,7 @@
             </prompt>
             <control mfcid="IDC_PAGENUM" widget="textfield autoplay">
                 <description>
-                    <text id="t237">Tik die nommer of merker van die bladsy hier.</text>
+                    <text id="t237">Энд хуудасны дугаар болон шошгыг бичнэ үү.</text>
                     <audio from="" src="./audio/aud208.mp3"/>
                 </description>
             </control>
@@ -1333,7 +1333,7 @@
                     <promptItem refid="ok_button_caption"/>
                 </caption>
                 <description>
-                    <text id="t234">Druk om na die gewensde bladsy te gaan.</text>
+                    <text id="t234">Хүссэн хуудас руугаа орох.</text>
                     <audio from="" src="./audio/aud209.mp3"/>
                 </description>
             </control>
@@ -1345,7 +1345,7 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t235">k</text>
+                    <text id="t235">C</text>
                     <audio from="" src="./audio/aud210.mp3"/>
                 </mnemonic>
             </control>
@@ -1353,11 +1353,11 @@
         <dialog mfcid="IDD_PUBLICATIONSUMMARY">
             <note>This dialog contains publication metadata and feedback about the user's current position.</note>
             <caption>
-                <text id="t238">Publikasie Opsomming</text>
+                <text id="t238">Хэвлэл болон номын товч танилцуулга</text>
                 <audio from="" src="./audio/aud211.mp3"/>
             </caption>
             <description mfcid="IDC_PUBLICATIONSUMMARYCAPTION">
-                <text id="t214">Informasie oor die publikasie en u huidige posisie</text>
+                <text id="t214">Одоогийн таны хэрэглэж буй хэвлэлийн тухай мэдээлэл</text>
                 <audio from="" src="./audio/aud212.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1367,7 +1367,7 @@
             </prompt>
             <control mfcid="IDC_SUMMARYLIST" widget="list autoplay">
                 <caption>
-                    <text id="t434">Publikasie informasie lys:</text>
+                    <text id="t434">Хэвлэлийн мэдээлэлийн жагсаалт</text>
                     <audio from="" src="./audio/aud213.mp3"/>
                 </caption>
                 <description>
@@ -1377,7 +1377,7 @@
                     <caption>
                         <prompt>
                             <promptItem>
-                                <text id="t240">Titel:</text>
+                                <text id="t240">Гарчиг:</text>
                                 <audio from="" src="./audio/aud214.mp3"/>
                             </promptItem>
                             <promptVar name="META_TITLE"/>
@@ -1386,7 +1386,7 @@
                     <caption>
                         <prompt>
                             <promptItem>
-                                <text id="t241">Outeur:</text>
+                                <text id="t241">Зохиогч:</text>
                                 <audio from="" src="./audio/aud215.mp3"/>
                             </promptItem>
                             <promptVar name="META_CREATOR"/>
@@ -1395,7 +1395,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t242">Publiseerder:</text>
+                                <text id="t242">Хэвлэгч:</text>
                                 <audio from="" src="./audio/aud216.mp3"/>
                             </promptItem>
                             <promptVar name="META_PUBLISHER"/>
@@ -1404,7 +1404,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t243">Beskrywing:</text>
+                                <text id="t243">Тайлбар:</text>
                                 <audio from="" src="./audio/aud217.mp3"/>
                             </promptItem>
                             <promptVar name="META_DESC"/>
@@ -1413,7 +1413,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t351">Verteller:</text>
+                                <text id="t351">Уншигч:</text>
                                 <audio from="" src="./audio/aud218.mp3"/>
                             </promptItem>
                             <promptVar name="META_NARRATOR"/>
@@ -1422,7 +1422,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t249">Totale duur:</text>
+                                <text id="t249">Нийт хугацаа:</text>
                                 <audio from="" src="./audio/aud219.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOTALTIME"/>
@@ -1431,7 +1431,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t352">Totale bladsye:</text>
+                                <text id="t352">Нийт хуудас:</text>
                                 <audio from="" src="./audio/aud220.mp3"/>
                             </promptItem>
                             <promptVar name="META_NUMPAGES"/>
@@ -1440,7 +1440,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t353">Datum:</text>
+                                <text id="t353">Огноо:</text>
                                 <audio from="" src="./audio/aud221.mp3"/>
                             </promptItem>
                             <promptVar name="META_DATE"/>
@@ -1449,7 +1449,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t354">Formaat:</text>
+                                <text id="t354">Формат:</text>
                                 <audio from="" src="./audio/aud222.mp3"/>
                             </promptItem>
                             <promptVar name="META_FORMAT"/>
@@ -1458,7 +1458,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t355">Kenmerke:</text>
+                                <text id="t355">Үзүүлэлт:</text>
                                 <audio from="" src="./audio/aud223.mp3"/>
                             </promptItem>
                             <promptVar name="TOC_CATEGORIES"/>
@@ -1467,7 +1467,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t356">Huidige bladsy:</text>
+                                <text id="t356">Одоо гарч байгаа хуудас:</text>
                                 <audio from="" src="./audio/aud224.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_PAGE"/>
@@ -1476,7 +1476,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t215">Huidige afdeling:</text>
+                                <text id="t215">Одоо гарч буй хэсэг:</text>
                                 <audio from="" src="./audio/aud225.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_TITLE"/>
@@ -1485,17 +1485,17 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t390">Afdeling inhoud: </text>
+                                <text id="t390">Хэсгийн гарчигууд: </text>
                                 <audio from="" src="./audio/aud226.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_SUBSECTIONS"/>
                             <promptItem>
-                                <text id="t217">onderafdelings, </text>
+                                <text id="t217">дэд хэсгүүд, </text>
                                 <audio from="" src="./audio/aud227.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
                             <promptItem>
-                                <text id="t216">bladsye</text>
+                                <text id="t216">хуудсууд</text>
                                 <audio from="" src="./audio/aud228.mp3"/>
                             </promptItem>
                         </prompt>
@@ -1503,7 +1503,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t244">Totale TOC(tabel van inhoud) items: </text>
+                                <text id="t244">Нийт TOC хэрэгсэлүүд:</text>
                                 <audio from="" src="./audio/aud229.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOCITEMS"/>
@@ -1512,7 +1512,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t245">Maks. afdeling diepte:</text>
+                                <text id="t245">хэсгийн дээд хэмжээ:</text>
                                 <audio from="" src="./audio/aud230.mp3"/>
                             </promptItem>
                             <promptVar name="META_DEPTH"/>
@@ -1532,11 +1532,11 @@
         <dialog mfcid="IDD_TEXTSTYLE">
             <note>This dialog lets the user set text style properties.</note>
             <caption>
-                <text id="t358">Teks styl</text>
+                <text id="t358">Текст стиль</text>
                 <audio from="" src="./audio/aud231.mp3"/>
             </caption>
             <description>
-                <text id="t359">Hier kan u teks styl eienskappe verander </text>
+                <text id="t359">Энэ текст стилийг тохируулах торгооны цонх.</text>
                 <audio from="" src="./audio/aud232.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1546,7 +1546,7 @@
             </prompt>
             <control mfcid="IDC_FONT" widget="list autoplay">
                 <caption mfcid="IDC_FONTLABEL">
-                    <text id="t360">Systaaf font:</text>
+                    <text id="t360">Саидбарын үсгийн фонт:</text>
                     <audio from="" src="./audio/aud233.mp3"/>
                 </caption>
                 <list repeat="yes">
@@ -1560,7 +1560,7 @@
             </control>
             <control mfcid="IDC_HIGHLIGHTFOREGROUND" widget="list">
                 <caption mfcid="IDC_HIGHLIGHTFOREGROUNDLABEL">
-                    <text id="t362">Geblokte teks kleur:</text>
+                    <text id="t362">Идэвхжүүлсэн текстний өнгө:</text>
                     <audio from="" src="./audio/aud234.mp3"/>
                 </caption>
                 <list repeat="yes">
@@ -1574,7 +1574,7 @@
             </control>
             <control mfcid="IDC_HIGHLIGHTBACKGROUND" widget="list">
                 <caption mfcid="IDC_HIGHLIGHTBACKGROUNDLABEL">
-                    <text id="t364">Geblokte agtergrond kleur:</text>
+                    <text id="t364">Идэвхжүүлсэн арын өнгө:</text>
                     <audio from="" src="./audio/aud235.mp3"/>
                 </caption>
                 <list repeat="yes">
@@ -1602,7 +1602,7 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t366">k</text>
+                    <text id="t366">C</text>
                     <audio from="" src="./audio/aud236.mp3"/>
                 </mnemonic>
             </control>
@@ -1610,11 +1610,11 @@
         <dialog mfcid="IDD_OPENURL">
             <note>This is the open URL dialog</note>
             <caption>
-                <text id="t368">Open BA </text>
+                <text id="t368">URL буюу интернет нээх</text>
                 <audio from="" src="./audio/aud237.mp3"/>
             </caption>
             <description mfcid="IDC_OPENURL_CAPTION">
-                <text id="t369">Sleutel die BA van die boek wat u wil oop maak in:</text>
+                <text id="t369">Нээх гэж буй номныхоо URL руу ор.</text>
                 <audio from="" src="./audio/aud238.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1624,7 +1624,7 @@
             </prompt>
             <control mfcid="IDC_URL" widget="textfield autoplay">
                 <description>
-                    <text id="t371">Tik die BA in hierdie veld.</text>
+                    <text id="t371">Энэ талбар дээр URL-аа бич.</text>
                     <audio from="" src="./audio/aud239.mp3"/>
                 </description>
             </control>
@@ -1633,7 +1633,7 @@
                     <promptItem refid="ok_button_caption"/>
                 </caption>
                 <description>
-                    <text id="t372">Druk om die BA te laai </text>
+                    <text id="t372">URL-аа ачааллуул</text>
                     <audio from="" src="./audio/aud240.mp3"/>
                 </description>
             </control>
@@ -1645,7 +1645,7 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t367">k</text>
+                    <text id="t367">C</text>
                     <audio from="" src="./audio/aud241.mp3"/>
                 </mnemonic>
             </control>
@@ -1654,116 +1654,116 @@
     <prompts>
         <promptItemRefs>
             <promptItem id="useArrowsList">
-                <text id="t380">Gebruik die pylsleutels om rond te beweeg in die lys van items.</text>
+                <text id="t380">Хэрэгсэлүүдийн жагсаалтанд дотор курсор хэрэглэ.</text>
                 <audio from="" src="./audio/aud242.mp3"/>
             </promptItem>
             <promptItem id="thisItem">
-                <text id="t252">Hierdie item</text>
+                <text id="t252">Энэ хэрэгсэл ба аитем</text>
                 <audio from="" src="./audio/aud243.mp3"/>
             </promptItem>
             <promptItem id="spaceToToggle">
-                <text id="t253">Druk die spasiebalk om die waarde te verander.</text>
+                <text id="t253">Командыг яриулахын тулд space bar-ыг дар.</text>
                 <audio from="" src="./audio/aud244.mp3"/>
             </promptItem>
             <promptItem id="tabAround">
-                <text id="t254">Druk gewel(tab) om rond te beweeg in die dialoog items.</text>
+                <text id="t254">Диалог цонхнууд дээр таб товчоор ажилла.</text>
                 <audio from="" src="./audio/aud245.mp3"/>
             </promptItem>
             <promptItem id="thisItemIsCurrently">
-                <text id="t258">Hierdie item is tans</text>
+                <text id="t258">Энэ хэрэгсэл ажиллаж байна.</text>
                 <audio from="" src="./audio/aud246.mp3"/>
             </promptItem>
             <promptItem id="enter_to_close">
-                <text id="t259">Druk om die dialoog toe te maak.</text>
+                <text id="t259">Диалог цонхыг хаа..</text>
                 <audio from="" src="./audio/aud247.mp3"/>
             </promptItem>
             <promptItem id="ok_button_caption">
-                <text id="t262">Reg</text>
+                <text id="t262">OK</text>
                 <audio from="" src="./audio/aud248.mp3"/>
             </promptItem>
             <promptItem id="ok_button_description">
-                <text id="t263">Druk om die dialoog toe te maak.</text>
+                <text id="t263">Энэ диалог цонхыг хаана уу.</text>
                 <audio from="" src="./audio/aud249.mp3"/>
             </promptItem>
             <promptItem id="cancel_button_caption">
-                <text id="t264">Kanselleer</text>
+                <text id="t264">Кансел буюу үгүйсгэх команд</text>
                 <audio from="" src="./audio/aud250.mp3"/>
             </promptItem>
             <promptItem id="cancel_button_description">
-                <text id="t265">Druk om hierdie dialoog te kanselleer.</text>
+                <text id="t265">Энэ диалог цонхыг үгүйсгэ.</text>
                 <audio from="" src="./audio/aud251.mp3"/>
             </promptItem>
             <promptItem id="thisDialogNotSelfVoicing">
-                <text id="t268">Hierdie dialoog is nie self-spraak nie.</text>
+                <text id="t268">Энэ диалог ярьдаггүй.</text>
                 <audio from="" src="./audio/aud252.mp3"/>
             </promptItem>
             <promptItem id="escapeToCancel">
-                <text id="t269">Druk ontsnap(ESC) om te kanselleer.</text>
+                <text id="t269">Үгүйсгэхийн тулд escape-г дар.</text>
                 <audio from="" src="./audio/aud253.mp3"/>
             </promptItem>
             <promptItem id="hearDlgInstructions">
-                <text id="t270">Druk F1 vir dialoog hulp.</text>
+                <text id="t270">F1-г дарж туслахын диалог цонхыг гарга.</text>
                 <audio from="" src="./audio/aud254.mp3"/>
             </promptItem>
             <promptItem id="nav_window">
-                <text id="t272">Navigasie</text>
+                <text id="t272">Удирдлага</text>
                 <audio from="" src="./audio/aud255.mp3"/>
             </promptItem>
             <promptItem id="sections">
-                <text id="t273">Afdelings</text>
+                <text id="t273">Хэсгүүд</text>
                 <audio from="" src="./audio/aud256.mp3"/>
             </promptItem>
             <promptItem id="pages">
-                <text id="t274">Bladsye</text>
+                <text id="t274">Хуудсууд</text>
                 <audio from="" src="./audio/aud257.mp3"/>
             </promptItem>
             <promptItem id="noterefs">
-                <text id="t275">Voetnotas</text>
+                <text id="t275">Хөлний гарчигууд</text>
                 <audio from="" src="./audio/aud258.mp3"/>
             </promptItem>
             <promptItem id="prodnotes">
-                <text id="t276">Vervaardiger notas</text>
+                <text id="t276">Продьюсерын тэмдэглээ</text>
                 <audio from="" src="./audio/aud259.mp3"/>
             </promptItem>
             <promptItem id="sidebars">
-                <text id="t277">Systawe</text>
+                <text id="t277">Саидбарууд</text>
                 <audio from="" src="./audio/aud260.mp3"/>
             </promptItem>
             <promptItem id="groups">
-                <text id="t278">Gegroepeerde items</text>
+                <text id="t278">Нэгтгэсэн хэрэгсэлүүд</text>
                 <audio from="" src="./audio/aud261.mp3"/>
             </promptItem>
             <promptItem id="ready">
-                <text id="t280">Gereed</text>
+                <text id="t280">Бэлэн</text>
                 <audio from="" src="./audio/aud262.mp3"/>
             </promptItem>
             <promptItem id="selfolder_title">
-                <text id="t282">Kies 'n lêer</text>
+                <text id="t282">Фолдер сонгох</text>
                 <audio from="" src="./audio/aud263.mp3"/>
             </promptItem>
             <promptItem id="selfolder_instr">
-                <text id="t283">Kies 'n lêer uit die gids hieronder.</text>
+                <text id="t283">Доорхи директороос фолдер сонго..</text>
                 <audio from="" src="./audio/aud264.mp3"/>
             </promptItem>
             <promptItem id="daisy_books">
                 <note>This is for the file open dialog's file type filter</note>
-                <text id="t284">DAISY Boeke</text>
+                <text id="t284">DAISY номууд</text>
                 <audio from="" src="./audio/aud265.mp3"/>
             </promptItem>
             <promptItem id="folder_does_not_exist">
-                <text id="t285">Die lêer %s bestaan nie. Moet die lêer geskep word?</text>
+                <text id="t285">Фолдер хийгдэхгүй байна. Шинэ фолдер хийнэ үү.</text>
                 <audio from="" src="./audio/aud266.mp3"/>
             </promptItem>
             <promptItem id="folder_invalid">
-                <text id="t286">Hierdie lêer naam is ongeldig. Kies asseblief 'n ander een.</text>
+                <text id="t286">Энэ фолдерын нэр буруу байна. Өөрийг сонгоно уу.</text>
                 <audio from="" src="./audio/aud267.mp3"/>
             </promptItem>
             <promptItem id="cant_create_folder">
-                <text id="t287">Hierdie lêer kan nie geskep word nie.  Gaan asseblief weer na.</text>
+                <text id="t287">Энэ фолдер хийгдэхгүй байна. Давхар шалгана уу.</text>
                 <audio from="" src="./audio/aud268.mp3"/>
             </promptItem>
             <promptItem id="not_available">
-                <text id="t288">Nie beskikbaar</text>
+                <text id="t288">Гүйцэтгэхгүй</text>
                 <audio from="" src="./audio/aud269.mp3"/>
             </promptItem>
             <promptItem id="numeric_zero">
@@ -1808,70 +1808,70 @@
                 <audio from="" src="./audio/aud279.mp3"/>
             </promptItem>
             <promptItem id="will_be_skipped">
-                <text id="t300">sal oorgeslaan word</text>
+                <text id="t300">алгасана</text>
                 <audio from="" src="./audio/aud280.mp3"/>
             </promptItem>
             <promptItem id="will_be_played">
-                <text id="t301">sal gespeel word</text>
+                <text id="t301">тоглоно/уншина</text>
                 <audio from="" src="./audio/aud281.mp3"/>
             </promptItem>
             <promptItem id="item_selected">
-                <text id="t304">gekose</text>
+                <text id="t304">сонгогдсон</text>
                 <audio from="" src="./audio/aud282.mp3"/>
             </promptItem>
             <promptItem id="item_deselected">
-                <text id="t305">ontkies</text>
+                <text id="t305">сонгогдоогүй</text>
                 <audio from="" src="./audio/aud283.mp3"/>
             </promptItem>
             <promptItem id="menu">
-                <text id="t308">Kieslys</text>
+                <text id="t308">Меню</text>
                 <audio from="" src="./audio/aud284.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="keyboardShortcut">
-                <text id="t306">Sleutelbord Kortpad</text>
+                <text id="t306">Товчлуурын ойлголт</text>
                 <audio from="" src="./audio/aud285.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="icon">
-                <text id="t307">Ikoon</text>
+                <text id="t307">дүрс/аикон</text>
                 <audio from="" src="./audio/aud286.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="followedBy">
                 <note>This is used in the context of a sequence of key presses, as in &quot;Press Alt + V, followed by S&quot;.  </note>
-                <text id="t309">gevolg deur</text>
+                <text id="t309">дараах байдлаар</text>
                 <audio from="" src="./audio/aud287.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="submenu">
-                <text id="t310">Sub Kieslys</text>
+                <text id="t310">дэд меню</text>
                 <audio from="" src="./audio/aud288.mp3"/>
             </promptItem>
         </promptItemRefs>
         <generalPrompts>
             <prompt id="dialogClosed">
                 <promptItem>
-                    <text id="t311">Dialoog gesluit.</text>
+                    <text id="t311">Диалог хаагдсан.</text>
                     <audio from="" src="./audio/aud289.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="textFieldEntry">
                 <promptItem>
-                    <text id="t312">Die teks veld bevat:</text>
+                    <text id="t312">Текст ... г агуулсан байна:</text>
                     <audio from="" src="./audio/aud290.mp3"/>
                 </promptItem>
                 <promptVar name="TEXT_FIELD"/>
             </prompt>
             <prompt id="bookAtPathChanged">
                 <promptItem>
-                    <text id="t313">Die boek wat u probeer oop maak kan nie gevind word nie.</text>
+                    <text id="t313">Таны нээх гэсэн ном олдохгүй байна..</text>
                     <audio from="" src="./audio/aud291.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="generalBookError">
                 <promptItem>
-                    <text id="t314">Die boek kon nie oopgemaak word nie.</text>
+                    <text id="t314">Ном нээгдэхгүй байна.</text>
                     <audio from="" src="./audio/aud292.mp3"/>
                 </promptItem>
                 <promptVar name="BOOK_PATH"/>
@@ -1879,14 +1879,14 @@
             </prompt>
             <prompt id="noCdLoaded">
                 <promptItem>
-                    <text id="t315">Daar is geen laserskyf gelaai nie.</text>
+                    <text id="t315">CD /диск/ байхгүй байна.</text>
                     <audio from="" src="./audio/aud293.mp3"/>
                 </promptItem>
                 <promptItem refid="enter_to_close"/>
             </prompt>
             <prompt id="OpenFile_notSelfVoicing">
                 <promptItem>
-                    <text id="t319">Maak Lêer Dialoog oop</text>
+                    <text id="t319">Фаил диалог цонхыг нээх</text>
                     <audio from="" src="./audio/aud294.mp3"/>
                 </promptItem>
                 <promptItem refid="thisDialogNotSelfVoicing"/>
@@ -1894,7 +1894,7 @@
             </prompt>
             <prompt id="BrowseForFolder_notSelfVoicing">
                 <promptItem>
-                    <text id="t321">Blaai vir lêer dialoog</text>
+                    <text id="t321">Диалог фолдерыг харах</text>
                     <audio from="" src="./audio/aud295.mp3"/>
                 </promptItem>
                 <promptItem refid="thisDialogNotSelfVoicing"/>
@@ -1902,86 +1902,86 @@
             </prompt>
             <prompt id="loading">
                 <promptItem>
-                    <text id="t324">Besig om te laai</text>
+                    <text id="t324">Ачаалалж байна</text>
                     <audio from="" src="./audio/aud296.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="restartForChanges">
                 <promptItem>
-                    <text id="t325">Begin asseblief oor om die taal van AMIS te verander.</text>
+                    <text id="t325">AMIS-н хэлийг солиод ахин асаа.</text>
                     <audio from="" src="./audio/aud297.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="noBooksFoundOnCd">
                 <promptItem>
-                    <text id="t326">Geen DAISY boeke is gevind op hierdie cd-drywer.</text>
+                    <text id="t326">DAISY ном CD-ROM-д байхгүй байна.</text>
                     <audio from="" src="./audio/aud298.mp3"/>
                 </promptItem>
                 <promptItem refid="enter_to_close"/>
             </prompt>
             <prompt id="done">
                 <promptItem>
-                    <text id="t376">Gedoen</text>
+                    <text id="t376">Гүйцэтгэсэн</text>
                     <audio from="" src="./audio/aud299.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="sidebarHasFocus">
                 <promptItem>
-                    <text id="t377">Systaaf het fokus</text>
+                    <text id="t377">Саидбар фокустай</text>
                     <audio from="" src="./audio/aud300.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="textWindowHasFocus">
                 <promptItem>
-                    <text id="t378">Teks venster het fokus</text>
+                    <text id="t378">Текстний цонх фокустай</text>
                     <audio from="" src="./audio/aud301.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="generalBookErrorReloading">
                 <promptItem>
-                    <text id="t382">Die boek kon nie oopgemaak word nie.  AMIS sal jou vorige boek weer oop maak.</text>
+                    <text id="t382">Ном нээгдэхгүй байна. AMIS эхний номыг ахин нээнэ.</text>
                     <audio from="" src="./audio/aud302.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="shift_key">
                 <promptItem>
-                    <text id="t383">skuif </text>
+                    <text id="t383">шифт</text>
                     <audio from="" src="./audio/aud303.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="control_key">
                 <promptItem>
-                    <text id="t384">beheer</text>
+                    <text id="t384">контрол</text>
                     <audio from="" src="./audio/aud304.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="alt_key">
                 <promptItem>
-                    <text id="t385">alt</text>
+                    <text id="t385">альт</text>
                     <audio from="" src="./audio/aud305.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="space_key">
                 <promptItem>
-                    <text id="t386">spasie</text>
+                    <text id="t386">спэис</text>
                     <audio from="" src="./audio/aud306.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="delete_key">
                 <promptItem>
-                    <text id="t387">vee uit</text>
+                    <text id="t387">дилиит</text>
                     <audio from="" src="./audio/aud307.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="backspace_key">
                 <promptItem>
-                    <text id="t388">terugskuif</text>
+                    <text id="t388">буцах</text>
                     <audio from="" src="./audio/aud308.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="enter_key">
                 <promptItem>
-                    <text id="t389">Insleutel</text>
+                    <text id="t389">орох</text>
                     <audio from="" src="./audio/aud309.mp3"/>
                 </promptItem>
             </prompt>
