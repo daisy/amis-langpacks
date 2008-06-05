@@ -218,8 +218,8 @@ BEGIN
         MENUITEM "Предыдущая фраза\tВлево",       ID_AMIS_PREVIOUS_PHRASE
         MENUITEM "Следующая фраза\tВправо",          ID_AMIS_NEXT_PHRASE
         MENUITEM SEPARATOR
-        MENUITEM "Предыдущая страница\tCtrl+Left",    ID_AMIS_PREVIOUS_PAGE
-        MENUITEM "Следующая страница\tCtrl+Right",       ID_AMIS_NEXT_PAGE
+        MENUITEM "Предыдущая страница\tCtrl+Влево",    ID_AMIS_PREVIOUS_PAGE
+        MENUITEM "Следующая страница\tCtrl+Вправо",       ID_AMIS_NEXT_PAGE
         MENUITEM "Перейти на страницу...\tCtrl+G",       ID_AMIS_GOTO_PAGE
         MENUITEM SEPARATOR
         MENUITEM "Найти в тексте... (&F)\tCtrl+F",       ID_AMIS_FIND_IN_TEXT

@@ -347,7 +347,7 @@
                         <audio from="" src="./audio/aud61.mp3"/>
                     </description>
                     <accelerator keys="Space">
-                        <text id="t53">Space</text>
+                        <text id="t53">Пробел</text>
                         <audio from="" src="./audio/aud62.mp3"/>
                     </accelerator>
                     <mnemonic>
@@ -606,7 +606,7 @@
                     <audio from="" src="./audio/aud110.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Left">
-                    <text id="t102">Ctrl+Left</text>
+                    <text id="t102">Ctrl+Влево</text>
                     <audio from="" src="./audio/aud111.mp3"/>
                 </accelerator>
             </action>
@@ -622,7 +622,7 @@
                     <audio from="" src="./audio/aud113.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Right">
-                    <text id="t105">Ctrl+Right</text>
+                    <text id="t105">Ctrl+Вправо</text>
                     <audio from="" src="./audio/aud114.mp3"/>
                 </accelerator>
             </action>
