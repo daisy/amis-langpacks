@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="&#1059;&#1076;&#1080;&#1088;&#1076;&#1083;&#1072;&#1075;&#1099;&#1085; &#1089;&#1072;&#1080;&#1076;&#1073;&#1072;&#1088;&#1099;&#1075; &#1072;&#1096;&#1080;&#1075;&#1083;&#1072;&#1093;" />
+<meta name="dc:title" content="AMIS User Guide" />
+<meta name="ncc:timeInThisSmil" content="0:00:14" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="14.329s">
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#amis_000c" id="amis_000c" />
+<seq>
+<audio src="11___.mp3" clip-begin="npt=0.000s" clip-end="npt=1.979s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0032" id="xami_0032" />
+<seq>
+<audio src="11___.mp3" clip-begin="npt=1.979s" clip-end="npt=5.316s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0033" id="xami_0033" />
+<seq>
+<audio src="11___.mp3" clip-begin="npt=5.316s" clip-end="npt=8.307s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0034" id="xami_0034" />
+<seq>
+<audio src="11___.mp3" clip-begin="npt=8.307s" clip-end="npt=10.384s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0035" id="xami_0035" />
+<seq>
+<audio src="11___.mp3" clip-begin="npt=10.384s" clip-end="npt=14.329s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

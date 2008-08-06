@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="&#1057;&#1080;&#1089;&#1090;&#1077;&#1084;&#1099;&#1085; &#1089;&#1091;&#1091;&#1093; &#1085;&#1257;&#1093;&#1094;&#1257;&#1083;&#1199;&#1199;&#1076;" />
+<meta name="dc:title" content="AMIS User Guide" />
+<meta name="ncc:timeInThisSmil" content="0:00:34" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="33.947s">
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#amis_0006" id="amis_0006" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=0.000s" clip-end="npt=1.998s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0010" id="xami_0010" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=1.998s" clip-end="npt=5.198s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0011" id="xami_0011" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=5.198s" clip-end="npt=10.592s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0012" id="xami_0012" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=10.592s" clip-end="npt=12.812s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0013" id="xami_0013" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=12.812s" clip-end="npt=17.644s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0014" id="xami_0014" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=17.644s" clip-end="npt=24.542s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0015" id="xami_0015" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=24.542s" clip-end="npt=27.530s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0016" id="xami_0016" />
+<seq>
+<audio src="05___.mp3" clip-begin="npt=27.530s" clip-end="npt=33.947s" id="qwrt_0008" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="AMIS &#1073;&#1091;&#1102;&#1091; &#1052;&#1101;&#1076;&#1101;&#1101;&#1083;&#1101;&#1083;&#1080;&#1081;&#1085; &#1058;&#1091;&#1089;&#1075;&#1072;&#1081; &#1052;&#1072;&#1083;&#1090;&#1080;&#1084;&#1077;&#1076;&#1080;&#1072; &#1057;&#1080;&#1089;&#1090;&#1077;&#1084;&#1099;&#1085; &#1093;&#1101;&#1088;&#1101;&#1075;&#1083;&#1101;&#1075;&#1095;&#1080;&#1081;&#1085; &#1079;&#1072;&#1072;&#1074;&#1072;&#1088;" />
+<meta name="dc:title" content="AMIS User Guide" />
+<meta name="ncc:timeInThisSmil" content="0:00:31" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="31.098s">
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#amis_0001" id="amis_0001" />
+<seq>
+<audio src="01_AMIS_______.mp3" clip-begin="npt=0.000s" clip-end="npt=4.498s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0001" id="xami_0001" />
+<seq>
+<audio src="01_AMIS_______.mp3" clip-begin="npt=4.498s" clip-end="npt=8.575s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0002" id="xami_0002" />
+<seq>
+<audio src="01_AMIS_______.mp3" clip-begin="npt=8.575s" clip-end="npt=9.734s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0003" id="xami_0003" />
+<seq>
+<audio src="01_AMIS_______.mp3" clip-begin="npt=9.734s" clip-end="npt=12.124s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0004" id="xami_0004" />
+<seq>
+<audio src="01_AMIS_______.mp3" clip-begin="npt=12.124s" clip-end="npt=14.462s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0005" id="xami_0005" />
+<seq>
+<audio src="01_AMIS_______.mp3" clip-begin="npt=14.462s" clip-end="npt=31.098s" id="qwrt_0006" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

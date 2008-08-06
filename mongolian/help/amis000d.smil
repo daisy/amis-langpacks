@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="&#1061;&#1101;&#1074;&#1083;&#1101;&#1083;&#1080;&#1081;&#1085; &#1084;&#1101;&#1076;&#1076;&#1101;&#1083;&#1101;&#1083;&#1080;&#1081;&#1075; &#1072;&#1074;&#1072;&#1093;" />
+<meta name="dc:title" content="AMIS User Guide" />
+<meta name="ncc:timeInThisSmil" content="0:00:51" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="50.574s">
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#amis_000e" id="amis_000e" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=0.000s" clip-end="npt=2.179s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0039" id="xami_0039" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=2.179s" clip-end="npt=14.538s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_003a" id="xami_003a" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=14.538s" clip-end="npt=15.283s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_003b" id="xami_003b" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=15.283s" clip-end="npt=17.072s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_003c" id="xami_003c" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=17.072s" clip-end="npt=18.705s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_003d" id="xami_003d" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=18.705s" clip-end="npt=19.945s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_003e" id="xami_003e" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=19.945s" clip-end="npt=21.134s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_003f" id="xami_003f" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=21.134s" clip-end="npt=22.571s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0040" id="xami_0040" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=22.571s" clip-end="npt=23.916s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0041" id="xami_0041" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=23.916s" clip-end="npt=25.092s" id="qwrt_000A" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0042" id="xami_0042" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=25.092s" clip-end="npt=26.646s" id="qwrt_000B" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0043" id="xami_0043" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=26.646s" clip-end="npt=33.046s" id="qwrt_000C" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0044" id="xami_0044" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=33.046s" clip-end="npt=38.440s" id="qwrt_000D" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0045" id="xami_0045" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=38.440s" clip-end="npt=44.200s" id="qwrt_000E" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0046" id="xami_0046" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=44.200s" clip-end="npt=46.734s" id="qwrt_000F" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0047" id="xami_0047" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=46.734s" clip-end="npt=48.628s" id="qwrt_0010" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amishelp-mongolian-entity.html#xami_0048" id="xami_0048" />
+<seq>
+<audio src="13___.mp3" clip-begin="npt=48.628s" clip-end="npt=50.574s" id="qwrt_0011" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>
