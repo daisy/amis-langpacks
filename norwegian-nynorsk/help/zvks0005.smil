@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:09.516"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:23.854"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Medan du les boka"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="69.516s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0026" id="vnma_0022"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=0.000s" clip-end="npt=2.463s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0027" id="vnma_0023"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=2.463s" clip-end="npt=3.843s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0028" id="vnma_0024"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=3.843s" clip-end="npt=8.342s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0029" id="vnma_0025"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=8.342s" clip-end="npt=10.503s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0030" id="vnma_0026"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=10.503s" clip-end="npt=16.622s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0031" id="vnma_0027"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=16.622s" clip-end="npt=20.222s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0008">
+				<text src="amishelpentity.html#vnma_0032" id="vnma_0028"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=20.222s" clip-end="npt=24.422s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0009">
+				<text src="amishelpentity.html#vnma_0033" id="vnma_0029"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=24.422s" clip-end="npt=27.422s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0010">
+				<text src="amishelpentity.html#vnma_0034" id="vnma_002a"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=27.422s" clip-end="npt=29.942s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0011">
+				<text src="amishelpentity.html#vnma_0035" id="vnma_002b"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=29.942s" clip-end="npt=36.243s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0012">
+				<text src="amishelpentity.html#vnma_0036" id="vnma_002c"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=36.243s" clip-end="npt=39.094s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0013">
+				<text src="amishelpentity.html#vnma_0037" id="vnma_002d"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=39.094s" clip-end="npt=43.954s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0014">
+				<text src="amishelpentity.html#vnma_0038" id="vnma_002e"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=43.954s" clip-end="npt=46.353s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0015">
+				<text src="amishelpentity.html#vnma_0039" id="vnma_002f"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=46.353s" clip-end="npt=49.715s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0016">
+				<text src="amishelpentity.html#vnma_0040" id="vnma_0030"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=49.715s" clip-end="npt=52.234s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0017">
+				<text src="amishelpentity.html#vnma_0041" id="vnma_0031"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=52.234s" clip-end="npt=55.054s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0018">
+				<text src="amishelpentity.html#vnma_0042" id="vnma_0032"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=55.054s" clip-end="npt=58.113s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0019">
+				<text src="amishelpentity.html#vnma_0043" id="vnma_0033"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=58.113s" clip-end="npt=61.715s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0020">
+				<text src="amishelpentity.html#vnma_0044" id="vnma_0034"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=61.715s" clip-end="npt=64.894s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0021">
+				<text src="amishelpentity.html#vnma_0045" id="vnma_0035"/>
+				<seq>
+					<audio src="05_Medan_du_les_boka.mp3" clip-begin="npt=64.894s" clip-end="npt=69.516s" id="audio_0020"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

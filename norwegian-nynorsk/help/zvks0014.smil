@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:16.992"/>
+		<meta name="ncc:totalElapsedTime" content="00:04:56.943"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Generelle instillingar"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="16.992s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0090" id="vnma_0008"/>
+				<seq>
+					<audio src="14_Generelle_instillingar.mp3" clip-begin="npt=0.000s" clip-end="npt=2.523s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0091" id="vnma_0009"/>
+				<seq>
+					<audio src="14_Generelle_instillingar.mp3" clip-begin="npt=2.523s" clip-end="npt=7.683s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0092" id="vnma_000a"/>
+				<seq>
+					<audio src="14_Generelle_instillingar.mp3" clip-begin="npt=7.683s" clip-end="npt=9.723s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0093" id="vnma_000b"/>
+				<seq>
+					<audio src="14_Generelle_instillingar.mp3" clip-begin="npt=9.723s" clip-end="npt=12.243s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0094" id="vnma_000c"/>
+				<seq>
+					<audio src="14_Generelle_instillingar.mp3" clip-begin="npt=12.243s" clip-end="npt=13.443s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0095" id="vnma_000d"/>
+				<seq>
+					<audio src="14_Generelle_instillingar.mp3" clip-begin="npt=13.443s" clip-end="npt=16.992s" id="audio_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

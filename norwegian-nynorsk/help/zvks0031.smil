@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:33.737"/>
+		<meta name="ncc:totalElapsedTime" content="00:10:08.885"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Avspeling og pause"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="33.737s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0187" id="vnma_0015"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=0.000s" clip-end="npt=2.643s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0188" id="vnma_0016"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=2.643s" clip-end="npt=3.963s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0189" id="vnma_0017"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=3.963s" clip-end="npt=5.463s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0190" id="vnma_0018"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=5.463s" clip-end="npt=7.382s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0191" id="vnma_0019"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=7.382s" clip-end="npt=9.063s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0192" id="vnma_001a"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=9.063s" clip-end="npt=13.057s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0008">
+				<text src="amishelpentity.html#vnma_0193" id="vnma_001b"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=13.057s" clip-end="npt=17.077s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0009">
+				<text src="amishelpentity.html#vnma_0194" id="vnma_001c"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=17.077s" clip-end="npt=19.597s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0010">
+				<text src="amishelpentity.html#vnma_0195" id="vnma_001d"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=19.597s" clip-end="npt=23.975s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0011">
+				<text src="amishelpentity.html#vnma_0196" id="vnma_001e"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=23.975s" clip-end="npt=25.236s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0012">
+				<text src="amishelpentity.html#vnma_0197" id="vnma_001f"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=25.236s" clip-end="npt=28.414s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0013">
+				<text src="amishelpentity.html#vnma_0198" id="vnma_0020"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=28.414s" clip-end="npt=30.021s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0014">
+				<text src="amishelpentity.html#vnma_0199" id="vnma_0021"/>
+				<seq>
+					<audio src="31_Avspeling_og_pause.mp3" clip-begin="npt=30.021s" clip-end="npt=33.737s" id="audio_0013"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

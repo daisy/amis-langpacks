@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:22.574"/>
+		<meta name="ncc:totalElapsedTime" content="00:17:13.886"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Bokinformasjon"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="22.574s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0334" id="vnma_0008"/>
+				<seq>
+					<audio src="52_Bokinformasjon.mp3" clip-begin="npt=0.000s" clip-end="npt=2.721s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0335" id="vnma_0009"/>
+				<seq>
+					<audio src="52_Bokinformasjon.mp3" clip-begin="npt=2.721s" clip-end="npt=7.461s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0336" id="vnma_000a"/>
+				<seq>
+					<audio src="52_Bokinformasjon.mp3" clip-begin="npt=7.461s" clip-end="npt=9.021s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0337" id="vnma_000b"/>
+				<seq>
+					<audio src="52_Bokinformasjon.mp3" clip-begin="npt=9.021s" clip-end="npt=13.221s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0338" id="vnma_000c"/>
+				<seq>
+					<audio src="52_Bokinformasjon.mp3" clip-begin="npt=13.221s" clip-end="npt=17.719s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0339" id="vnma_000d"/>
+				<seq>
+					<audio src="52_Bokinformasjon.mp3" clip-begin="npt=17.719s" clip-end="npt=22.574s" id="audio_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

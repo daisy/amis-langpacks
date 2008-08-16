@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:30.196"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:11.808"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Kva er AMIS?"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="30.196s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0005" id="vnma_0011"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=0.000s" clip-end="npt=2.544s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0006" id="vnma_0012"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=2.544s" clip-end="npt=7.404s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0007" id="vnma_0013"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=7.404s" clip-end="npt=10.481s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0008" id="vnma_0014"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=10.481s" clip-end="npt=12.022s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0009" id="vnma_0015"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=12.022s" clip-end="npt=15.863s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0010" id="vnma_0016"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=15.863s" clip-end="npt=18.684s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0008">
+				<text src="amishelpentity.html#vnma_0011" id="vnma_0017"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=18.684s" clip-end="npt=21.324s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0009">
+				<text src="amishelpentity.html#vnma_0012" id="vnma_0018"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=21.324s" clip-end="npt=24.861s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0010">
+				<text src="amishelpentity.html#vnma_0013" id="vnma_0019"/>
+				<seq>
+					<audio src="02_Kva_er_AMIS_.mp3" clip-begin="npt=24.861s" clip-end="npt=30.196s" id="audio_0009"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

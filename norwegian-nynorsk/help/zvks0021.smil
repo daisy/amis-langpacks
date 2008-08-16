@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:21.969"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:05.052"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Skru navigasjonsmenyen av og på"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="21.969s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0130" id="vnma_000a"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=0.000s" clip-end="npt=3.790s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0131" id="vnma_000b"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=3.790s" clip-end="npt=6.610s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0132" id="vnma_000c"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=6.610s" clip-end="npt=9.592s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0133" id="vnma_000d"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=9.592s" clip-end="npt=12.489s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0134" id="vnma_000e"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=12.489s" clip-end="npt=14.529s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0135" id="vnma_000f"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=14.529s" clip-end="npt=16.928s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0008">
+				<text src="amishelpentity.html#vnma_0136" id="vnma_0010"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=16.928s" clip-end="npt=18.370s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0009">
+				<text src="amishelpentity.html#vnma_0137" id="vnma_0011"/>
+				<seq>
+					<audio src="21_Skru_navigasjonsmenyen_av_og_p_.mp3" clip-begin="npt=18.370s" clip-end="npt=21.969s" id="audio_0008"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

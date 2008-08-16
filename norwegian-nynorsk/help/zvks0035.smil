@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:23.919"/>
+		<meta name="ncc:totalElapsedTime" content="00:11:28.161"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Saktare"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="23.919s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0217" id="vnma_0009"/>
+				<seq>
+					<audio src="35_Saktare.mp3" clip-begin="npt=0.000s" clip-end="npt=1.768s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0218" id="vnma_000a"/>
+				<seq>
+					<audio src="35_Saktare.mp3" clip-begin="npt=1.768s" clip-end="npt=5.728s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0219" id="vnma_000b"/>
+				<seq>
+					<audio src="35_Saktare.mp3" clip-begin="npt=5.728s" clip-end="npt=12.507s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0220" id="vnma_000c"/>
+				<seq>
+					<audio src="35_Saktare.mp3" clip-begin="npt=12.507s" clip-end="npt=14.305s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0221" id="vnma_000d"/>
+				<seq>
+					<audio src="35_Saktare.mp3" clip-begin="npt=14.305s" clip-end="npt=17.907s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0222" id="vnma_000e"/>
+				<seq>
+					<audio src="35_Saktare.mp3" clip-begin="npt=17.907s" clip-end="npt=20.187s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0008">
+				<text src="amishelpentity.html#vnma_0223" id="vnma_000f"/>
+				<seq>
+					<audio src="35_Saktare.mp3" clip-begin="npt=20.187s" clip-end="npt=23.919s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

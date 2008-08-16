@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:17.111"/>
+		<meta name="ncc:totalElapsedTime" content="00:11:52.080"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.02 Build 025 # 089113"/>
+        <meta name="title" content="Normalt tempo"/>
+        <meta name="dc:title" content="AMIS_Nynor_Hjelp"/>
+        <meta name="dc:identifier" content="AMIS NYNORSK HJELP"/>
+    </head>
+	<body>
+		<seq dur="17.111s">
+			<par endsync="last" id="vnma_0002">
+				<text src="amishelpentity.html#vnma_0224" id="vnma_0009"/>
+				<seq>
+					<audio src="36_Normalt_tempo.mp3" clip-begin="npt=0.000s" clip-end="npt=1.884s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0003">
+				<text src="amishelpentity.html#vnma_0225" id="vnma_000a"/>
+				<seq>
+					<audio src="36_Normalt_tempo.mp3" clip-begin="npt=1.884s" clip-end="npt=5.724s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0004">
+				<text src="amishelpentity.html#vnma_0226" id="vnma_000b"/>
+				<seq>
+					<audio src="36_Normalt_tempo.mp3" clip-begin="npt=5.724s" clip-end="npt=8.423s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0005">
+				<text src="amishelpentity.html#vnma_0227" id="vnma_000c"/>
+				<seq>
+					<audio src="36_Normalt_tempo.mp3" clip-begin="npt=8.423s" clip-end="npt=9.924s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0006">
+				<text src="amishelpentity.html#vnma_0228" id="vnma_000d"/>
+				<seq>
+					<audio src="36_Normalt_tempo.mp3" clip-begin="npt=9.924s" clip-end="npt=11.843s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0007">
+				<text src="amishelpentity.html#vnma_0229" id="vnma_000e"/>
+				<seq>
+					<audio src="36_Normalt_tempo.mp3" clip-begin="npt=11.843s" clip-end="npt=12.744s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vnma_0008">
+				<text src="amishelpentity.html#vnma_0230" id="vnma_000f"/>
+				<seq>
+					<audio src="36_Normalt_tempo.mp3" clip-begin="npt=12.744s" clip-end="npt=17.111s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
