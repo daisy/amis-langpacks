@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat rus-KZ  ..\..\..\langpacks\russian ..\..\..\amis\bin\settings\lang debug"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat rus-KZ  ..\..\..\langpacks\russian debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat rus-KZ  ..\..\..\langpacks\russian ..\..\..\amis\bin\settings\lang release"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat rus-KZ  ..\..\..\langpacks\russian release"
 			/>
 		</Configuration>
 	</Configurations>
