@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="tis-620"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="dc:title" content="AMIS" />
+<meta name="ncc:timeInThisSmil" content="00:12:04" />
+<meta name="dc:identifier" content="00" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<ref title="AMIS" src="amis0001.smil" id="amis_0001" />
+<ref title="AMIS คืออะไร?" src="amis0002.smil" id="amis_0003" />
+<ref title="อะไรคือ DAISY?" src="amis0003.smil" id="amis_0004" />
+<ref title="เวอร์ชั่นของหนังสือเดซีที่โปรแกรมสามารถอ่านได้" src="amis0004.smil" id="amis_0005" />
+<ref title="ความต้องการของระบบ" src="amis0005.smil" id="amis_0006" />
+<ref title="โครงสร้างหน้าจอ" src="amis0006.smil" id="amis_0007" />
+<ref title="ความสามารถของโปรแกรม" src="amis0007.smil" id="amis_0008" />
+<ref title="การเปิดหนังสือ" src="amis0008.smil" id="amis_0009" />
+<ref title="การควบคุมการอ่าน" src="amis0009.smil" id="amis_000a" />
+<ref title="การนำทาง" src="amis000a.smil" id="amis_000b" />
+<ref title="การใช้แถบเลื่อนด้านข้างเพื่อการควบคุม" src="amis000b.smil" id="amis_000c" />
+<ref title="การตั้งตัวคั่นหนังสือ" src="amis000c.smil" id="amis_000d" />
+<ref title="การแสดงข้อมูลเกี่ยวกับสิ่งพิมพ์" src="amis000d.smil" id="amis_000e" />
+<ref title="หน้าต่างส่วนช่วยเหลือในโปรแกรม AMIS" src="amis000e.smil" id="amis_000f" />
+<ref title="การเปลี่ยนมุมมอง" src="amis000f.smil" id="amis_0010" />
+<ref title="การปรับแต่งโปรแกรม" src="amis0010.smil" id="amis_0011" />
+<ref title="การตั้งค่ารูปแบบของข้อความ" src="amis0011.smil" id="amis_0012" />
+<ref title="ติดต่อเรา" src="amis0012.smil" id="amis_0013" />
+</body>
+</smil>

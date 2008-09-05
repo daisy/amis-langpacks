@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="tis-620"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="AMIS" />
+<meta name="dc:title" content="AMIS" />
+<meta name="ncc:timeInThisSmil" content="0:00:29" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="29.196s">
+<par endsync="last">
+<text src="helpthai.html#amis_0001" id="amis_0001" />
+<seq>
+<audio src="01_AMIS.mp3" clip-begin="npt=0.000s" clip-end="npt=0.837s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0001" id="xami_0001" />
+<seq>
+<audio src="01_AMIS.mp3" clip-begin="npt=0.837s" clip-end="npt=10.605s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0002" id="xami_0002" />
+<seq>
+<audio src="01_AMIS.mp3" clip-begin="npt=10.605s" clip-end="npt=29.196s" id="qwrt_0003" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

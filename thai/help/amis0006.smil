@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="tis-620"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="โครงสร้างหน้าจอ" />
+<meta name="dc:title" content="AMIS" />
+<meta name="ncc:timeInThisSmil" content="0:02:24" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="143.964s">
+<par endsync="last">
+<text src="helpthai.html#amis_0007" id="amis_0007" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=0.000s" clip-end="npt=1.258s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0014" id="xami_0014" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=1.258s" clip-end="npt=22.945s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0015" id="xami_0015" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=22.945s" clip-end="npt=36.240s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0016" id="xami_0016" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=36.240s" clip-end="npt=38.439s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0017" id="xami_0017" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=38.439s" clip-end="npt=66.165s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0018" id="xami_0018" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=66.165s" clip-end="npt=67.792s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0019" id="xami_0019" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=67.792s" clip-end="npt=110.527s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_001a" id="xami_001a" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=110.527s" clip-end="npt=112.768s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_001b" id="xami_001b" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=112.768s" clip-end="npt=140.836s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_001c" id="xami_001c" />
+<seq>
+<audio src="06.mp3" clip-begin="npt=140.836s" clip-end="npt=143.964s" id="qwrt_000A" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

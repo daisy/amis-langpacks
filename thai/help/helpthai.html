@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="tis-620"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="th" xml:lang="th"> <head>  <title>คู่มือการใช้งานโปรแกรม AMIS</title>   
+<meta http-equiv="Content-type" content="text/html; charset=tis-620" /> 
+<link rel="stylesheet" type="text/css" href="style.css" /> 
+<meta name="ncc:charset" content="tis-620" />
+</head> 
+<body>  <h1 id="amis_0001"><a href="amis0001.smil#amis_0001">AMIS</a></h1> 
+<div class="header" id="xami_0001"><a href="amis0001.smil#xami_0001"> <img src="./img/amis.gif" height="110" width="110" alt="AMIS logo" />   
+<img src="./img/dfa-log.jpg" alt="DAISY-for-All project logo" />   
+<img src="./img/Nipponfoundation.gif" height="73" width="300" alt="Nippon Foundation logo" /> 
+<img src="./img/daisy.jpg" height="110" alt="DAISY Consortium logo" /> 
+</a></div>  
+<p id="xami_0002"><a href="amis0001.smil#xami_0002">คู่มือนี้จะแนะนำ AMIS อย่างคร่าวๆ โดยรายละเอียดจะประกอบไปด้วย ความสามารถของโปรแกรม, ความต้องการพื้นฐานของระบบ และ ตัวเลือกต่างๆ หากท่านต้องการค้นหาแป้นพิมพ์ลัด กรุณาอ่านจาดคู่มือแป้นพิมพ์ลัดในเมนูช่วยเหลือ</a></p>  
+<h2 id="amis_0003"><a href="amis0002.smil#amis_0003">AMIS คืออะไร?</a></h2>  
+<p id="xami_0003"><a href="amis0002.smil#xami_0003">AMIS ย่อมาจาก <em>A</em>daptive 
+<em>M</em>ultimedia 
+<em>I</em>nformation 
+<em>S</em>ystem.
+</a></p>  
+<p id="xami_0004"><a href="amis0002.smil#xami_0004">AMIS คือโปรแกรมอ่านหนังสือเดซีที่มีเสียงบรรยายในโปรแกรมโดยไม่ต้องอาศัยโปรแกรมอ่านหน้าจอเพิ่มเติม นอกจากนั้น AMIS ยังเป็นซอฟต์แวร์เปิด (Open source software) ที่ผู้ใช้งานสามารถนำมาใช้ได้ฟรี ขณะนี้คู่มือและเสียงบรรยาย (Language pack) ของโปรแกรม AMIS นั้นถูกแปลออกมาเป็นจำนวนหลายภาษาซึ่งผู้ใช้งานสามารถดาวน์โหลดได้จาก http://amisproject.org</a></p>  
+<h2 id="amis_0004"><a href="amis0003.smil#amis_0004">อะไรคือ DAISY?</a></h2>  
+<p id="xami_0005"><a href="amis0003.smil#xami_0005">DAISY ย่อมาจาก <em>D</em>igital 
+<em>A</em>ccessible 
+<em>I</em>nformation 
+<em>SY</em>stem หนังสือเดซีเป็นหนังสือเสียงชนิดหนึ่งที่สามารถเข้าถึงได้ (Accessible) ในรูปแบบพื้นฐานของหนังสือทั่วไป เช่น หัวข้อ, เลขหน้า, ข้อความท้ายกระดาษ, แถบแสดงผลด้านข้าง, และการคั่นหนังสือ โดยผู้ใช้งานสามารถที่จะควบคุมการอ่านได้อย่างง่ายดายและรวดเร็ว
+</a></p>  
+<p id="xami_0006"><a href="amis0003.smil#xami_0006">จริงๆแล้วคู่มือที่คุณกำลังอ่านอยู่นี้ก็คือหนังสือเดซีเล่มหนึ่ง ซึ่งคุณจะเห็นได้ว่ามีข้อความตัวอักษรและเสียงที่ถูกอัดไว้ถูกแสดงผลออกมาพร้อมๆกัน นอกจากนั้นคุณยังเลื่อนไปยังหัวข้อ หรือประโยคถัดไปได้ทันที</a></p>  
+<p id="xami_0007"><a href="amis0003.smil#xami_0007">มาตรฐานเดซีเป็นมาตรฐานในระดับสากล ซึ่งในตอนแรกถูกพัฒนาขึ้นเพื่อใช้ให้ประโยชน์กับผู้ที่มีปัญหาทางด้านการมองเห็น ขณะนี้มีการนำมาตรฐานเดซีนี้ไปใช้กันอย่างแพร่หลายเพื่อเพิ่มความสามารถในด้านการเข้าถึงข้อมูล</a></p>  
+<p id="xami_0008"><a href="amis0003.smil#xami_0008">องค์กรเดซีสากล (DAISY Consortium) ถูกก่อตั้งขึ้นในปี 1996 ประกอบไปด้วยสมาชิกที่กำลังเพิ่มขึ้นจากหน่วยงานต่างๆทั่วโลก เพื่อที่จะสร้างความเท่าเทียมกันในการเข้าถึงข้อมูลสำหรับผู้ที่ไม่สามารถเข้าถึงสื่อสิ่งพิมพ์ปกติได้</a></p>  
+<p id="xami_0009"><a href="amis0003.smil#xami_0009">คุณสามารถหาข้อมูลเพิ่มเติมเกี่ยวกับเดซีได้จาก http://daisy.org</a></p>  
+<h2 id="amis_0005"><a href="amis0004.smil#amis_0005">เวอร์ชั่นของหนังสือเดซีที่โปรแกรมสามารถอ่านได้</a></h2>  
+<p id="xami_000a"><a href="amis0004.smil#xami_000a">เวอร์ชั่นของหนังสือเดซีเหล่านี้สามารถอ่านได้ด้วยโปรแกรม AMIS:</a></p>  
+<ul> <li id="xami_000b"><a href="amis0004.smil#xami_000b">หนังสือเสียงเดซีเวอร์ชั่น 2.02 </a></li> 
+<li id="xami_000c"><a href="amis0004.smil#xami_000c">หนังสือเสียงเดซีเวอร์ชั่น 3 (บางครั้งอาจพบในชื่อ DAISY/NISO หรือ ANSI/NISO z39.86-2005)</a></li> 
+</ul>  
+<h2 id="amis_0006"><a href="amis0005.smil#amis_0006">ความต้องการของระบบ</a></h2>  
+<p id="xami_000d"><a href="amis0005.smil#xami_000d">โปรแกรมและอุปกรณ์เหล่านี้เป็นความต้องการพื้นฐานเพื่อที่จะติดตั้งและใช้งานโปรแกรม AMIS:</a></p>  
+<ul> <li id="xami_000e"><a href="amis0005.smil#xami_000e">ระบบปฏิบัติการ Windows XP, Windows Vista, หรือ Windows 2000</a></li> 
+<li id="xami_000f"><a href="amis0005.smil#xami_000f">โปรแกรม DirectX 9</a></li> 
+<li id="xami_0010"><a href="amis0005.smil#xami_0010">โปรแกรมสังเคราะห์เสียง SAPI 5.1</a></li> 
+<li id="xami_0011"><a href="amis0005.smil#xami_0011">โปรแกรม Internet Explorer 7 (รุ่นก่อนหน้าก็สามารถใช้งานได้ แต่แนะนำให้ใช้รุ่นนี้)</a></li> 
+<li id="xami_0012"><a href="amis0005.smil#xami_0012">เนื้อที่ว่างในฮาร์ดดิกส์จำนวน 50 MB</a></li> 
+</ul>  
+<p id="xami_0013"><a href="amis0005.smil#xami_0013">อย่างไรก็ตามตัวติดตั้งโปรแกรม AMIS จะบอกคุณว่าส่วนประกอบใดขาดหายไปในระหว่างการติดตั้งอีกทีหนึ่ง</a></p>  
+<h2 id="amis_0007"><a href="amis0006.smil#amis_0007">โครงสร้างหน้าจอ</a></h2>  
+<p id="xami_0014"><a href="amis0006.smil#xami_0014">หน้าจอโปรแกรมมี 2 รูปแบบมุมมอง คือ มุมมองปกติ(Default) และ มุมมองพื้นฐาน (Basic) โปรแกรม AMIS จะเริ่มต้นที่มุมมองปกติจนกระทั่งคุณเปลี่ยนไปเป็นแบบมุมมองพื้นฐาน (การปรับค่านี้อยู่ในหน้าต่างการตั้งค่า)</a></p>  
+<p id="xami_0015"><a href="amis0006.smil#xami_0015">มุมมองปกติมีส่วนประกอบ 4 ส่วนด้วยกันคือ เมนู, แถบเครื่องมือ, หน้าต่างสำหรับนำทางซึ่งภายในบรรจุสารบัญ อยู่ทางด้านซ้าย, หน้าต่างข้อความอยู่ทางด้านขวา </a></p>  
+<div class="example" id="xami_0016"><a href="amis0006.smil#xami_0016"> <img src="./img/amis-default-view.jpg" alt="default view for AMIS" /> 
+<p class="caption">หน้าต่างโปรแกรม AMIS</p> 
+</a></div>  
+<p id="xami_0017"><a href="amis0006.smil#xami_0017">แถบเครื่องมือประกอบด้วยปุ่มขนาดกลางจำนวน 11 ปุ่ม คือ <span class="command">ปุ่มเปิดหนังสือ</span>, 
+<span class="command">ปุ่มโหลดแผ่นซีดีรอม</span>, 
+<span class="command">ปุ่มไปยังประโยคก่อนหน้า</span>, 
+<span class="command">ปุ่มเล่นต่อหรือหยุด</span>, 
+<span class="command">ปุ่มไปยังประโยคถัดไป</span>, 
+<span class="command">ปุ่มลดความเร็วในการอ่าน</span>, 
+<span class="command">ปุ่มเพิ่มความเร็วในการอ่าน</span>, 
+<span class="command">ปุ่มลดขนาดตัวอักษร</span>, 
+<span class="command">ปุ่มเพิ่มขนาดตัวอักษร</span>, 
+<span class="command">ปุ่มเปลี่ยนรูปแบบหน้าต่างข้อความ</span>, 
+<span class="command">และ ปุ่มเพิ่มตั่วคั่นหนั่งสือ</span>.
+</a></p> 
+<div class="example" id="xami_0018"><a href="amis0006.smil#xami_0018"> <img src="./img/amis-default-toolbar.jpg" alt="default toolbar for AMIS" /> 
+<p class="caption">แถบเครื่องมือ</p> 
+</a></div>  
+<p id="xami_0019"><a href="amis0006.smil#xami_0019">แถบแสดงผลด้านข้างประกอบไปด้วยแถบย่อยหนึ่งแถบหรือมากกว่า ทั้งนี้ขึ้นอยู่กับชนิดของหนังสือเดซีที่กำลังอ่านอยู่ แถบแรกจะเป็นลำดับขั้นของสารบัญซึ่งถูกแสดงในรูปแบบของมุมมองแบบเป็นลำดับขั้นของหัวข้อ แถบที่สอง (ถ้าหนังสือมีการแบ่งหน้าไว้) จะเป็นรายการของหน้าที่มีอยู่ในหนังสือเล่นนี้ แถบต่อมาจะแสดงผล รายการพิเศษเช่น รายการข้อความท้ายกระดาษ, รายการรูปภาพ (ถ้าหนังสือมีการจัดเตรียมไว้) ซึ่งในแถบนี้จะบอกทั้งชื่อและชนิดของรายการพิเศษนั้นว่าเป็นรายการประเภทอะไร</a></p>  
+<div class="example" id="xami_001a"><a href="amis0006.smil#xami_001a"> <img src="./img/amis-sidebar.jpg" alt="the sidebar of AMIS" /> 
+<p class="caption">แถบแสดงผลด้านข้าง</p> 
+</a></div>  
+<p id="xami_001b"><a href="amis0006.smil#xami_001b">มุมมองพื้นฐานมีส่วนประกอบสองส่วนใหญ่ๆคือ แถบเครื่องมือที่ด้านล่างของหน้าจอ และหน้าต่างเนื้อหาที่ตรงกลางหน้าจอ ที่แถบเครื่องมือจะมีปุ่มใหญ่อยู่ 5 ปุ่ม ประกอบด้วย <span class="command">ปุ่มกระโดดไปประโยคก่อนหน้า</span>, 
+<span class="command">ปุ่มเล่นหรือหยุด</span>, 
+<span class="command">ปุ่มกระโดดไปประโยคถัดไป</span>, 
+<span class="command">ปุ่มเปลี่ยนไปยังมุมมองปกติ </span> ในมุมมองพิ้นฐานนี้จะไม่มีเมนูและแถบแสดงผลด้านข้างเหมือนในมุมมองปกติ
+</a></p>  
+<div class="example" id="xami_001c"><a href="amis0006.smil#xami_001c"> <img src="./img/amis-basic-view.jpg" alt="basic view for AMIS" /> 
+<p class="caption">โปรแกรม AMIS ในมุมมองพื้นฐาน</p> 
+</a></div>  
+<h2 id="amis_0008"><a href="amis0007.smil#amis_0008">ความสามารถของโปรแกรม</a></h2>  
+<p id="xami_001d"><a href="amis0007.smil#xami_001d">หัวข้อต่อไปนี้จะประกอบไปด้วยคำอธิบายคร่าวๆของความสามารถพิเศษในโปรแกรม AMIS โดยจะอธิบายเป็นเรื่องๆ</a></p>  
+<h3 id="amis_0009"><a href="amis0008.smil#amis_0009">การเปิดหนังสือ</a></h3>  
+<p id="xami_001e"><a href="amis0008.smil#xami_001e">หนังสือเดซีสามารถอยู่ได้ทั้งบนฮาร์ดดิกส์และซีดีรอม หรือ โฟล์เดอร์ที่ถูกแชร์อยู่บนเครื่องคอมพิวเตอร์เครื่องอื่นๆ</a></p>  
+<ul> <li id="xami_001f"><a href="amis0008.smil#xami_001f">เปิดหนังสือที่อ่านล่าสุด</a></li> 
+<li id="xami_0020"><a href="amis0008.smil#xami_0020">ทำการเปิดหนังสือที่อ่านล่าสุดทันทีที่เริ่มทำงานโปรแกรม</a></li> 
+<li id="xami_0021"><a href="amis0008.smil#xami_0021">เปิดหนังสือจากคำสั่งแบบข้อความ (Command Line)</a></li> 
+<li id="xami_0022"><a href="amis0008.smil#xami_0022">เรียกดูชื่อเรื่องหนังสือที่บรรจุอยู่แผ่นซีดีรอม ไม่ว่าจะเป็นหนังสือเล่มเดียวแผ่นเดียว หรือ หนังสือหลายเล่มในหนึ่งแผ่น</a></li> 
+<li id="xami_0023"><a href="amis0008.smil#xami_0023">เปิดหนังสือจากระบบไฟล์ในเครื่องของคุณ</a></li> 
+<li id="xami_0024"><a href="amis0008.smil#xami_0024">เปิดหนังสือจากจากเวปไซต์โดยระบุเป็น URL</a></li> 
+</ul>  
+<h3 id="amis_000a"><a href="amis0009.smil#amis_000a">การควบคุมการอ่าน</a></h3> 
+<p id="xami_0025"><a href="amis0009.smil#xami_0025">หนังสือเดซีจะถูกอ่านตั้งแต่ต้นจนจบตั้งแต่จุดเริ่มต้นจนถึงจุดสุดท้ายของหนังสือ อย่างไรก็ตามคุณสามารถควบคุมการอ่านได้ โดยโปรแกรมมีความสามารถพิเศษที่จะทำการควบคุมได้ดังต่อไปนี้</a></p>  
+<ul> <li id="xami_0026"><a href="amis0009.smil#xami_0026">เล่นหรือหยุดการอ่านหนังสือ</a></li> 
+<li id="xami_0027"><a href="amis0009.smil#xami_0027">เพิ่มความเร็วในการอ่านหนังสือ</a></li> 
+<li id="xami_0028"><a href="amis0009.smil#xami_0028">เปิดหรือเปิดตัวเลือกในการอ่าน เช่น การบอกเลขที่หน้า หรือ การบอกข้อความท้ายกระดาษ</a></li> 
+</ul>  
+<h3 id="amis_000b"><a href="amis000a.smil#amis_000b">การนำทาง</a></h3>  
+<p id="xami_0029"><a href="amis000a.smil#xami_0029">นอกจากการอ่านจากจุดเริ่มต้นของหนังสือจนจบแล้ว คุณสามารถที่จะกระโดดไปยังจุดที่คุณต้องการได้อย่างง่ายได้โดยใช้ความสามารถพิเศษของโปรแกรมดังต่อไปนี้</a></p>  
+<ul> <li id="xami_002a"><a href="amis000a.smil#xami_002a">กระโดดไปยังเลขที่หน้าที่แล้ว หรือ เลขที่หน้าถัดไป</a></li> 
+<li id="xami_002b"><a href="amis000a.smil#xami_002b">กระโดดไปยังหัวข้อก่อนหน้า หรือ หัวข้อถัดไป</a></li> 
+<li id="xami_002c"><a href="amis000a.smil#xami_002c">กระโดดไปยังหน้าที่ต้องการไป</a></li> 
+<li id="xami_002d"><a href="amis000a.smil#xami_002d">ค้นหาข้อความจากคำ หรือ กลุ่มคำ</a></li> 
+</ul>  
+<h3 id="amis_000c"><a href="amis000b.smil#amis_000c">การใช้แถบเลื่อนด้านข้างเพื่อการควบคุม</a></h3>  
+<p id="xami_002e"><a href="amis000b.smil#xami_002e">ใช้แถบเลื่อนด้านข้างเพื่อที่จะดูโครงสร้างของหนังสือ และคุณสามารถเลือกตำแหน่งที่ต้องการไปได้จากแถบเลื่อนนี้</a></p>  
+<ul> <li id="xami_002f"><a href="amis000b.smil#xami_002f">มุมมองแบบเป็นลำดับขั้นของหัวข้อ</a></li> 
+<li id="xami_0030"><a href="amis000b.smil#xami_0030">รายการของหน้าที่มีอยู่ในหนังสือ</a></li> 
+<li id="xami_0031"><a href="amis000b.smil#xami_0031">รายการชนิดพิเศษที่มีอยู่ในหนังสือ เช่น รายการข้อความท้ายกระดาษ</a></li> 
+</ul>  
+<h3 id="amis_000d"><a href="amis000c.smil#amis_000d">การตั้งตัวคั่นหนังสือ</a></h3>  
+<ul> <li id="xami_0032"><a href="amis000c.smil#xami_0032">เพิ่มตัวคั่นหนังสือ (ชื่อตัวคั่นหนังสือจะถูกตั้งโดยอัตโนมัติซึ่งขึ้นอยู่กับสิ่งที่คุณกำลังทำการคั่น)</a></li> 
+<li id="xami_0033"><a href="amis000c.smil#xami_0033">การกระโดดไปยังตัวคั่นหนังสือ</a></li> 
+<li id="xami_0034"><a href="amis000c.smil#xami_0034">รายการตัวคั่นหนังสือของหนังสือเล่มนั้นจะถูกนำขึ้นมาแสดงเมื่อคุณได้เปิดหนังสือโดยอัตโนมัติ</a></li> 
+</ul>   
+<h3 id="amis_000e"><a href="amis000d.smil#amis_000e">การแสดงข้อมูลเกี่ยวกับสิ่งพิมพ์</a></h3>  
+<p id="xami_0035"><a href="amis000d.smil#xami_0035">โปรแกรมสามารถแสดงข้อมูลเกี่ยวกับหนังสือที่คุณกำลังอ่านอยู่ได้โดยการใช้หน้าต่างสรุปข้อมูลสิ่งพิมพ์ของ AMIS เพื่อดูรายการดังต่อไปนี้</a></p>  
+<ul> <li id="xami_0036"><a href="amis000d.smil#xami_0036">ชื่อเรื่อง</a></li> 
+<li id="xami_0037"><a href="amis000d.smil#xami_0037">ผู้แต่ง</a></li> 
+<li id="xami_0038"><a href="amis000d.smil#xami_0038">สำนักพิมพ์</a></li> 
+<li id="xami_0039"><a href="amis000d.smil#xami_0039">คำอธิบายเพิ่มเติม</a></li> 
+<li id="xami_003a"><a href="amis000d.smil#xami_003a">คนอ่าน</a></li> 
+<li id="xami_003b"><a href="amis000d.smil#xami_003b">ความยาวทั้งหมด</a></li> 
+<li id="xami_003c"><a href="amis000d.smil#xami_003c">จำนวนหน้า</a></li> 
+<li id="xami_003d"><a href="amis000d.smil#xami_003d">วันที่</a></li> 
+<li id="xami_003e"><a href="amis000d.smil#xami_003e">รูปแบบ</a></li> 
+<li id="xami_003f"><a href="amis000d.smil#xami_003f">รูปแบบความสามารถที่สามารถเข้าถึงได้ เช่น หัวข้อ, หน้า, และ รายการท้ายกระดาษ</a></li> 
+<li id="xami_0040"><a href="amis000d.smil#xami_0040">หน้าปัจจุบัน</a></li> 
+<li id="xami_0041"><a href="amis000d.smil#xami_0041">หัวข้อปัจจุบัน (รวมถึง จำนวนของหน้า และ หัวข้อย่อย)</a></li> 
+<li id="xami_0042"><a href="amis000d.smil#xami_0042">จำนวนของหัวข้อในสารบัญ</a></li> 
+<li id="xami_0043"><a href="amis000d.smil#xami_0043">จำนวนความลึกสูงสุดของหัวข้อ</a></li> 
+</ul>  
+<div class="example" id="xami_0044"><a href="amis000d.smil#xami_0044"> <img src="./img/amis-publication-summary-dialog.jpg" alt="the publication summary dialog" /> 
+<p class="caption">หน้าต่างสรุปสิ่งพิมพ์นี้</p> 
+</a></div>  
+<h3 id="amis_000f"><a href="amis000e.smil#amis_000f">หน้าต่างส่วนช่วยเหลือในโปรแกรม AMIS</a></h3> 
+<ul> <li id="xami_0045"><a href="amis000e.smil#xami_0045">หน้าต่างข้อมูลเกี่ยวกับ AMIS</a></li> 
+<li id="xami_0046"><a href="amis000e.smil#xami_0046">อ่านคู่มือการใช้งานโปรแกรม (คู่มือเล่มนี้)</a></li> 
+<li id="xami_0047"><a href="amis000e.smil#xami_0047">เรียนรู้คำสั่งและแป้นพิมพ์ลัดสำหรับโปรแกรม AMIS</a></li> 
+</ul>  
+<h3 id="amis_0010"><a href="amis000f.smil#amis_0010">การเปลี่ยนมุมมอง</a></h3>  
+<p id="xami_0048"><a href="amis000f.smil#xami_0048">ส่วนติดต่อผู้ใช้งานของโปรแกรม AMIS สามารถให้คุณเลือกมุมมองที่แตกต่างกันได้ทั้งการวางตำแหน่งบนหน้าจอของส่วนประกอบต่างๆในโปรแกรม และ รูปแบบการแสดงผลของหนังสือเดซี</a></p>  
+<ul> <li id="xami_0049"><a href="amis000f.smil#xami_0049">ใช้มุมมองพื้นฐาน หรือ มุมมองปกติ</a></li> 
+<li id="xami_004a"><a href="amis000f.smil#xami_004a">แสดง หรือ ซ่อน แถบแสดงผลด้านข้างสำหรับการควบคุม</a></li> 
+<li id="xami_004b"><a href="amis000f.smil#xami_004b">เลื่อนแถบแสดงผลด้านข้างสำหรับการควบคุมไปข้างๆจอ</a></li> 
+<li id="xami_004c"><a href="amis000f.smil#xami_004c">เปลี่ยนรูปแบบการแสดงผลของหน้าในหนังสือเดซี</a></li> 
+<li id="xami_004d"><a href="amis000f.smil#xami_004d">เพิ่มขนาดของตัวอักษร</a></li> 
+<li id="xami_004e"><a href="amis000f.smil#xami_004e">เปลี่ยนสีแรงเงาและรูปแบบตัวอักษรของแถบแสดงผลด้านข้างสำหรับการควบคุมผ่านทางหน้าต่างรูปแบบข้อความ</a></li> 
+</ul>  
+<h3 id="amis_0011"><a href="amis0010.smil#amis_0011">การปรับแต่งโปรแกรม</a></h3>  
+<p id="xami_004f"><a href="amis0010.smil#xami_004f">ตัวเลือกการปรับแต่งเหล่านี้สามารถเรียกใช้ได้จากหน้าต่าง การตั้งค่าใน เมนูแฟ้ม</a></p>  
+<ul> <li id="xami_0050"><a href="amis0010.smil#xami_0050">ปิดเสียงบรรยายโปรแกรม</a></li> 
+<li id="xami_0051"><a href="amis0010.smil#xami_0051">เลือกเสียงบรรยายโปรแกรมตัวอื่น</a></li> 
+<li id="xami_0052"><a href="amis0010.smil#xami_0052">เปิดหรือปิดการทำแรงเงาบนข้อความที่กำลังอ่านอยู่</a></li> 
+<li id="xami_0053"><a href="amis0010.smil#xami_0053">เปิดหนังสือที่อ่านค้างอยู่ล่าสุดขึ้นมาทันทีตอนเริ่มต้นโปรแกรม</a></li> 
+<li id="xami_0054"><a href="amis0010.smil#xami_0054">เริ่มทำงานโปรแกรม AMIS ในมุมมองพื้นฐานทุกครั้ง</a></li> 
+<li id="xami_0055"><a href="amis0010.smil#xami_0055">หยุดโปรแกรม AMIS โดยอัตโนมัติเมื่อคุณสลับไปใช้งานโปรแกรมอื่น</a></li> 
+<li id="xami_0056"><a href="amis0010.smil#xami_0056">หยุดการทำงานของโปรแกรมรักษาหน้าจอของ Windows ขณะใช้งาน AMIS</a></li> 
+<li id="xami_0057"><a href="amis0010.smil#xami_0057">เลือกชุดคำสั่งเป็นภาษาอื่นๆ</a></li> 
+</ul>  
+<div class="example" id="xami_0058"><a href="amis0010.smil#xami_0058"> <img src="./img/amis-preferences-dialog.jpg" alt="the preferences dialog" /> 
+<p class="caption">หน้าต่างการตั้งค่า</p> 
+</a></div>  
+<h3 id="amis_0012"><a href="amis0011.smil#amis_0012">การตั้งค่ารูปแบบของข้อความ</a></h3>  
+<p id="xami_0059"><a href="amis0011.smil#xami_0059">การตั้งค่าเหล่านี้สามารถเข้าถึงได้จากหน้าต่างการปรับแต่งรูปแบบของข้อความ ในเมนูมุมมอง</a></p>  
+<ul> <li id="xami_005a"><a href="amis0011.smil#xami_005a">เลือกรูปแบบตัวอักษรสำหรับข้อความในแถบแสดงผลด้านข้างสำหรับการนำทางของ AMIS</a></li> 
+<li id="xami_005b"><a href="amis0011.smil#xami_005b">เลือกสีตัวอักษรและสีพื้นหลังสำหรับทำการแรงเงาข้อความขณะทำการอ่านหนังสือเดซี</a></li> 
+</ul> 
+<div class="example" id="xami_005c"><a href="amis0011.smil#xami_005c"> <img src="./img/amis-text-style-dialog.jpg" alt="The text style dialog" /> 
+<p class="caption">หน้าต่างการปรับแต่งรูปแบบของข้อความ</p> 
+</a></div>  
+<h2 id="amis_0013"><a href="amis0012.smil#amis_0013">ติดต่อเรา</a></h2>  
+<p id="xami_005d"><a href="amis0012.smil#xami_005d">เวปไซต์สำหรับโปรแกรม AMIS คือ  http://amisproject.org ข้อมูลทั้งหมดเกี่ยวกับการออกเวอร์ชั่นใหม่, ชุดคำสั่งในภาษาอื่นๆ, รายงานความผิดพลาดในการใช้งาน, และ ข้อมูลเบื้องต้นสำหรับการเข้ามามีส่วนร่วม จะอยู่ที่เวปไซต์นี้ พวกเราหวังว่าคงจะได้รับการติดต่อจากคุณ</a></p>  
+</body> 
+</html>

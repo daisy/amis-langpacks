@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="tis-620"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="การเปิดหนังสือ" />
+<meta name="dc:title" content="AMIS" />
+<meta name="ncc:timeInThisSmil" content="0:00:38" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="37.512s">
+<par endsync="last">
+<text src="helpthai.html#amis_0009" id="amis_0009" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=0.000s" clip-end="npt=1.256s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_001e" id="xami_001e" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=1.256s" clip-end="npt=10.050s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_001f" id="xami_001f" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=10.050s" clip-end="npt=11.800s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0020" id="xami_0020" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=11.800s" clip-end="npt=16.642s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0021" id="xami_0021" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=16.642s" clip-end="npt=21.703s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0022" id="xami_0022" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=21.703s" clip-end="npt=30.733s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0023" id="xami_0023" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=30.733s" clip-end="npt=33.797s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="helpthai.html#xami_0024" id="xami_0024" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=33.797s" clip-end="npt=37.512s" id="qwrt_0008" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

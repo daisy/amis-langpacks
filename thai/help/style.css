@@ -1,0 +1,58 @@
+﻿body { 
+	font-size: 100%; 
+	font-family: Helvetica, sans-serif, arial; 
+	line-height: 115%;
+	margin: 3%;
+}
+
+* a {
+	text-decoration: none;
+	color: rgb(0,0,0);
+}
+
+a:active, a:focus, a:hover {
+	background-color: rgb(235,235,235);
+}
+
+a:hover {
+	background-color: rgb(230,230,230);
+}
+
+
+a img{
+text-decoration: none;
+border-width: 0px;
+}
+
+li {
+	line-height : 150%;
+}
+
+.header img {
+    margin: 2%;
+}
+
+em {
+    font-style: normal;
+    font-weight: bold;
+}
+
+img.rect {
+    margin-bottom: 3%;
+}
+img.dclogo{
+    margin-bottom: .6%;
+}
+.command {
+    font-style: italic;
+}
+
+.caption {
+    font-style: italic;
+    font-size: 80%;
+}
+
+div.example {
+    padding: 1%;
+    margin: 2%;
+}
