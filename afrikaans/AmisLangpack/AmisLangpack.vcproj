@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat afr-ZA  ..\..\..\langpacks\afrikaans ..\..\..\amis\bin\settings\lang debug"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat afr-ZA  ..\..\..\langpacks\afrikaans debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat afr-ZA  ..\..\..\langpacks\afrikaans ..\..\..\amis\bin\settings\lang release"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat afr-ZA  ..\..\..\langpacks\afrikaans release"
 			/>
 		</Configuration>
 	</Configurations>
