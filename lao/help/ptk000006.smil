@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="dc:title" content="Title"/>
+	<meta name="dc:format" content="Daisy 2.02"/>
+	<meta name="dc:identifier" content="080611230916"/>
+	<meta name="ncc:generator" content="PLEXTALK Recording Software 2.02.01.20"/>
+	<meta name="ncc:totalElapsedTime" content="0:05:32.761"/>
+	<meta name="ncc:timeInThisSmil" content="0:00:51.000"/>
+	<meta name="title" content="Tool"/>
+	<layout>
+		<region id="txtView"/>
+	</layout>
+</head>
+<body>
+<seq dur="51.000s">
+
+	<par endsync="last">
+		<text src="helplao.html#amis_0999" id="amis_0999"/>
+		<seq>
+			<audio src="a000006.mp3" clip-begin="npt=0.000s" clip-end="npt=2.872s" id="phrase_000001"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0019" id="xami_0019"/>
+		<seq>
+			<audio src="a000006.mp3" clip-begin="npt=2.872s" clip-end="npt=9.691s" id="phrase_000002"/>
+			<audio src="a000006.mp3" clip-begin="npt=9.691s" clip-end="npt=14.057s" id="phrase_000003"/>
+			<audio src="a000006.mp3" clip-begin="npt=14.057s" clip-end="npt=16.929s" id="phrase_000004"/>
+			<audio src="a000006.mp3" clip-begin="npt=16.929s" clip-end="npt=22.030s" id="phrase_000005"/>
+			<audio src="a000006.mp3" clip-begin="npt=22.030s" clip-end="npt=23.841s" id="phrase_000006"/>
+			<audio src="a000006.mp3" clip-begin="npt=23.841s" clip-end="npt=26.720s" id="phrase_000007"/>
+			<audio src="a000006.mp3" clip-begin="npt=26.720s" clip-end="npt=30.799s" id="phrase_000008"/>
+			<audio src="a000006.mp3" clip-begin="npt=30.799s" clip-end="npt=35.397s" id="phrase_000009"/>
+			<audio src="a000006.mp3" clip-begin="npt=35.397s" clip-end="npt=37.951s" id="phrase_00000a"/>
+			<audio src="a000006.mp3" clip-begin="npt=37.951s" clip-end="npt=40.412s" id="phrase_00000b"/>
+			<audio src="a000006.mp3" clip-begin="npt=40.412s" clip-end="npt=43.849s" id="phrase_00000c"/>
+			<audio src="a000006.mp3" clip-begin="npt=43.849s" clip-end="npt=51.000s" id="phrase_00000d"/>
+		</seq>
+	</par>
+</seq>
+</body>
+</smil>

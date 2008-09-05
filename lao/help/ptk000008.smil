@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="dc:title" content="Title"/>
+	<meta name="dc:format" content="Daisy 2.02"/>
+	<meta name="dc:identifier" content="080611230916"/>
+	<meta name="ncc:generator" content="PLEXTALK Recording Software 2.02.01.20"/>
+	<meta name="ncc:totalElapsedTime" content="0:08:41.528"/>
+	<meta name="ncc:timeInThisSmil" content="0:04:20.694"/>
+	<meta name="title" content="navigate"/>
+	<layout>
+		<region id="txtView"/>
+	</layout>
+</head>
+<body>
+<seq dur="260.694s">
+
+	<par endsync="last">
+		<text src="helplao.html#amis_000b" id="amis_000b"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=0.000s" clip-end="npt=2.268s" id="phrase_000001"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0029" id="xami_0029"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=2.268s" clip-end="npt=9.459s" id="phrase_000002"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_002a" id="xami_002a"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=9.459s" clip-end="npt=10.945s" id="phrase_000003"/>
+			<audio src="a000008.mp3" clip-begin="npt=10.945s" clip-end="npt=13.174s" id="phrase_000004"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_002b" id="xami_002b"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=13.174s" clip-end="npt=16.192s" id="phrase_000005"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_002c" id="xami_002c"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=16.192s" clip-end="npt=23.437s" id="phrase_000006"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_002d" id="xami_002d"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=23.437s" clip-end="npt=25.426s" id="phrase_000007"/>
+			<audio src="a000008.mp3" clip-begin="npt=25.426s" clip-end="npt=27.841s" id="phrase_000008"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_000c" id="amis_000c"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=27.841s" clip-end="npt=33.592s" id="phrase_000009"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_002e" id="xami_002e"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=33.592s" clip-end="npt=40.140s" id="phrase_00000a"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_002f" id="xami_002f"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=40.140s" clip-end="npt=43.205s" id="phrase_00000b"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0030" id="xami_0030"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=43.205s" clip-end="npt=44.691s" id="phrase_00000c"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0031" id="xami_0031"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=44.691s" clip-end="npt=50.542s" id="phrase_00000d"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_000d" id="amis_000d"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=50.542s" clip-end="npt=53.050s" id="phrase_00000e"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0032" id="xami_0032"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=53.050s" clip-end="npt=56.673s" id="phrase_00000f"/>
+			<audio src="a000008.mp3" clip-begin="npt=56.673s" clip-end="npt=62.749s" id="phrase_000010"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0033" id="xami_0033"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=62.749s" clip-end="npt=66.604s" id="phrase_000011"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0034" id="xami_0034"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=66.604s" clip-end="npt=72.355s" id="phrase_000012"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_000e" id="amis_000e"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=72.355s" clip-end="npt=75.095s" id="phrase_000013"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0035" id="xami_0035"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=75.095s" clip-end="npt=86.790s" id="phrase_000014"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0036" id="xami_0036"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=86.790s" clip-end="npt=88.323s" id="phrase_000015"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0037" id="xami_0037"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=88.323s" clip-end="npt=90.459s" id="phrase_000016"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0038" id="xami_0038"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=90.459s" clip-end="npt=92.270s" id="phrase_000017"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0039" id="xami_0039"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=92.270s" clip-end="npt=95.800s" id="phrase_000018"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_003a" id="xami_003a"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=95.800s" clip-end="npt=97.193s" id="phrase_000019"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_003b" id="xami_003b"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=97.193s" clip-end="npt=98.725s" id="phrase_00001a"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_003c" id="xami_003c"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=98.725s" clip-end="npt=100.258s" id="phrase_00001b"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_003d" id="xami_003d"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=100.258s" clip-end="npt=101.837s" id="phrase_00001c"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_003e" id="xami_003e"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=101.837s" clip-end="npt=103.555s" id="phrase_00001d"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_003f" id="xami_003f"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=103.555s" clip-end="npt=110.382s" id="phrase_00001e"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0040" id="xami_0040"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=110.382s" clip-end="npt=112.286s" id="phrase_00001f"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0041" id="xami_0041"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=112.286s" clip-end="npt=117.155s" id="phrase_000020"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0042" id="xami_0042"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=117.155s" clip-end="npt=120.591s" id="phrase_000021"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0043" id="xami_0043"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=120.591s" clip-end="npt=123.695s" id="phrase_000022"/>
+			<audio src="a000008.mp3" clip-begin="npt=123.695s" clip-end="npt=124.206s" id="phrase_000023"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0044" id="xami_0044"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=124.206s" clip-end="npt=126.946s" id="phrase_000024"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_000f" id="amis_000f"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=126.946s" clip-end="npt=130.429s" id="phrase_000025"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0045" id="xami_0045"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=130.429s" clip-end="npt=142.875s" id="phrase_000026"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0046" id="xami_0046"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=142.875s" clip-end="npt=145.614s" id="phrase_000027"/>
+			<audio src="a000008.mp3" clip-begin="npt=145.614s" clip-end="npt=148.122s" id="phrase_000028"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0047" id="xami_0047"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=148.122s" clip-end="npt=154.345s" id="phrase_000029"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_0010" id="amis_0010"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=154.345s" clip-end="npt=156.992s" id="phrase_00002a"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0048" id="xami_0048"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=156.992s" clip-end="npt=162.975s" id="phrase_00002b"/>
+			<audio src="a000008.mp3" clip-begin="npt=162.975s" clip-end="npt=167.712s" id="phrase_00002c"/>
+			<audio src="a000008.mp3" clip-begin="npt=167.712s" clip-end="npt=173.509s" id="phrase_00002d"/>
+
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0049" id="xami_0049"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=173.509s" clip-end="npt=177.550s" id="phrase_00002e"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_004a" id="xami_004a"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=177.550s" clip-end="npt=183.633s" id="phrase_00002f"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_004b" id="xami_004b"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=183.633s" clip-end="npt=189.438s" id="phrase_000030"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_004c" id="xami_004c"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=189.438s" clip-end="npt=195.773s" id="phrase_000031"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_004d" id="xami_004d"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=195.773s" clip-end="npt=199.573s" id="phrase_000032"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_004e" id="xami_004e"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=199.573s" clip-end="npt=209.754s" id="phrase_000033"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_0011" id="amis_0011"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=209.754s" clip-end="npt=212.254s" id="phrase_000034"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_004f" id="xami_004f"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=212.254s" clip-end="npt=217.169s" id="phrase_000035"/>
+			<audio src="a000008.mp3" clip-begin="npt=217.169s" clip-end="npt=220.698s" id="phrase_000036"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0050" id="xami_0050"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=220.698s" clip-end="npt=223.020s" id="phrase_000037"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0051" id="xami_0051"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=223.020s" clip-end="npt=226.681s" id="phrase_000038"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0052" id="xami_0052"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=226.681s" clip-end="npt=231.511s" id="phrase_000039"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0053" id="xami_0053"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=231.511s" clip-end="npt=237.401s" id="phrase_00003a"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0054" id="xami_0054"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=237.401s" clip-end="npt=241.952s" id="phrase_00003b"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0055" id="xami_0055"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=241.952s" clip-end="npt=247.842s" id="phrase_00003c"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0056" id="xami_0056"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=247.842s" clip-end="npt=254.150s" id="phrase_00003d"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0057" id="xami_0057"/>
+		<seq>
+			<audio src="a000008.mp3" clip-begin="npt=254.150s" clip-end="npt=257.873s" id="phrase_00003e"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0058" id="xami_0058"/>
+		<seq>
+			<audio src="a000009.mp3" clip-begin="npt=0.000s" clip-end="npt=2.821s" id="phrase_00003f"/>
+		</seq>
+	</par>
+
+
+</seq>
+</body>
+</smil>

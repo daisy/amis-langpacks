@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="dc:title" content="Title"/>
+	<meta name="dc:format" content="Daisy 2.02"/>
+	<meta name="dc:identifier" content="080611230916"/>
+	<meta name="ncc:generator" content="PLEXTALK Recording Software 2.02.01.20"/>
+	<meta name="ncc:totalElapsedTime" content="0:13:37.048"/>
+	<meta name="ncc:timeInThisSmil" content="0:00:34.438"/>
+	<meta name="title" content="Contact us"/>
+	<layout>
+		<region id="txtView"/>
+	</layout>
+</head>
+<body>
+<seq dur="34.438s">
+	<par endsync="last">
+		<text src="helplao.html#amis_0006" id="amis_0014"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=0.000s" clip-end="npt=2.001s" id="phrase_000001"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_000d" id="xami_000d"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=2.001s" clip-end="npt=10.933s" id="phrase_000002"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_000e" id="xami_000e"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=10.933s" clip-end="npt=19.391s" id="phrase_000003"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_000f" id="xami_000f"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=19.391s" clip-end="npt=23.475s" id="phrase_000004"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0010" id="xami_0010"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=23.475s" clip-end="npt=30.875s" id="phrase_000005"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0011" id="xami_0011"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=30.875s" clip-end="npt=40.195s" id="phrase_000006"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0012" id="xami_0012"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=40.195s" clip-end="npt=44.490s" id="phrase_000007"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0013" id="xami_0013"/>
+		<seq>
+			<audio src="a000014.mp3" clip-begin="npt=44.490s" clip-end="npt=53.175s" id="phrase_000008"/>
+		</seq>
+	</par>
+</seq>
+</body>
+</smil>

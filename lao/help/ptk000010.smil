@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="dc:title" content="Title"/>
+	<meta name="dc:format" content="Daisy 2.02"/>
+	<meta name="dc:identifier" content="080611230916"/>
+	<meta name="ncc:generator" content="PLEXTALK Recording Software 2.02.01.20"/>
+	<meta name="ncc:totalElapsedTime" content="0:13:37.048"/>
+	<meta name="ncc:timeInThisSmil" content="0:00:34.438"/>
+	<meta name="title" content="Contact us"/>
+	<layout>
+		<region id="txtView"/>
+	</layout>
+</head>
+<body>
+<seq dur="34.438s">
+	<par endsync="last">
+		<text src="helplao.html#amis_0013" id="amis_0013"/>
+		<seq>
+			<audio src="a000010.mp3" clip-begin="npt=0.000s" clip-end="npt=2.361s" id="phrase_000001"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_005d" id="xami_005d"/>
+		<seq>
+			<audio src="a000010.mp3" clip-begin="npt=2.361s" clip-end="npt=5.194s" id="phrase_000002"/>
+			<audio src="a000010.mp3" clip-begin="npt=5.194s" clip-end="npt=11.718s" id="phrase_000003"/>
+			<audio src="a000010.mp3" clip-begin="npt=11.718s" clip-end="npt=15.333s" id="phrase_000004"/>
+			<audio src="a000010.mp3" clip-begin="npt=15.333s" clip-end="npt=19.791s" id="phrase_000005"/>
+			<audio src="a000010.mp3" clip-begin="npt=19.791s" clip-end="npt=22.763s" id="phrase_000006"/>
+			<audio src="a000010.mp3" clip-begin="npt=22.763s" clip-end="npt=28.475s" id="phrase_000007"/>
+			<audio src="a000010.mp3" clip-begin="npt=28.475s" clip-end="npt=34.438s" id="phrase_000008"/>
+		</seq>
+	</par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="dc:title" content="Title"/>
+	<meta name="dc:format" content="Daisy 2.02"/>
+	<meta name="dc:identifier" content="080611230916"/>
+	<meta name="ncc:generator" content="PLEXTALK Recording Software 2.02.01.20"/>
+	<meta name="ncc:totalElapsedTime" content="0:00:00.000"/>
+	<meta name="ncc:timeInThisSmil" content="0:00:23.912"/>
+	<meta name="title" content="help file"/>
+	<layout>
+		<region id="txtView"/>
+	</layout>
+</head>
+<body>
+<seq dur="23.912s">
+	
+	<par endsync="last">
+		<text src="helplao.html#amis_0001" id="amis_0001"/>
+		<seq>
+			<audio src="a000001.mp3" clip-begin="npt=0.000s" clip-end="npt=4.311s" id="phrase_000001"/>
+		</seq>
+	</par>
+	
+
+
+	<par endsync="last">
+		<text src="helplao.html#amis_0001_1" id="amis_0001_1"/>
+		<seq>
+			<audio src="a000013.mp3" clip-begin="npt=0.000s" clip-end="npt=3.000s" id="phrase_000001_1"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_0001_2" id="amis_0001_2"/>
+		<seq>
+			<audio src="a000013.mp3" clip-begin="npt=3.000s" clip-end="npt=7.000s" id="phrase_000001_2"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_0001_3" id="amis_0001_3"/>
+		<seq>
+			<audio src="a000013.mp3" clip-begin="npt=7.000s" clip-end="npt=11.000s" id="phrase_000001_3"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#amis_0001_4" id="amis_0001_4"/>
+		<seq>
+			<audio src="a000013.mp3" clip-begin="npt=11.000s" clip-end="npt=16.000s" id="phrase_000001_4"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_0002" id="xami_0002"/>
+		<seq>
+			<audio src="a000001.mp3" clip-begin="npt=4.311s" clip-end="npt=7.276s" id="phrase_000002"/>
+			<audio src="a000001.mp3" clip-begin="npt=7.276s" clip-end="npt=12.005s" id="phrase_000003"/>
+			<audio src="a000001.mp3" clip-begin="npt=12.005s" clip-end="npt=16.184s" id="phrase_000004"/>
+			<audio src="a000001.mp3" clip-begin="npt=16.184s" clip-end="npt=18.878s" id="phrase_000005"/>
+			<audio src="a000001.mp3" clip-begin="npt=18.878s" clip-end="npt=23.912s" id="phrase_000006"/>
+		</seq>
+	</par>
+</seq>
+</body>
+</smil>

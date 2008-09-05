@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="dc:title" content="Title"/>
+	<meta name="dc:format" content="Daisy 2.02"/>
+	<meta name="dc:identifier" content="080611230916"/>
+	<meta name="ncc:generator" content="PLEXTALK Recording Software 2.02.01.20"/>
+	<meta name="ncc:totalElapsedTime" content="0:02:55.092"/>
+	<meta name="ncc:timeInThisSmil" content="0:01:22.549"/>
+	<meta name="title" content="version"/>
+	<layout>
+		<region id="txtView"/>
+	</layout>
+</head>
+<body>
+<seq dur="82.549s">
+	<par endsync="last">
+		<text src="helplao.html#amis_0005" id="amis_0005"/>
+		<seq>
+			<audio src="a000004.mp3" clip-begin="npt=0.000s" clip-end="npt=5.379s" id="phrase_000001"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_000a" id="xami_000a"/>
+		<seq>
+			<audio src="a000004.mp3" clip-begin="npt=5.379s" clip-end="npt=10.720s" id="phrase_000002"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_000b" id="xami_000b"/>
+		<seq>
+			<audio src="a000004.mp3" clip-begin="npt=10.720s" clip-end="npt=15.318s" id="phrase_000003"/>
+		</seq>
+	</par>
+
+	<par endsync="last">
+		<text src="helplao.html#xami_000c" id="xami_000c"/>
+		<seq>
+			<audio src="a000004.mp3" clip-begin="npt=15.318s" clip-end="npt=18.475s" id="phrase_000004"/>
+			<audio src="a000004.mp3" clip-begin="npt=18.475s" clip-end="npt=23.111s" id="phrase_000005"/>
+			<audio src="a000004.mp3" clip-begin="npt=23.111s" clip-end="npt=24.079s" id="phrase_000006"/>
+			<audio src="a000004.mp3" clip-begin="npt=24.079s" clip-end="npt=30.843s" id="phrase_000007"/>
+			<audio src="a000004.mp3" clip-begin="npt=30.843s" clip-end="npt=38.684s" id="phrase_000008"/>
+			<audio src="a000004.mp3" clip-begin="npt=38.684s" clip-end="npt=46.067s" id="phrase_000009"/>
+			<audio src="a000004.mp3" clip-begin="npt=46.067s" clip-end="npt=52.607s" id="phrase_00000a"/>
+			<audio src="a000004.mp3" clip-begin="npt=52.607s" clip-end="npt=55.440s" id="phrase_00000b"/>
+			<audio src="a000004.mp3" clip-begin="npt=55.440s" clip-end="npt=61.423s" id="phrase_00000c"/>
+			<audio src="a000004.mp3" clip-begin="npt=61.423s" clip-end="npt=64.395s" id="phrase_00000d"/>
+			<audio src="a000004.mp3" clip-begin="npt=64.395s" clip-end="npt=69.457s" id="phrase_00000e"/>
+			<audio src="a000004.mp3" clip-begin="npt=69.457s" clip-end="npt=74.233s" id="phrase_00000f"/>
+			<audio src="a000004.mp3" clip-begin="npt=74.233s" clip-end="npt=79.798s" id="phrase_000010"/>
+			<audio src="a000004.mp3" clip-begin="npt=79.798s" clip-end="npt=82.549s" id="phrase_000011"/>
+		</seq>
+	</par>
+
+</seq>
+</body>
+</smil>
