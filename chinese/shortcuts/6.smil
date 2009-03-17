@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="快捷键"/>
+		<meta name="dc:title" content="快捷键"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-zho-CN"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t81">
+					<text src="amiskeys.html#t81"/>
+					<audio src="aud54.mp3"/>
+				</par>
+					<par endsync="last" id="t113">
+						<text src="amiskeys.html#t113"/>
+						<audio src="aud82.mp3"/>
+					</par>
+				<par endsync="last" id="t82">
+					<text src="amiskeys.html#t82"/>
+					<audio src="aud55.mp3"/>
+				</par>
+					<par endsync="last" id="t84">
+						<text src="amiskeys.html#t84"/>
+						<audio src="aud57.mp3"/>
+					</par>
+				<par endsync="last" id="t86">
+					<text src="amiskeys.html#t86"/>
+					<audio src="aud58.mp3"/>
+				</par>
+					<par endsync="last" id="t88">
+						<text src="amiskeys.html#t88"/>
+						<audio src="aud60.mp3"/>
+					</par>
+				<par endsync="last" id="t90">
+					<text src="amiskeys.html#t90"/>
+					<audio src="aud61.mp3"/>
+				</par>
+					<par endsync="last" id="t93">
+						<text src="amiskeys.html#t93"/>
+						<audio src="aud233.mp3"/>
+					</par>
+				<par endsync="last" id="t94">
+					<text src="amiskeys.html#t94"/>
+					<audio src="aud64.mp3"/>
+				</par>
+					<par endsync="last" id="t96">
+						<text src="amiskeys.html#t96"/>
+						<audio src="aud66.mp3"/>
+					</par>
+				<par endsync="last" id="t97">
+					<text src="amiskeys.html#t97"/>
+					<audio src="aud67.mp3"/>
+				</par>
+					<par endsync="last" id="t99">
+						<text src="amiskeys.html#t99"/>
+						<audio src="aud69.mp3"/>
+					</par>
+				<par endsync="last" id="t100">
+					<text src="amiskeys.html#t100"/>
+					<audio src="aud70.mp3"/>
+				</par>
+					<par endsync="last" id="t102">
+						<text src="amiskeys.html#t102"/>
+						<audio src="aud72.mp3"/>
+					</par>
+				<par endsync="last" id="t103">
+					<text src="amiskeys.html#t103"/>
+					<audio src="aud73.mp3"/>
+				</par>
+					<par endsync="last" id="t105">
+						<text src="amiskeys.html#t105"/>
+						<audio src="aud75.mp3"/>
+					</par>
+				<par endsync="last" id="t106">
+					<text src="amiskeys.html#t106"/>
+					<audio src="aud76.mp3"/>
+				</par>
+					<par endsync="last" id="t108">
+						<text src="amiskeys.html#t108"/>
+						<audio src="aud78.mp3"/>
+					</par>
+				<par endsync="last" id="t109">
+					<text src="amiskeys.html#t109"/>
+					<audio src="aud79.mp3"/>
+				</par>
+					<par endsync="last" id="t111">
+						<text src="amiskeys.html#t111"/>
+						<audio src="aud81.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>
