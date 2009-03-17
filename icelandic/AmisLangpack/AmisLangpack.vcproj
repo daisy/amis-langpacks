@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\bin\copyLangpack.bat eng-US  ..\..\DefaultLangpack debug"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat ice-IS  ..\..\icelandic debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\bin\copyLangpack.bat eng-US  ..\..\DefaultLangpack release"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat ice-IS  ..\..\icelandic release"
 			/>
 		</Configuration>
 	</Configurations>
