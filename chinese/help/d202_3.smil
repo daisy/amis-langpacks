@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="DAISY&#x662f;&#x4ec0;&#x4e48;&#xff1f;" />
+<meta name="dc:title" content="AMIS用户手册" />
+<meta name="ncc:timeInThisSmil" content="0:01:39" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="99.292s">
+<par endsync="last">
+<text src="amis.html#id_29" id="txt_15" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=0.000s" clip-end="npt=8.960s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_35" id="txt_16" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=8.960s" clip-end="npt=16.954s" id="qwrt_0002" />
+<audio src="03_DAISY.mp2" clip-begin="npt=16.954s" clip-end="npt=21.917s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_40" id="txt_17" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=21.917s" clip-end="npt=25.770s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_41" id="txt_18" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=25.770s" clip-end="npt=39.054s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_43" id="txt_19" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=39.054s" clip-end="npt=43.978s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_44" id="txt_20" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=43.978s" clip-end="npt=48.849s" id="qwrt_0007" />
+<audio src="03_DAISY.mp2" clip-begin="npt=48.849s" clip-end="npt=54.257s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_46" id="txt_21" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=54.257s" clip-end="npt=58.058s" id="qwrt_0009" />
+<audio src="03_DAISY.mp2" clip-begin="npt=58.058s" clip-end="npt=64.353s" id="qwrt_000A" />
+<audio src="03_DAISY.mp2" clip-begin="npt=64.353s" clip-end="npt=71.249s" id="qwrt_000B" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_48" id="txt_22" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=71.249s" clip-end="npt=74.449s" id="qwrt_000C" />
+<audio src="03_DAISY.mp2" clip-begin="npt=74.449s" clip-end="npt=83.736s" id="qwrt_000D" />
+<audio src="03_DAISY.mp2" clip-begin="npt=83.736s" clip-end="npt=88.255s" id="qwrt_000E" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_51" id="txt_23" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=88.255s" clip-end="npt=91.246s" id="qwrt_000F" />
+<audio src="03_DAISY.mp2" clip-begin="npt=91.246s" clip-end="npt=93.107s" id="qwrt_0010" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_52" id="txt_24" />
+<seq>
+<audio src="03_DAISY.mp2" clip-begin="npt=93.107s" clip-end="npt=99.292s" id="qwrt_0011" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

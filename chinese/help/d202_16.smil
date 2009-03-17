@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="&#x8bbe;&#x7f6e;&#x9996;&#x9009;&#x9879;" />
+<meta name="dc:title" content="AMIS用户手册" />
+<meta name="ncc:timeInThisSmil" content="0:01:12" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="71.649s">
+<par endsync="last">
+<text src="amis.html#id_336" id="txt_116" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=0.000s" clip-end="npt=4.467s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_340" id="txt_117" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=4.467s" clip-end="npt=10.671s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_346" id="txt_118" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=10.671s" clip-end="npt=15.674s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_349" id="txt_119" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=15.674s" clip-end="npt=24.999s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_352" id="txt_120" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=24.999s" clip-end="npt=30.668s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_355" id="txt_121" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=30.668s" clip-end="npt=37.917s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_358" id="txt_122" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=37.917s" clip-end="npt=50.626s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_361" id="txt_123" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=50.626s" clip-end="npt=56.517s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_364" id="txt_124" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=56.517s" clip-end="npt=61.441s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_367" id="txt_125" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=61.441s" clip-end="npt=70.140s" id="qwrt_000A" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_371" id="txt_126" />
+<seq>
+<audio src="16.mp2" clip-begin="npt=70.140s" clip-end="npt=71.649s" id="qwrt_000B" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

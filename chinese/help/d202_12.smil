@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="title" content="&#x8bbe;&#x7f6e;&#x4e66;&#x7b7e;" />
+<meta name="dc:title" content="AMIS用户手册" />
+<meta name="ncc:timeInThisSmil" content="0:00:21" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<seq dur="20.793s">
+<par endsync="last">
+<text src="amis.html#id_227" id="txt_82" />
+<seq>
+<audio src="12.mp2" clip-begin="npt=0.000s" clip-end="npt=3.200s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_233" id="txt_83" />
+<seq>
+<audio src="12.mp2" clip-begin="npt=3.200s" clip-end="npt=4.989s" id="qwrt_0002" />
+<audio src="12.mp2" clip-begin="npt=4.989s" clip-end="npt=8.999s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_236" id="txt_84" />
+<seq>
+<audio src="12.mp2" clip-begin="npt=8.999s" clip-end="npt=11.467s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.html#id_239" id="txt_85" />
+<seq>
+<audio src="12.mp2" clip-begin="npt=11.467s" clip-end="npt=20.793s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>
