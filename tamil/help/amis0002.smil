@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" []>
+<smil>
+<head>
+    <meta name="ncc:generator" content="LpStudioPlusEdit 3.0.17" skip-content="true" />
+    <meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+    <meta name="title" content="à®&#x2026;à®®à®¿à®&#x161;à¯&#xfffd; à®&#x17d;à®©à¯&#xfffd;à®±à®¾à®²à¯&#xfffd; à®&#x17d;à®©à¯&#xfffd;à®©?" skip-content="true" />
+    <meta name="dc:title" content="amis" skip-content="true" />
+    <meta name="ncc:timeInThisSmil" content="0:00:35:892" skip-content="true" />
+    <layout type="text/smil-basic-layout">
+        <region id="txtView" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+    </layout>
+</head>
+<body>
+<seq dur="35.892s" repeat="1">
+    <par endsync="last" repeat="1">
+        <text src="amistamil.htm#amis_0003" id="amis_0003" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="amis000b.mp3" clip-begin="npt=0.705s" clip-end="npt=2.638s" id="qwrt_0001" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=2.638s" clip-end="npt=3.840s" id="qwrt_0002" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=3.840s" clip-end="npt=7.628s" id="qwrt_0003" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=7.628s" clip-end="npt=12.722s" id="qwrt_0004" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=12.722s" clip-end="npt=15.047s" id="qwrt_0005" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=15.047s" clip-end="npt=16.901s" id="qwrt_0006" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=18.495s" clip-end="npt=21.447s" id="qwrt_0007" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=21.447s" clip-end="npt=23.745s" id="qwrt_0008" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=23.745s" clip-end="npt=28.447s" id="qwrt_0009" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=28.447s" clip-end="npt=31.033s" id="qwrt_000a" repeat="1" fill="remove" />
+            <audio src="amis000b.mp3" clip-begin="npt=31.033s" clip-end="npt=38.191s" id="qwrt_000b" repeat="1" fill="remove" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

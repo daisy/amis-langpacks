@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+    <meta name="ncc:generator" content="LpStudioGen 1.6" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="dc:title" content="amis" />
+    <meta name="ncc:timeInThisSmil" content="00:00:00" />
+    <layout>
+        <region id="txtView" />
+    </layout>
+</head>
+<body>
+    <ref title="அமிச் பயனர் வழிவிளக்கி" src="amis0001.smil" id="amis_0001" />
+    <ref title="அமிச் என்றால் என்ன?" src="amis0002.smil" id="amis_0003" />
+    <ref title="டெய்சி என்றால் என்ன?" src="amis0003.smil" id="amis_0004" />
+    <ref title="ஆதரிக்கப் பட்ட வடிவங்கள்" src="amis0004.smil" id="amis_0005" />
+    <ref title="அமைப்பு தேவைகள்" src="amis0005.smil" id="amis_0006" />
+    <ref title="திரை அமைவு" src="amis0006.smil" id="amis_0007" />
+    <ref title="சிறப்பியல்புகள்" src="amis0007.smil" id="amis_0008" />
+    <ref title="ஒரு புத்தகத்தை திறக்க" src="amis0008.smil" id="amis_0009" />
+    <ref title="வாசிப்பை கட்டுப்படுத்த" src="amis0009.smil" id="amis_000a" />
+    <ref title="உலாவுவதற்கு" src="amis000a.smil" id="amis_000b" />
+    <ref title="உலாவி சாளரத்தை பயன் படுத்தல்" src="amis000b.smil" id="amis_000c" />
+    <ref title="புத்தகக்குறி அமைத்தல்" src="amis000c.smil" id="amis_000d" />
+    <ref title="வெளியீட்டை பற்றின தகவல்களை வாங்குவதற்கு" src="amis000d.smil" id="amis_000e" />
+    <ref title="அமிசிலிருந்து உத்வியை பெற" src="amis000e.smil" id="amis_000f" />
+    <ref title="தோற்றத்தை மாற்ற" src="amis000f.smil" id="amis_0010" />
+    <ref title="ப்ரிபரென்சசை அமைத்தல்" src="amis0010.smil" id="amis_0011" />
+    <ref title="உரை பாணிகளை அமைத்தல்" src="amis0011.smil" id="amis_0012" />
+    <ref title="எங்களை தொடர்புகொள்ள" src="amis0012.smil" id="amis_0013" />
+</body>
+</smil>

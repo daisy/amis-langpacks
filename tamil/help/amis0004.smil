@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" []>
+<smil>
+<head>
+    <meta name="ncc:generator" content="LpStudioPlusEdit 3.0.17" skip-content="true" />
+    <meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+    <meta name="title" content="à®&#x2020;à®¤à®°à®¿à®&#x2022;à¯&#xfffd;à®&#x2022;à®ªà¯&#xfffd; à®ªà®&#x178;à¯&#xfffd;à®&#x178; à®µà®&#x178;à®¿à®µà®&#x2122;à¯&#xfffd;à®&#x2022;à®³à¯&#xfffd;" skip-content="true" />
+    <meta name="dc:title" content="amis" skip-content="true" />
+    <meta name="ncc:timeInThisSmil" content="0:00:17:371" skip-content="true" />
+    <layout type="text/smil-basic-layout">
+        <region id="txtView" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+    </layout>
+</head>
+<body>
+<seq dur="17.371s" repeat="1">
+    <par endsync="last" repeat="1">
+        <text src="amistamil.htm#amis_0005" id="amis_0005" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="amis000d.mp3" clip-begin="npt=0.627s" clip-end="npt=2.873s" id="qwrt_0001" repeat="1" fill="remove" />
+            <audio src="amis000d.mp3" clip-begin="npt=2.873s" clip-end="npt=6.635s" id="qwrt_0002" repeat="1" fill="remove" />
+            <audio src="amis000d.mp3" clip-begin="npt=6.635s" clip-end="npt=10.736s" id="qwrt_0003" repeat="1" fill="remove" />
+            <audio src="amis000d.mp3" clip-begin="npt=10.736s" clip-end="npt=17.998s" id="qwrt_0004" repeat="1" fill="remove" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

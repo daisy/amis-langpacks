@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" []>
+<smil>
+<head>
+    <meta name="ncc:generator" content="LpStudioPlusEdit 3.0.17" skip-content="true" />
+    <meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+    <meta name="title" content="à®¤à®¿à®°à¯&#x2c6; à®&#x2026;à®®à¯&#x2c6;à®µà¯&#xfffd;" skip-content="true" />
+    <meta name="dc:title" content="amis" skip-content="true" />
+    <meta name="ncc:timeInThisSmil" content="0:02:02:305" skip-content="true" />
+    <layout type="text/smil-basic-layout">
+        <region id="txtView" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+    </layout>
+</head>
+<body>
+<seq dur="122.305s" repeat="1">
+    <par endsync="last" repeat="1">
+        <text src="amistamil.htm#amis_0007" id="amis_0007" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="amis0010.mp3" clip-begin="npt=1.463s" clip-end="npt=2.691s" id="qwrt_0001" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=2.691s" clip-end="npt=6.870s" id="qwrt_0002" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=6.870s" clip-end="npt=9.607s" id="qwrt_0003" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=11.050s" clip-end="npt=16.431s" id="qwrt_0004" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=16.431s" clip-end="npt=20.689s" id="qwrt_0005" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=20.689s" clip-end="npt=23.057s" id="qwrt_0006" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=23.850s" clip-end="npt=25.287s" id="qwrt_0007" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=29.362s" clip-end="npt=33.228s" id="qwrt_0008" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=33.228s" clip-end="npt=34.482s" id="qwrt_0009" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=34.482s" clip-end="npt=35.338s" id="qwrt_000a" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=39.445s" clip-end="npt=41.154s" id="qwrt_000b" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=42.684s" clip-end="npt=46.237s" id="qwrt_000c" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=46.237s" clip-end="npt=57.626s" id="qwrt_000d" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=57.626s" clip-end="npt=60.447s" id="qwrt_000e" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=64.287s" clip-end="npt=66.299s" id="qwrt_000f" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=66.299s" clip-end="npt=76.225s" id="qwrt_0010" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=76.225s" clip-end="npt=78.498s" id="qwrt_0011" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=78.498s" clip-end="npt=86.126s" id="qwrt_0012" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=86.126s" clip-end="npt=88.555s" id="qwrt_0013" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=88.555s" clip-end="npt=90.567s" id="qwrt_0014" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=102.975s" clip-end="npt=107.321s" id="qwrt_0015" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=108.685s" clip-end="npt=112.431s" id="qwrt_0016" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=112.431s" clip-end="npt=118.309s" id="qwrt_0017" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=118.309s" clip-end="npt=121.025s" id="qwrt_0018" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=121.025s" clip-end="npt=125.100s" id="qwrt_0019" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=125.100s" clip-end="npt=132.911s" id="qwrt_001a" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=132.911s" clip-end="npt=134.322s" id="qwrt_001b" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=134.322s" clip-end="npt=136.829s" id="qwrt_001c" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=140.565s" clip-end="npt=143.936s" id="qwrt_001d" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=145.371s" clip-end="npt=147.461s" id="qwrt_001e" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=147.461s" clip-end="npt=150.648s" id="qwrt_001f" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=150.648s" clip-end="npt=152.764s" id="qwrt_0020" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=152.764s" clip-end="npt=155.664s" id="qwrt_0021" repeat="1" fill="remove" />
+            <audio src="amis0010.mp3" clip-begin="npt=155.664s" clip-end="npt=158.499s" id="qwrt_0022" repeat="1" fill="remove" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>
