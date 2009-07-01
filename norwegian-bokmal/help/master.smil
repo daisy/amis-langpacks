@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+    <head>
+        <meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+        <meta name="dc:format" content="Daisy 2.02"/>
+        <meta name="dc:title" content="AMIS brukerveiledning"/>
+        <meta name="dc:identifier" content="Unknown"/>
+        <meta name="ncc:timeInThisSmil" content="00:10:31.056"/>
+        <layout>
+            <region id="txtView"/>
+        </layout>
+    </head>
+    <body>
+        <ref title="AMIS Brukerveiledning" src="rnfy0001.smil#ttux_0006" id="smil_0001"/>
+        <ref title="Hva er AMIS?" src="rnfy0002.smil#ttux_0016" id="smil_0002"/>
+        <ref title="Hva er DAISY?" src="rnfy0003.smil#ttux_0031" id="smil_0003"/>
+        <ref title="Formater" src="rnfy0004.smil#ttux_0035" id="smil_0004"/>
+        <ref title="Systemkrav" src="rnfy0005.smil#wmtf_0001" id="smil_0005"/>
+        <ref title="Skjermbildet" src="rnfy0006.smil#ttux_0077" id="smil_0006"/>
+        <ref title="Funksjonalitet" src="rnfy0007.smil#ttux_007a" id="smil_0007"/>
+        <ref title="Åpne ei bok" src="rnfy0008.smil#ttux_008a" id="smil_0008"/>
+        <ref title="Avspilling" src="rnfy0009.smil#ttux_0097" id="smil_0009"/>
+        <ref title="Navigering" src="rnfy0010.smil#ttux_0104" id="smil_0010"/>
+        <ref title="Bruk av navigasjonsvinduet" src="rnfy0011.smil#ttux_0109" id="smil_0011"/>
+        <ref title="Bokmerker" src="rnfy0012.smil#ttux_0113" id="smil_0012"/>
+        <ref title="Få informasjon om utgivelsen" src="rnfy0013.smil#ttux_0131" id="smil_0013"/>
+        <ref title="Få hjelp med AMIS" src="rnfy0014.smil#ttux_0135" id="smil_0014"/>
+        <ref title="Endre utseende" src="rnfy0015.smil#visg_0001" id="smil_0015"/>
+        <ref title="Alternativer" src="rnfy0016.smil#ttux_0157" id="smil_0016"/>
+        <ref title="Velg skriftstil" src="rnfy0017.smil#ttux_0164" id="smil_0017"/>
+        <ref title="Kontakt oss" src="rnfy0018.smil#vcwd_0001" id="smil_0018"/>
+    </body>
+</smil>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:36.245"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:17.666"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Systemkrav"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="36.245s">
+			<par endsync="last" id="ttux_0035">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0035" id="wmtf_0001"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=0.000s" clip-end="npt=2.547s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0036">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0036" id="wmtf_0002"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=2.547s" clip-end="npt=4.389s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0037">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0037" id="wmtf_0003"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=4.389s" clip-end="npt=8.804s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0038">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0038" id="wmtf_0004"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=8.804s" clip-end="npt=11.729s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0039">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0039" id="wmtf_0005"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=11.729s" clip-end="npt=14.211s" id="audio_0005"/>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=14.211s" clip-end="npt=17.320s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0040">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0040" id="wmtf_0006"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=17.320s" clip-end="npt=19.827s" id="audio_0007"/>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=19.827s" clip-end="npt=21.623s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0041">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0041" id="wmtf_0007"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=21.623s" clip-end="npt=24.360s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0042">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0042" id="wmtf_0008"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=24.360s" clip-end="npt=28.604s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0043">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_5_ttux_0043" id="wmtf_0009"/>
+				<seq>
+					<audio src="05_Systemkrav.mp3" clip-begin="npt=28.604s" clip-end="npt=36.245s" id="audio_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:16.770"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:00.896"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Formater"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="16.770s">
+			<par endsync="last" id="ttux_0031" system-required="pagenumber-on">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_4_ttux_0031" id="ttux_0035"/>
+				<seq>
+					<audio src="04_Formater.mp3" clip-begin="npt=0.000s" clip-end="npt=2.194s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0032">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_4_ttux_0032" id="ttux_0036"/>
+				<seq>
+					<audio src="04_Formater.mp3" clip-begin="npt=2.194s" clip-end="npt=4.989s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0033">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_4_ttux_0033" id="ttux_0037"/>
+				<seq>
+					<audio src="04_Formater.mp3" clip-begin="npt=4.989s" clip-end="npt=7.641s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0034">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_4_ttux_0034" id="ttux_0038"/>
+				<seq>
+					<audio src="04_Formater.mp3" clip-begin="npt=7.641s" clip-end="npt=9.221s" id="audio_0004"/>
+					<audio src="04_Formater.mp3" clip-begin="npt=9.221s" clip-end="npt=16.770s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

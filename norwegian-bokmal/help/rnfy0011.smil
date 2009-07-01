@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:22.400"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:38.630"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Bruk av navigasjonsvinduet"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="22.400s">
+			<par endsync="last" id="ttux_0104">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_11_ttux_0104" id="ttux_0109"/>
+				<seq>
+					<audio src="11_Bruk_av_navigasjonsvinduet.mp3" clip-begin="npt=0.000s" clip-end="npt=0.705s" id="audio_0001"/>
+					<audio src="11_Bruk_av_navigasjonsvinduet.mp3" clip-begin="npt=0.705s" clip-end="npt=3.801s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0105">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_11_ttux_0105" id="ttux_010a"/>
+				<seq>
+					<audio src="11_Bruk_av_navigasjonsvinduet.mp3" clip-begin="npt=3.801s" clip-end="npt=10.292s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0106">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_11_ttux_0106" id="ttux_010b"/>
+				<seq>
+					<audio src="11_Bruk_av_navigasjonsvinduet.mp3" clip-begin="npt=10.292s" clip-end="npt=14.015s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0107">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_11_ttux_0107" id="ttux_010c"/>
+				<seq>
+					<audio src="11_Bruk_av_navigasjonsvinduet.mp3" clip-begin="npt=14.015s" clip-end="npt=17.241s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0108">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_11_ttux_0108" id="ttux_010d"/>
+				<seq>
+					<audio src="11_Bruk_av_navigasjonsvinduet.mp3" clip-begin="npt=17.241s" clip-end="npt=22.400s" id="audio_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

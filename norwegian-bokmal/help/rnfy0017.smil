@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:22.165"/>
+		<meta name="ncc:totalElapsedTime" content="00:09:43.853"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Velg skriftstil"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="22.165s">
+			<par endsync="last" id="ttux_0157">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_17_ttux_0157" id="ttux_0164"/>
+				<seq>
+					<audio src="17_Velg_skriftstil.mp3" clip-begin="npt=0.000s" clip-end="npt=2.430s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0158">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_17_ttux_0158" id="ttux_0165"/>
+				<seq>
+					<audio src="17_Velg_skriftstil.mp3" clip-begin="npt=2.430s" clip-end="npt=6.110s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0159">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_17_ttux_0159" id="ttux_0166"/>
+				<seq>
+					<audio src="17_Velg_skriftstil.mp3" clip-begin="npt=6.110s" clip-end="npt=8.751s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0160">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_17_ttux_0160" id="ttux_0167"/>
+				<seq>
+					<audio src="17_Velg_skriftstil.mp3" clip-begin="npt=8.751s" clip-end="npt=11.181s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0161">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_17_ttux_0161" id="ttux_0168"/>
+				<seq>
+					<audio src="17_Velg_skriftstil.mp3" clip-begin="npt=11.181s" clip-end="npt=12.411s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0162">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_17_ttux_0162" id="ttux_0169"/>
+				<seq>
+					<audio src="17_Velg_skriftstil.mp3" clip-begin="npt=12.411s" clip-end="npt=17.698s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0163" system-required="pagenumber-on">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_17_ttux_0163" id="ttux_016a"/>
+				<seq>
+					<audio src="17_Velg_skriftstil.mp3" clip-begin="npt=17.698s" clip-end="npt=22.165s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

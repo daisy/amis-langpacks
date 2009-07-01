@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:43.259"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:21.578"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Hva er AMIS?"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="43.259s">
+			<par endsync="last" id="ttux_0006">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0006" id="ttux_0016"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=0.000s" clip-end="npt=3.736s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0007">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0007" id="ttux_0017"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=3.736s" clip-end="npt=9.169s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0008">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0008" id="ttux_0018"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=9.169s" clip-end="npt=14.433s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0009">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0009" id="ttux_0019"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=14.433s" clip-end="npt=17.615s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0010">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0010" id="ttux_001a"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=17.615s" clip-end="npt=24.516s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0011">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0011" id="ttux_001b"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=24.516s" clip-end="npt=29.558s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0012">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0012" id="ttux_001c"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=29.558s" clip-end="npt=32.549s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0013">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0013" id="ttux_001d"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=32.549s" clip-end="npt=33.534s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0014">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0014" id="ttux_001e"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=33.534s" clip-end="npt=37.538s" id="audio_0009"/>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=37.538s" clip-end="npt=40.725s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0015">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_2_ttux_0015" id="ttux_001f"/>
+				<seq>
+					<audio src="02_Hva_er_AMIS_.mp3" clip-begin="npt=40.725s" clip-end="npt=43.259s" id="audio_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:40.529"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:17.491"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Endre utseende"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="40.529s">
+			<par endsync="last" id="ttux_0135">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0135" id="visg_0001"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=0.000s" clip-end="npt=0.731s" id="audio_0001"/>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=0.731s" clip-end="npt=3.605s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0136">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0136" id="visg_0002"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=3.605s" clip-end="npt=9.887s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0137">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0137" id="visg_0003"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=9.887s" clip-end="npt=14.433s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0138">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0138" id="visg_0004"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=14.433s" clip-end="npt=18.952s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0139">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0139" id="visg_0005"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=18.952s" clip-end="npt=22.531s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0140">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0140" id="visg_0006"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=22.531s" clip-end="npt=26.488s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0141">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0141" id="visg_0007"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=26.488s" clip-end="npt=28.722s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0142">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0142" id="visg_0008"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=28.722s" clip-end="npt=30.811s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0143">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0143" id="visg_0009"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=30.811s" clip-end="npt=32.666s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0144">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_15_ttux_0144" id="visg_000a"/>
+				<seq>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=32.666s" clip-end="npt=40.385s" id="audio_0011"/>
+					<audio src="15_Endre_utseende.mp3" clip-begin="npt=40.385s" clip-end="npt=40.529s" id="audio_0012"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

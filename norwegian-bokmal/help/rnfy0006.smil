@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:07.791"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:53.911"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Skjermbildet"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="127.791s">
+			<par endsync="last" id="ttux_0044">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0044" id="ttux_0077"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=0.000s" clip-end="npt=2.704s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0045">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0045" id="ttux_0078"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=2.704s" clip-end="npt=5.002s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0046">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0046" id="ttux_0079"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=5.002s" clip-end="npt=7.066s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0047">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0047" id="ttux_007a"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=7.066s" clip-end="npt=10.697s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0048">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0048" id="ttux_007b"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=10.697s" clip-end="npt=13.923s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0049">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0049" id="ttux_007c"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=13.923s" clip-end="npt=18.377s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0050">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0050" id="ttux_007d"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=18.377s" clip-end="npt=19.801s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0051">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0051" id="ttux_007e"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=19.801s" clip-end="npt=21.486s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0052">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0052" id="ttux_007f"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=21.486s" clip-end="npt=25.639s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0053">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0053" id="ttux_0080"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=25.639s" clip-end="npt=28.264s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0054">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0054" id="ttux_0081"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=28.264s" clip-end="npt=32.118s" id="audio_0011"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=32.118s" clip-end="npt=34.077s" id="audio_0012"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=34.077s" clip-end="npt=35.905s" id="audio_0013"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=35.905s" clip-end="npt=38.139s" id="audio_0014"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=38.139s" clip-end="npt=39.393s" id="audio_0015"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=39.393s" clip-end="npt=41.482s" id="audio_0016"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=41.482s" clip-end="npt=43.768s" id="audio_0017"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=43.768s" clip-end="npt=45.884s" id="audio_0018"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=45.884s" clip-end="npt=47.909s" id="audio_0019"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=47.909s" clip-end="npt=49.384s" id="audio_0020"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=49.384s" clip-end="npt=51.291s" id="audio_0021"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=51.291s" clip-end="npt=53.107s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0055">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0055" id="ttux_0082"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=53.107s" clip-end="npt=56.490s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0056" system-required="pagenumber-on">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0056" id="ttux_0083"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=56.490s" clip-end="npt=59.389s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0057">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0057" id="ttux_0084"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=59.389s" clip-end="npt=63.269s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0058">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0058" id="ttux_0085"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=63.269s" clip-end="npt=65.881s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0059">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0059" id="ttux_0086"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=65.881s" clip-end="npt=72.046s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0060">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0060" id="ttux_0087"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=72.046s" clip-end="npt=75.402s" id="audio_0028"/>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=75.402s" clip-end="npt=77.727s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0061">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0061" id="ttux_0088"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=77.727s" clip-end="npt=82.057s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0062">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0062" id="ttux_0089"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=82.057s" clip-end="npt=84.663s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0063">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0063" id="ttux_008a"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=84.663s" clip-end="npt=89.469s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0064">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0064" id="ttux_008b"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=89.469s" clip-end="npt=92.552s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0065">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0065" id="ttux_008c"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=92.552s" clip-end="npt=94.554s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0066">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0066" id="ttux_008d"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=94.554s" clip-end="npt=96.914s" id="audio_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0067">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0067" id="ttux_008e"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=96.914s" clip-end="npt=101.381s" id="audio_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0068">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0068" id="ttux_008f"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=101.381s" clip-end="npt=104.738s" id="audio_0037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0069">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0069" id="ttux_0090"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=104.738s" clip-end="npt=106.632s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0070">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0070" id="ttux_0091"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=106.632s" clip-end="npt=109.388s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0071">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0071" id="ttux_0092"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=109.388s" clip-end="npt=111.399s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0072">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0072" id="ttux_0093"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=111.399s" clip-end="npt=113.189s" id="audio_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0073">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0073" id="ttux_0094"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=113.189s" clip-end="npt=116.310s" id="audio_0042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0074">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0074" id="ttux_0095"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=116.310s" clip-end="npt=119.150s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0075">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0075" id="ttux_0096"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=119.150s" clip-end="npt=122.776s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0076" system-required="pagenumber-on">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_6_ttux_0076" id="ttux_0097"/>
+				<seq>
+					<audio src="06_Skjermbildet.mp3" clip-begin="npt=122.776s" clip-end="npt=127.791s" id="audio_0045"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

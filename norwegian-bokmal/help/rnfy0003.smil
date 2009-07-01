@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:56.059"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:04.837"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Hva er DAISY?"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="56.059s">
+			<par endsync="last" id="ttux_0016">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0016" id="ttux_0031"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=0.000s" clip-end="npt=2.795s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0017">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0017" id="ttux_0032"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=2.795s" clip-end="npt=7.941s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0018">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0018" id="ttux_0033"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=7.941s" clip-end="npt=13.120s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0019">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0019" id="ttux_0034"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=13.120s" clip-end="npt=14.490s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0020">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0020" id="ttux_0035"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=14.490s" clip-end="npt=16.010s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0021">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0021" id="ttux_0036"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=16.010s" clip-end="npt=17.411s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0022">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0022" id="ttux_0037"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=17.411s" clip-end="npt=18.570s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0023">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0023" id="ttux_0038"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=18.570s" clip-end="npt=20.663s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0024">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0024" id="ttux_0039"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=20.663s" clip-end="npt=24.503s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0025">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0025" id="ttux_003a"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=24.503s" clip-end="npt=29.453s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0026">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0026" id="ttux_003b"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=29.453s" clip-end="npt=37.070s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0027">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0027" id="ttux_003c"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=37.070s" clip-end="npt=46.812s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0028">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0028" id="ttux_003d"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=46.812s" clip-end="npt=49.060s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0029">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0029" id="ttux_003e"/>
+				<seq>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=49.060s" clip-end="npt=52.820s" id="audio_0014"/>
+					<audio src="03_Hva_er_DAISY_.mp3" clip-begin="npt=52.820s" clip-end="npt=56.059s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0030">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_3_ttux_0030" id="ttux_003f"/>
+			</par>
+		</seq>
+	</body>
+</smil>

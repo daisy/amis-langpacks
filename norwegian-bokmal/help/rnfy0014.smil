@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:14.629"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:02.862"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Få hjelp med AMIS"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="14.629s">
+			<par endsync="last" id="ttux_0131">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_14_ttux_0131" id="ttux_0135"/>
+				<seq>
+					<audio src="14_F__hjelp_med_AMIS.mp3" clip-begin="npt=0.000s" clip-end="npt=3.200s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0132">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_14_ttux_0132" id="ttux_0136"/>
+				<seq>
+					<audio src="14_F__hjelp_med_AMIS.mp3" clip-begin="npt=3.200s" clip-end="npt=6.792s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0133">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_14_ttux_0133" id="ttux_0137"/>
+				<seq>
+					<audio src="14_F__hjelp_med_AMIS.mp3" clip-begin="npt=6.792s" clip-end="npt=9.626s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0134">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_14_ttux_0134" id="ttux_0138"/>
+				<seq>
+					<audio src="14_F__hjelp_med_AMIS.mp3" clip-begin="npt=9.626s" clip-end="npt=14.629s" id="audio_0004"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

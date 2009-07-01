@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:42.044"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:20.818"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Få informasjon om utgivelsen"/>
+    <meta name="dc:title" content="AMIS brukerveiledning"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="42.044s">
+			<par endsync="last" id="ttux_0113">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0113" id="ttux_0131"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=0.000s" clip-end="npt=3.971s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0114">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0114" id="ttux_0132"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=3.971s" clip-end="npt=8.385s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0115">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0115" id="ttux_0133"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=8.385s" clip-end="npt=12.238s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0116">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0116" id="ttux_0134"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=12.238s" clip-end="npt=13.505s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0117">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0117" id="ttux_0135"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=13.505s" clip-end="npt=15.060s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0118">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0118" id="ttux_0136"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=15.060s" clip-end="npt=16.522s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0119">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0119" id="ttux_0137"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=16.522s" clip-end="npt=18.312s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0120">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0120" id="ttux_0138"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=18.312s" clip-end="npt=19.879s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0121">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0121" id="ttux_0139"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=19.879s" clip-end="npt=21.447s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0122">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0122" id="ttux_013a"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=21.447s" clip-end="npt=23.484s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0123">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0123" id="ttux_013b"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=23.484s" clip-end="npt=24.882s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0124">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0124" id="ttux_013c"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=24.882s" clip-end="npt=26.384s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0125">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0125" id="ttux_013d"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=26.384s" clip-end="npt=28.382s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0126">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0126" id="ttux_013e"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=28.382s" clip-end="npt=30.498s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0127">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0127" id="ttux_013f"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=30.498s" clip-end="npt=32.967s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0128">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0128" id="ttux_0140"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=32.967s" clip-end="npt=35.004s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0129">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0129" id="ttux_0141"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=35.004s" clip-end="npt=39.380s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ttux_0130" system-required="pagenumber-on">
+				<text src="amis_brukerveiledning_bkm.html#dol_1_13_ttux_0130" id="ttux_0142"/>
+				<seq>
+					<audio src="13_F__informasjon_om_utgivelsen.mp3" clip-begin="npt=39.380s" clip-end="npt=42.044s" id="audio_0018"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
