@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:29.012"/>
+		<meta name="ncc:totalElapsedTime" content="00:09:54.657"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Contact Us"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="29.012s">
+			<par endsync="last" id="lssq_0188">
+				<text src="amishelp.html#dol_1_18_lssq_0188" id="lssq_0195"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=0.000s" clip-end="npt=0.549s" id="audio_0001"/>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=0.549s" clip-end="npt=2.111s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0189">
+				<text src="amishelp.html#dol_1_18_lssq_0189" id="lssq_0196"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=2.111s" clip-end="npt=2.594s" id="audio_0003"/>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=2.594s" clip-end="npt=5.461s" id="audio_0004"/>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=5.461s" clip-end="npt=8.582s" id="audio_0005"/>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=8.582s" clip-end="npt=10.803s" id="audio_0006"/>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=10.803s" clip-end="npt=14.302s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0190">
+				<text src="amishelp.html#dol_1_18_lssq_0190" id="lssq_0197"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=14.302s" clip-end="npt=17.630s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0191">
+				<text src="amishelp.html#dol_1_18_lssq_0191" id="lssq_0198"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=17.630s" clip-end="npt=19.980s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0192">
+				<text src="amishelp.html#dol_1_18_lssq_0192" id="lssq_0199"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=19.980s" clip-end="npt=22.633s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0193">
+				<text src="amishelp.html#dol_1_18_lssq_0193" id="lssq_019a"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=22.633s" clip-end="npt=25.970s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0194">
+				<text src="amishelp.html#dol_1_18_lssq_0194" id="lssq_019b"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=25.970s" clip-end="npt=26.519s" id="audio_0012"/>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=26.519s" clip-end="npt=29.012s" id="audio_0013"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

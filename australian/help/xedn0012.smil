@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:15.362"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:57.125"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Setting bookmarks"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="15.362s">
+			<par endsync="last" id="lssq_0136">
+				<text src="amishelp.html#dol_1_12_lssq_0136" id="lssq_013a"/>
+				<seq>
+					<audio src="12_Setting_bookmarks.mp3" clip-begin="npt=0.000s" clip-end="npt=0.483s" id="audio_0001"/>
+					<audio src="12_Setting_bookmarks.mp3" clip-begin="npt=0.483s" clip-end="npt=2.042s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0137">
+				<text src="amishelp.html#dol_1_12_lssq_0137" id="lssq_013b"/>
+				<seq>
+					<audio src="12_Setting_bookmarks.mp3" clip-begin="npt=2.042s" clip-end="npt=7.789s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0138">
+				<text src="amishelp.html#dol_1_12_lssq_0138" id="lssq_013c"/>
+				<seq>
+					<audio src="12_Setting_bookmarks.mp3" clip-begin="npt=7.789s" clip-end="npt=9.602s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0139">
+				<text src="amishelp.html#dol_1_12_lssq_0139" id="lssq_013d"/>
+				<seq>
+					<audio src="12_Setting_bookmarks.mp3" clip-begin="npt=9.602s" clip-end="npt=15.362s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:35.287"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:44.462"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="System Requirements"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="35.287s">
+			<par endsync="last" id="lssq_0039">
+				<text src="amishelp.html#dol_1_5_lssq_0039" id="lssq_004a"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=0.000s" clip-end="npt=1.868s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0040">
+				<text src="amishelp.html#dol_1_5_lssq_0040" id="lssq_004b"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=1.868s" clip-end="npt=5.553s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0041">
+				<text src="amishelp.html#dol_1_5_lssq_0041" id="lssq_004c"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=5.553s" clip-end="npt=7.612s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0042">
+				<text src="amishelp.html#dol_1_5_lssq_0042" id="lssq_004d"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=7.612s" clip-end="npt=9.333s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0043">
+				<text src="amishelp.html#dol_1_5_lssq_0043" id="lssq_004e"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=9.333s" clip-end="npt=11.833s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0044">
+				<text src="amishelp.html#dol_1_5_lssq_0044" id="lssq_004f"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=11.833s" clip-end="npt=14.281s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0045">
+				<text src="amishelp.html#dol_1_5_lssq_0045" id="lssq_0050"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=14.281s" clip-end="npt=20.137s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0046">
+				<text src="amishelp.html#dol_1_5_lssq_0046" id="lssq_0051"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=20.137s" clip-end="npt=23.141s" id="audio_0008"/>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=23.141s" clip-end="npt=24.903s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0047">
+				<text src="amishelp.html#dol_1_5_lssq_0047" id="lssq_0052"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=24.903s" clip-end="npt=27.524s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0048">
+				<text src="amishelp.html#dol_1_5_lssq_0048" id="lssq_0053"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=27.524s" clip-end="npt=30.442s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0049">
+				<text src="amishelp.html#dol_1_5_lssq_0049" id="lssq_0054"/>
+				<seq>
+					<audio src="05_System_Requirements.mp3" clip-begin="npt=30.442s" clip-end="npt=35.287s" id="audio_0012"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

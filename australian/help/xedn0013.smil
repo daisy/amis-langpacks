@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:48.122"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:12.487"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Getting information about the publication"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="48.122s">
+			<par endsync="last" id="lssq_0140">
+				<text src="amishelp.html#dol_1_13_lssq_0140" id="yboh_0001"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=0.000s" clip-end="npt=3.263s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0141">
+				<text src="amishelp.html#dol_1_13_lssq_0141" id="yboh_0002"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=3.263s" clip-end="npt=11.225s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0142">
+				<text src="amishelp.html#dol_1_13_lssq_0142" id="yboh_0003"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=11.225s" clip-end="npt=14.740s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0143">
+				<text src="amishelp.html#dol_1_13_lssq_0143" id="yboh_0004"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=14.740s" clip-end="npt=15.532s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0144">
+				<text src="amishelp.html#dol_1_13_lssq_0144" id="yboh_0005"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=15.532s" clip-end="npt=16.280s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0145">
+				<text src="amishelp.html#dol_1_13_lssq_0145" id="yboh_0006"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=16.280s" clip-end="npt=17.150s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0146">
+				<text src="amishelp.html#dol_1_13_lssq_0146" id="yboh_0007"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=17.150s" clip-end="npt=18.504s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0147">
+				<text src="amishelp.html#dol_1_13_lssq_0147" id="yboh_0008"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=18.504s" clip-end="npt=19.858s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0148">
+				<text src="amishelp.html#dol_1_13_lssq_0148" id="yboh_0009"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=19.858s" clip-end="npt=21.602s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0149">
+				<text src="amishelp.html#dol_1_13_lssq_0149" id="yboh_000a"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=21.602s" clip-end="npt=23.329s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0150">
+				<text src="amishelp.html#dol_1_13_lssq_0150" id="yboh_000b"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=23.329s" clip-end="npt=24.233s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0151">
+				<text src="amishelp.html#dol_1_13_lssq_0151" id="yboh_000c"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=24.233s" clip-end="npt=25.336s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0152">
+				<text src="amishelp.html#dol_1_13_lssq_0152" id="yboh_000d"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=25.336s" clip-end="npt=27.021s" id="audio_0013"/>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=27.021s" clip-end="npt=29.013s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0153">
+				<text src="amishelp.html#dol_1_13_lssq_0153" id="yboh_000e"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=29.013s" clip-end="npt=30.257s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0154">
+				<text src="amishelp.html#dol_1_13_lssq_0154" id="yboh_000f"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=30.257s" clip-end="npt=32.042s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0155">
+				<text src="amishelp.html#dol_1_13_lssq_0155" id="yboh_0010"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=32.042s" clip-end="npt=33.512s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0156">
+				<text src="amishelp.html#dol_1_13_lssq_0156" id="yboh_0011"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=33.512s" clip-end="npt=38.719s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0157">
+				<text src="amishelp.html#dol_1_13_lssq_0157" id="yboh_0012"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=38.719s" clip-end="npt=42.912s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0158">
+				<text src="amishelp.html#dol_1_13_lssq_0158" id="yboh_0013"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=42.912s" clip-end="npt=45.426s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0159">
+				<text src="amishelp.html#dol_1_13_lssq_0159" id="yboh_0014"/>
+				<seq>
+					<audio src="13_Getting_information_about_the_publication.mp3" clip-begin="npt=45.426s" clip-end="npt=48.122s" id="audio_0021"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

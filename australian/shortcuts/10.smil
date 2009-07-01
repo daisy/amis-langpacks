@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Keyboard shortcuts"/>
+		<meta name="dc:title" content="Keyboard shortcuts"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-eng-AU"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t393">
+					<text src="amiskeys.html#t393"/>
+					<audio src="21 Other Not in Menu.mp3"/>
+				</par>
+				<par endsync="last" id="t420">
+					<text src="amiskeys.html#t420"/>
+					<audio src="41 Find Next.mp3"/>
+				</par>
+					<par endsync="last" id="t422">
+						<text src="amiskeys.html#t422"/>
+						<audio src="F3.mp3"/>
+					</par>
+				<par endsync="last" id="t423">
+					<text src="amiskeys.html#t423"/>
+					<audio src="43 Find Previous.mp3"/>
+				</par>
+					<par endsync="last" id="t425">
+						<text src="amiskeys.html#t425"/>
+						<audio src="Shift and F3.mp3"/>
+					</par>
+				<par endsync="last" id="t399">
+					<text src="amiskeys.html#t399"/>
+					<audio src="26 Focus on Sidebar.mp3"/>
+				</par>
+					<par endsync="last" id="t401">
+						<text src="amiskeys.html#t401"/>
+						<audio src="18 Ctrl+N.mp3"/>
+					</par>
+				<par endsync="last" id="t402">
+					<text src="amiskeys.html#t402"/>
+					<audio src="28 Focus on Text.mp3"/>
+				</par>
+					<par endsync="last" id="t404">
+						<text src="amiskeys.html#t404"/>
+						<audio src="19 Ctrl+T.mp3"/>
+					</par>
+				<par endsync="last" id="t394">
+					<text src="amiskeys.html#t394"/>
+					<audio src="Toggle contents audio.mp3"/>
+				</par>
+					<par endsync="last" id="t433">
+						<text src="amiskeys.html#t433"/>
+						<audio src="28 Ctrl+Shift+F.mp3"/>
+					</par>
+				<par endsync="last" id="t396">
+					<text src="amiskeys.html#t396"/>
+					<audio src="24 Toggle Self Voicing Audio.mp3"/>
+				</par>
+					<par endsync="last" id="t398">
+						<text src="amiskeys.html#t398"/>
+						<audio src="17 Ctrl+Shift+G.mp3"/>
+					</par>
+				<par endsync="last" id="t405">
+					<text src="amiskeys.html#t405"/>
+					<audio src="30 Decrease Self Voicing Volume.mp3"/>
+				</par>
+					<par endsync="last" id="t407">
+						<text src="amiskeys.html#t407"/>
+						<audio src="20 Ctrl+Shift+Down.mp3"/>
+					</par>
+				<par endsync="last" id="t408">
+					<text src="amiskeys.html#t408"/>
+					<audio src="32 Increase Self Voicing Volume.mp3"/>
+				</par>
+					<par endsync="last" id="t410">
+						<text src="amiskeys.html#t410"/>
+						<audio src="21 Ctrl+Shift+Up.mp3"/>
+					</par>
+				<par endsync="last" id="t411">
+					<text src="amiskeys.html#t411"/>
+					<audio src="35 Decrease Book Volume.mp3"/>
+				</par>
+					<par endsync="last" id="t413">
+						<text src="amiskeys.html#t413"/>
+						<audio src="22 Ctrl+Shift+Alt+Down.mp3"/>
+					</par>
+				<par endsync="last" id="t414">
+					<text src="amiskeys.html#t414"/>
+					<audio src="37 Increase Book Volume.mp3"/>
+				</par>
+					<par endsync="last" id="t416">
+						<text src="amiskeys.html#t416"/>
+						<audio src="23 Ctrl+Shift+Alt+Up.mp3"/>
+					</par>
+				<par endsync="last" id="t440">
+					<text src="amiskeys.html#t440"/>
+					<audio src="14 Increase Text to Speech Volume.mp3"/>
+				</par>
+					<par endsync="last" id="t442">
+						<text src="amiskeys.html#t442"/>
+						<audio src="32 Ctrl+Shift+Right.mp3"/>
+					</par>
+				<par endsync="last" id="t443">
+					<text src="amiskeys.html#t443"/>
+					<audio src="16 Decrease Text to Speech Volume.mp3"/>
+				</par>
+					<par endsync="last" id="t445">
+						<text src="amiskeys.html#t445"/>
+						<audio src="33 Ctrl+Shift+Left.mp3"/>
+					</par>
+				<par endsync="last" id="t417">
+					<text src="amiskeys.html#t417"/>
+					<audio src="39 Decrease Section Depth.mp3"/>
+				</par>
+					<par endsync="last" id="t419">
+						<text src="amiskeys.html#t419"/>
+						<audio src="24 Ctrl+Q.mp3"/>
+					</par>
+				<par endsync="last" id="t426">
+					<text src="amiskeys.html#t426"/>
+					<audio src="45 Increase Section Depth.mp3"/>
+				</par>
+					<par endsync="last" id="t428">
+						<text src="amiskeys.html#t428"/>
+						<audio src="26 Ctrl+P.mp3"/>
+					</par>
+				<par endsync="last" id="t429">
+					<text src="amiskeys.html#t429"/>
+					<audio src="47 Reset Highlight Colours.mp3"/>
+				</par>
+					<par endsync="last" id="t431">
+						<text src="amiskeys.html#t431"/>
+						<audio src="27 Ctrl+Shift+E.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>

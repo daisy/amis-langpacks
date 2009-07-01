@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:21.659"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:00.184"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Controlling playback"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="21.659s">
+			<par endsync="last" id="lssq_0116">
+				<text src="amishelp.html#dol_1_9_lssq_0116" id="lssq_0123"/>
+				<seq>
+					<audio src="09_Controlling_playback.mp3" clip-begin="npt=0.000s" clip-end="npt=2.051s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0117">
+				<text src="amishelp.html#dol_1_9_lssq_0117" id="lssq_0124"/>
+				<seq>
+					<audio src="09_Controlling_playback.mp3" clip-begin="npt=2.051s" clip-end="npt=6.162s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0118">
+				<text src="amishelp.html#dol_1_9_lssq_0118" id="lssq_0125"/>
+				<seq>
+					<audio src="09_Controlling_playback.mp3" clip-begin="npt=6.162s" clip-end="npt=10.054s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0119">
+				<text src="amishelp.html#dol_1_9_lssq_0119" id="lssq_0126"/>
+				<seq>
+					<audio src="09_Controlling_playback.mp3" clip-begin="npt=10.054s" clip-end="npt=12.363s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0120">
+				<text src="amishelp.html#dol_1_9_lssq_0120" id="lssq_0127"/>
+				<seq>
+					<audio src="09_Controlling_playback.mp3" clip-begin="npt=12.363s" clip-end="npt=14.773s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0121">
+				<text src="amishelp.html#dol_1_9_lssq_0121" id="lssq_0128"/>
+				<seq>
+					<audio src="09_Controlling_playback.mp3" clip-begin="npt=14.773s" clip-end="npt=18.070s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0122">
+				<text src="amishelp.html#dol_1_9_lssq_0122" id="lssq_0129"/>
+				<seq>
+					<audio src="09_Controlling_playback.mp3" clip-begin="npt=18.070s" clip-end="npt=21.659s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

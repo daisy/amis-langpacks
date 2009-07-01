@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:41.893"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:49.361"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Setting preferences"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="41.893s">
+			<par endsync="last" id="lssq_0172">
+				<text src="amishelp.html#dol_1_16_lssq_0172" id="lssq_0183"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=0.000s" clip-end="npt=0.483s" id="audio_0001"/>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=0.483s" clip-end="npt=2.371s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0173">
+				<text src="amishelp.html#dol_1_16_lssq_0173" id="lssq_0184"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=2.371s" clip-end="npt=7.244s" id="audio_0003"/>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=7.244s" clip-end="npt=9.014s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0174">
+				<text src="amishelp.html#dol_1_16_lssq_0174" id="lssq_0185"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=9.014s" clip-end="npt=12.711s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0175">
+				<text src="amishelp.html#lssq_0175" id="lssq_0186"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=12.711s" clip-end="npt=15.704s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0176">
+				<text src="amishelp.html#lssq_0176" id="lssq_0187"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=15.704s" clip-end="npt=16.122s" id="audio_0007"/>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=16.122s" clip-end="npt=19.136s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0177">
+				<text src="amishelp.html#lssq_0177" id="lssq_0188"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=19.136s" clip-end="npt=19.554s" id="audio_0009"/>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=19.554s" clip-end="npt=23.043s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0178">
+				<text src="amishelp.html#lssq_0178" id="lssq_0189"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=23.043s" clip-end="npt=26.518s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0179">
+				<text src="amishelp.html#lssq_0179" id="lssq_018a"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=26.518s" clip-end="npt=26.936s" id="audio_0012"/>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=26.936s" clip-end="npt=31.429s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0180">
+				<text src="amishelp.html#lssq_0180" id="lssq_018b"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=31.429s" clip-end="npt=31.847s" id="audio_0014"/>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=31.847s" clip-end="npt=35.376s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0181">
+				<text src="amishelp.html#lssq_0181" id="lssq_018c"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=35.376s" clip-end="npt=39.204s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0182">
+				<text src="amishelp.html#lssq_0182" id="lssq_018d"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=39.204s" clip-end="npt=39.870s" id="audio_0017"/>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=39.870s" clip-end="npt=41.893s" id="audio_0018"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
