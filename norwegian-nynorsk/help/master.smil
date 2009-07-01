@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+    <head>
+        <meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+        <meta name="dc:format" content="Daisy 2.02"/>
+        <meta name="dc:title" content="AMIS brukarrettleiing"/>
+        <meta name="dc:identifier" content="Unknown"/>
+        <meta name="ncc:timeInThisSmil" content="00:10:19.689"/>
+        <layout>
+            <region id="txtView"/>
+        </layout>
+    </head>
+    <body>
+        <ref title="AMIS Brukarrettleiing" src="agvq0001.smil#uwky_0001" id="smil_0001"/>
+        <ref title="Kva er AMIS?" src="agvq0002.smil#evmd_0001" id="smil_0002"/>
+        <ref title="Kva er DAISY?" src="agvq0003.smil#efmu_0001" id="smil_0003"/>
+        <ref title="Format" src="agvq0004.smil#ekpr_0001" id="smil_0004"/>
+        <ref title="Systemkrav" src="agvq0005.smil#mqii_0001" id="smil_0005"/>
+        <ref title="Skjermbilete" src="agvq0006.smil#eapu_0001" id="smil_0006"/>
+        <ref title="Funksjonalitet" src="agvq0007.smil#xrwb_0001" id="smil_0007"/>
+        <ref title="Opne ei bok" src="agvq0010.smil#xkfl_0001" id="smil_0008"/>
+        <ref title="Avspeling" src="agvq0011.smil#wwas_0001" id="smil_0009"/>
+        <ref title="Navigering" src="agvq0012.smil#wbeq_0001" id="smil_0010"/>
+        <ref title="Bruk av navigasjonsvindauget" src="agvq0013.smil#ghwh_0001" id="smil_0011"/>
+        <ref title="Bokmerke" src="agvq0014.smil#wqds_0001" id="smil_0012"/>
+        <ref title="Få informasjon om utgjevinga" src="agvq0015.smil#osts_0001" id="smil_0013"/>
+        <ref title="Få hjelp med AMIS" src="agvq0016.smil#kjkb_0001" id="smil_0014"/>
+        <ref title="Endre utsjånad" src="agvq0017.smil#tqdr_0001" id="smil_0015"/>
+        <ref title=" Alternativ" src="agvq0018.smil#kzje_0001" id="smil_0016"/>
+        <ref title="Skriftstil" src="agvq0019.smil#jlem_0001" id="smil_0017"/>
+        <ref title="Kontakt oss" src="agvq0020.smil#jpij_0001" id="smil_0018"/>
+    </body>
+</smil>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:46.142"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:56.268"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content=" Alternativ"/>
+    <meta name="dc:title" content="AMIS brukarrettleiing"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="46.142s">
+			<par endsync="last" id="buyr_0157">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0157" id="kzje_0001"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=0.000s" clip-end="npt=2.155s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0158">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0158" id="kzje_0002"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=2.155s" clip-end="npt=6.741s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0159">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0159" id="kzje_0003"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=6.741s" clip-end="npt=9.378s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0160">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0160" id="kzje_0004"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=9.378s" clip-end="npt=14.380s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0161">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0161" id="kzje_0005"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=14.380s" clip-end="npt=17.384s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0162">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0162" id="kzje_0006"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=17.384s" clip-end="npt=21.055s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0163">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0163" id="kzje_0007"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=21.055s" clip-end="npt=25.117s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0164">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0164" id="kzje_0008"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=25.117s" clip-end="npt=29.558s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0165">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0165" id="kzje_0009"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=29.558s" clip-end="npt=34.691s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0166">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0166" id="kzje_000a"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=34.691s" clip-end="npt=39.589s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0167">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0167" id="kzje_000b"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=39.589s" clip-end="npt=44.745s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0168" system-required="pagenumber-on">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_16_buyr_0168" id="kzje_000c"/>
+				<seq>
+					<audio src="16__Alternativ.mp3" clip-begin="npt=44.745s" clip-end="npt=46.142s" id="audio_0012"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
