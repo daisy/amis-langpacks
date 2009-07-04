@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:37.069"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:18.471"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Setting preferences"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="37.069s">
+			<par endsync="last" id="lssq_0172">
+				<text src="amishelp.html#dol_1_16_lssq_0172" id="lssq_0183"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=0.000s" clip-end="npt=1.888s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0173">
+				<text src="amishelp.html#dol_1_16_lssq_0173" id="lssq_0184"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=1.888s" clip-end="npt=8.169s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0174">
+				<text src="amishelp.html#lssq_0174" id="lssq_0185"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=8.169s" clip-end="npt=11.510s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0175">
+				<text src="amishelp.html#lssq_0175" id="lssq_0186"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=11.510s" clip-end="npt=14.103s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0176">
+				<text src="amishelp.html#lssq_0176" id="lssq_0187"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=14.103s" clip-end="npt=17.117s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0177">
+				<text src="amishelp.html#lssq_0177" id="lssq_0188"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=17.117s" clip-end="npt=20.606s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0178">
+				<text src="amishelp.html#lssq_0178" id="lssq_0189"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=20.606s" clip-end="npt=23.739s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0179">
+				<text src="amishelp.html#lssq_0179" id="lssq_018a"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=23.739s" clip-end="npt=28.232s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0180">
+				<text src="amishelp.html#lssq_0180" id="lssq_018b"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=28.232s" clip-end="npt=31.761s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0181">
+				<text src="amishelp.html#lssq_0181" id="lssq_018c"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=31.761s" clip-end="npt=35.046s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0182">
+				<text src="amishelp.html#lssq_0182" id="lssq_018d"/>
+				<seq>
+					<audio src="16_Setting_preferences.mp3" clip-begin="npt=35.046s" clip-end="npt=37.069s" id="audio_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

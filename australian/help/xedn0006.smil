@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:52.898"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:12.667"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Screen Layout"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="112.898s">
+			<par endsync="last" id="lssq_0050">
+				<text src="amishelp.html#dol_1_6_lssq_0050" id="lssq_0104"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=0.000s" clip-end="npt=1.764s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0051">
+				<text src="amishelp.html#dol_1_6_lssq_0051" id="lssq_0105"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=1.764s" clip-end="npt=4.498s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0052">
+				<text src="amishelp.html#dol_1_6_lssq_0052" id="lssq_0106"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=4.498s" clip-end="npt=6.242s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0053">
+				<text src="amishelp.html#dol_1_6_lssq_0053" id="lssq_0107"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=6.242s" clip-end="npt=15.704s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0054">
+				<text src="amishelp.html#lssq_0054" id="lssq_0108"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=15.704s" clip-end="npt=19.034s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0055">
+				<text src="amishelp.html#lssq_0055" id="lssq_0109"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=19.034s" clip-end="npt=19.864s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0056">
+				<text src="amishelp.html#lssq_0056" id="lssq_010a"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=19.864s" clip-end="npt=21.264s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0057">
+				<text src="amishelp.html#lssq_0057" id="lssq_010b"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=21.264s" clip-end="npt=23.774s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0058">
+				<text src="amishelp.html#lssq_0058" id="lssq_010c"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=23.774s" clip-end="npt=27.663s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0059">
+				<text src="amishelp.html#lssq_0059" id="lssq_010d"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=27.663s" clip-end="npt=29.926s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0060">
+				<text src="amishelp.html#lssq_0060" id="lssq_010e"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=29.926s" clip-end="npt=33.712s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0061">
+				<text src="amishelp.html#lssq_0061" id="lssq_010f"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=33.712s" clip-end="npt=34.889s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0063">
+				<text src="amishelp.html#lssq_0063" id="lssq_0111"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=34.889s" clip-end="npt=36.464s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0065">
+				<text src="amishelp.html#lssq_0065" id="lssq_0113"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=36.464s" clip-end="npt=38.714s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0067">
+				<text src="amishelp.html#lssq_0067" id="lssq_0115"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=38.714s" clip-end="npt=40.421s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0069">
+				<text src="amishelp.html#lssq_0069" id="lssq_0117"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=40.421s" clip-end="npt=42.338s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0071">
+				<text src="amishelp.html#lssq_0071" id="lssq_0119"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=42.338s" clip-end="npt=43.521s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0073">
+				<text src="amishelp.html#lssq_0073" id="lssq_011b"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=43.521s" clip-end="npt=44.635s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0075">
+				<text src="amishelp.html#lssq_0075" id="lssq_011d"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=44.635s" clip-end="npt=46.000s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0077">
+				<text src="amishelp.html#lssq_0077" id="lssq_011f"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=46.000s" clip-end="npt=47.313s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0079">
+				<text src="amishelp.html#lssq_0079" id="lssq_0121"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=47.313s" clip-end="npt=49.772s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0081">
+				<text src="amishelp.html#lssq_0081" id="lssq_0123"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=49.772s" clip-end="npt=51.496s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0082">
+				<text src="amishelp.html#lssq_0082" id="lssq_0124"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=51.496s" clip-end="npt=52.539s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0083">
+				<text src="amishelp.html#lssq_0083" id="lssq_0125"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=52.539s" clip-end="npt=57.381s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0084">
+				<text src="amishelp.html#lssq_0084" id="lssq_0126"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=57.381s" clip-end="npt=60.086s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0085">
+				<text src="amishelp.html#lssq_0085" id="lssq_0127"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=60.086s" clip-end="npt=64.748s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0086">
+				<text src="amishelp.html#lssq_0086" id="lssq_0128"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=64.748s" clip-end="npt=69.843s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0087">
+				<text src="amishelp.html#lssq_0087" id="lssq_0129"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=69.843s" clip-end="npt=76.498s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0088">
+				<text src="amishelp.html#lssq_0088" id="lssq_012a"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=76.498s" clip-end="npt=78.865s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0089">
+				<text src="amishelp.html#dol_1_6_lssq_0088" id="lssq_012b"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=78.865s" clip-end="npt=82.461s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0090">
+				<text src="amishelp.html#dol_1_6_lssq_0089" id="lssq_012c"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=82.461s" clip-end="npt=84.274s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0091">
+				<text src="amishelp.html#dol_1_6_lssq_0090" id="lssq_012d"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=84.274s" clip-end="npt=87.333s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0092">
+				<text src="amishelp.html#dol_1_6_lssq_0091" id="lssq_012e"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=87.333s" clip-end="npt=92.967s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0093">
+				<text src="amishelp.html#dol_1_6_lssq_0092" id="lssq_012f"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=92.967s" clip-end="npt=96.282s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0094">
+				<text src="amishelp.html#dol_1_6_lssq_0093" id="lssq_0130"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=96.282s" clip-end="npt=98.792s" id="audio_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0096">
+				<text src="amishelp.html#dol_1_6_lssq_0094" id="lssq_0132"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=98.792s" clip-end="npt=100.506s" id="audio_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0098">
+				<text src="amishelp.html#dol_1_6_lssq_0096" id="lssq_0134"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=100.506s" clip-end="npt=102.401s" id="audio_0037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0100">
+				<text src="amishelp.html#dol_1_6_lssq_0098" id="lssq_0136"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=102.401s" clip-end="npt=105.341s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0102">
+				<text src="amishelp.html#dol_1_6_lssq_0100" id="lssq_0138"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=105.341s" clip-end="npt=110.219s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0103">
+				<text src="amishelp.html#dol_1_6_lssq_0102" id="lssq_0139"/>
+				<seq>
+					<audio src="06_Screen_Layout.mp3" clip-begin="npt=110.219s" clip-end="npt=112.898s" id="audio_0040"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

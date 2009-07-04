@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:24.412"/>
+		<meta name="ncc:totalElapsedTime" content="00:09:16.714"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Contact Us"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="24.412s">
+			<par endsync="last" id="lssq_0188">
+				<text src="amishelp.html#dol_1_18_lssq_0188" id="lssq_0195"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=0.000s" clip-end="npt=1.562s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0189">
+				<text src="amishelp.html#dol_1_18_lssq_0189" id="lssq_0196"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=1.562s" clip-end="npt=11.283s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0190">
+				<text src="amishelp.html#lssq_0190" id="lssq_0197"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=11.283s" clip-end="npt=14.235s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0191">
+				<text src="amishelp.html#lssq_0191" id="lssq_0198"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=14.235s" clip-end="npt=16.339s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0192">
+				<text src="amishelp.html#lssq_0192" id="lssq_0199"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=16.339s" clip-end="npt=18.582s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0193">
+				<text src="amishelp.html#lssq_0193" id="lssq_019a"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=18.582s" clip-end="npt=21.919s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0194">
+				<text src="amishelp.html#lssq_0194" id="lssq_019b"/>
+				<seq>
+					<audio src="18_Contact_Us.mp3" clip-begin="npt=21.919s" clip-end="npt=24.412s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

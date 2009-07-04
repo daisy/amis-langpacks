@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:18.533"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:58.649"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="What is DAISY?"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="78.533s">
+			<par endsync="last" id="lssq_0017">
+				<text src="amishelp.html#dol_1_3_lssq_0017" id="lssq_0035"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=0.000s" clip-end="npt=1.505s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0018">
+				<text src="amishelp.html#dol_1_3_lssq_0018" id="lssq_0036"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=1.505s" clip-end="npt=6.557s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0019">
+				<text src="amishelp.html#dol_1_3_lssq_0019" id="lssq_0037"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=6.557s" clip-end="npt=10.830s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0020">
+				<text src="amishelp.html#dol_1_3_lssq_0020" id="lssq_0038"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=10.830s" clip-end="npt=12.932s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0021">
+				<text src="amishelp.html#dol_1_3_lssq_0021" id="lssq_0039"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=12.932s" clip-end="npt=15.068s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0022">
+				<text src="amishelp.html#dol_1_3_lssq_0022" id="lssq_003a"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=15.068s" clip-end="npt=16.047s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0023">
+				<text src="amishelp.html#dol_1_3_lssq_0023" id="lssq_003b"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=16.047s" clip-end="npt=17.263s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0024">
+				<text src="amishelp.html#dol_1_3_lssq_0024" id="lssq_003c"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=17.263s" clip-end="npt=18.628s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0025">
+				<text src="amishelp.html#dol_1_3_lssq_0025" id="lssq_003d"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=18.628s" clip-end="npt=25.239s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0026">
+				<text src="amishelp.html#dol_1_3_lssq_0026" id="lssq_003e"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=25.239s" clip-end="npt=26.062s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0027">
+				<text src="amishelp.html#dol_1_3_lssq_0027" id="lssq_003f"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=26.062s" clip-end="npt=29.691s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0028">
+				<text src="amishelp.html#dol_1_3_lssq_0028" id="lssq_0040"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=29.691s" clip-end="npt=34.116s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0029">
+				<text src="amishelp.html#dol_1_3_lssq_0029" id="lssq_0041"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=34.116s" clip-end="npt=37.308s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0030">
+				<text src="amishelp.html#dol_1_3_lssq_0030" id="lssq_0042"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=37.308s" clip-end="npt=41.981s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0031">
+				<text src="amishelp.html#dol_1_3_lssq_0031" id="lssq_0043"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=41.981s" clip-end="npt=48.287s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0032">
+				<text src="amishelp.html#dol_1_3_lssq_0032" id="lssq_0044"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=48.287s" clip-end="npt=54.909s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0033">
+				<text src="amishelp.html#dol_1_3_lssq_0033" id="lssq_0045"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=54.909s" clip-end="npt=69.980s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0034">
+				<text src="amishelp.html#dol_1_3_lssq_0034" id="lssq_0046"/>
+				<seq>
+					<audio src="03_What_is_DAISY_.mp3" clip-begin="npt=69.980s" clip-end="npt=78.533s" id="audio_0018"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
