@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:35.801"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:20.467"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Endre utsjånad"/>
+    <meta name="dc:title" content="AMIS brukarrettleiing"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="35.801s">
+			<par endsync="last" id="buyr_0148" system-required="pagenumber-on">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0148" id="tqdr_0001"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=0.000s" clip-end="npt=2.377s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0149">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0149" id="tqdr_0002"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=2.377s" clip-end="npt=9.535s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0150">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0150" id="tqdr_0003"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=9.535s" clip-end="npt=14.276s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0151">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0151" id="tqdr_0004"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=14.276s" clip-end="npt=17.894s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0152">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0152" id="tqdr_0005"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=17.894s" clip-end="npt=21.634s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0153">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0153" id="tqdr_0006"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=21.634s" clip-end="npt=23.889s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0154">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0154" id="tqdr_0007"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=23.889s" clip-end="npt=25.163s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0155">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0155" id="tqdr_0008"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=25.163s" clip-end="npt=27.559s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0156">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_15_buyr_0156" id="tqdr_0009"/>
+				<seq>
+					<audio src="15_Endre_utsj_nad.mp3" clip-begin="npt=27.559s" clip-end="npt=35.801s" id="audio_0009"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

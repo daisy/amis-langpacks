@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:06.981"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:00.075"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="Skjermbilete"/>
+    <meta name="dc:title" content="AMIS brukarrettleiing"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="126.981s">
+			<par endsync="last" id="buyr_0045">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0045" id="eapu_0001"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=0.000s" clip-end="npt=2.260s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0046">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0046" id="eapu_0002"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=2.260s" clip-end="npt=5.878s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0047">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0047" id="eapu_0003"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=5.878s" clip-end="npt=7.494s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0048">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0048" id="eapu_0004"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=7.494s" clip-end="npt=10.726s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0049">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0049" id="eapu_0005"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=10.726s" clip-end="npt=14.994s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0050">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0050" id="eapu_0006"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=14.994s" clip-end="npt=19.113s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0051">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0051" id="eapu_0007"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=19.113s" clip-end="npt=20.207s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0052">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0052" id="eapu_0008"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=20.207s" clip-end="npt=22.178s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0053">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0053" id="eapu_0009"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=22.178s" clip-end="npt=24.633s" id="audio_0009"/>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=24.633s" clip-end="npt=27.494s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0054">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0054" id="eapu_000a"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=27.494s" clip-end="npt=30.302s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0055">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0055" id="eapu_000b"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=30.302s" clip-end="npt=32.614s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0056">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0056" id="eapu_000c"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=32.614s" clip-end="npt=34.044s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0057">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0057" id="eapu_000d"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=34.044s" clip-end="npt=35.527s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0058">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0058" id="eapu_000e"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=35.527s" clip-end="npt=37.433s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0059">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0059" id="eapu_000f"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=37.433s" clip-end="npt=39.667s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0060">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0060" id="eapu_0010"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=39.667s" clip-end="npt=41.639s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0061">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0061" id="eapu_0011"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=41.639s" clip-end="npt=43.690s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0062">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0062" id="eapu_0012"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=43.690s" clip-end="npt=45.688s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0063">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0063" id="eapu_0013"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=45.688s" clip-end="npt=46.848s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0064">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0064" id="eapu_0014"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=46.848s" clip-end="npt=48.588s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0065">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0065" id="eapu_0015"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=48.588s" clip-end="npt=50.887s" id="audio_0022"/>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=50.887s" clip-end="npt=54.073s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0066" system-required="pagenumber-on">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0066" id="eapu_0016"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=54.073s" clip-end="npt=56.137s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0067">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0067" id="eapu_0017"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=56.137s" clip-end="npt=60.232s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0068">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0068" id="eapu_0018"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=60.232s" clip-end="npt=63.242s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0069">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0069" id="eapu_0019"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=63.242s" clip-end="npt=69.719s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0070">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0070" id="eapu_001a"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=69.719s" clip-end="npt=74.919s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0071">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0071" id="eapu_001b"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=74.919s" clip-end="npt=79.359s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0072">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0072" id="eapu_001c"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=79.359s" clip-end="npt=82.103s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0073">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0073" id="eapu_001d"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=82.103s" clip-end="npt=87.889s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0074">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0074" id="eapu_001e"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=87.889s" clip-end="npt=90.436s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0075">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0075" id="eapu_001f"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=90.436s" clip-end="npt=92.817s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0076">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0076" id="eapu_0020"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=92.817s" clip-end="npt=95.269s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0077">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0077" id="eapu_0021"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=95.269s" clip-end="npt=99.069s" id="audio_0035"/>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=99.069s" clip-end="npt=100.624s" id="audio_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0078">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0078" id="eapu_0022"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=100.624s" clip-end="npt=103.654s" id="audio_0037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0079">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0079" id="eapu_0023"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=103.654s" clip-end="npt=105.456s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0080">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0080" id="eapu_0024"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=105.456s" clip-end="npt=107.378s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0081">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0081" id="eapu_0025"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=107.378s" clip-end="npt=109.257s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0082">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0082" id="eapu_0026"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=109.257s" clip-end="npt=111.451s" id="audio_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0083">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0083" id="eapu_0027"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=111.451s" clip-end="npt=114.599s" id="audio_0042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0084">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0084" id="eapu_0028"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=114.599s" clip-end="npt=121.927s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0085">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_6_buyr_0085" id="eapu_0029"/>
+				<seq>
+					<audio src="06_Skjermbilete.mp3" clip-begin="npt=121.927s" clip-end="npt=126.981s" id="audio_0044"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:23.327"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 142 # 044FS2210099909"/>
+    <meta name="title" content="AMIS Brukarrettleiing"/>
+    <meta name="dc:title" content="AMIS brukarrettleiing"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="23.327s">
+			<par endsync="last" id="buyr_0001" system-required="pagenumber-on">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_1_buyr_0001" id="uwky_0001"/>
+				<seq>
+					<audio src="01_AMIS_Brukarrettleiing.mp3" clip-begin="npt=0.000s" clip-end="npt=0.953s" id="audio_0001"/>
+					<audio src="01_AMIS_Brukarrettleiing.mp3" clip-begin="npt=0.953s" clip-end="npt=3.017s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0002">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_1_buyr_0002" id="uwky_0002"/>
+				<seq>
+					<audio src="01_AMIS_Brukarrettleiing.mp3" clip-begin="npt=3.017s" clip-end="npt=8.385s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0003">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_1_buyr_0003" id="uwky_0003"/>
+				<seq>
+					<audio src="01_AMIS_Brukarrettleiing.mp3" clip-begin="npt=8.385s" clip-end="npt=11.025s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0004">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_1_buyr_0004" id="uwky_0004"/>
+				<seq>
+					<audio src="01_AMIS_Brukarrettleiing.mp3" clip-begin="npt=11.025s" clip-end="npt=13.884s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="buyr_0005">
+				<text src="amis_brukarrettleiing_nynorsk_bilete.html#dol_1_1_buyr_0005" id="uwky_0005"/>
+				<seq>
+					<audio src="01_AMIS_Brukarrettleiing.mp3" clip-begin="npt=13.884s" clip-end="npt=23.327s" id="audio_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
