@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat afr-ZA  ..\..\..\langpacks\afrikaans debug"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat fra-FR  ..\..\..\langpacks\french debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat afr-ZA  ..\..\..\langpacks\afrikaans release"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat fra-FR  ..\..\..\langpacks\french release"
 			/>
 		</Configuration>
 	</Configurations>
@@ -250,10 +250,6 @@
 			</File>
 			<File
 				RelativePath=".\flag.ico"
-				>
-			</File>
-			<File
-				RelativePath="us_english.ico"
 				>
 			</File>
 		</Filter>
