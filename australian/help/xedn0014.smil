@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:12.926"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:34.181"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Getting help with AMIS"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="12.926s">
+			<par endsync="last" id="lssq_0160">
+				<text src="amishelp.html#dol_1_14_lssq_0160" id="lssq_0164"/>
+				<seq>
+					<audio src="14_Getting_help_with_AMIS.mp3" clip-begin="npt=0.000s" clip-end="npt=1.739s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0161">
+				<text src="amishelp.html#dol_1_14_lssq_0161" id="lssq_0165"/>
+				<seq>
+					<audio src="14_Getting_help_with_AMIS.mp3" clip-begin="npt=1.739s" clip-end="npt=5.314s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0162">
+				<text src="amishelp.html#dol_1_14_lssq_0162" id="lssq_0166"/>
+				<seq>
+					<audio src="14_Getting_help_with_AMIS.mp3" clip-begin="npt=5.314s" clip-end="npt=8.365s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0163">
+				<text src="amishelp.html#dol_1_14_lssq_0163" id="lssq_0167"/>
+				<seq>
+					<audio src="14_Getting_help_with_AMIS.mp3" clip-begin="npt=8.365s" clip-end="npt=12.926s" id="audio_0004"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

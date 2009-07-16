@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:21.174"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:55.540"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Setting text styles"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="21.174s">
+			<par endsync="last" id="lssq_0183">
+				<text src="amishelp.html#dol_1_17_lssq_0183" id="xjdc_0001"/>
+				<seq>
+					<audio src="17_Setting_text_styles.mp3" clip-begin="npt=0.000s" clip-end="npt=2.473s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0184">
+				<text src="amishelp.html#dol_1_17_lssq_0184" id="xjdc_0002"/>
+				<seq>
+					<audio src="17_Setting_text_styles.mp3" clip-begin="npt=2.473s" clip-end="npt=9.117s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0185">
+				<text src="amishelp.html#dol_1_17_lssq_0185" id="xjdc_0003"/>
+				<seq>
+					<audio src="17_Setting_text_styles.mp3" clip-begin="npt=9.117s" clip-end="npt=12.228s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0186">
+				<text src="amishelp.html#dol_1_17_lssq_0186" id="xjdc_0004"/>
+				<seq>
+					<audio src="17_Setting_text_styles.mp3" clip-begin="npt=12.228s" clip-end="npt=19.052s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0187">
+				<text src="amishelp.html#dol_1_17_lssq_0187" id="xjdc_0005"/>
+				<seq>
+					<audio src="17_Setting_text_styles.mp3" clip-begin="npt=19.052s" clip-end="npt=21.174s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

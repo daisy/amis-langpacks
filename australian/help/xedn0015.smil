@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:31.364"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:47.107"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.11 Build 134 # 044FS2211159852"/>
+    <meta name="title" content="Changing the look"/>
+    <meta name="dc:title" content="AMIS Help"/>
+    <meta name="dc:identifier" content="AU-VpABW"/>
+  </head>
+	<body>
+		<seq dur="31.364s">
+			<par endsync="last" id="lssq_0164">
+				<text src="amishelp.html#dol_1_15_lssq_0164" id="lsve_0001"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=0.000s" clip-end="npt=1.402s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0165">
+				<text src="amishelp.html#dol_1_15_lssq_0165" id="lsve_0002"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=1.402s" clip-end="npt=10.159s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0166">
+				<text src="amishelp.html#dol_1_15_lssq_0166" id="lsve_0003"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=10.159s" clip-end="npt=13.068s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0167">
+				<text src="amishelp.html#dol_1_15_lssq_0167" id="lsve_0004"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=13.068s" clip-end="npt=16.201s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0168">
+				<text src="amishelp.html#dol_1_15_lssq_0168" id="lsve_0005"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=16.201s" clip-end="npt=19.811s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0169">
+				<text src="amishelp.html#dol_1_15_lssq_0169" id="lsve_0006"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=19.811s" clip-end="npt=22.317s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0170">
+				<text src="amishelp.html#dol_1_15_lssq_0170" id="lsve_0007"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=22.317s" clip-end="npt=24.011s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lssq_0171">
+				<text src="amishelp.html#dol_1_15_lssq_0171" id="lsve_0008"/>
+				<seq>
+					<audio src="15_Changing_the_look.mp3" clip-begin="npt=24.011s" clip-end="npt=31.364s" id="audio_0008"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
