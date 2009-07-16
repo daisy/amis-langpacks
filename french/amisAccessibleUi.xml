@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2009-07-12_14:16:05"/>
+    <created by="DAISY Lion" date="2009-07-15_20:01:36"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -78,7 +78,7 @@
                     <audio from="" src="./audio/t7.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+C">
-                    <text id="t8">Ctrl+c</text>
+                    <text id="t8">Ctrl+C</text>
                     <audio from="" src="./audio/t8.mp3"/>
                 </accelerator>
                 <mnemonic>
@@ -360,15 +360,15 @@
             <action mfcid="ID_AMIS_ESCAPE" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t55">échappe</text>
+                    <text id="t55">Échappe</text>
                     <audio from="" src="./audio/t55.mp3"/>
                 </caption>
                 <description>
-                    <text id="t56">Sauter l'article ou la structure en cours de lecture</text>
+                    <text id="t56">Sauter l'élément ou la structure en cours de lecture</text>
                     <audio from="" src="./audio/t56.mp3"/>
                 </description>
                 <accelerator keys="Esc">
-                    <text id="t57">échappe</text>
+                    <text id="t57">Échappe</text>
                     <audio from="" src="./audio/t57.mp3"/>
                 </accelerator>
                 <mnemonic>
@@ -408,7 +408,7 @@
                     <audio from="" src="./audio/t64.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Y">
-                    <text id="t65">Ctrl+y</text>
+                    <text id="t65">Ctrl+Y</text>
                     <audio from="" src="./audio/t65.mp3"/>
                 </accelerator>
                 <mnemonic>
@@ -523,7 +523,7 @@
                     <audio from="" src="./audio/t87.mp3"/>
                 </description>
                 <accelerator keys="Down">
-                    <text id="t88">Flèche-bas</text>
+                    <text id="t88">Flèche-Bas</text>
                     <audio from="" src="./audio/t88.mp3"/>
                 </accelerator>
                 <mnemonic>
@@ -575,7 +575,7 @@
                     <audio from="" src="./audio/t95.mp3"/>
                 </description>
                 <accelerator keys="Left">
-                    <text id="t96">Flèche-gauche</text>
+                    <text id="t96">Flèche-Gauche</text>
                     <audio from="" src="./audio/t96.mp3"/>
                 </accelerator>
             </action>
@@ -591,7 +591,7 @@
                     <audio from="" src="./audio/t98.mp3"/>
                 </description>
                 <accelerator keys="Right">
-                    <text id="t99">Flèche-droite</text>
+                    <text id="t99">Flèche-Droite</text>
                     <audio from="" src="./audio/t99.mp3"/>
                 </accelerator>
             </action>
@@ -770,7 +770,7 @@
                     <audio from="" src="./audio/t138.mp3"/>
                 </caption>
                 <description>
-                    <text id="t139">Obtenir de l'aide utilisant AMIs</text>
+                    <text id="t139">Obtenir de l'aide en utilisant AMIs</text>
                     <audio from="" src="./audio/t139.mp3"/>
                 </description>
                 <mnemonic>
@@ -784,7 +784,7 @@
                     <audio from="" src="./audio/t373.mp3"/>
                 </caption>
                 <description>
-                    <text id="t374">Voir et écouter tous les raccourcis d'AMIS.</text>
+                    <text id="t374">Voir et écouter tous les raccourcis clavier d'AMIS.</text>
                     <audio from="" src="./audio/t374.mp3"/>
                 </description>
                 <mnemonic>
@@ -1112,7 +1112,7 @@ Adaptive Multimedia Information System</text>
                 <audio from="" src="./audio/t187.mp3"/>
             </caption>
             <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
-                <text id="t188">Ce livre contient les types d'articles spéciaux. Les articles séléctionnés seront lus. Ceux desséléctionnés seront ignorés.</text>
+                <text id="t188">Ce livre contient les types d'éléments spéciaux. Les éléments séléctionnés seront lus. Ceux desséléctionnés seront sautés.</text>
                 <audio from="" src="./audio/t188.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1206,7 +1206,7 @@ Adaptive Multimedia Information System</text>
             </control>
             <control mfcid="IDC_HIGHLIGHTTEXT" widget="checkbox">
                 <caption>
-                    <text id="t346">Mettez en surbrillance le texte comme il est lu à haute voix</text>
+                    <text id="t346">Mettre en surbrillance le texte comme il est lu à haute voix</text>
                     <audio from="" src="./audio/t346.mp3"/>
                 </caption>
                 <description>
@@ -1505,7 +1505,7 @@ Adaptive Multimedia Information System</text>
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t244">Articles totaux</text>
+                                <text id="t244">Éléments totaux</text>
                                 <audio from="" src="./audio/t244.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOCITEMS"/>
@@ -1656,11 +1656,11 @@ Adaptive Multimedia Information System</text>
     <prompts>
         <promptItemRefs>
             <promptItem id="useArrowsList">
-                <text id="t380">Utilisez les flèches de direction pour vous déplacer dans la liste des articles.</text>
+                <text id="t380">Utilisez les flèches de direction pour vous déplacer dans la liste des Éléments.</text>
                 <audio from="" src="./audio/t380.mp3"/>
             </promptItem>
             <promptItem id="thisItem">
-                <text id="t252">Cet article</text>
+                <text id="t252">Cet élément</text>
                 <audio from="" src="./audio/t252.mp3"/>
             </promptItem>
             <promptItem id="spaceToToggle">
@@ -1668,11 +1668,11 @@ Adaptive Multimedia Information System</text>
                 <audio from="" src="./audio/t253.mp3"/>
             </promptItem>
             <promptItem id="tabAround">
-                <text id="t254">Appuyez sur Tab pour vous déplacer dans la boîte de dialogue des articles.</text>
+                <text id="t254">Appuyez sur Tab pour vous déplacer dans la boîte de dialogue des éléments.</text>
                 <audio from="" src="./audio/t254.mp3"/>
             </promptItem>
             <promptItem id="thisItemIsCurrently">
-                <text id="t258">Cet article est déjà</text>
+                <text id="t258">Cet élément est déjà</text>
                 <audio from="" src="./audio/t258.mp3"/>
             </promptItem>
             <promptItem id="enter_to_close">
@@ -1732,7 +1732,7 @@ Adaptive Multimedia Information System</text>
                 <audio from="" src="./audio/t277.mp3"/>
             </promptItem>
             <promptItem id="groups">
-                <text id="t278">Articles regroupés</text>
+                <text id="t278">Éléments regroupés</text>
                 <audio from="" src="./audio/t278.mp3"/>
             </promptItem>
             <promptItem id="ready">
