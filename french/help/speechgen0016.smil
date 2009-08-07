@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-SMIL/SMIL10.dtd" []>
+<smil>
+   <head>
+      <meta name="ncc:generator" content="DMFC z3986-2005 to Daisy 2.02 (smil2smil v0.2)" />
+      <meta name="dc:format" content="Daisy 2.02" />
+      <meta name="dc:identifier" content="amis-aide-fra-fr" />
+      <meta name="title" content="Changer l'apparence" />
+      <meta name="dc:title" content="Guide de l'utilisateur d'AMIS" />
+      <meta name="ncc:totalElapsedTime" content="0:07:31" />
+      <meta name="ncc:timeInThisSmil" content="0:00:31" />
+      <layout>
+         <region id="txtView" />
+      </layout>
+   </head>
+   <body>
+      <seq dur="31.123s">
+         <par endsync="last" id="tcp141">
+            <text id="text141" src="content.html#dtb150" />
+            <audio src="speechgen0016.mp3" id="audd240e10" clip-begin="npt=0.000s" clip-end="npt=4.235s" />
+         </par>
+         <par endsync="last" id="tcp142">
+            <text id="text142" src="content.html#dtb151" />
+            <audio src="speechgen0016.mp3" id="audd240e13" clip-begin="npt=4.235s" clip-end="npt=12.257s" />
+         </par>
+         <par endsync="last" id="tcp143">
+            <text id="text143" src="content.html#dtb153" />
+            <audio src="speechgen0016.mp3" id="audd240e17" clip-begin="npt=12.257s" clip-end="npt=15.618s" />
+         </par>
+         <par endsync="last" id="tcp144">
+            <text id="text144" src="content.html#dtb154" />
+            <audio src="speechgen0016.mp3" id="audd240e20" clip-begin="npt=15.618s" clip-end="npt=18.166s" />
+         </par>
+         <par endsync="last" id="tcp145">
+            <text id="text145" src="content.html#dtb155" />
+            <audio src="speechgen0016.mp3" id="audd240e23" clip-begin="npt=18.166s" clip-end="npt=21.010s" />
+         </par>
+         <par endsync="last" id="tcp146">
+            <text id="text146" src="content.html#dtb156" />
+            <audio src="speechgen0016.mp3" id="audd240e26" clip-begin="npt=21.010s" clip-end="npt=22.876s" />
+         </par>
+         <par endsync="last" id="tcp147">
+            <text id="text147" src="content.html#dtb157" />
+            <audio src="speechgen0016.mp3" id="audd240e29" clip-begin="npt=22.876s" clip-end="npt=24.329s" />
+         </par>
+         <par endsync="last" id="tcp148">
+            <text id="text148" src="content.html#dtb158" />
+            <audio src="speechgen0016.mp3" id="audd240e32" clip-begin="npt=24.329s" clip-end="npt=31.123s" />
+         </par>
+      </seq>
+   </body>
+</smil>
