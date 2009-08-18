@@ -1,5 +1,6 @@
 <?xml version="1.0" ?>
-<ui next-id="t435" xml:lang="en" xmlns="http://amisproject.org">
+<ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2009-08-17_20:07:26"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -203,7 +204,7 @@
                     <audio from="" src="./audio/aud37.mp3"/>
                 </caption>
                 <description>
-                    <text id="t31">Verander die aansig na basiese modus.</text>
+                    <text id="t31">Verander die aansig.</text>
                     <audio from="" src="./audio/aud38.mp3"/>
                 </description>
                 <accelerator keys="F11">
@@ -740,7 +741,7 @@
                     <audio from="" src="./audio/aud135.mp3"/>
                 </caption>
                 <description>
-                    <text id="t344">Kyk na die informasie oor hierdie publikasie.</text>
+                    <text id="t344">Sien informasie oor hierdie publikasie.</text>
                     <audio from="" src="./audio/aud136.mp3"/>
                 </description>
                 <mnemonic>
@@ -769,7 +770,7 @@
                     <audio from="" src="./audio/aud141.mp3"/>
                 </caption>
                 <description>
-                    <text id="t139">Kry hulp deur AMIS te gebruik </text>
+                    <text id="t139">Kry hulp deur AMIS te gebruik</text>
                     <audio from="" src="./audio/aud142.mp3"/>
                 </description>
                 <mnemonic>
@@ -948,19 +949,19 @@
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t164">Version 3.0 beta 2</text>
+                    <text id="t164">Weergawe 3.0</text>
                     <audio from="" src="./audio/aud167.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t165">Release Date: 14 May 2008</text>
+                    <text id="t165">Vrystellings Datum: 5 Mei 2009</text>
                     <audio from="" src="./audio/aud168.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t166">Copyright (c) 2008 DAISY for All</text>
+                    <text id="t166">Copyright (c) 2009 DAISY Consortium</text>
                     <audio from="" src="./audio/aud169.mp3"/>
                 </caption>
             </control>
@@ -1243,7 +1244,7 @@
             </control>
             <control mfcid="IDC_PAUSEONLOSTFOCUS" widget="checkbox">
                 <caption>
-                    <text id="t347">Vries oudio wanneer applikasies geruil word </text>
+                    <text id="t347">Vries oudio wanneer applikasies geruil word</text>
                     <audio from="" src="./audio/aud202.mp3"/>
                 </caption>
                 <description>
@@ -1271,7 +1272,7 @@
                 <caption mfcid="IDC_CURRLANG">
                     <prompt>
                         <promptItem>
-                            <text id="t349">U gebruik tans AMIS in: </text>
+                            <text id="t349">U gebruik tans AMIS in:</text>
                             <audio from="" src="./audio/aud204.mp3"/>
                         </promptItem>
                         <promptVar name="CURRENT_LANGUAGE_NAME"/>
@@ -1485,12 +1486,12 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t390">Afdeling inhoud: </text>
+                                <text id="t390">Afdeling inhoud:</text>
                                 <audio from="" src="./audio/aud226.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_SUBSECTIONS"/>
                             <promptItem>
-                                <text id="t217">onderafdelings, </text>
+                                <text id="t217">onderafdelings,</text>
                                 <audio from="" src="./audio/aud227.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
@@ -1503,7 +1504,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t244">Totale TOC(tabel van inhoud) items: </text>
+                                <text id="t244">Totale TOC(tabel van inhoud) items:</text>
                                 <audio from="" src="./audio/aud229.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOCITEMS"/>
@@ -1536,7 +1537,7 @@
                 <audio from="" src="./audio/aud231.mp3"/>
             </caption>
             <description>
-                <text id="t359">Hier kan u teks styl eienskappe verander </text>
+                <text id="t359">Hier kan u teks styl eienskappe verander</text>
                 <audio from="" src="./audio/aud232.mp3"/>
             </description>
             <prompt type="instructions">
@@ -1546,7 +1547,7 @@
             </prompt>
             <control mfcid="IDC_FONT" widget="list autoplay">
                 <caption mfcid="IDC_FONTLABEL">
-                    <text id="t360">Systaaf font:</text>
+                    <text id="t360">Applikasie font:</text>
                     <audio from="" src="./audio/aud233.mp3"/>
                 </caption>
                 <list repeat="yes">
@@ -1610,7 +1611,7 @@
         <dialog mfcid="IDD_OPENURL">
             <note>This is the open URL dialog</note>
             <caption>
-                <text id="t368">Open BA </text>
+                <text id="t368">Open BA</text>
                 <audio from="" src="./audio/aud237.mp3"/>
             </caption>
             <description mfcid="IDC_OPENURL_CAPTION">
@@ -1633,7 +1634,7 @@
                     <promptItem refid="ok_button_caption"/>
                 </caption>
                 <description>
-                    <text id="t372">Druk om die BA te laai </text>
+                    <text id="t372">Druk om die BA te laai</text>
                     <audio from="" src="./audio/aud240.mp3"/>
                 </description>
             </control>
@@ -1682,7 +1683,7 @@
                 <audio from="" src="./audio/aud248.mp3"/>
             </promptItem>
             <promptItem id="ok_button_description">
-                <text id="t263">Druk om die dialoog toe te maak.</text>
+                <text id="t263">Druk REG om die dialoog toe te maak.</text>
                 <audio from="" src="./audio/aud249.mp3"/>
             </promptItem>
             <promptItem id="cancel_button_caption">
@@ -1690,7 +1691,7 @@
                 <audio from="" src="./audio/aud250.mp3"/>
             </promptItem>
             <promptItem id="cancel_button_description">
-                <text id="t265">Druk om hierdie dialoog te kanselleer.</text>
+                <text id="t265">Druk kanselleer om hierdie dialoog te kanselleer.</text>
                 <audio from="" src="./audio/aud251.mp3"/>
             </promptItem>
             <promptItem id="thisDialogNotSelfVoicing">
@@ -1945,7 +1946,7 @@
             </prompt>
             <prompt id="shift_key">
                 <promptItem>
-                    <text id="t383">skuif </text>
+                    <text id="t383">skuif</text>
                     <audio from="" src="./audio/aud303.mp3"/>
                 </promptItem>
             </prompt>
@@ -1985,6 +1986,24 @@
                     <audio from="" src="./audio/aud309.mp3"/>
                 </promptItem>
             </prompt>
-        </generalPrompts>
+            <prompt id="searching_for_text">
+               <promptItem>
+                 <text id="t435">Soek na teks</text>
+                 <audio from="" src="./audio/aud353.mp3"/>
+               </promptItem>
+           </prompt>
+           <prompt id="not_found">
+             <promptItem>
+               <text id="t436">Teks nie gevind nie</text>
+               <audio from="" src="./audio/aud354.mp3"/>
+             </promptItem>
+           </prompt>
+           <prompt id="paused">
+             <promptItem>
+               <text id="t437">Gevries</text>
+               <audio from="" src="./audio/aud355.mp3"/>
+             </promptItem>
+           </prompt>
+          </generalPrompts>
     </prompts>
 </ui>
