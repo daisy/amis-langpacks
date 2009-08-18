@@ -1,0 +1,39 @@
+The AMIS full installer can substitute a different word for "contrast" for the CSS files.  The filename then appears in the menu of AMIS.  
+However, the filename must be ASCII.  Tests with non-ASCII filenames have not been done yet.  It would depend on how IE treats local CSS references -- do they have to conform to URL requirements or not?
+
+We should be able to collect and use data for these languages:
+eng-US    English (United States) "Contrast"
+eng-AU    Australian English "Contrast"
+fra-FR    French             "contraste"
+ice-IS    Icelandic          "litasamsetning"
+spa-ES    Spanish, Castillian (Spain)  
+swe-SE    Swedish (Sweden)             
+ind-ID    Indonesian (Indonesia) 
+fil-PH    Filipino (Philipines) 
+may-MY    Malay (Malaysia)
+afr-ZA    Afrikaans    
+eng-GB    British English    
+fin-FI    Finnish (Finland)  
+nld-NL    Nederlands         
+nno-NO    Norwegian Nynorsk (Norway)   
+nob-NO    Norwegian Bokmål (Norway)    
+por-PT    Portuguese                   
+
+For the moment, we can't accommodate these languages' scripts:
+ben-BD    Bangla (Bangladesh)
+guj-IN    Gujarati (India)   
+hin-IN    Hindi (India)      
+jpn-JP    Japanese (Japan)   
+kaz-KZ    Kazakh             
+khm-KH    Khmer              
+lao-LA    Lao                
+mon-MN    Mongolian          
+nep-NP    Nepalese (Nepal)   
+rus-KZ    Russian                      
+sin-LK    Sinhala (Sri Lanka)          
+tam-IN    Tamil (India)                
+tha-TH    Thai (Thailand)              
+vie-VN    Vietnamese (Vietnam)         
+zho-CN    Chinese                      
+arb       Arabic       
+urd       Urdu         
