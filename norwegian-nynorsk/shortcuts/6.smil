@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Tastatursnarvegar"/>
+		<meta name="dc:title" content="Tastatursnarvegar"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-nno-NO"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t81">
+					<text src="amiskeys.html#t81"/>
+					<audio src="_Naviger.mp3"/>
+				</par>
+					<par endsync="last" id="t113">
+						<text src="amiskeys.html#t113"/>
+						<audio src="_Alt_N.mp3"/>
+					</par>
+				<par endsync="last" id="t82">
+					<text src="amiskeys.html#t82"/>
+					<audio src="_F_rre_oversk.mp3"/>
+				</par>
+					<par endsync="last" id="t84">
+						<text src="amiskeys.html#t84"/>
+						<audio src="_Pil_opp.mp3"/>
+					</par>
+				<par endsync="last" id="t86">
+					<text src="amiskeys.html#t86"/>
+					<audio src="_Neste_oversk.mp3"/>
+				</par>
+					<par endsync="last" id="t88">
+						<text src="amiskeys.html#t88"/>
+						<audio src="_Pil_ned.mp3"/>
+					</par>
+				<par endsync="last" id="t90">
+					<text src="amiskeys.html#t90"/>
+					<audio src="_Vis_overskri.mp3"/>
+				</par>
+					<par endsync="last" id="t93">
+						<text src="amiskeys.html#t93"/>
+						<audio src="_S.mp3"/>
+					</par>
+				<par endsync="last" id="t94">
+					<text src="amiskeys.html#t94"/>
+					<audio src="_F_rre_setnin.mp3"/>
+				</par>
+					<par endsync="last" id="t96">
+						<text src="amiskeys.html#t96"/>
+						<audio src="_Venstre_pilt.mp3"/>
+					</par>
+				<par endsync="last" id="t97">
+					<text src="amiskeys.html#t97"/>
+					<audio src="_Neste_setnin.mp3"/>
+				</par>
+					<par endsync="last" id="t99">
+						<text src="amiskeys.html#t99"/>
+						<audio src="_H_gre_piltas.mp3"/>
+					</par>
+				<par endsync="last" id="t100">
+					<text src="amiskeys.html#t100"/>
+					<audio src="_F_rre_side.mp3"/>
+				</par>
+					<par endsync="last" id="t102">
+						<text src="amiskeys.html#t102"/>
+						<audio src="_Ctrl_Venstre.mp3"/>
+					</par>
+				<par endsync="last" id="t103">
+					<text src="amiskeys.html#t103"/>
+					<audio src="_Neste_side.mp3"/>
+				</par>
+					<par endsync="last" id="t105">
+						<text src="amiskeys.html#t105"/>
+						<audio src="_Ctrl_H_gre_p.mp3"/>
+					</par>
+				<par endsync="last" id="t106">
+					<text src="amiskeys.html#t106"/>
+					<audio src="_G__til_side.mp3"/>
+				</par>
+					<par endsync="last" id="t108">
+						<text src="amiskeys.html#t108"/>
+						<audio src="_Ctrl_G.mp3"/>
+					</par>
+				<par endsync="last" id="t109">
+					<text src="amiskeys.html#t109"/>
+					<audio src="_Finn_i_tekst_.mp3"/>
+				</par>
+					<par endsync="last" id="t111">
+						<text src="amiskeys.html#t111"/>
+						<audio src="_Ctrl_F.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>
