@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2009-06-30_18:38:20"/>
+    <created by="DAISY Lion" date="2009-08-24_16:50:14"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -22,11 +22,11 @@
                 <!--keys = the actual keys; text = the name of the keys-->
                 <accelerator keys="Ctrl+O">
                     <text id="t4">Ctrl+O</text>
-                    <audio from="" src="./audio/005_Ctrl_O.mp3"/>
+                    <audio from="" src="./audio/_Ctrl_O.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t5">O</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/237_O.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_OPEN_URL" widget="menuItem">
@@ -42,11 +42,11 @@
                 </description>
                 <accelerator keys="Ctrl+U">
                     <text id="t329">Ctrl+U</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/279_Ctrl_U.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t330">U</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/280_U.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_CLOSE_BOOK" widget="menuItem">
@@ -62,7 +62,7 @@
                 </description>
                 <mnemonic>
                     <text id="t333">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/275_C.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_LOAD_CD" widget="menuItem toolbarItem">
@@ -79,11 +79,11 @@
                 </description>
                 <accelerator keys="Ctrl+L">
                     <text id="t8">Ctrl+L</text>
-                    <audio from="" src="./audio/009_Ctrl_L.mp3"/>
+                    <audio from="" src="./audio/007_Ctrl_L.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t9">L</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/238_L.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SEARCH_LOCAL_DRIVES" widget="menuItem">
@@ -98,7 +98,7 @@
                 </description>
                 <mnemonic>
                     <text id="t12">S</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/244_S.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_PREFERENCES" widget="menuItem">
@@ -113,7 +113,7 @@
                 </description>
                 <mnemonic>
                     <text id="t15">P</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/240_P.mp3"/>
                 </mnemonic>
             </action>
             <container id="recentBooksList">
@@ -145,7 +145,7 @@
                 </switch>
                 <mnemonic>
                     <text id="t19">R</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/241_R.mp3"/>
                 </mnemonic>
             </container>
             <action mfcid="ID_AMIS_EXIT" widget="menuItem">
@@ -160,20 +160,20 @@
                 </description>
                 <accelerator keys="Alt+F4">
                     <text id="t22">Alt+F4</text>
-                    <audio from="" src="./audio/023_Alt_F4.mp3"/>
+                    <audio from="" src="./audio/017_Alt_F4.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t23">X</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/242_x.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+F">
                 <text id="t24">Alt+F</text>
-                <audio from="" src="./audio/025_Alt_F.mp3"/>
+                <audio from="" src="./audio/018_Alt_F.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t25">F</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/243_F.mp3"/>
             </mnemonic>
         </container>
         <container id="view">
@@ -194,7 +194,7 @@
                 </description>
                 <mnemonic>
                     <text id="t29">S</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/239_S.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_TOGGLE_VIEW" widget="menuItem">
@@ -209,11 +209,11 @@
                 </description>
                 <accelerator keys="F11">
                     <text id="t32">F11</text>
-                    <audio from="" src="./audio/033_F11.mp3"/>
+                    <audio from="" src="./audio/024_F11.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t33">B</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/263_B.mp3"/>
                 </mnemonic>
             </action>
             <container id="pageStylesList">
@@ -239,7 +239,7 @@
                 </action>
                 <mnemonic>
                     <text id="t336">P</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/248_P.mp3"/>
                 </mnemonic>
             </container>
             <action mfcid="ID_AMIS_BIGGER_FONT" widget="menuItem toolbarItem">
@@ -255,7 +255,7 @@
                 </description>
                 <mnemonic>
                     <text id="t40">I</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/265_I.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SMALLER_FONT" widget="menuItem toolbarItem">
@@ -271,7 +271,7 @@
                 </description>
                 <mnemonic>
                     <text id="t339">M</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/289_M.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_TEXTSTYLE" widget="menuItem">
@@ -286,7 +286,7 @@
                 </description>
                 <mnemonic>
                     <text id="t342">T</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/273_t.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="AMIS_NAVLIST_BASE_ID" widget="menuItem">
@@ -300,11 +300,11 @@
             </action>
             <accelerator keys="Alt+V">
                 <text id="t44">Alt+V</text>
-                <audio from="" src="./audio/045_Alt_V.mp3"/>
+                <audio from="" src="./audio/027_Alt_V.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t45">V</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/247_V.mp3"/>
             </mnemonic>
         </container>
         <container id="play">
@@ -328,11 +328,11 @@
                     </description>
                     <accelerator keys="Space">
                         <text id="t49">Mellomromtast </text>
-                        <audio from="" src="./audio/050_Space.mp3"/>
+                        <audio from="" src="./audio/034_Mellomromtast.mp3"/>
                     </accelerator>
                     <mnemonic>
                         <text id="t50">P</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/256_P.mp3"/>
                     </mnemonic>
                 </action>
                 <action condition="canPause" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
@@ -349,11 +349,11 @@
                     </description>
                     <accelerator keys="Space">
                         <text id="t53">Mellomromtast</text>
-                        <audio from="" src="./audio/054_Space.mp3"/>
+                        <audio from="" src="./audio/034_Mellomromtast.mp3"/>
                     </accelerator>
                     <mnemonic>
                         <text id="t54">A</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/262_A.mp3"/>
                     </mnemonic>
                 </action>
             </switch>
@@ -369,11 +369,11 @@
                 </description>
                 <accelerator keys="Esc">
                     <text id="t57">Esc</text>
-                    <audio from="" src="./audio/058_Esc.mp3"/>
+                    <audio from="" src="./audio/037_Esc.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t58">E</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/250_E.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_FASTER" widget="menuItem toolbarItem">
@@ -389,11 +389,11 @@
                 </description>
                 <accelerator keys="Ctrl++">
                     <text id="t61">Ctrl++</text>
-                    <audio from="" src="./audio/062_Ctrl__.mp3"/>
+                    <audio from="" src="./audio/040_Ctrl__.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t62">F</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/251_F.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SLOWER" widget="menuItem toolbarItem">
@@ -409,11 +409,11 @@
                 </description>
                 <accelerator keys="Ctrl+-">
                     <text id="t65">Ctrl+-</text>
-                    <audio from="" src="./audio/066_Ctrl__.mp3"/>
+                    <audio from="" src="./audio/043_Ctrl_-.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t66">S</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/244_S.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_RESET_SPEED" widget="menuItem toolbarItem">
@@ -433,7 +433,7 @@
                 </accelerator>
                 <mnemonic>
                     <text id="t70">N</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/258_N.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_INCREASE_VOLUME" widget="menuItem">
@@ -448,11 +448,11 @@
                 </description>
                 <accelerator keys="Ctrl+Up">
                     <text id="t73">Ctrl+Pil Opp</text>
-                    <audio from="" src="./audio/074_Ctrl_Up.mp3"/>
+                    <audio from="" src="./audio/049_Ctrl_Pil_Opp.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t74">I</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/246_I.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_DECREASE_VOLUME" widget="menuItem">
@@ -467,20 +467,20 @@
                 </description>
                 <accelerator keys="Ctrl+Down">
                     <text id="t77">Ctrl+Pil Ned</text>
-                    <audio from="" src="./audio/078_Ctrl_Down.mp3"/>
+                    <audio from="" src="./audio/052_Ctrl_Pil_Ned.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t78">D</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/255_D.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+P">
                 <text id="t79">Alt+P</text>
-                <audio from="" src="./audio/080_Alt_P.mp3"/>
+                <audio from="" src="./audio/053_Alt_P.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t80">P</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/256_P.mp3"/>
             </mnemonic>
         </container>
         <container id="navigate">
@@ -503,11 +503,11 @@
                 </description>
                 <accelerator keys="Up">
                     <text id="t84">Pil Opp</text>
-                    <audio from="" src="./audio/085_Up.mp3"/>
+                    <audio from="" src="./audio/057_Pil_Opp.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t85">P</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/256_P.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_NEXT_SECTION" widget="menuItem toolbarItem">
@@ -524,11 +524,11 @@
                 </description>
                 <accelerator keys="Down">
                     <text id="t88">Pil Ned</text>
-                    <audio from="" src="./audio/089_Down.mp3"/>
+                    <audio from="" src="./audio/060_Pil_Ned.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t89">N</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/253_N.mp3"/>
                 </mnemonic>
             </action>
             <container id="sectiondepth">
@@ -560,7 +560,7 @@
                 </switch>
                 <mnemonic>
                     <text id="t93">S</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/264_S.mp3"/>
                 </mnemonic>
             </container>
             <action mfcid="ID_AMIS_PREVIOUS_PHRASE" widget="menuItem toolbarItem">
@@ -576,7 +576,7 @@
                 </description>
                 <accelerator keys="Left">
                     <text id="t96">Venstre Piltast</text>
-                    <audio from="" src="./audio/097_Left.mp3"/>
+                    <audio from="" src="./audio/066_Venstre_Piltast.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_NEXT_PHRASE" widget="menuItem toolbarItem">
@@ -592,7 +592,7 @@
                 </description>
                 <accelerator keys="Right">
                     <text id="t99">Høyre Piltast</text>
-                    <audio from="" src="./audio/100_Right.mp3"/>
+                    <audio from="" src="./audio/069_H_yre_Piltast.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_PREVIOUS_PAGE" widget="menuItem toolbarItem">
@@ -608,7 +608,7 @@
                 </description>
                 <accelerator keys="Ctrl+Left">
                     <text id="t102">Ctrl+Venstre Piltast</text>
-                    <audio from="" src="./audio/103_Ctrl_Left.mp3"/>
+                    <audio from="" src="./audio/072_Ctrl_Venstre_Piltast.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_NEXT_PAGE" widget="menuItem toolbarItem">
@@ -624,7 +624,7 @@
                 </description>
                 <accelerator keys="Ctrl+Right">
                     <text id="t105">Ctrl+Høyre Piltast</text>
-                    <audio from="" src="./audio/106_Ctrl_Right.mp3"/>
+                    <audio from="" src="./audio/075_Ctrl_H_yre_Piltast.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_GOTO_PAGE" widget="menuItem">
@@ -639,7 +639,7 @@
                 </description>
                 <accelerator keys="Ctrl+G">
                     <text id="t108">Ctrl+G</text>
-                    <audio from="" src="./audio/109_Ctrl_G.mp3"/>
+                    <audio from="" src="./audio/078_Ctrl_G.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_FIND_IN_TEXT" widget="menuItem">
@@ -654,20 +654,20 @@
                 </description>
                 <accelerator keys="Ctrl+F">
                     <text id="t111">Ctrl+F</text>
-                    <audio from="" src="./audio/112_Ctrl_F.mp3"/>
+                    <audio from="" src="./audio/081_Ctrl_F.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t112">F</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/251_F.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+N">
                 <text id="t113">Alt+N</text>
-                <audio from="" src="./audio/114_Alt_N.mp3"/>
+                <audio from="" src="./audio/082_Alt_N.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t114">N</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/258_N.mp3"/>
             </mnemonic>
         </container>
         <container id="bookmarks">
@@ -689,11 +689,11 @@
                 </description>
                 <accelerator keys="Ctrl+D">
                     <text id="t118">Ctrl+D</text>
-                    <audio from="" src="./audio/119_Ctrl_D.mp3"/>
+                    <audio from="" src="./audio/086_Ctrl_D.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t119">A</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/262_A.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="AMIS_BOOKMARK_BASE_ID" widget="menuItem">
@@ -706,11 +706,11 @@
             </action>
             <accelerator keys="Alt+B">
                 <text id="t120">Alt+B</text>
-                <audio from="" src="./audio/121_Alt_B.mp3"/>
+                <audio from="" src="./audio/087_Alt_B.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t121">B</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/245_B.mp3"/>
             </mnemonic>
         </container>
         <container id="info">
@@ -731,7 +731,7 @@
                 </description>
                 <mnemonic>
                     <text id="t125">S</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/244_S.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_PUBLICATION_SUMMARY" widget="menuItem">
@@ -746,16 +746,16 @@
                 </description>
                 <mnemonic>
                     <text id="t345">P</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/257_P.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+I">
                 <text id="t135">Alt+I</text>
-                <audio from="" src="./audio/136_Alt_I.mp3"/>
+                <audio from="" src="./audio/091_Alt_I.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t136">I</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/246_I.mp3"/>
             </mnemonic>
         </container>
         <container id="help">
@@ -775,7 +775,7 @@
                 </description>
                 <mnemonic>
                     <text id="t140">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/299_C.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_KEYBOARD_SHORTCUTS" widget="menuItem">
@@ -789,7 +789,7 @@
                 </description>
                 <mnemonic>
                     <text id="t375">K</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/298_K.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_ABOUT" widget="menuItem">
@@ -804,16 +804,16 @@
                 </description>
                 <mnemonic>
                     <text id="t143">A</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/267_A.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+H">
                 <text id="t144">Alt+H</text>
-                <audio from="" src="./audio/145_Alt_H.mp3"/>
+                <audio from="" src="./audio/097_Alt_H.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t145">H</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/268_H.mp3"/>
             </mnemonic>
         </container>
     </containers>
@@ -871,7 +871,7 @@
                 </description>
                 <mnemonic>
                     <text id="t150">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/269_C.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -909,7 +909,7 @@
                 </description>
                 <mnemonic>
                     <text id="t156">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/276_C.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_OPENBOOK" widget="button">
@@ -923,7 +923,7 @@
                 </description>
                 <mnemonic>
                     <text id="t159">O</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/271_O.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -963,7 +963,7 @@ Adaptive Multimedia Information System</text>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
                 <caption>
                     <text id="t166">Copyright (c) 2009 DAISY Consortium</text>
-                    <audio from="" src="./audio/167_Copyright___2006_DAISY_for_All.mp3"/>
+                    <audio from="" src="./audio/112_Copyright___2006_DAISY_for_All.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDOK" widget="button">
@@ -1017,7 +1017,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t172">S</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/244_S.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_STOPSEARCH" widget="button">
@@ -1031,7 +1031,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t175">T</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/273_t.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_SEARCHING" widget="textlabel">
@@ -1089,7 +1089,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t185">O</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/271_O.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDCANCEL" widget="button">
@@ -1101,7 +1101,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t186">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/275_C.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1158,7 +1158,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t381">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/266_C.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1305,7 +1305,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t350">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/304_C.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1348,7 +1348,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t235">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/269_C.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1605,7 +1605,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t366">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/275_C.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1648,7 +1648,7 @@ Adaptive Multimedia Information System</text>
                 </description>
                 <mnemonic>
                     <text id="t367">C</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/269_C.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
