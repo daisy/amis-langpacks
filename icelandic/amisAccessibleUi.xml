@@ -1,30 +1,32 @@
-<?xml version="1.0" ?><ui next-id="t447" xml:lang="en" xmlns="http://amisproject.org">
+<?xml version="1.0" ?>
+<ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2009-10-12_15:24:06"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
             <caption>
                 <text id="t1">Skrá</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud312.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_OPEN_FILE" widget="menuItem toolbarItem">
                 <note>This is going to be a menu item and a toolbar item</note>
                 <icon src="./open.png" type="smallIcon"/>
                 <caption>
                     <text id="t2">Opna...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud313.mp3"/>
                 </caption>
                 <description>
-                    <text id="t3">Opna Daisy bók úr staðbundinni skrá</text>
-                    <audio from="" src=""/>
+                    <text id="t3">Opna bók</text>
+                    <audio from="" src="./audio/aud311.mp3"/>
                 </description>
                 <!--keys = the actual keys; text = the name of the keys-->
                 <accelerator keys="Ctrl+O">
                     <text id="t4">Ctrl+O</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud310.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t5">O</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud309.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_OPEN_URL" widget="menuItem">
@@ -32,35 +34,35 @@
                 <icon src="./open.png" type="smallIcon"/>
                 <caption>
                     <text id="t327">Opna vefslóð ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud308.mp3"/>
                 </caption>
                 <description>
                     <text id="t328">Opna DAISY bók af vefslóð</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud307.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+U">
                     <text id="t329">Ctrl+U</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud306.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t330">U</text>
-                    <audio from="" src=""/>
+                    <text id="t330">V</text>
+                    <audio from="" src="./audio/aud305.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_CLOSE_BOOK" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <icon src="./close.png" type="smallIcon"/>
                 <caption>
-                    <text id="t331">Loka</text>
-                    <audio from="" src=""/>
+                    <text id="t331">Loka bók</text>
+                    <audio from="" src="./audio/aud304.mp3"/>
                 </caption>
                 <description>
                     <text id="t332">Loka DAISY bókinni</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud303.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t333">C</text>
-                    <audio from="" src=""/>
+                    <text id="t333">L</text>
+                    <audio from="" src="./audio/aud301.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_LOAD_CD" widget="menuItem toolbarItem">
@@ -68,68 +70,68 @@
                 <icon src="./settings/img/cd3.ico" type="smallIcon"/>
                 <icon src="./settings/img/cd_big.ico" type="largeIcon"/>
                 <caption>
-                    <text id="t6">Ræsa geisladisk</text>
-                    <audio from="" src=""/>
+                    <text id="t6">Opna bók af CD</text>
+                    <audio from="" src="./audio/aud302.mp3"/>
                 </caption>
                 <description>
-                    <text id="t7">Ræsa bók af geisladiski</text>
-                    <audio from="" src=""/>
+                    <text id="t7">Opna bók af CD</text>
+                    <audio from="" src="./audio/aud300.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+L">
                     <text id="t8">Ctrl+L</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud299.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t9">L</text>
-                    <audio from="" src=""/>
+                    <text id="t9">B</text>
+                    <audio from="" src="./audio/aud298.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SEARCH_LOCAL_DRIVES" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t10">Leita á drifum ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud297.mp3"/>
                 </caption>
                 <description>
                     <text id="t11">Leita að DAISY bókum á drifum tölvunnar</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud296.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t12">S</text>
-                    <audio from="" src=""/>
+                    <text id="t12">D</text>
+                    <audio from="" src="./audio/aud295.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_PREFERENCES" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t13">Kjörstillingar...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud294.mp3"/>
                 </caption>
                 <description>
                     <text id="t14">Þessi gluggi er fyrir kjörstillingar forritsins.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud293.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t15">P</text>
-                    <audio from="" src=""/>
+                    <text id="t15">K</text>
+                    <audio from="" src="./audio/aud292.mp3"/>
                 </mnemonic>
             </action>
             <container id="recentBooksList">
                 <note>This is the menu header for the recent books sub-menu.</note>
                 <caption>
                     <text id="t16">Nýlegt</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud291.mp3"/>
                 </caption>
                 <switch element="action">
                     <action condition="ID_AMIS_RECENT_BOOKS_EMPTY" mfcid="ID_AMIS_RECENT_BOOKS_EMPTY" widget="menuItem">
                         <note>This is going to be a menu item</note>
                         <caption>
                             <text id="t17">Tómt</text>
-                            <audio from="" src=""/>
+                            <audio from="" src="./audio/aud290.mp3"/>
                         </caption>
                         <description>
                             <text id="t18">Það eru engar nýlesnar bækur.</text>
-                            <audio from="" src=""/>
+                            <audio from="" src="./audio/aud289.mp3"/>
                         </description>
                     </action>
                     <action condition="AMIS_RECENT_BOOK_BASE_ID" mfcid="AMIS_RECENT_BOOK_BASE_ID" widget="menuItem">
@@ -142,89 +144,89 @@
                     </action>
                 </switch>
                 <mnemonic>
-                    <text id="t19">R</text>
-                    <audio from="" src=""/>
+                    <text id="t19">N</text>
+                    <audio from="" src="./audio/aud288.mp3"/>
                 </mnemonic>
             </container>
             <action mfcid="ID_AMIS_EXIT" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t20">Hætta</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud287.mp3"/>
                 </caption>
                 <description>
                     <text id="t21">Hætta í AMIS</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud286.mp3"/>
                 </description>
                 <accelerator keys="Alt+F4">
                     <text id="t22">Alt+F4</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud285.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t23">x</text>
-                    <audio from="" src=""/>
+                    <text id="t23">H</text>
+                    <audio from="" src="./audio/aud284.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+F">
                 <text id="t24">Alt+F</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud283.mp3"/>
             </accelerator>
             <mnemonic>
-                <text id="t25">F</text>
-                <audio from="" src=""/>
+                <text id="t25">S</text>
+                <audio from="" src="./audio/aud282.mp3"/>
             </mnemonic>
         </container>
         <container id="view">
             <note>This is the menu header &quot;View&quot;</note>
             <caption>
-                <text id="t26">Sýna</text>
-                <audio from="" src=""/>
+                <text id="t26">Útlit</text>
+                <audio from="" src="./audio/aud281.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_TOGGLE_SIDEBAR" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t27">Hliðardálkur</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud280.mp3"/>
                 </caption>
                 <description>
                     <text id="t28">Opna/loka hliðardálki.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud279.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t29">S</text>
-                    <audio from="" src=""/>
+                    <text id="t29">I</text>
+                    <audio from="" src="./audio/aud278.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_TOGGLE_VIEW" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t30">Aðal birtingarmynd</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud233.mp3"/>
                 </caption>
                 <description>
                     <text id="t31">Breyta útliti</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud232.mp3"/>
                 </description>
                 <accelerator keys="F11">
                     <text id="t32">F11</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud231.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t33">B</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud230.mp3"/>
                 </mnemonic>
             </action>
             <container id="pageStylesList">
                 <note>This is the menu header for the list of styles available for this page.</note>
                 <caption>
                     <text id="t334">Síðusnið</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud229.mp3"/>
                 </caption>
                 <action mfcid="ID_AMIS_NO_PAGE_STYLES" widget="menuItem">
                     <note>This is going to be a menu item</note>
                     <caption>
                         <text id="t335">Enginn</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud228.mp3"/>
                     </caption>
                 </action>
                 <action mfcid="AMIS_PAGE_STYLE_BASE_ID" widget="menuItem">
@@ -236,8 +238,8 @@
                     </list>
                 </action>
                 <mnemonic>
-                    <text id="t336">P</text>
-                    <audio from="" src=""/>
+                    <text id="t336">U</text>
+                    <audio from="" src="./audio/aud227.mp3"/>
                 </mnemonic>
             </container>
             <action mfcid="ID_AMIS_BIGGER_FONT" widget="menuItem toolbarItem">
@@ -245,15 +247,15 @@
                 <icon src="./settings/img/font.ico" type="smallIcon"/>
                 <caption>
                     <text id="t38">Stærra letur</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud226.mp3"/>
                 </caption>
                 <description>
-                    <text id="t39">Stækka letur smám saman.</text>
-                    <audio from="" src=""/>
+                    <text id="t39">Stækka letur.</text>
+                    <audio from="" src="./audio/aud225.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t40">G</text>
-                    <audio from="" src=""/>
+                    <text id="t40">A</text>
+                    <audio from="" src="./audio/aud224.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SMALLER_FONT" widget="menuItem toolbarItem">
@@ -261,30 +263,30 @@
                 <icon src="./settings/img/font.ico" type="smallIcon"/>
                 <caption>
                     <text id="t337">Minna letur</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud223.mp3"/>
                 </caption>
                 <description>
-                    <text id="t338">Minnka letur smám saman.</text>
-                    <audio from="" src=""/>
+                    <text id="t338">Minnka letur.</text>
+                    <audio from="" src="./audio/aud222.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t339">M</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud221.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_TEXTSTYLE" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t340">Textasnið ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud220.mp3"/>
                 </caption>
                 <description>
                     <text id="t341">Breyta textasniði.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud219.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t342">T</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud218.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="AMIS_NAVLIST_BASE_ID" widget="menuItem">
@@ -298,18 +300,18 @@
             </action>
             <accelerator keys="Alt+V">
                 <text id="t44">Alt+V</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud217.mp3"/>
             </accelerator>
             <mnemonic>
-                <text id="t45">V</text>
-                <audio from="" src=""/>
+                <text id="t45">T</text>
+                <audio from="" src="./audio/aud216.mp3"/>
             </mnemonic>
         </container>
         <container id="play">
             <note>This is the menu header &quot;Play&quot;</note>
             <caption>
                 <text id="t46">Spila</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud214.mp3"/>
             </caption>
             <switch element="action">
                 <action condition="canPlay" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
@@ -318,19 +320,19 @@
                     <icon src="./settings/img/play_big.ico" type="largeIcon"/>
                     <caption>
                         <text id="t47">Spila</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud215.mp3"/>
                     </caption>
                     <description>
                         <text id="t48">Hefja eða gera hlé á samstilltri afspilun.</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud213.mp3"/>
                     </description>
                     <accelerator keys="Space">
                         <text id="t49">Bilstöng</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud212.mp3"/>
                     </accelerator>
                     <mnemonic>
                         <text id="t50">P</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud211.mp3"/>
                     </mnemonic>
                 </action>
                 <action condition="canPause" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
@@ -338,40 +340,40 @@
                     <icon src="./settings/img/pause.ico" type="smallIcon"/>
                     <icon src="./settings/img/pause_big.ico" type="largeIcon"/>
                     <caption>
-                        <text id="t51">Pása</text>
-                        <audio from="" src=""/>
+                        <text id="t51">Hlé</text>
+                        <audio from="" src="./audio/aud210.mp3"/>
                     </caption>
                     <description>
                         <text id="t52">Hefja eða gera hlé á afspilun DAISY bókarinnar.</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud209.mp3"/>
                     </description>
                     <accelerator keys="Space">
                         <text id="t53">Bilstöng</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud208.mp3"/>
                     </accelerator>
                     <mnemonic>
-                        <text id="t54">a</text>
-                        <audio from="" src=""/>
+                        <text id="t54">A</text>
+                        <audio from="" src="./audio/aud207.mp3"/>
                     </mnemonic>
                 </action>
             </switch>
             <action mfcid="ID_AMIS_ESCAPE" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
-                    <text id="t55">Hætta</text>
-                    <audio from="" src=""/>
+                    <text id="t55">Næsti hluti</text>
+                    <audio from="" src="./audio/aud206.mp3"/>
                 </caption>
                 <description>
                     <text id="t56">Hoppa út úr þessum hluta.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud205.mp3"/>
                 </description>
                 <accelerator keys="Esc">
                     <text id="t57">Esc</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud204.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t58">E</text>
-                    <audio from="" src=""/>
+                    <text id="t58">S</text>
+                    <audio from="" src="./audio/aud203.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_FASTER" widget="menuItem toolbarItem">
@@ -379,19 +381,19 @@
                 <icon src="./settings/img/fullspeedahead.ico" type="smallIcon"/>
                 <caption>
                     <text id="t59">Hraðar</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud202.mp3"/>
                 </caption>
                 <description>
                     <text id="t60">Hraða á afspilun.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud201.mp3"/>
                 </description>
                 <accelerator keys="Ctrl++">
                     <text id="t61">Ctrl++</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud200.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t62">F</text>
-                    <audio from="" src=""/>
+                    <text id="t62">R</text>
+                    <audio from="" src="./audio/aud199.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SLOWER" widget="menuItem toolbarItem">
@@ -399,19 +401,19 @@
                 <icon src="./settings/img/slowdown.ico" type="smallIcon"/>
                 <caption>
                     <text id="t63">Hægar</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud198.mp3"/>
                 </caption>
                 <description>
                     <text id="t64">Hægja á afspilun.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud197.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+-">
                     <text id="t65">Ctrl+-</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud196.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t66">S</text>
-                    <audio from="" src=""/>
+                    <text id="t66">G</text>
+                    <audio from="" src="./audio/aud195.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_RESET_SPEED" widget="menuItem toolbarItem">
@@ -419,73 +421,73 @@
                 <icon src="./settings/img/normalspeed.ico" type="smallIcon"/>
                 <caption>
                     <text id="t67">Eðlilegur afspilunarhraði</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud194.mp3"/>
                 </caption>
                 <description>
                     <text id="t68">Stilla á eðlilegan hraða.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud193.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+0">
                     <text id="t69">Ctrl+0</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud192.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t70">N</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud191.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_INCREASE_VOLUME" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t71">Hækka hljóð</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud189.mp3"/>
                 </caption>
                 <description>
                     <text id="t72">Auka hljóðstyrk smám saman.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud190.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Up">
                     <text id="t73">Ctrl+Upp</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud188.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t74">I</text>
-                    <audio from="" src=""/>
+                    <text id="t74">H</text>
+                    <audio from="" src="./audio/aud187.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_DECREASE_VOLUME" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t75">Lækka hljóð</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud186.mp3"/>
                 </caption>
                 <description>
                     <text id="t76">Minnka hljóðstyrk smám saman.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud185.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Down">
                     <text id="t77">Ctrl+Niður</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud184.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t78">D</text>
-                    <audio from="" src=""/>
+                    <text id="t78">L</text>
+                    <audio from="" src="./audio/aud183.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+P">
                 <text id="t79">Alt+P</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud182.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t80">P</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud180.mp3"/>
             </mnemonic>
         </container>
         <container id="navigate">
             <note>This is the menu header &quot;Navigate&quot;</note>
             <caption>
                 <text id="t81">Stýring</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud181.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_PREVIOUS_SECTION" widget="menuItem toolbarItem">
                 <note>This is going to be a menu item and toolbar item</note>
@@ -493,19 +495,19 @@
                 <icon src="./settings/img/prevsection_big.ico" type="largeIcon"/>
                 <caption>
                     <text id="t82">Fyrri hluti</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud179.mp3"/>
                 </caption>
                 <description>
                     <text id="t83">Fara í fyrri hluta.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud178.mp3"/>
                 </description>
                 <accelerator keys="Up">
                     <text id="t84">Upp</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud177.mp3"/>
                 </accelerator>
                 <mnemonic>
-                    <text id="t85">P</text>
-                    <audio from="" src=""/>
+                    <text id="t85">Y</text>
+                    <audio from="" src="./audio/aud176.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_NEXT_SECTION" widget="menuItem toolbarItem">
@@ -514,37 +516,37 @@
                 <icon src="./settings/img/nextsection_big.ico" type="largeIcon"/>
                 <caption>
                     <text id="t86">Næsti hluti</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud175.mp3"/>
                 </caption>
                 <description>
                     <text id="t87">Fara í næsta hluta.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud174.mp3"/>
                 </description>
                 <accelerator keys="Down">
                     <text id="t88">Niður</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud173.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t89">N</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud172.mp3"/>
                 </mnemonic>
             </action>
             <container id="sectiondepth">
                 <note>This is the &quot;show section depth&quot; sub-menu pop-up</note>
                 <caption>
                     <text id="t90">Sýna undirkafla</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud171.mp3"/>
                 </caption>
                 <switch element="action">
                     <action condition="ID_AMIS_SECTION_DEPTH_EMPTY" mfcid="ID_AMIS_SECTION_DEPTH_EMPTY" widget="menuItem">
                         <note>This is going to be a menu item</note>
                         <caption>
                             <text id="t91">Tómt</text>
-                            <audio from="" src=""/>
+                            <audio from="" src="./audio/aud170.mp3"/>
                         </caption>
                         <description>
                             <text id="t92">Það eru engir undirkaflar</text>
-                            <audio from="" src=""/>
+                            <audio from="" src="./audio/aud169.mp3"/>
                         </description>
                     </action>
                     <action condition="AMIS_SECTION_DEPTH_BASE_ID" mfcid="AMIS_SECTION_DEPTH_BASE_ID" widget="menuItem">
@@ -558,39 +560,39 @@
                 </switch>
                 <mnemonic>
                     <text id="t93">S</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud168.mp3"/>
                 </mnemonic>
             </container>
             <action mfcid="ID_AMIS_PREVIOUS_PHRASE" widget="menuItem toolbarItem">
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/prevphasecirc.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t94">Fyrri frasi</text>
-                    <audio from="" src=""/>
+                    <text id="t94">Síðasta setning</text>
+                    <audio from="" src="./audio/aud167.mp3"/>
                 </caption>
                 <description>
-                    <text id="t95">Fara í fyrri frasa.</text>
-                    <audio from="" src=""/>
+                    <text id="t95">Síðasta setning.</text>
+                    <audio from="" src="./audio/aud166.mp3"/>
                 </description>
                 <accelerator keys="Left">
                     <text id="t96">Vinstri ör</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud165.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_NEXT_PHRASE" widget="menuItem toolbarItem">
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/nextphrasecirc.ico" type="smallIcon"/>
                 <caption>
-                    <text id="t97">Næsti frasi</text>
-                    <audio from="" src=""/>
+                    <text id="t97">Næsta setning</text>
+                    <audio from="" src="./audio/aud164.mp3"/>
                 </caption>
                 <description>
-                    <text id="t98">Fara í næsta frasa.</text>
-                    <audio from="" src=""/>
+                    <text id="t98">Næsta setning.</text>
+                    <audio from="" src="./audio/aud163.mp3"/>
                 </description>
                 <accelerator keys="Right">
                     <text id="t99">Hægri ör</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud162.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_PREVIOUS_PAGE" widget="menuItem toolbarItem">
@@ -598,15 +600,15 @@
                 <icon src="./settings/img/prevpage.ico" type="smallIcon"/>
                 <caption>
                     <text id="t100">Fyrri blaðsíða</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud161.mp3"/>
                 </caption>
                 <description>
                     <text id="t101">Fara á fyrri blaðsíðu.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud160.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Left">
                     <text id="t102">Ctrl+vinstri</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud159.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_NEXT_PAGE" widget="menuItem toolbarItem">
@@ -614,84 +616,84 @@
                 <icon src="./settings/img/nextpage.ico" type="smallIcon"/>
                 <caption>
                     <text id="t103">Næsta blaðsíða</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud158.mp3"/>
                 </caption>
                 <description>
                     <text id="t104">Fara á næstu blaðsíðu.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud157.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+Right">
                     <text id="t105">Ctrl+hægri </text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud156.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_GOTO_PAGE" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t106">Fara á blaðsíðu ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud155.mp3"/>
                 </caption>
                 <description>
                     <text id="t107">Fara á tiltekna síðu.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud154.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+G">
                     <text id="t108">Ctrl+G</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud153.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_FIND_IN_TEXT" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t109">Finna í texta ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud152.mp3"/>
                 </caption>
                 <description>
-                    <text id="t110">Leita að orði eða frasa í textanum.</text>
-                    <audio from="" src=""/>
+                    <text id="t110">Leita að orði eða setningu í textanum.</text>
+                    <audio from="" src="./audio/aud151.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+F">
                     <text id="t111">Ctrl+F</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud150.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t112">F</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud149.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+N">
                 <text id="t113">Alt+N</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud148.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t114">N</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud147.mp3"/>
             </mnemonic>
         </container>
         <container id="bookmarks">
             <note>This is the menu header &quot;Bookmarks&quot;</note>
             <caption>
                 <text id="t115">Bókamerki</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud146.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_ADD_BOOKMARK" widget="menuItem toolbarItem">
                 <note>This is going to be a menu item and toolbar item</note>
                 <icon src="./settings/img/adbookmark.ico" type="smallIcon"/>
                 <caption>
                     <text id="t116">Bæta við bókamerki</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud145.mp3"/>
                 </caption>
                 <description>
                     <text id="t117">Setja bókamerki hér.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud144.mp3"/>
                 </description>
                 <accelerator keys="Ctrl+D">
                     <text id="t118">Ctrl+D</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud143.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t119">A</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud142.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="AMIS_BOOKMARK_BASE_ID" widget="menuItem">
@@ -704,114 +706,114 @@
             </action>
             <accelerator keys="Alt+B">
                 <text id="t120">Alt+B</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud141.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t121">B</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud140.mp3"/>
             </mnemonic>
         </container>
         <container id="info">
             <note>This is the menu header &quot;Info&quot;</note>
             <caption>
                 <text id="t122">Upplýsingar</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud139.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_SHOW_READING_OPTIONS" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t123">Valmöguleikar í lestri ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud138.mp3"/>
                 </caption>
                 <description>
                     <text id="t124">Skoða lesvalmöguleika í þessari útgáfu.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud137.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t125">R</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud136.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_PUBLICATION_SUMMARY" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t343">Upplýsingar um útgáfu ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud135.mp3"/>
                 </caption>
                 <description>
                     <text id="t344">Sjá upplýsingar um þessa útgáfu.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud134.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t345">P</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud133.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+I">
                 <text id="t135">Alt+I</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud131.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t136">I</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud132.mp3"/>
             </mnemonic>
         </container>
         <container id="help">
             <note>This is the menu header &quot;Help&quot;</note>
             <caption>
                 <text id="t137">Hjálp</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud130.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_SHOW_HELP_CONTENTS" widget="menuItem toolbarItem">
                 <caption>
-                    <text id="t138">Innihald</text>
-                    <audio from="" src=""/>
+                    <text id="t138">Yfirlit</text>
+                    <audio from="" src="./audio/aud129.mp3"/>
                 </caption>
                 <description>
                     <text id="t139">Hjálp við noktun AMIS</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud128.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t140">C</text>
-                    <audio from="" src=""/>
+                    <text id="t140">Y</text>
+                    <audio from="" src="./audio/aud127.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_SHOW_KEYBOARD_SHORTCUTS" widget="menuItem">
                 <caption>
                     <text id="t373">Flýtilyklar</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud126.mp3"/>
                 </caption>
                 <description>
                     <text id="t374">Sjá og heyra um alla flýtilykla í AMIS.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud125.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t375">K</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud124.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_ABOUT" widget="menuItem">
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t141">Um AMIS</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud123.mp3"/>
                 </caption>
                 <description>
                     <text id="t142">Upplýsingar um AMIS og DAISY-for-All.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud122.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t143">A</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud121.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+H">
                 <text id="t144">Alt+H</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud119.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t145">H</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud120.mp3"/>
             </mnemonic>
         </container>
     </containers>
@@ -820,11 +822,11 @@
             <note>This is the find in text dialog</note>
             <caption>
                 <text id="t146">Finna í texta</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud118.mp3"/>
             </caption>
             <description mfcid="IDC_FIND_DESCRIPTION">
                 <text id="t147">Leita í öllum texta bókarinnar.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud117.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -834,14 +836,14 @@
             <control mfcid="IDC_SEARCHSTRING" widget="textfield autoplay">
                 <description>
                     <text id="t151">Sláðu textann sem þú ætlar að leita að inn í þennan reit.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud116.mp3"/>
                 </description>
             </control>
             <control mfcid="IDC_FINDPREVIOUS" widget="radiobutton">
                 <note>This indicates the direction of the search</note>
                 <caption>
                     <text id="t152">Finna fyrri</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud115.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -857,7 +859,7 @@
                 </caption>
                 <description>
                     <text id="t149">Smelltu hér til að hefja leit að texta í skjalinu.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud114.mp3"/>
                 </description>
             </control>
             <control mfcid="IDCANCEL" widget="button">
@@ -868,8 +870,8 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t150">C</text>
-                    <audio from="" src=""/>
+                    <text id="t150">H</text>
+                    <audio from="" src="./audio/aud113.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -877,11 +879,11 @@
             <note>This dialog appears when more than one book is on a CD-ROM</note>
             <caption>
                 <text id="t154">Nokkrar bækur fundust.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud112.mp3"/>
             </caption>
             <description mfcid="IDC_MULTIVOLCD_INSTRUCTIONS">
                 <text id="t155">Fleiri en ein bók fannst á geisladisknum. Veldu bók af listanum hér fyrir neðan.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud111.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -906,22 +908,22 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t156">C</text>
-                    <audio from="" src=""/>
+                    <text id="t156">H</text>
+                    <audio from="" src="./audio/aud110.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_OPENBOOK" widget="button">
                 <caption>
                     <text id="t157">Opna</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud109.mp3"/>
                 </caption>
                 <description>
                     <text id="t158">Smelltu hér til að loka glugganum og opna bókina.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud108.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t159">O</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud107.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -929,11 +931,11 @@
             <note>This dialog gives some basic information about AMIS.</note>
             <caption>
                 <text id="t161">Um AMIS</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud106.mp3"/>
             </caption>
             <description>
                 <text id="t162">Upplýsingagluggi um AMIS hugbúnað.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud105.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="enter_to_close"/>
@@ -942,25 +944,25 @@
             <control mfcid="IDC_AMISNAME" translate="no" widget="textlabel autoplay">
                 <caption>
                     <text id="t163">AMIS: Adaptive Multimedia Information System</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud104.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t164">Útgáfa 3.0 RC1</text>
-                    <audio from="" src=""/>
+                    <text id="t164">Útgáfa 3.0</text>
+                    <audio from="" src="./audio/aud103.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t165">Útgáfudagur: 16. febrúar 2009</text>
-                    <audio from="" src=""/>
+                    <text id="t165">Útgáfudagur: 5. maí 2009</text>
+                    <audio from="" src="./audio/Utgafudagur5mai2009.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t166">(c) 2008 DAISY Consortium - Allur réttur áskilinn</text>
-                    <audio from="" src=""/>
+                    <text id="t166">(c) 2009 DAISY Consortium - Allur réttur áskilinn</text>
+                    <audio from="" src="./audio/aud102.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDOK" widget="button">
@@ -976,11 +978,11 @@
             <note>This dialog is for searching your hard drive for DAISY books.</note>
             <caption>
                 <text id="t167">Leita að DAISY bókum</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud101.mp3"/>
             </caption>
             <description mfcid="IDC_SEARCHINSTRUCTIONS">
                 <text id="t168">Þú getur leitað að DAISY bókum í tölvunni þinni. Skrifaðu slóð eða veldu möppu til að leita í. Veldu svo Leita til að hefja leitina.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud100.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -990,68 +992,68 @@
             <control mfcid="IDC_SEARCHPATH" widget="textfield autoplay">
                 <description>
                     <text id="t169">Skrifaðu slóð möppunnar í þennan reit.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud99.mp3"/>
                 </description>
             </control>
             <control mfcid="IDC_BROWSE" widget="button">
                 <caption>
                     <text id="t260">Skoða ...</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud98.mp3"/>
                 </caption>
                 <description>
                     <text id="t261">Smelltu hér til að opna lista yfir skrár</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud97.mp3"/>
                 </description>
             </control>
             <control mfcid="IDC_STARTSEARCH" widget="button">
                 <caption>
                     <text id="t170">Leit</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud96.mp3"/>
                 </caption>
                 <description>
                     <text id="t171">Smelltu hér til að hefja leit.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud95.mp3"/>
                 </description>
                 <mnemonic>
-                    <text id="t172">S</text>
-                    <audio from="" src=""/>
+                    <text id="t172">L</text>
+                    <audio from="" src="./audio/aud94.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_STOPSEARCH" widget="button">
                 <caption>
                     <text id="t173">Stöðva</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud93.mp3"/>
                 </caption>
                 <description>
                     <text id="t174">Smelltu hér til að stöðva leit.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud92.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t175">t</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud91.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDC_SEARCHING" widget="textlabel">
                 <switch element="caption">
                     <caption condition="default">
                         <text id="t176">Tilbúin</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud89.mp3"/>
                     </caption>
                     <caption condition="WhileSearching">
                         <text id="t177">Leitar ...</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud90.mp3"/>
                     </caption>
                     <caption condition="SearchAborted">
                         <text id="t178">Leit stöðvuð.</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud88.mp3"/>
                     </caption>
                     <caption condition="SearchCompleteNoFilesFound">
                         <text id="t179">Leit lokið: Engar skrár fundust.</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud87.mp3"/>
                     </caption>
                     <caption condition="SearchCompleteOneFileFound">
                         <text id="t180">Leit lokið: Ein skrá fannst.</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/aud86.mp3"/>
                     </caption>
                     <caption condition="SearchCompleteFilesFound">
                         <prompt>
@@ -1059,7 +1061,7 @@
                             <promptItem>
                                 <note>This is used in the sentence &quot;7 files were found&quot;</note>
                                 <text id="t181">skrár fundust.</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud85.mp3"/>
                             </promptItem>
                         </prompt>
                     </caption>
@@ -1078,15 +1080,15 @@
             <control mfcid="IDC_OPENBOOK" widget="button">
                 <caption>
                     <text id="t183">Opna</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud84.mp3"/>
                 </caption>
                 <description>
                     <text id="t184">Smelltu hér til að opna titilinn sem þú valdir.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud83.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t185">O</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud82.mp3"/>
                 </mnemonic>
             </control>
             <control mfcid="IDCANCEL" widget="button">
@@ -1097,20 +1099,20 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t186">C</text>
-                    <audio from="" src=""/>
+                    <text id="t186">H</text>
+                    <audio from="" src="./audio/aud81.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
         <dialog mfcid="IDD_READING_OPTIONS">
             <note>This dialog lets the user control rendering of skippable structures.</note>
             <caption>
-                <text id="t187">Velmöguleikar í lestri</text>
-                <audio from="" src=""/>
+                <text id="t187">Valmöguleikar í lestri</text>
+                <audio from="" src="./audio/aud80.mp3"/>
             </caption>
             <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
                 <text id="t188">Bókin geymir eftirfarandi efnisþætti. Þeir sem hakað er við verða spilaðir, öðrum sleppt.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud79.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1120,7 +1122,7 @@
             <control mfcid="IDC_OPTIONS_LIST" widget="list autoplay">
                 <caption>
                     <text id="t190">Listi yfir valmöguleika í lestri:</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud78.mp3"/>
                 </caption>
                 <description>
                     <promptItem refid="useArrowsList"/>
@@ -1154,8 +1156,8 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t381">C</text>
-                    <audio from="" src=""/>
+                    <text id="t381">H</text>
+                    <audio from="" src="./audio/aud77.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1163,11 +1165,11 @@
             <note>This dialog lets the user set some basic preferences for AMIS.</note>
             <caption>
                 <text id="t218">Kjörstillingar</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud76.mp3"/>
             </caption>
             <description>
                 <text id="t219">Hér getur þú valið kjörstillingar fyrir AMIS.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud75.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1177,7 +1179,7 @@
             <control mfcid="IDC_ISSELFVOICING" widget="checkbox autoplay">
                 <caption>
                     <text id="t220">Nota sjálfröddun</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud74.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -1190,7 +1192,7 @@
             <control mfcid="IDC_TTSVOICES" widget="list">
                 <caption mfcid="IDC_SELTTSLABEL">
                     <text id="t221">Velja talgervilsrödd:</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud72.mp3"/>
                 </caption>
                 <list repeat="yes">
                     <caption>
@@ -1204,7 +1206,7 @@
             <control mfcid="IDC_HIGHLIGHTTEXT" widget="checkbox">
                 <caption>
                     <text id="t346">Auðkenna texta samtímis lestri.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud73.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -1216,8 +1218,8 @@
             </control>
             <control mfcid="IDC_LOADLASTBOOK" widget="checkbox">
                 <caption>
-                    <text id="t225">Hlaða niður síðustu bók við ræsingu</text>
-                    <audio from="" src=""/>
+                    <text id="t225">Hala niður síðustu bók við ræsingu</text>
+                    <audio from="" src="./audio/aud71.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -1230,7 +1232,7 @@
             <control mfcid="IDC_STARTINBASICVIEW" widget="checkbox">
                 <caption>
                     <text id="t223">Ræsa í lestrarham</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud70.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -1243,7 +1245,7 @@
             <control mfcid="IDC_PAUSEONLOSTFOCUS" widget="checkbox">
                 <caption>
                     <text id="t347">Stöðva hljóð meðan farið er á milli forrita</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud69.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -1256,7 +1258,7 @@
             <control mfcid="IDC_DISABLESCREENSAVER" widget="checkbox">
                 <caption>
                     <text id="t348">Aftengja skjáhvílu meðan á lestri stendur</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud68.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -1270,8 +1272,8 @@
                 <caption mfcid="IDC_CURRLANG">
                     <prompt>
                         <promptItem>
-                            <text id="t349">Þú ert að nota AMIS í:</text>
-                            <audio from="" src=""/>
+                            <text id="t349">Þú ert að nota AMIS á:</text>
+                            <audio from="" src="./audio/aud67.mp3"/>
                         </promptItem>
                         <promptVar name="CURRENT_LANGUAGE_NAME"/>
                     </prompt>
@@ -1301,8 +1303,8 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t350">C</text>
-                    <audio from="" src=""/>
+                    <text id="t350">H</text>
+                    <audio from="" src="./audio/aud66.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1310,11 +1312,11 @@
             <note>This dialog lets the user jump to a certain page</note>
             <caption>
                 <text id="t231">Fara á blaðsíðu</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud65.mp3"/>
             </caption>
             <description mfcid="IDC_GOTOPAGE_CAPTION">
                 <text id="t236">Sláðu inn númer eða merki blaðsíðunnar sem þú vilt fara á hér:</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud64.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1324,7 +1326,7 @@
             <control mfcid="IDC_PAGENUM" widget="textfield autoplay">
                 <description>
                     <text id="t237">Sláðu inn númer eða merki blaðsíðunnar hér.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud63.mp3"/>
                 </description>
             </control>
             <control mfcid="IDOK" widget="button">
@@ -1333,7 +1335,7 @@
                 </caption>
                 <description>
                     <text id="t234">Smelltu hér til að fara á þá síðu sem þú óskar.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud62.mp3"/>
                 </description>
             </control>
             <control mfcid="IDCANCEL" widget="button">
@@ -1344,8 +1346,8 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t235">C</text>
-                    <audio from="" src=""/>
+                    <text id="t235">H</text>
+                    <audio from="" src="./audio/aud60.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1353,11 +1355,11 @@
             <note>This dialog contains publication metadata and feedback about the user's current position.</note>
             <caption>
                 <text id="t238">Upplýsingar um útgáfuna</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud61.mp3"/>
             </caption>
             <description mfcid="IDC_PUBLICATIONSUMMARYCAPTION">
                 <text id="t214">Upplýsingar um þessa útgáfu og hvar þú ert í bókinni</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud59.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1367,7 +1369,7 @@
             <control mfcid="IDC_SUMMARYLIST" widget="list autoplay">
                 <caption>
                     <text id="t434">Upplýsingasíða:</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud58.mp3"/>
                 </caption>
                 <description>
                     <promptItem refid="useArrowsList"/>
@@ -1377,7 +1379,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t240">Titill:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud57.mp3"/>
                             </promptItem>
                             <promptVar name="META_TITLE"/>
                         </prompt>
@@ -1386,7 +1388,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t241">Höfundur:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud56.mp3"/>
                             </promptItem>
                             <promptVar name="META_CREATOR"/>
                         </prompt>
@@ -1395,7 +1397,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t242">Útgefandi:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud55.mp3"/>
                             </promptItem>
                             <promptVar name="META_PUBLISHER"/>
                         </prompt>
@@ -1404,7 +1406,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t243">Bókarlýsing:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud54.mp3"/>
                             </promptItem>
                             <promptVar name="META_DESC"/>
                         </prompt>
@@ -1413,7 +1415,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t351">Lesari:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud53.mp3"/>
                             </promptItem>
                             <promptVar name="META_NARRATOR"/>
                         </prompt>
@@ -1422,7 +1424,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t249">Heildar tímalengd:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud52.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOTALTIME"/>
                         </prompt>
@@ -1431,7 +1433,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t352">Heilarfjöldi blaðsíðna:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud51.mp3"/>
                             </promptItem>
                             <promptVar name="META_NUMPAGES"/>
                         </prompt>
@@ -1440,7 +1442,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t353">Dagsetning:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud50.mp3"/>
                             </promptItem>
                             <promptVar name="META_DATE"/>
                         </prompt>
@@ -1449,7 +1451,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t354">Skráarsnið:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud49.mp3"/>
                             </promptItem>
                             <promptVar name="META_FORMAT"/>
                         </prompt>
@@ -1458,7 +1460,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t355">Valmöguleikar:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud48.mp3"/>
                             </promptItem>
                             <promptVar name="TOC_CATEGORIES"/>
                         </prompt>
@@ -1467,7 +1469,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t356">Þú ert á blaðsíðu:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud47.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_PAGE"/>
                         </prompt>
@@ -1476,7 +1478,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t215">Þú ert í kafla:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud46.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_TITLE"/>
                         </prompt>
@@ -1485,17 +1487,17 @@
                         <prompt>
                             <promptItem>
                                 <text id="t390">Efnisyfirlit kaflans:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud45.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_SUBSECTIONS"/>
                             <promptItem>
                                 <text id="t217">Undirkaflar</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud44.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
                             <promptItem>
                                 <text id="t216">blaðsíður</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud43.mp3"/>
                             </promptItem>
                         </prompt>
                     </caption>
@@ -1503,7 +1505,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t244">Heildarfjöldi TOC hluta:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud42.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOCITEMS"/>
                         </prompt>
@@ -1512,7 +1514,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t245">Hámarksfjöldi hluta sem sýndir eru:</text>
-                                <audio from="" src=""/>
+                                <audio from="" src="./audio/aud41.mp3"/>
                             </promptItem>
                             <promptVar name="META_DEPTH"/>
                         </prompt>
@@ -1532,11 +1534,11 @@
             <note>This dialog lets the user set text style properties.</note>
             <caption>
                 <text id="t358">Textasnið</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud40.mp3"/>
             </caption>
             <description>
                 <text id="t359">Hér getur þú breytt textasniðinu:</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud39.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1546,7 +1548,7 @@
             <control mfcid="IDC_FONT" widget="list autoplay">
                 <caption mfcid="IDC_FONTLABEL">
                     <text id="t360">Leturgerð í forriti:</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud38.mp3"/>
                 </caption>
                 <list repeat="yes">
                     <caption>
@@ -1560,7 +1562,7 @@
             <control mfcid="IDC_HIGHLIGHTFOREGROUND" widget="list">
                 <caption mfcid="IDC_HIGHLIGHTFOREGROUNDLABEL">
                     <text id="t362">Litur texta í lestri:</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud37.mp3"/>
                 </caption>
                 <list repeat="yes">
                     <caption>
@@ -1574,7 +1576,7 @@
             <control mfcid="IDC_HIGHLIGHTBACKGROUND" widget="list">
                 <caption mfcid="IDC_HIGHLIGHTBACKGROUNDLABEL">
                     <text id="t364">Bakgrunnslitur texta í lestri:</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud36.mp3"/>
                 </caption>
                 <list repeat="yes">
                     <caption>
@@ -1601,8 +1603,8 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t366">C</text>
-                    <audio from="" src=""/>
+                    <text id="t366">H</text>
+                    <audio from="" src="./audio/aud35.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1610,11 +1612,11 @@
             <note>This is the open URL dialog</note>
             <caption>
                 <text id="t368">Opna slóð</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud33.mp3"/>
             </caption>
             <description mfcid="IDC_OPENURL_CAPTION">
                 <text id="t369">Sláðu inn slóðina sem þú vilt opna:</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud32.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1624,7 +1626,7 @@
             <control mfcid="IDC_URL" widget="textfield autoplay">
                 <description>
                     <text id="t371">Sláðu strenginn í þennan reit.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud31.mp3"/>
                 </description>
             </control>
             <control mfcid="IDOK" widget="button">
@@ -1633,7 +1635,7 @@
                 </caption>
                 <description>
                     <text id="t372">Smelltu hér til að hlaða strenginn</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud30.mp3"/>
                 </description>
             </control>
             <control mfcid="IDCANCEL" widget="button">
@@ -1644,8 +1646,8 @@
                     <promptItem refid="cancel_button_description"/>
                 </description>
                 <mnemonic>
-                    <text id="t367">C</text>
-                    <audio from="" src=""/>
+                    <text id="t367">H</text>
+                    <audio from="" src="./audio/aud29.mp3"/>
                 </mnemonic>
             </control>
         </dialog>
@@ -1654,224 +1656,224 @@
         <promptItemRefs>
             <promptItem id="useArrowsList">
                 <text id="t380">Notaður örvalyklana til að fara um listann.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud28.mp3"/>
             </promptItem>
             <promptItem id="thisItem">
                 <text id="t252">Þessi hluti</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud27.mp3"/>
             </promptItem>
             <promptItem id="spaceToToggle">
                 <text id="t253">Ýttu á bilstöngina til að breyta gildi.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud26.mp3"/>
             </promptItem>
             <promptItem id="tabAround">
                 <text id="t254">Ýttu á Tab til að ferðast um gluggann.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud25.mp3"/>
             </promptItem>
             <promptItem id="thisItemIsCurrently">
                 <text id="t258">Þessi hlutur er núna</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud24.mp3"/>
             </promptItem>
             <promptItem id="enter_to_close">
                 <text id="t259">Ýttu á enter til að loka þessum glugga</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud23.mp3"/>
             </promptItem>
             <promptItem id="ok_button_caption">
                 <text id="t262">OK</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud22.mp3"/>
             </promptItem>
             <promptItem id="ok_button_description">
                 <text id="t263">Veldu OK til að loka þessum glugga</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud21.mp3"/>
             </promptItem>
             <promptItem id="cancel_button_caption">
                 <text id="t264">Hætta við</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud20.mp3"/>
             </promptItem>
             <promptItem id="cancel_button_description">
                 <text id="t265">Veldu Hætta til að loka glugganum</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud19.mp3"/>
             </promptItem>
             <promptItem id="thisDialogNotSelfVoicing">
                 <text id="t268">Sjálfröddun er ekki virk í þessum glugga.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud18.mp3"/>
             </promptItem>
             <promptItem id="escapeToCancel">
                 <text id="t269">Ýttu á Esc til að hætta við.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud17.mp3"/>
             </promptItem>
             <promptItem id="hearDlgInstructions">
                 <text id="t270">Ýttu á F1 til að kalla fram hjálparglugga.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud16.mp3"/>
             </promptItem>
             <promptItem id="nav_window">
                 <text id="t272">Stýring</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud15.mp3"/>
             </promptItem>
             <promptItem id="sections">
                 <text id="t273">Hlutar</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud14.mp3"/>
             </promptItem>
             <promptItem id="pages">
                 <text id="t274">Blaðsíður</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud13.mp3"/>
             </promptItem>
             <promptItem id="noterefs">
                 <text id="t275">Neðanmálsgreinar</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud12.mp3"/>
             </promptItem>
             <promptItem id="prodnotes">
                 <text id="t276">Athugasemdir framleiðanda</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud11.mp3"/>
             </promptItem>
             <promptItem id="sidebars">
                 <text id="t277">Hliðardálkur</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud10.mp3"/>
             </promptItem>
             <promptItem id="groups">
                 <text id="t278">Valdir hlutir</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud9.mp3"/>
             </promptItem>
             <promptItem id="ready">
                 <text id="t280">Tilbúin</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud8.mp3"/>
             </promptItem>
             <promptItem id="selfolder_title">
                 <text id="t282">Veldu möppu</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud7.mp3"/>
             </promptItem>
             <promptItem id="selfolder_instr">
-                <text id="t283">Velið möppu úr skráasafninu hér fyrir neðan.</text>
-                <audio from="" src=""/>
+                <text id="t283">Veljið möppu hér fyrir neðan.</text>
+                <audio from="" src="./audio/aud6.mp3"/>
             </promptItem>
             <promptItem id="daisy_books">
                 <note>This is for the file open dialog's file type filter</note>
                 <text id="t284">DAISY bækur.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud5.mp3"/>
             </promptItem>
             <promptItem id="folder_does_not_exist">
                 <text id="t285">Mappan %s er ekki til. Viltu mynda möppuna?</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud4.mp3"/>
             </promptItem>
             <promptItem id="folder_invalid">
                 <text id="t286">Ótækt nafn á möppu. Veldu annað nafn.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud3.mp3"/>
             </promptItem>
             <promptItem id="cant_create_folder">
                 <text id="t287">Ekki tókst að mynda þessa möppu. Endurskoðaðu valið.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud2.mp3"/>
             </promptItem>
             <promptItem id="not_available">
                 <text id="t288">Ekki í boði.</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud1.mp3"/>
             </promptItem>
             <promptItem id="numeric_zero">
                 <note>All numerals should be translated into numerals, not words.</note>
                 <text id="t289">0</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud314.mp3"/>
             </promptItem>
             <promptItem id="numeric_one">
                 <text id="t290">1</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud315.mp3"/>
             </promptItem>
             <promptItem id="numeric_two">
                 <text id="t291">2</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud316.mp3"/>
             </promptItem>
             <promptItem id="numeric_three">
                 <text id="t292">3</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud317.mp3"/>
             </promptItem>
             <promptItem id="numeric_four">
                 <text id="t293">4</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud318.mp3"/>
             </promptItem>
             <promptItem id="numeric_five">
                 <text id="t294">5</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud319.mp3"/>
             </promptItem>
             <promptItem id="numeric_six">
                 <text id="t295">6</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud320.mp3"/>
             </promptItem>
             <promptItem id="numeric_seven">
                 <text id="t296">7</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud321.mp3"/>
             </promptItem>
             <promptItem id="numeric_eight">
                 <text id="t297">8</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud322.mp3"/>
             </promptItem>
             <promptItem id="numeric_nine">
                 <text id="t298">9</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud323.mp3"/>
             </promptItem>
             <promptItem id="will_be_skipped">
                 <text id="t300">verður sleppt</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud324.mp3"/>
             </promptItem>
             <promptItem id="will_be_played">
                 <text id="t301">verður spilað</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud325.mp3"/>
             </promptItem>
             <promptItem id="item_selected">
                 <text id="t304">valið</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud326.mp3"/>
             </promptItem>
             <promptItem id="item_deselected">
                 <text id="t305">afvalið</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud327.mp3"/>
             </promptItem>
             <promptItem id="menu">
                 <text id="t308">Valmynd</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud328.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="keyboardShortcut">
                 <text id="t306">Flýtilykill</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud329.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="icon">
                 <text id="t307">Táknmynd</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud330.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="followedBy">
                 <note>This is used in the context of a sequence of key presses, as in &quot;Press Alt + V, followed by S&quot;.  </note>
                 <text id="t309">á eftir kemur</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud331.mp3"/>
             </promptItem>
             <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
             <promptItem id="submenu">
                 <text id="t310">Undirvalmynd</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/aud332.mp3"/>
             </promptItem>
         </promptItemRefs>
         <generalPrompts>
             <prompt id="dialogClosed">
                 <promptItem>
                     <text id="t311">Glugga lokað.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud333.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="textFieldEntry">
                 <promptItem>
                     <text id="t312">Textareiturinn geymir:</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud334.mp3"/>
                 </promptItem>
                 <promptVar name="TEXT_FIELD"/>
             </prompt>
             <prompt id="bookAtPathChanged">
                 <promptItem>
                     <text id="t313">Bókin sem þú reyndir að opna fannst ekki.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud335.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="generalBookError">
                 <promptItem>
-                    <text id="t314">Ekki tókst að opna bókina.</text>
-                    <audio from="" src=""/>
+                    <text id="t314">Ekki tókst að opna skrána.</text>
+                    <audio from="" src="./audio/aud336.mp3"/>
                 </promptItem>
                 <promptVar name="BOOK_PATH"/>
                 <promptItem refid="enter_to_close"/>
@@ -1879,14 +1881,14 @@
             <prompt id="noCdLoaded">
                 <promptItem>
                     <text id="t315">Enginn geisladiskur er í drifinu.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud337.mp3"/>
                 </promptItem>
                 <promptItem refid="enter_to_close"/>
             </prompt>
             <prompt id="OpenFile_notSelfVoicing">
                 <promptItem>
                     <text id="t319">Opna skráagluggann</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud338.mp3"/>
                 </promptItem>
                 <promptItem refid="thisDialogNotSelfVoicing"/>
                 <promptItem refid="escapeToCancel"/>
@@ -1894,7 +1896,7 @@
             <prompt id="BrowseForFolder_notSelfVoicing">
                 <promptItem>
                     <text id="t321">Skoða möppuvalmynd</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud339.mp3"/>
                 </promptItem>
                 <promptItem refid="thisDialogNotSelfVoicing"/>
                 <promptItem refid="escapeToCancel"/>
@@ -1902,104 +1904,104 @@
             <prompt id="loading">
                 <promptItem>
                     <text id="t324">Hleður</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud340.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="restartForChanges">
                 <promptItem>
                     <text id="t325">Endurræstu forritið til að breyta um tungumál.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud341.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="noBooksFoundOnCd">
                 <promptItem>
                     <text id="t326">Engar DAISY bækur fundust á geisladiski.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud342.mp3"/>
                 </promptItem>
                 <promptItem refid="enter_to_close"/>
             </prompt>
             <prompt id="done">
                 <promptItem>
                     <text id="t376">Lokið</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud343.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="sidebarHasFocus">
                 <promptItem>
                     <text id="t377">Áhersla á hliðardálk</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud344.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="textWindowHasFocus">
                 <promptItem>
                     <text id="t378">Áhersla á textaglugga</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud345.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="generalBookErrorReloading">
                 <promptItem>
                     <text id="t382">Bókin opnaðist ekki. AMIS opnar fyrri bók.</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud346.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="shift_key">
                 <promptItem>
                     <text id="t383">shift</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud347.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="control_key">
                 <promptItem>
                     <text id="t384">ctrl</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud348.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="alt_key">
                 <promptItem>
                     <text id="t385">alt</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud349.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="space_key">
                 <promptItem>
                     <text id="t386">bilstöng</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud350.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="delete_key">
                 <promptItem>
                     <text id="t387">del</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud351.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="backspace_key">
                 <promptItem>
                     <text id="t388">backspace</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud352.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="enter_key">
                 <promptItem>
                     <text id="t389">enter</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/aud353.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="searching_for_text">
                <promptItem>
                  <text id="t435">Leita að texta</text>
-                 <audio from="" src=""/>
+                 <audio from="" src="./audio/aud354.mp3"/>
                </promptItem>
            </prompt>
            <prompt id="not_found">
              <promptItem>
                <text id="t436">Textinn fannst ekki</text>
-               <audio from="" src=""/>
+               <audio from="" src="./audio/aud355.mp3"/>
              </promptItem>
            </prompt>
            <prompt id="paused">
              <promptItem>
-               <text id="t437">Á pásu</text>
-               <audio from="" src=""/>
+               <text id="t437">Gera hlé</text>
+               <audio from="" src="./audio/aud356.mp3"/>
              </promptItem>
            </prompt>
           </generalPrompts>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Flýtilyklar"/>
+		<meta name="dc:title" content="Flýtilyklar"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-ice-IS"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t393">
+					<text src="amiskeys.html#t393"/>
+					<audio src="aud236.mp3"/>
+				</par>
+				<par endsync="last" id="t420">
+					<text src="amiskeys.html#t420"/>
+					<audio src="aud264.mp3"/>
+				</par>
+					<par endsync="last" id="t422">
+						<text src="amiskeys.html#t422"/>
+						<audio src="aud266.mp3"/>
+					</par>
+				<par endsync="last" id="t423">
+					<text src="amiskeys.html#t423"/>
+					<audio src="aud267.mp3"/>
+				</par>
+					<par endsync="last" id="t425">
+						<text src="amiskeys.html#t425"/>
+						<audio src="aud269.mp3"/>
+					</par>
+				<par endsync="last" id="t399">
+					<text src="amiskeys.html#t399"/>
+					<audio src="aud242.mp3"/>
+				</par>
+					<par endsync="last" id="t401">
+						<text src="amiskeys.html#t401"/>
+						<audio src="aud244.mp3"/>
+					</par>
+				<par endsync="last" id="t402">
+					<text src="amiskeys.html#t402"/>
+					<audio src="aud245.mp3"/>
+				</par>
+					<par endsync="last" id="t404">
+						<text src="amiskeys.html#t404"/>
+						<audio src="aud247.mp3"/>
+					</par>
+				<par endsync="last" id="t394">
+					<text src="amiskeys.html#t394"/>
+					<audio src="aud237.mp3"/>
+				</par>
+					<par endsync="last" id="t433">
+						<text src="amiskeys.html#t433"/>
+						<audio src="aud277.mp3"/>
+					</par>
+				<par endsync="last" id="t396">
+					<text src="amiskeys.html#t396"/>
+					<audio src="aud239.mp3"/>
+				</par>
+					<par endsync="last" id="t398">
+						<text src="amiskeys.html#t398"/>
+						<audio src="aud241.mp3"/>
+					</par>
+				<par endsync="last" id="t405">
+					<text src="amiskeys.html#t405"/>
+					<audio src="aud248.mp3"/>
+				</par>
+					<par endsync="last" id="t407">
+						<text src="amiskeys.html#t407"/>
+						<audio src="aud250.mp3"/>
+					</par>
+				<par endsync="last" id="t408">
+					<text src="amiskeys.html#t408"/>
+					<audio src="aud251.mp3"/>
+				</par>
+					<par endsync="last" id="t410">
+						<text src="amiskeys.html#t410"/>
+						<audio src="aud253.mp3"/>
+					</par>
+				<par endsync="last" id="t411">
+					<text src="amiskeys.html#t411"/>
+					<audio src="aud254.mp3"/>
+				</par>
+					<par endsync="last" id="t413">
+						<text src="amiskeys.html#t413"/>
+						<audio src="aud256.mp3"/>
+					</par>
+				<par endsync="last" id="t414">
+					<text src="amiskeys.html#t414"/>
+					<audio src="aud257.mp3"/>
+				</par>
+					<par endsync="last" id="t416">
+						<text src="amiskeys.html#t416"/>
+						<audio src="aud259.mp3"/>
+					</par>
+				<par endsync="last" id="t440">
+					<text src="amiskeys.html#t440"/>
+					<audio src="aud263.mp3"/>
+				</par>
+					<par endsync="last" id="t442">
+						<text src="amiskeys.html#t442"/>
+						<audio src="aud359.mp3"/>
+					</par>
+				<par endsync="last" id="t443">
+					<text src="amiskeys.html#t443"/>
+					<audio src="aud360.mp3"/>
+				</par>
+					<par endsync="last" id="t445">
+						<text src="amiskeys.html#t445"/>
+						<audio src="aud362.mp3"/>
+					</par>
+				<par endsync="last" id="t417">
+					<text src="amiskeys.html#t417"/>
+					<audio src="aud260.mp3"/>
+				</par>
+					<par endsync="last" id="t419">
+						<text src="amiskeys.html#t419"/>
+						<audio src="aud262.mp3"/>
+					</par>
+				<par endsync="last" id="t426">
+					<text src="amiskeys.html#t426"/>
+					<audio src="aud270.mp3"/>
+				</par>
+					<par endsync="last" id="t428">
+						<text src="amiskeys.html#t428"/>
+						<audio src="aud272.mp3"/>
+					</par>
+				<par endsync="last" id="t429">
+					<text src="amiskeys.html#t429"/>
+					<audio src="aud273.mp3"/>
+				</par>
+					<par endsync="last" id="t431">
+						<text src="amiskeys.html#t431"/>
+						<audio src="aud275.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>
