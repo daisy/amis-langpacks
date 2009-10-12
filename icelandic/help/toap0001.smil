@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:13:37.953"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.10 Build 131 # 044FS2210112472"/>
+    <meta name="title" content="AMIS – Notendaleiðbeiningar"/>
+    <meta name="dc:title" content="Amis - notendaleiðbeiningar"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="817.953s">
+			<par endsync="last" id="ewfj_0001" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0001" id="scps_0001"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=0.000s" clip-end="npt=0.549s" id="audio_0001"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=0.549s" clip-end="npt=1.499s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0002">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0002" id="scps_0002"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=1.499s" clip-end="npt=2.103s" id="audio_0003"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=2.103s" clip-end="npt=4.199s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0003">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0003" id="scps_0003"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=4.199s" clip-end="npt=5.878s" id="audio_0005"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=5.878s" clip-end="npt=10.319s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0004">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0004" id="scps_0004"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=10.319s" clip-end="npt=10.984s" id="audio_0007"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=10.984s" clip-end="npt=12.359s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0005">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0005" id="scps_0005"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=12.359s" clip-end="npt=14.999s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0006">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0006" id="scps_0006"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=14.999s" clip-end="npt=16.078s" id="audio_0010"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=16.078s" clip-end="npt=21.669s" id="audio_0011"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=21.669s" clip-end="npt=23.879s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0007">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0007" id="scps_0007"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=23.879s" clip-end="npt=25.861s" id="audio_0013"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=25.861s" clip-end="npt=27.419s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0008">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0008" id="scps_0008"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=27.419s" clip-end="npt=28.682s" id="audio_0015"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=28.682s" clip-end="npt=29.879s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0010">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0010" id="scps_000a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=29.879s" clip-end="npt=30.367s" id="audio_0017"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=30.367s" clip-end="npt=31.199s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0012">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0012" id="scps_000c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=31.199s" clip-end="npt=32.699s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0014">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0014" id="scps_000e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=32.699s" clip-end="npt=34.199s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0016">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0016" id="scps_0010"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=34.199s" clip-end="npt=35.879s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0017">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0017" id="scps_0011"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=35.879s" clip-end="npt=37.081s" id="audio_0022"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=37.081s" clip-end="npt=40.859s" id="audio_0023"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=40.859s" clip-end="npt=43.464s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0018">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0018" id="scps_0012"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=43.464s" clip-end="npt=45.359s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0019">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0019" id="scps_0013"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=45.359s" clip-end="npt=46.080s" id="audio_0026"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=46.080s" clip-end="npt=46.679s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0020">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0020" id="scps_0014"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=46.679s" clip-end="npt=48.899s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0021">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0021" id="scps_0015"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=48.899s" clip-end="npt=54.059s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0022">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0022" id="scps_0016"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=54.059s" clip-end="npt=55.745s" id="audio_0030"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=55.745s" clip-end="npt=58.619s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0023">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0023" id="scps_0017"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=58.619s" clip-end="npt=60.238s" id="audio_0032"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=60.238s" clip-end="npt=64.862s" id="audio_0033"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=64.862s" clip-end="npt=66.239s" id="audio_0034"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=66.239s" clip-end="npt=69.459s" id="audio_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0024">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0024" id="scps_0018"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=69.459s" clip-end="npt=71.579s" id="audio_0036"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=71.579s" clip-end="npt=72.359s" id="audio_0037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0025">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0025" id="scps_0019"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=72.359s" clip-end="npt=74.339s" id="audio_0038"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=74.339s" clip-end="npt=75.811s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0026">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0026" id="scps_001a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=75.811s" clip-end="npt=79.020s" id="audio_0040"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=79.020s" clip-end="npt=80.219s" id="audio_0041"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=80.219s" clip-end="npt=81.887s" id="audio_0042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0027">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0027" id="scps_001b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=81.887s" clip-end="npt=83.762s" id="audio_0043"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=83.762s" clip-end="npt=90.005s" id="audio_0044"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=90.005s" clip-end="npt=91.623s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0028">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0027" id="scps_001c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=91.623s" clip-end="npt=93.544s" id="audio_0046"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=93.544s" clip-end="npt=96.118s" id="audio_0047"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=96.118s" clip-end="npt=100.807s" id="audio_0048"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=100.807s" clip-end="npt=103.144s" id="audio_0049"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=103.144s" clip-end="npt=107.399s" id="audio_0050"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=107.399s" clip-end="npt=108.711s" id="audio_0051"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0029">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0029" id="scps_001d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=108.711s" clip-end="npt=112.199s" id="audio_0052"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=112.199s" clip-end="npt=113.890s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0030">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0030" id="scps_001e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=113.890s" clip-end="npt=114.419s" id="audio_0054"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=114.419s" clip-end="npt=116.893s" id="audio_0055"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0031">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0029" id="scps_001f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=116.893s" clip-end="npt=119.458s" id="audio_0056"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=119.458s" clip-end="npt=123.429s" id="audio_0057"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=123.429s" clip-end="npt=127.621s" id="audio_0058"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=127.621s" clip-end="npt=132.728s" id="audio_0059"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=132.728s" clip-end="npt=141.061s" id="audio_0060"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=141.061s" clip-end="npt=144.601s" id="audio_0061"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=144.601s" clip-end="npt=147.540s" id="audio_0062"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=147.540s" clip-end="npt=151.380s" id="audio_0063"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=151.380s" clip-end="npt=158.942s" id="audio_0064"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=158.942s" clip-end="npt=162.664s" id="audio_0065"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=162.664s" clip-end="npt=164.284s" id="audio_0066"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=164.284s" clip-end="npt=165.603s" id="audio_0067"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=165.603s" clip-end="npt=167.223s" id="audio_0068"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=167.223s" clip-end="npt=171.539s" id="audio_0069"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=171.539s" clip-end="npt=173.786s" id="audio_0070"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0032" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0032" id="scps_0020"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=173.786s" clip-end="npt=175.859s" id="audio_0071"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=175.859s" clip-end="npt=176.582s" id="audio_0072"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0033">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0033" id="scps_0021"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=176.582s" clip-end="npt=177.031s" id="audio_0073"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=177.031s" clip-end="npt=178.978s" id="audio_0074"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=178.978s" clip-end="npt=183.599s" id="audio_0075"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=183.599s" clip-end="npt=185.627s" id="audio_0076"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0034">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0032" id="scps_0022"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=185.627s" clip-end="npt=189.362s" id="audio_0077"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=189.362s" clip-end="npt=194.586s" id="audio_0078"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=194.586s" clip-end="npt=197.939s" id="audio_0079"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=197.939s" clip-end="npt=200.921s" id="audio_0080"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0035">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0033" id="scps_0023"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=200.921s" clip-end="npt=205.388s" id="audio_0081"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=205.388s" clip-end="npt=208.078s" id="audio_0082"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=208.078s" clip-end="npt=212.167s" id="audio_0083"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=212.167s" clip-end="npt=215.159s" id="audio_0084"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=215.159s" clip-end="npt=217.837s" id="audio_0085"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0036">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0036" id="scps_0024"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=217.837s" clip-end="npt=220.115s" id="audio_0086"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0037">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0037" id="scps_0025"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=220.115s" clip-end="npt=222.485s" id="audio_0087"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=222.485s" clip-end="npt=226.739s" id="audio_0088"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=226.739s" clip-end="npt=227.399s" id="audio_0089"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0038">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0038" id="scps_0026"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=227.399s" clip-end="npt=228.539s" id="audio_0090"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=228.539s" clip-end="npt=229.091s" id="audio_0091"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0039">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0039" id="scps_0027"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=229.091s" clip-end="npt=230.819s" id="audio_0092"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=230.819s" clip-end="npt=231.266s" id="audio_0093"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0040">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0036" id="scps_0028"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=231.266s" clip-end="npt=231.602s" id="audio_0094"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=231.602s" clip-end="npt=232.859s" id="audio_0095"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0041">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0037" id="scps_0029"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=232.859s" clip-end="npt=233.939s" id="audio_0096"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0042">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0042" id="scps_002a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=233.939s" clip-end="npt=236.699s" id="audio_0097"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0043">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0043" id="scps_002b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=236.699s" clip-end="npt=237.599s" id="audio_0098"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0044">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0044" id="scps_002c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=237.599s" clip-end="npt=240.718s" id="audio_0099"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=240.718s" clip-end="npt=244.323s" id="audio_0100"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=244.323s" clip-end="npt=248.764s" id="audio_0101"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=248.764s" clip-end="npt=249.539s" id="audio_0102"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=249.539s" clip-end="npt=252.566s" id="audio_0103"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0045">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0040" id="scps_002d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=252.566s" clip-end="npt=253.199s" id="audio_0104"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0046">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0046" id="scps_002e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=253.199s" clip-end="npt=254.279s" id="audio_0105"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=254.279s" clip-end="npt=255.466s" id="audio_0106"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0047">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0042" id="scps_002f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=255.466s" clip-end="npt=259.319s" id="audio_0107"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0048">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0043" id="scps_0030"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=259.319s" clip-end="npt=259.919s" id="audio_0108"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0049">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0044" id="scps_0031"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=259.919s" clip-end="npt=260.820s" id="audio_0109"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=260.820s" clip-end="npt=262.922s" id="audio_0110"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=262.922s" clip-end="npt=265.319s" id="audio_0111"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=265.319s" clip-end="npt=265.754s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0050">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0050" id="scps_0032"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=265.754s" clip-end="npt=267.583s" id="audio_0113"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0051">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0051" id="scps_0033"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=267.583s" clip-end="npt=268.082s" id="audio_0114"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=268.082s" clip-end="npt=270.059s" id="audio_0115"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0052">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0052" id="scps_0034"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=270.059s" clip-end="npt=270.719s" id="audio_0116"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0053">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0053" id="scps_0035"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=270.719s" clip-end="npt=271.269s" id="audio_0117"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=271.269s" clip-end="npt=275.279s" id="audio_0118"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=275.279s" clip-end="npt=275.819s" id="audio_0119"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=275.819s" clip-end="npt=276.732s" id="audio_0120"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0054">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0054" id="scps_0036"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=276.732s" clip-end="npt=277.526s" id="audio_0121"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0055">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0055" id="scps_0037"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=277.526s" clip-end="npt=277.930s" id="audio_0122"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=277.930s" clip-end="npt=280.620s" id="audio_0123"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=280.620s" clip-end="npt=282.119s" id="audio_0124"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0056">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0056" id="scps_0038"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=282.119s" clip-end="npt=282.779s" id="audio_0125"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=282.779s" clip-end="npt=285.293s" id="audio_0126"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0057">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0057" id="scps_0039"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=285.293s" clip-end="npt=287.399s" id="audio_0127"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0058">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0058" id="scps_003a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=287.399s" clip-end="npt=289.267s" id="audio_0128"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=289.267s" clip-end="npt=292.499s" id="audio_0129"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=292.499s" clip-end="npt=295.547s" id="audio_0130"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0059">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0059" id="scps_003b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=295.547s" clip-end="npt=295.928s" id="audio_0131"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=295.928s" clip-end="npt=297.059s" id="audio_0132"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=297.059s" clip-end="npt=298.274s" id="audio_0133"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0060">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0055" id="scps_003c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=298.274s" clip-end="npt=299.879s" id="audio_0134"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0061">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0061" id="scps_003d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=299.879s" clip-end="npt=300.421s" id="audio_0135"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=300.421s" clip-end="npt=302.159s" id="audio_0136"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=302.159s" clip-end="npt=303.970s" id="audio_0137"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0062">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0062" id="scps_003e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=303.970s" clip-end="npt=307.082s" id="audio_0138"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=307.082s" clip-end="npt=311.641s" id="audio_0139"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=311.641s" clip-end="npt=314.039s" id="audio_0140"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=314.039s" clip-end="npt=314.879s" id="audio_0141"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=314.879s" clip-end="npt=315.466s" id="audio_0142"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0063">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0063" id="scps_003f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=315.466s" clip-end="npt=316.709s" id="audio_0143"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0064">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0059" id="scps_0040"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=316.709s" clip-end="npt=320.222s" id="audio_0144"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=320.222s" clip-end="npt=322.207s" id="audio_0145"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=322.207s" clip-end="npt=324.899s" id="audio_0146"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=324.899s" clip-end="npt=328.757s" id="audio_0147"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0065" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0065" id="scps_0041"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=328.757s" clip-end="npt=329.104s" id="audio_0148"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=329.104s" clip-end="npt=332.578s" id="audio_0149"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=332.578s" clip-end="npt=335.464s" id="audio_0150"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=335.464s" clip-end="npt=337.920s" id="audio_0151"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=337.920s" clip-end="npt=340.023s" id="audio_0152"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=340.023s" clip-end="npt=342.126s" id="audio_0153"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=342.126s" clip-end="npt=343.497s" id="audio_0154"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=343.497s" clip-end="npt=344.829s" id="audio_0155"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=344.829s" clip-end="npt=346.449s" id="audio_0156"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=346.449s" clip-end="npt=348.238s" id="audio_0157"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=348.238s" clip-end="npt=350.399s" id="audio_0158"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=350.399s" clip-end="npt=354.511s" id="audio_0159"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0066">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0063" id="scps_0042"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=354.511s" clip-end="npt=355.017s" id="audio_0160"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=355.017s" clip-end="npt=355.859s" id="audio_0161"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=355.859s" clip-end="npt=357.791s" id="audio_0162"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0067">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0067" id="scps_0043"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=357.791s" clip-end="npt=358.269s" id="audio_0163"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=358.269s" clip-end="npt=362.527s" id="audio_0164"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=362.527s" clip-end="npt=366.302s" id="audio_0165"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=366.302s" clip-end="npt=370.560s" id="audio_0166"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=370.560s" clip-end="npt=373.747s" id="audio_0167"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=373.747s" clip-end="npt=377.522s" id="audio_0168"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=377.522s" clip-end="npt=384.366s" id="audio_0169"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=384.366s" clip-end="npt=386.939s" id="audio_0170"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=386.939s" clip-end="npt=388.379s" id="audio_0171"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=388.379s" clip-end="npt=392.390s" id="audio_0172"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0068" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0068" id="scps_0044"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=392.390s" clip-end="npt=392.764s" id="audio_0173"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=392.764s" clip-end="npt=394.799s" id="audio_0174"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=394.799s" clip-end="npt=395.359s" id="audio_0175"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0069">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0069" id="scps_0045"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=395.359s" clip-end="npt=400.078s" id="audio_0176"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=400.078s" clip-end="npt=402.364s" id="audio_0177"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=402.364s" clip-end="npt=407.523s" id="audio_0178"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=407.523s" clip-end="npt=410.580s" id="audio_0179"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=410.580s" clip-end="npt=412.382s" id="audio_0180"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=412.382s" clip-end="npt=414.668s" id="audio_0181"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=414.668s" clip-end="npt=416.457s" id="audio_0182"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=416.457s" clip-end="npt=420.127s" id="audio_0183"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=420.127s" clip-end="npt=423.719s" id="audio_0184"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=423.719s" clip-end="npt=427.739s" id="audio_0185"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0071" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0071" id="scps_0047"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=427.739s" clip-end="npt=429.299s" id="audio_0186"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=429.299s" clip-end="npt=431.019s" id="audio_0187"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0072">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0072" id="scps_0048"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=431.019s" clip-end="npt=432.239s" id="audio_0188"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=432.239s" clip-end="npt=433.677s" id="audio_0189"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0073">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0068" id="scps_0049"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=433.677s" clip-end="npt=438.727s" id="audio_0190"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=438.727s" clip-end="npt=440.279s" id="audio_0191"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=440.279s" clip-end="npt=441.893s" id="audio_0192"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0074">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0069" id="scps_004a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=441.893s" clip-end="npt=442.449s" id="audio_0193"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=442.449s" clip-end="npt=444.299s" id="audio_0194"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=444.299s" clip-end="npt=445.173s" id="audio_0195"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0075">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0075" id="scps_004b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=445.173s" clip-end="npt=445.558s" id="audio_0196"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=445.558s" clip-end="npt=448.619s" id="audio_0197"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0076">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0076" id="scps_004c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=448.619s" clip-end="npt=449.699s" id="audio_0198"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=449.699s" clip-end="npt=450.144s" id="audio_0199"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0077">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0077" id="scps_004d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=450.144s" clip-end="npt=450.482s" id="audio_0200"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=450.482s" clip-end="npt=452.219s" id="audio_0201"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0078">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0078" id="scps_004e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=452.219s" clip-end="npt=452.999s" id="audio_0202"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0079">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0079" id="scps_004f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=452.999s" clip-end="npt=453.659s" id="audio_0203"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=453.659s" clip-end="npt=454.114s" id="audio_0204"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0080">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0080" id="scps_0050"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=454.114s" clip-end="npt=454.439s" id="audio_0205"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=454.439s" clip-end="npt=457.799s" id="audio_0206"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=457.799s" clip-end="npt=458.459s" id="audio_0207"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=458.459s" clip-end="npt=459.569s" id="audio_0208"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0081">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0081" id="scps_0051"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=459.569s" clip-end="npt=460.535s" id="audio_0209"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0082">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0074" id="scps_0052"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=460.535s" clip-end="npt=462.719s" id="audio_0210"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=462.719s" clip-end="npt=463.379s" id="audio_0211"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=463.379s" clip-end="npt=464.471s" id="audio_0212"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0083">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0075" id="scps_0053"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=464.471s" clip-end="npt=465.161s" id="audio_0213"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0084">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0084" id="scps_0054"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=465.161s" clip-end="npt=468.419s" id="audio_0214"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=468.419s" clip-end="npt=471.306s" id="audio_0215"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0085">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0085" id="scps_0055"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=471.306s" clip-end="npt=473.039s" id="audio_0216"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=473.039s" clip-end="npt=474.586s" id="audio_0217"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0086">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0086" id="scps_0056"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=474.586s" clip-end="npt=480.118s" id="audio_0218"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=480.118s" clip-end="npt=481.199s" id="audio_0219"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0087">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0079" id="scps_0057"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=481.199s" clip-end="npt=482.279s" id="audio_0220"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=482.279s" clip-end="npt=483.596s" id="audio_0221"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0088">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0080" id="scps_0058"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=483.596s" clip-end="npt=485.279s" id="audio_0222"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=485.279s" clip-end="npt=486.427s" id="audio_0223"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0089">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0089" id="scps_0059"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=486.427s" clip-end="npt=486.899s" id="audio_0224"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=486.899s" clip-end="npt=487.359s" id="audio_0225"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0090">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0090" id="scps_005a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=487.359s" clip-end="npt=489.599s" id="audio_0226"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0091">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0091" id="scps_005b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=489.599s" clip-end="npt=490.919s" id="audio_0227"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=490.919s" clip-end="npt=491.640s" id="audio_0228"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0092">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0092" id="scps_005c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=491.640s" clip-end="npt=494.459s" id="audio_0229"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=494.459s" clip-end="npt=497.038s" id="audio_0230"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=497.038s" clip-end="npt=499.028s" id="audio_0231"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0093" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0093" id="scps_005d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=499.028s" clip-end="npt=501.237s" id="audio_0232"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0094">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0094" id="scps_005e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=501.237s" clip-end="npt=504.176s" id="audio_0233"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=504.176s" clip-end="npt=507.055s" id="audio_0234"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=507.055s" clip-end="npt=507.651s" id="audio_0235"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0095">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0095" id="scps_005f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=507.651s" clip-end="npt=508.480s" id="audio_0236"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0096">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0086" id="scps_0060"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=508.480s" clip-end="npt=509.875s" id="audio_0237"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=509.875s" clip-end="npt=510.415s" id="audio_0238"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=510.415s" clip-end="npt=511.000s" id="audio_0239"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0097">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0087" id="scps_0061"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=511.000s" clip-end="npt=511.414s" id="audio_0240"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0098">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0098" id="scps_0062"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=511.414s" clip-end="npt=512.695s" id="audio_0241"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=512.695s" clip-end="npt=513.295s" id="audio_0242"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=513.295s" clip-end="npt=513.624s" id="audio_0243"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0099">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0099" id="scps_0063"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=513.624s" clip-end="npt=514.211s" id="audio_0244"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0100">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0100" id="scps_0064"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=514.211s" clip-end="npt=516.175s" id="audio_0245"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=516.175s" clip-end="npt=516.567s" id="audio_0246"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0101">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0101" id="scps_0065"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=516.567s" clip-end="npt=517.188s" id="audio_0247"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0102">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0091" id="scps_0066"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=517.188s" clip-end="npt=518.035s" id="audio_0248"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=518.035s" clip-end="npt=518.845s" id="audio_0249"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0103">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0092" id="scps_0067"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=518.845s" clip-end="npt=519.225s" id="audio_0250"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0104">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0104" id="scps_0068"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=519.225s" clip-end="npt=520.555s" id="audio_0251"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=520.555s" clip-end="npt=522.366s" id="audio_0252"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0105">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0093" id="scps_0069"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=522.366s" clip-end="npt=525.055s" id="audio_0253"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=525.055s" clip-end="npt=525.991s" id="audio_0254"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0106">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0094" id="scps_006a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=525.991s" clip-end="npt=529.975s" id="audio_0255"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=529.975s" clip-end="npt=530.695s" id="audio_0256"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=530.695s" clip-end="npt=532.585s" id="audio_0257"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0107">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0107" id="scps_006b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=532.585s" clip-end="npt=533.120s" id="audio_0258"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0108">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0108" id="scps_006c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=533.120s" clip-end="npt=535.276s" id="audio_0259"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=535.276s" clip-end="npt=535.996s" id="audio_0260"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=535.996s" clip-end="npt=536.314s" id="audio_0261"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0109">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0109" id="scps_006d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=536.314s" clip-end="npt=536.900s" id="audio_0262"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0110">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0110" id="scps_006e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=536.900s" clip-end="npt=538.396s" id="audio_0263"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=538.396s" clip-end="npt=539.213s" id="audio_0264"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0111">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0098" id="scps_006f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=539.213s" clip-end="npt=539.938s" id="audio_0265"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0112">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0112" id="scps_0070"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=539.938s" clip-end="npt=542.236s" id="audio_0266"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=542.236s" clip-end="npt=545.566s" id="audio_0267"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0113">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0099" id="scps_0071"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=545.566s" clip-end="npt=546.616s" id="audio_0268"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=546.616s" clip-end="npt=547.216s" id="audio_0269"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=547.216s" clip-end="npt=547.568s" id="audio_0270"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0114">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0114" id="scps_0072"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=547.568s" clip-end="npt=548.120s" id="audio_0271"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0115">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0101" id="scps_0073"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=548.120s" clip-end="npt=550.766s" id="audio_0272"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=550.766s" clip-end="npt=553.036s" id="audio_0273"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=553.036s" clip-end="npt=553.756s" id="audio_0274"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=553.756s" clip-end="npt=554.610s" id="audio_0275"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0116">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0116" id="scps_0074"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=554.610s" clip-end="npt=555.681s" id="audio_0276"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0117">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0117" id="scps_0075"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=555.681s" clip-end="npt=556.396s" id="audio_0277"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=556.396s" clip-end="npt=557.716s" id="audio_0278"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=557.716s" clip-end="npt=558.020s" id="audio_0279"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0118">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0118" id="scps_0076"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=558.020s" clip-end="npt=558.848s" id="audio_0280"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0119">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0119" id="scps_0077"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=558.848s" clip-end="npt=564.016s" id="audio_0281"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=564.016s" clip-end="npt=566.581s" id="audio_0282"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0120">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0120" id="scps_0078"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=566.581s" clip-end="npt=566.897s" id="audio_0283"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=566.897s" clip-end="npt=569.956s" id="audio_0284"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=569.956s" clip-end="npt=570.966s" id="audio_0285"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0121">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0121" id="scps_0079"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=570.966s" clip-end="npt=581.055s" id="audio_0286"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=581.055s" clip-end="npt=583.877s" id="audio_0287"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0122">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0107" id="scps_007a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=583.877s" clip-end="npt=584.296s" id="audio_0288"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=584.296s" clip-end="npt=584.775s" id="audio_0289"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0123">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0123" id="scps_007b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=584.775s" clip-end="npt=585.796s" id="audio_0290"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0124">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0124" id="scps_007c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=585.796s" clip-end="npt=586.996s" id="audio_0291"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=586.996s" clip-end="npt=587.297s" id="audio_0292"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0125">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0109" id="scps_007d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=587.297s" clip-end="npt=588.016s" id="audio_0293"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=588.016s" clip-end="npt=588.656s" id="audio_0294"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0126">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0126" id="scps_007e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=588.656s" clip-end="npt=589.096s" id="audio_0295"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=589.096s" clip-end="npt=589.713s" id="audio_0296"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0127">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0111" id="scps_007f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=589.713s" clip-end="npt=590.596s" id="audio_0297"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=590.596s" clip-end="npt=591.181s" id="audio_0298"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0128">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0112" id="scps_0080"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=591.181s" clip-end="npt=591.496s" id="audio_0299"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=591.496s" clip-end="npt=592.087s" id="audio_0300"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0129">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0129" id="scps_0081"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=592.087s" clip-end="npt=592.936s" id="audio_0301"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0130" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0130" id="scps_0082"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=592.936s" clip-end="npt=593.476s" id="audio_0302"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=593.476s" clip-end="npt=594.288s" id="audio_0303"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0131">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0131" id="scps_0083"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=594.288s" clip-end="npt=595.336s" id="audio_0304"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=595.336s" clip-end="npt=596.186s" id="audio_0305"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0132">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0115" id="scps_0084"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=596.186s" clip-end="npt=596.536s" id="audio_0306"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=596.536s" clip-end="npt=597.049s" id="audio_0307"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0133">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0133" id="scps_0085"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=597.049s" clip-end="npt=599.176s" id="audio_0308"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=599.176s" clip-end="npt=600.049s" id="audio_0309"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0134">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0116" id="scps_0086"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=600.049s" clip-end="npt=600.847s" id="audio_0310"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0135">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0117" id="scps_0087"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=600.847s" clip-end="npt=604.516s" id="audio_0311"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0136">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0136" id="scps_0088"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=604.516s" clip-end="npt=606.004s" id="audio_0312"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0137">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0137" id="scps_0089"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=606.004s" clip-end="npt=606.916s" id="audio_0313"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=606.916s" clip-end="npt=608.053s" id="audio_0314"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0138">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0119" id="scps_008a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=608.053s" clip-end="npt=608.536s" id="audio_0315"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0139">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0139" id="scps_008b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=608.536s" clip-end="npt=609.436s" id="audio_0316"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=609.436s" clip-end="npt=609.976s" id="audio_0317"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=609.976s" clip-end="npt=610.384s" id="audio_0318"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0140">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0140" id="scps_008c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=610.384s" clip-end="npt=611.074s" id="audio_0319"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0141">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0121" id="scps_008d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=611.074s" clip-end="npt=612.676s" id="audio_0320"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=612.676s" clip-end="npt=616.576s" id="audio_0321"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=616.576s" clip-end="npt=617.116s" id="audio_0322"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=617.116s" clip-end="npt=618.345s" id="audio_0323"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0142">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0122" id="scps_008e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=618.345s" clip-end="npt=619.058s" id="audio_0324"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0143">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0143" id="scps_008f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=619.058s" clip-end="npt=621.916s" id="audio_0325"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0144">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0144" id="scps_0090"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=621.916s" clip-end="npt=622.576s" id="audio_0326"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=622.576s" clip-end="npt=622.877s" id="audio_0327"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0145">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0145" id="scps_0091"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=622.877s" clip-end="npt=624.915s" id="audio_0328"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=624.915s" clip-end="npt=628.216s" id="audio_0329"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0146">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0146" id="scps_0092"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=628.216s" clip-end="npt=628.996s" id="audio_0330"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=628.996s" clip-end="npt=629.867s" id="audio_0331"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0147">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0126" id="scps_0093"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=629.867s" clip-end="npt=635.056s" id="audio_0332"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0148">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0148" id="scps_0094"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=635.056s" clip-end="npt=635.896s" id="audio_0333"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=635.896s" clip-end="npt=636.232s" id="audio_0334"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0149">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0149" id="scps_0095"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=636.232s" clip-end="npt=637.156s" id="audio_0335"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=637.156s" clip-end="npt=640.246s" id="audio_0336"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0150">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0150" id="scps_0096"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=640.246s" clip-end="npt=642.376s" id="audio_0337"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=642.376s" clip-end="npt=644.647s" id="audio_0338"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0151">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0151" id="scps_0097"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=644.647s" clip-end="npt=646.336s" id="audio_0339"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=646.336s" clip-end="npt=647.150s" id="audio_0340"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0152">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0152" id="scps_0098"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=647.150s" clip-end="npt=647.560s" id="audio_0341"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0153">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0131" id="scps_0099"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=647.560s" clip-end="npt=649.876s" id="audio_0342"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0154">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0154" id="scps_009a"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=649.876s" clip-end="npt=651.016s" id="audio_0343"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0155">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0132" id="scps_009b"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=651.016s" clip-end="npt=652.278s" id="audio_0344"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=652.278s" clip-end="npt=654.856s" id="audio_0345"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=654.856s" clip-end="npt=655.543s" id="audio_0346"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=655.543s" clip-end="npt=655.876s" id="audio_0347"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=655.876s" clip-end="npt=656.989s" id="audio_0348"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0156">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0156" id="scps_009c"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=656.989s" clip-end="npt=657.701s" id="audio_0349"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0157">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0157" id="scps_009d"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=657.701s" clip-end="npt=660.436s" id="audio_0350"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=660.436s" clip-end="npt=663.160s" id="audio_0351"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0158">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0158" id="scps_009e"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=663.160s" clip-end="npt=664.516s" id="audio_0352"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=664.516s" clip-end="npt=666.353s" id="audio_0353"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0159" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0159" id="scps_009f"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=666.353s" clip-end="npt=672.379s" id="audio_0354"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=672.379s" clip-end="npt=673.336s" id="audio_0355"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=673.336s" clip-end="npt=674.116s" id="audio_0356"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=674.116s" clip-end="npt=675.847s" id="audio_0357"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0160">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0160" id="scps_00a0"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=675.847s" clip-end="npt=676.602s" id="audio_0358"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0161">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0138" id="scps_00a1"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=676.602s" clip-end="npt=677.956s" id="audio_0359"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=677.956s" clip-end="npt=678.496s" id="audio_0360"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=678.496s" clip-end="npt=679.580s" id="audio_0361"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0162">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0162" id="scps_00a2"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=679.580s" clip-end="npt=680.124s" id="audio_0362"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0163">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0140" id="scps_00a3"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=680.124s" clip-end="npt=681.976s" id="audio_0363"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=681.976s" clip-end="npt=683.476s" id="audio_0364"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=683.476s" clip-end="npt=684.089s" id="audio_0365"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0164">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0164" id="scps_00a4"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=684.089s" clip-end="npt=684.521s" id="audio_0366"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0165">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0165" id="scps_00a5"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=684.521s" clip-end="npt=685.996s" id="audio_0367"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=685.996s" clip-end="npt=686.700s" id="audio_0368"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0166">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0166" id="scps_00a6"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=686.700s" clip-end="npt=686.956s" id="audio_0369"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0167">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0167" id="scps_00a7"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=686.956s" clip-end="npt=688.039s" id="audio_0370"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=688.039s" clip-end="npt=689.296s" id="audio_0371"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=689.296s" clip-end="npt=689.836s" id="audio_0372"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=689.836s" clip-end="npt=691.253s" id="audio_0373"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0168">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0145" id="scps_00a8"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=691.253s" clip-end="npt=691.997s" id="audio_0374"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0169">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0169" id="scps_00a9"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=691.997s" clip-end="npt=693.496s" id="audio_0375"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0170">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0146" id="scps_00aa"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=693.496s" clip-end="npt=694.516s" id="audio_0376"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=694.516s" clip-end="npt=695.247s" id="audio_0377"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0171">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0147" id="scps_00ab"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=695.247s" clip-end="npt=700.276s" id="audio_0378"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=700.276s" clip-end="npt=702.519s" id="audio_0379"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0172">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0148" id="scps_00ac"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=702.519s" clip-end="npt=703.996s" id="audio_0380"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=703.996s" clip-end="npt=705.539s" id="audio_0381"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0173">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0149" id="scps_00ad"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=705.539s" clip-end="npt=705.920s" id="audio_0382"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=705.920s" clip-end="npt=711.736s" id="audio_0383"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=711.736s" clip-end="npt=712.456s" id="audio_0384"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=712.456s" clip-end="npt=713.027s" id="audio_0385"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0174">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0174" id="scps_00ae"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=713.027s" clip-end="npt=714.105s" id="audio_0386"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0175">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0175" id="scps_00af"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=714.105s" clip-end="npt=716.356s" id="audio_0387"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=716.356s" clip-end="npt=716.956s" id="audio_0388"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=716.956s" clip-end="npt=718.011s" id="audio_0389"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0176">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0176" id="scps_00b0"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=718.011s" clip-end="npt=718.680s" id="audio_0390"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0177">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0152" id="scps_00b1"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=718.680s" clip-end="npt=720.736s" id="audio_0391"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=720.736s" clip-end="npt=721.336s" id="audio_0392"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=721.336s" clip-end="npt=722.693s" id="audio_0393"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0178">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0178" id="scps_00b2"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=722.693s" clip-end="npt=723.232s" id="audio_0394"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0179">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0179" id="scps_00b3"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=723.232s" clip-end="npt=725.056s" id="audio_0395"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=725.056s" clip-end="npt=725.596s" id="audio_0396"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=725.596s" clip-end="npt=727.267s" id="audio_0397"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0180">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0180" id="scps_00b4"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=727.267s" clip-end="npt=727.828s" id="audio_0398"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0181">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0181" id="scps_00b5"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=727.828s" clip-end="npt=731.176s" id="audio_0399"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=731.176s" clip-end="npt=732.196s" id="audio_0400"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=732.196s" clip-end="npt=732.877s" id="audio_0401"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0182">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0182" id="scps_00b6"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=732.877s" clip-end="npt=733.416s" id="audio_0402"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0183">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0183" id="scps_00b7"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=733.416s" clip-end="npt=736.516s" id="audio_0403"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=736.516s" clip-end="npt=737.149s" id="audio_0404"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0184">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0184" id="scps_00b8"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=737.149s" clip-end="npt=738.120s" id="audio_0405"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0185">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0159" id="scps_00b9"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=738.120s" clip-end="npt=742.216s" id="audio_0406"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=742.216s" clip-end="npt=742.802s" id="audio_0407"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=742.802s" clip-end="npt=743.385s" id="audio_0408"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0186">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0186" id="scps_00ba"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=743.385s" clip-end="npt=744.032s" id="audio_0409"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0187">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0160" id="scps_00bb"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=744.032s" clip-end="npt=746.536s" id="audio_0410"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=746.536s" clip-end="npt=747.256s" id="audio_0411"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=747.256s" clip-end="npt=748.477s" id="audio_0412"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0188">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0188" id="scps_00bc"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=748.477s" clip-end="npt=749.512s" id="audio_0413"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0189">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0189" id="scps_00bd"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=749.512s" clip-end="npt=753.556s" id="audio_0414"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=753.556s" clip-end="npt=756.029s" id="audio_0415"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0190" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0163" id="scps_00be"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=756.029s" clip-end="npt=757.636s" id="audio_0416"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=757.636s" clip-end="npt=759.243s" id="audio_0417"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0191">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0191" id="scps_00bf"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=759.243s" clip-end="npt=760.936s" id="audio_0418"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=760.936s" clip-end="npt=763.602s" id="audio_0419"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0192">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0165" id="scps_00c0"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=763.602s" clip-end="npt=763.938s" id="audio_0420"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=763.938s" clip-end="npt=770.476s" id="audio_0421"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0193">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0193" id="scps_00c1"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=770.476s" clip-end="npt=771.016s" id="audio_0422"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0194">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0194" id="scps_00c2"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=771.016s" clip-end="npt=772.337s" id="audio_0423"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=772.337s" clip-end="npt=774.436s" id="audio_0424"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=774.436s" clip-end="npt=774.908s" id="audio_0425"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0195">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0195" id="scps_00c3"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=774.908s" clip-end="npt=775.336s" id="audio_0426"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=775.336s" clip-end="npt=776.418s" id="audio_0427"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0196">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0196" id="scps_00c4"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=776.418s" clip-end="npt=779.776s" id="audio_0428"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=779.776s" clip-end="npt=783.733s" id="audio_0429"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0197">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0170" id="scps_00c5"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=783.733s" clip-end="npt=786.436s" id="audio_0430"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=786.436s" clip-end="npt=787.358s" id="audio_0431"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0198" system-required="pagenumber-on">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0171" id="scps_00c6"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=787.358s" clip-end="npt=787.762s" id="audio_0432"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=787.762s" clip-end="npt=789.076s" id="audio_0433"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=789.076s" clip-end="npt=789.645s" id="audio_0434"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0199">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0172" id="scps_00c7"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=789.645s" clip-end="npt=790.766s" id="audio_0435"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=790.766s" clip-end="npt=792.256s" id="audio_0436"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=792.256s" clip-end="npt=793.054s" id="audio_0437"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0200">
+				<text src="amis_frumbirtingarmynd_april09.html#dol_1_1_ewfj_0173" id="scps_00c8"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=793.054s" clip-end="npt=797.244s" id="audio_0438"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=797.244s" clip-end="npt=799.516s" id="audio_0439"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0201">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0201" id="scps_00c9"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=799.516s" clip-end="npt=800.176s" id="audio_0440"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=800.176s" clip-end="npt=800.541s" id="audio_0441"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0202">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0202" id="scps_00ca"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=800.541s" clip-end="npt=800.967s" id="audio_0442"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=800.967s" clip-end="npt=802.936s" id="audio_0443"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=802.936s" clip-end="npt=803.907s" id="audio_0444"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0203">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0203" id="scps_00cb"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=803.907s" clip-end="npt=805.876s" id="audio_0445"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=805.876s" clip-end="npt=806.906s" id="audio_0446"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0204">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0204" id="scps_00cc"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=806.906s" clip-end="npt=812.176s" id="audio_0447"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ewfj_0205">
+				<text src="amis_frumbirtingarmynd_april09.html#ewfj_0205" id="scps_00cd"/>
+				<seq>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=812.176s" clip-end="npt=814.041s" id="audio_0448"/>
+					<audio src="1_AMIS___Notenda.mp3" clip-begin="npt=814.041s" clip-end="npt=817.953s" id="audio_0449"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
