@@ -15,8 +15,8 @@ afr-ZA    Afrikaans
 eng-GB    British English    
 fin-FI    Finnish (Finland)  
 nld-NL    Nederlands         
-nno-NO    Norwegian Nynorsk (Norway)   
-nob-NO    Norwegian Bokmål (Norway)    
+nno-NO    Norwegian Nynorsk (Norway)  kontrast  
+nob-NO    Norwegian Bokmål (Norway)    kontrast
 por-PT    Portuguese                   
 
 For the moment, we can't accommodate these languages' scripts:

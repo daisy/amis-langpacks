@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat vie-VN  ..\..\vietnamese debug"
+				CommandLine="../../../amis/bin/copyLangpack.bat spa  ..\..\spanish_latin_america debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat vie-VN  ..\..\vietnamese release"
+				CommandLine="../../../amis/bin/copyLangpack.bat spa  ..\..\spanish_latin_america release"
 			/>
 		</Configuration>
 	</Configurations>
