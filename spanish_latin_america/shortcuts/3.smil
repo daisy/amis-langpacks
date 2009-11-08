@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Atajos de teclado"/>
+		<meta name="dc:title" content="Atajos de teclado"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-spa"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t1">
+					<text src="amiskeys.html#t1"/>
+					<audio src="archivo.mp3"/>
+				</par>
+					<par endsync="last" id="t24">
+						<text src="amiskeys.html#t24"/>
+						<audio src="alt + a.mp3"/>
+					</par>
+				<par endsync="last" id="t2">
+					<text src="amiskeys.html#t2"/>
+					<audio src="abrir.mp3"/>
+				</par>
+					<par endsync="last" id="t4">
+						<text src="amiskeys.html#t4"/>
+						<audio src="ctrl + a.mp3"/>
+					</par>
+				<par endsync="last" id="t327">
+					<text src="amiskeys.html#t327"/>
+					<audio src="abrir direccion URL.mp3"/>
+				</par>
+					<par endsync="last" id="t329">
+						<text src="amiskeys.html#t329"/>
+						<audio src="ctrl + u.mp3"/>
+					</par>
+				<par endsync="last" id="t331">
+					<text src="amiskeys.html#t331"/>
+					<audio src="cerrar.mp3"/>
+				</par>
+					<par endsync="last" id="t333">
+						<text src="amiskeys.html#t333"/>
+						<audio src="C.mp3"/>
+					</par>
+				<par endsync="last" id="t6">
+					<text src="amiskeys.html#t6"/>
+					<audio src="cargar cd.mp3"/>
+				</par>
+					<par endsync="last" id="t8">
+						<text src="amiskeys.html#t8"/>
+						<audio src="ctrl + d.mp3"/>
+					</par>
+				<par endsync="last" id="t10">
+					<text src="amiskeys.html#t10"/>
+					<audio src="buscando unidades.mp3"/>
+				</par>
+					<par endsync="last" id="t12">
+						<text src="amiskeys.html#t12"/>
+						<audio src="B.mp3"/>
+					</par>
+				<par endsync="last" id="t13">
+					<text src="amiskeys.html#t13"/>
+					<audio src="preferencias.mp3"/>
+				</par>
+					<par endsync="last" id="t15">
+						<text src="amiskeys.html#t15"/>
+						<audio src="P.mp3"/>
+					</par>
+				<par endsync="last" id="t16">
+					<text src="amiskeys.html#t16"/>
+					<audio src="reciente.mp3"/>
+				</par>
+					<par endsync="last" id="t19">
+						<text src="amiskeys.html#t19"/>
+						<audio src="r.mp3"/>
+					</par>
+				<par endsync="last" id="t20">
+					<text src="amiskeys.html#t20"/>
+					<audio src="salir.mp3"/>
+				</par>
+					<par endsync="last" id="t22">
+						<text src="amiskeys.html#t22"/>
+						<audio src="alt + f4.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>

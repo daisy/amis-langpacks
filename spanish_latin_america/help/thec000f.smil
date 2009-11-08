@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" []>
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.22" skip-content="true" />
+    <meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+    <meta name="title" content="Cambiando la apariencia" skip-content="true" />
+    <meta name="dc:title" content="AMIS GUIA DEL USUARIO" skip-content="true" />
+    <meta name="ncc:timeInThisSmil" content="0:00:38" skip-content="true" />
+    <layout type="text/smil-basic-layout">
+        <region id="txtView" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+    </layout>
+</head>
+<body>
+<seq dur="38.387s" repeat="1">
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#thec_0010" id="thec_0010" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=0.000s" clip-end="npt=2.450s" id="qwrt_0001" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_0058" id="xthe_0058" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=2.450s" clip-end="npt=11.734s" id="qwrt_0002" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_0059" id="xthe_0059" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=11.734s" clip-end="npt=15.653s" id="qwrt_0003" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_005a" id="xthe_005a" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=15.653s" clip-end="npt=19.190s" id="qwrt_0004" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_005b" id="xthe_005b" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=19.190s" clip-end="npt=23.669s" id="qwrt_0005" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_005c" id="xthe_005c" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=23.669s" clip-end="npt=26.417s" id="qwrt_0006" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_005d" id="xthe_005d" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=26.417s" clip-end="npt=29.972s" id="qwrt_0007" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_005e" id="xthe_005e" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0051.mp3" clip-begin="npt=29.972s" clip-end="npt=31.564s" id="qwrt_0008" repeat="1" fill="remove" />
+            <audio src="thec0051.mp3" clip-begin="npt=31.564s" clip-end="npt=38.387s" id="qwrt_0009" repeat="1" fill="remove" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

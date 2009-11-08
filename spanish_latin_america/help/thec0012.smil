@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" []>
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.22" skip-content="true" />
+    <meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+    <meta name="title" content="Contactenos" skip-content="true" />
+    <meta name="dc:title" content="AMIS GUIA DEL USUARIO" skip-content="true" />
+    <meta name="ncc:timeInThisSmil" content="0:00:29" skip-content="true" />
+    <layout type="text/smil-basic-layout">
+        <region id="txtView" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+    </layout>
+</head>
+<body>
+<seq dur="28.815s" repeat="1">
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#thec_0013" id="thec_0013" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0054.mp3" clip-begin="npt=0.000s" clip-end="npt=1.936s" id="qwrt_0001" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_006b" id="xthe_006b" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0054.mp3" clip-begin="npt=1.936s" clip-end="npt=4.235s" id="qwrt_0002" repeat="1" fill="remove" />
+            <audio src="thec0054.mp3" clip-begin="npt=4.235s" clip-end="npt=8.441s" id="qwrt_0003" repeat="1" fill="remove" />
+            <audio src="thec0054.mp3" clip-begin="npt=8.441s" clip-end="npt=13.900s" id="qwrt_0004" repeat="1" fill="remove" />
+            <audio src="thec0054.mp3" clip-begin="npt=13.900s" clip-end="npt=16.172s" id="qwrt_0005" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_006c" id="xthe_006c" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0054.mp3" clip-begin="npt=16.172s" clip-end="npt=26.308s" id="qwrt_0006" repeat="1" fill="remove" />
+            <audio src="thec0054.mp3" clip-begin="npt=26.308s" clip-end="npt=28.815s" id="qwrt_0007" repeat="1" fill="remove" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

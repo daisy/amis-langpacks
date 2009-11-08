@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Atajos de teclado"/>
+		<meta name="dc:title" content="Atajos de teclado"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-spa"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t46">
+					<text src="amiskeys.html#t46"/>
+					<audio src="reproducir.mp3"/>
+				</par>
+					<par endsync="last" id="t79">
+						<text src="amiskeys.html#t79"/>
+						<audio src="alt + e.mp3"/>
+					</par>
+				<par endsync="last" id="t55">
+					<text src="amiskeys.html#t55"/>
+					<audio src="ignorar.mp3"/>
+				</par>
+					<par endsync="last" id="t57">
+						<text src="amiskeys.html#t57"/>
+						<audio src="escape.mp3"/>
+					</par>
+				<par endsync="last" id="t59">
+					<text src="amiskeys.html#t59"/>
+					<audio src="mas rapido.mp3"/>
+				</par>
+					<par endsync="last" id="t61">
+						<text src="amiskeys.html#t61"/>
+						<audio src="ctrl + +.mp3"/>
+					</par>
+				<par endsync="last" id="t63">
+					<text src="amiskeys.html#t63"/>
+					<audio src="mas lento.mp3"/>
+				</par>
+					<par endsync="last" id="t65">
+						<text src="amiskeys.html#t65"/>
+						<audio src="ctrl + -.mp3"/>
+					</par>
+				<par endsync="last" id="t67">
+					<text src="amiskeys.html#t67"/>
+					<audio src="velocidad normal.mp3"/>
+				</par>
+					<par endsync="last" id="t69">
+						<text src="amiskeys.html#t69"/>
+						<audio src="ctrl + v.mp3"/>
+					</par>
+				<par endsync="last" id="t71">
+					<text src="amiskeys.html#t71"/>
+					<audio src="subir el volumen.mp3"/>
+				</par>
+					<par endsync="last" id="t73">
+						<text src="amiskeys.html#t73"/>
+						<audio src="ctrl + up.mp3"/>
+					</par>
+				<par endsync="last" id="t75">
+					<text src="amiskeys.html#t75"/>
+					<audio src="bajar el volumen.mp3"/>
+				</par>
+					<par endsync="last" id="t77">
+						<text src="amiskeys.html#t77"/>
+						<audio src="ctrl + down.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>
