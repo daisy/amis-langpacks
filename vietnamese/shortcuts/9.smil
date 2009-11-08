@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Phím tắt"/>
+		<meta name="dc:title" content="Phím tắt"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-vie-VN"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t137">
+					<text src="amiskeys.html#t137"/>
+					<audio src="136_Tr_gip.mp3"/>
+				</par>
+					<par endsync="last" id="t144">
+						<text src="amiskeys.html#t144"/>
+						<audio src="143_AltH.mp3"/>
+					</par>
+				<par endsync="last" id="t138">
+					<text src="amiskeys.html#t138"/>
+					<audio src="137_Ni_dung.mp3"/>
+				</par>
+					<par endsync="last" id="t140">
+						<text src="amiskeys.html#t140"/>
+						<audio src="C.mp3"/>
+					</par>
+				<par endsync="last" id="t373">
+					<text src="amiskeys.html#t373"/>
+					<audio src="Keyboard shortcuts.mp3"/>
+				</par>
+					<par endsync="last" id="t375">
+						<text src="amiskeys.html#t375"/>
+						<audio src="K.mp3"/>
+					</par>
+				<par endsync="last" id="t141">
+					<text src="amiskeys.html#t141"/>
+					<audio src="About AMIS.mp3"/>
+				</par>
+					<par endsync="last" id="t143">
+						<text src="amiskeys.html#t143"/>
+						<audio src="a.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>
