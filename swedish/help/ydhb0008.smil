@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:34.568" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:05:21.388" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.10 Build 131 # 044FS2210088683" skip-content="true" />
+    <meta name="title" content="Opening a book" skip-content="true" />
+    <meta name="dc:title" content="Användarhandbok till AMIS" skip-content="true" />
+    <meta name="dc:identifier" content="Unknown" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="34.568s" repeat="1">
+			<par endsync="last" id="ited_0044" repeat="1">
+				<text src="amishelp.html#ited_0044" id="rivj_0001" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=321.388s" clip-end="npt=322.064s" id="audio_0001" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=322.064s" clip-end="npt=323.962s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0045" repeat="1">
+				<text src="amishelp.html#ited_0045" id="rivj_0002" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=323.962s" clip-end="npt=324.650s" id="audio_0003" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=324.650s" clip-end="npt=330.384s" id="audio_0004" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0046" repeat="1">
+				<text src="amishelp.html#ited_0046" id="rivj_0003" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=330.384s" clip-end="npt=333.901s" id="audio_0005" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0047" repeat="1">
+				<text src="amishelp.html#ited_0047" id="rivj_0004" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=333.901s" clip-end="npt=334.589s" id="audio_0006" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=334.589s" clip-end="npt=339.291s" id="audio_0007" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0048" repeat="1">
+				<text src="amishelp.html#ited_0048" id="rivj_0005" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=339.291s" clip-end="npt=339.879s" id="audio_0008" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=339.879s" clip-end="npt=343.131s" id="audio_0009" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0049" repeat="1">
+				<text src="amishelp.html#ited_0049" id="rivj_0006" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=343.131s" clip-end="npt=347.987s" id="audio_0010" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0050" repeat="1">
+				<text src="amishelp.html#ited_0050" id="rivj_0007" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=347.987s" clip-end="npt=348.513s" id="audio_0011" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=348.513s" clip-end="npt=351.644s" id="audio_0012" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0051" repeat="1">
+				<text src="amishelp.html#ited_0051" id="rivj_0008" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=351.644s" clip-end="npt=352.509s" id="audio_0013" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=352.509s" clip-end="npt=355.956s" id="audio_0014" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

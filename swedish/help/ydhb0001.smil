@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:17.636" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.10 Build 131 # 044FS2210088683" skip-content="true" />
+    <meta name="title" content="Anv?ndarhandbok f?r AMIS" skip-content="true" />
+    <meta name="dc:title" content="Användarhandbok till AMIS" skip-content="true" />
+    <meta name="dc:identifier" content="Unknown" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="17.636s" repeat="1">
+			<par endsync="last" id="ited_0001" repeat="1">
+				<text src="amishelp.html#ited_0001" id="yihr_0001" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=0.000s" clip-end="npt=1.881s" id="audio_0001" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=1.881s" clip-end="npt=4.232s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0002" repeat="1">
+				<text src="amishelp.html#ited_0002" id="yihr_0002" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=4.232s" clip-end="npt=4.885s" id="audio_0003" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=4.885s" clip-end="npt=10.540s" id="audio_0004" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=10.540s" clip-end="npt=17.636s" id="audio_0005" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:29.694" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:10:00.510" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.10 Build 131 # 044FS2210088683" skip-content="true" />
+    <meta name="title" content="Contact Us" skip-content="true" />
+    <meta name="dc:title" content="Användarhandbok till AMIS" skip-content="true" />
+    <meta name="dc:identifier" content="Unknown" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="29.694s" repeat="1">
+			<par endsync="last" id="ited_0118" repeat="1">
+				<text src="amishelp.html#ited_0118" id="ited_011a" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=600.510s" clip-end="npt=601.208s" id="audio_0001" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=601.208s" clip-end="npt=602.815s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0119" repeat="1">
+				<text src="amishelp.html#ited_0119" id="ited_011b" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=602.815s" clip-end="npt=608.888s" id="audio_0003" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=608.888s" clip-end="npt=614.100s" id="audio_0004" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=614.100s" clip-end="npt=616.699s" id="audio_0005" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=616.699s" clip-end="npt=626.286s" id="audio_0006" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=626.286s" clip-end="npt=630.204s" id="audio_0007" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
