@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2009-11-07_17:09:07"/>
+<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2009-11-27_12:14:21"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -950,14 +950,26 @@ Adaptive Multimedia Information System</text>
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t164">Version 3.0</text>
-                    <audio from="" src="./audio/aud110.mp3"/>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">Version:</text>
+                      <audio from="" src="./audio/version.mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t165">Publiceringsdatum: 5 maj 2009</text>
-                    <audio from="" src="./audio/aud111.mp3"/>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">Utgivningsdatum:</text>
+                      <audio from="" src="./audio/aud365.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
