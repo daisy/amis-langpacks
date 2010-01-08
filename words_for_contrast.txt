@@ -7,13 +7,14 @@ eng-AU    Australian English "Contrast"
 fra-FR    French             "contraste"
 ice-IS    Icelandic          "litasamsetning"
 spa-ES    Spanish, Castillian (Spain)  
-swe-SE    Swedish (Sweden)             
+spa       Spanish (Latin America) "contraste de color"
+swe-SE    Swedish (Sweden)  "kontrast"            
 ind-ID    Indonesian (Indonesia) 
 fil-PH    Filipino (Philipines) 
 may-MY    Malay (Malaysia)
 afr-ZA    Afrikaans    
-eng-GB    British English    
-fin-FI    Finnish (Finland)  
+eng-GB    British English    "Contrast"
+fin-FI    Finnish (Finland)  "kontrasti"
 nld-NL    Nederlands         
 nno-NO    Norwegian Nynorsk (Norway)  kontrast  
 nob-NO    Norwegian Bokmål (Norway)    kontrast

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2009-08-17_20:07:26"/>
+<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2010-01-07_16:37:11"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -949,20 +949,32 @@
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t164">Weergawe 3.0</text>
-                    <audio from="" src="./audio/aud167.mp3"/>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">Uitgawe:</text>
+                      <audio from="" src="./audio/aud366.mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t165">Vrystellings Datum: 5 Mei 2009</text>
-                    <audio from="" src="./audio/aud168.mp3"/>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">Vrystellings datum:</text>
+                      <audio from="" src="./audio/aud365.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t166">Copyright (c) 2009 DAISY Consortium</text>
-                    <audio from="" src="./audio/aud169.mp3"/>
+                    <text id="t166">Kopiereg (c) 2009 DAISY Konsortium</text>
+                    <audio from="" src="./audio/aud169.wav"/>
                 </caption>
             </control>
             <control mfcid="IDOK" widget="button">

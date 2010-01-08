@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2009-10-12_15:24:06"/>
+<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2010-01-07_16:44:27"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -949,14 +949,26 @@
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t164">Útgáfa 3.0</text>
-                    <audio from="" src="./audio/aud103.mp3"/>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">Útgáfa:</text>
+                      <audio from="" src="./audio/aud365.mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t165">Útgáfudagur: 5. maí 2009</text>
-                    <audio from="" src="./audio/Utgafudagur5mai2009.mp3"/>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">Útgáfudagsetning:</text>
+                      <audio from="" src="./audio/aud364.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
