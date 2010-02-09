@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:15.620" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:08:08.885" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.10 Build 131 # 044FS2210088683" skip-content="true" />
+    <meta name="title" content="Getting help with AMIS" skip-content="true" />
+    <meta name="dc:title" content="Användarhandbok till AMIS" skip-content="true" />
+    <meta name="dc:identifier" content="Unknown" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="15.620s" repeat="1">
+			<par endsync="last" id="ited_0090" repeat="1">
+				<text src="amishelp.html#ited_0090" id="wqmx_0001" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=488.885s" clip-end="npt=489.704s" id="audio_0001" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=489.704s" clip-end="npt=491.964s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0091" repeat="1">
+				<text src="amishelp.html#ited_0091" id="wqmx_0002" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=491.964s" clip-end="npt=495.896s" id="audio_0003" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0092" repeat="1">
+				<text src="amishelp.html#ited_0092" id="wqmx_0003" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=495.896s" clip-end="npt=499.452s" id="audio_0004" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0093" repeat="1">
+				<text src="amishelp.html#ited_0093" id="wqmx_0004" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=499.452s" clip-end="npt=499.971s" id="audio_0005" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=499.971s" clip-end="npt=504.505s" id="audio_0006" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

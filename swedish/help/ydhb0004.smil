@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:21.013" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:02:24.926" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.10 Build 131 # 044FS2210088683" skip-content="true" />
+    <meta name="title" content="Supported Formats" skip-content="true" />
+    <meta name="dc:title" content="Användarhandbok till AMIS" skip-content="true" />
+    <meta name="dc:identifier" content="Unknown" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="21.013s" repeat="1">
+			<par endsync="last" id="ited_0013" repeat="1">
+				<text src="amishelp.html#ited_0013" id="vvfn_0001" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=144.926s" clip-end="npt=145.881s" id="audio_0001" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=145.881s" clip-end="npt=147.709s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0014" repeat="1">
+				<text src="amishelp.html#ited_0014" id="vvfn_0002" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=147.709s" clip-end="npt=151.262s" id="audio_0003" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0015" repeat="1">
+				<text src="amishelp.html#ited_0015" id="vvfn_0003" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=151.262s" clip-end="npt=154.880s" id="audio_0004" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0016" repeat="1">
+				<text src="amishelp.html#ited_0016" id="vvfn_0004" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=154.880s" clip-end="npt=157.048s" id="audio_0005" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=157.048s" clip-end="npt=165.939s" id="audio_0006" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

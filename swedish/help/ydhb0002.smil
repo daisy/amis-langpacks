@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:44.114" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:00:17.636" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.10 Build 131 # 044FS2210088683" skip-content="true" />
+    <meta name="title" content="Vad ?r AMIS?" skip-content="true" />
+    <meta name="dc:title" content="Användarhandbok till AMIS" skip-content="true" />
+    <meta name="dc:identifier" content="Unknown" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="44.114s" repeat="1">
+			<par endsync="last" id="ited_0003" repeat="1">
+				<text src="amishelp.html#ited_0003" id="xudv_0001" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=17.636s" clip-end="npt=18.586s" id="audio_0001" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=18.586s" clip-end="npt=20.140s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0004" repeat="1">
+				<text src="amishelp.html#ited_0004" id="xudv_0002" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=20.140s" clip-end="npt=24.725s" id="audio_0003" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" id="ited_0005" repeat="1">
+				<text src="amishelp.html#ited_0005" id="xudv_0003" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="bwxy0019.mp3" clip-begin="npt=24.725s" clip-end="npt=29.100s" id="audio_0004" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=29.100s" clip-end="npt=36.898s" id="audio_0005" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=36.898s" clip-end="npt=42.122s" id="audio_0006" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=42.122s" clip-end="npt=45.727s" id="audio_0007" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=45.727s" clip-end="npt=51.879s" id="audio_0008" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=51.879s" clip-end="npt=55.928s" id="audio_0009" repeat="1" fill="remove" />
+					<audio src="bwxy0019.mp3" clip-begin="npt=55.928s" clip-end="npt=61.750s" id="audio_0010" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
