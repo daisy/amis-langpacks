@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Sneltoetsen"/>
+		<meta name="dc:title" content="Sneltoetsen"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-nld-NL"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t122">
+					<text src="amiskeys.html#t122"/>
+					<audio src="info.mp3"/>
+				</par>
+					<par endsync="last" id="t135">
+						<text src="amiskeys.html#t135"/>
+						<audio src=""/>
+					</par>
+				<par endsync="last" id="t123">
+					<text src="amiskeys.html#t123"/>
+					<audio src="Leesopties.mp3"/>
+				</par>
+					<par endsync="last" id="t125">
+						<text src="amiskeys.html#t125"/>
+						<audio src="l.mp3"/>
+					</par>
+				<par endsync="last" id="t343">
+					<text src="amiskeys.html#t343"/>
+					<audio src="Publicatie_gegevens.mp3"/>
+				</par>
+					<par endsync="last" id="t345">
+						<text src="amiskeys.html#t345"/>
+						<audio src="p.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>
