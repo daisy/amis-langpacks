@@ -14,39 +14,39 @@
 		<seq>
 				<par endsync="last" id="t1">
 					<text src="amiskeys.html#t1"/>
-					<audio src="224_Tiedosto.mp3"/>
+					<audio src="220_Tiedosto.mp3"/>
 				</par>
 					<par endsync="last" id="t24">
 						<text src="amiskeys.html#t24"/>
-						<audio src="304_Alt_F.mp3"/>
+						<audio src="300_Alt_F.mp3"/>
 					</par>
 				<par endsync="last" id="t2">
 					<text src="amiskeys.html#t2"/>
-					<audio src="225_Avaa___.mp3"/>
+					<audio src="221_Avaa___.mp3"/>
 				</par>
 					<par endsync="last" id="t4">
 						<text src="amiskeys.html#t4"/>
-						<audio src="308_Ctrl_O.mp3"/>
+						<audio src="304_Ctrl_O.mp3"/>
 					</par>
 				<par endsync="last" id="t327">
 					<text src="amiskeys.html#t327"/>
-					<audio src="222_Avaa_URL___.mp3"/>
+					<audio src="218_Avaa_URL___.mp3"/>
 				</par>
 					<par endsync="last" id="t329">
 						<text src="amiskeys.html#t329"/>
-						<audio src="307_Ctrl_U.mp3"/>
+						<audio src="303_Ctrl_U.mp3"/>
 					</par>
 				<par endsync="last" id="t331">
 					<text src="amiskeys.html#t331"/>
-					<audio src="220_Sulje.mp3"/>
+					<audio src="216_Sulje.mp3"/>
 				</par>
 					<par endsync="last" id="t333">
 						<text src="amiskeys.html#t333"/>
-						<audio src="313_C.mp3"/>
+						<audio src="309_C.mp3"/>
 					</par>
 				<par endsync="last" id="t6">
 					<text src="amiskeys.html#t6"/>
-					<audio src="218_Lataa_CD.mp3"/>
+					<audio src="214_Lataa_CD.mp3"/>
 				</par>
 					<par endsync="last" id="t8">
 						<text src="amiskeys.html#t8"/>
@@ -54,31 +54,31 @@
 					</par>
 				<par endsync="last" id="t10">
 					<text src="amiskeys.html#t10"/>
-					<audio src="216_Etsi_levyas.mp3"/>
+					<audio src="212_Etsi_levyas.mp3"/>
 				</par>
 					<par endsync="last" id="t12">
 						<text src="amiskeys.html#t12"/>
-						<audio src="329_S.mp3"/>
+						<audio src="325_S.mp3"/>
 					</par>
 				<par endsync="last" id="t13">
 					<text src="amiskeys.html#t13"/>
-					<audio src="214_Asetukset__.mp3"/>
+					<audio src="210_Asetukset__.mp3"/>
 				</par>
 					<par endsync="last" id="t15">
 						<text src="amiskeys.html#t15"/>
-						<audio src="326_P.mp3"/>
+						<audio src="322_P.mp3"/>
 					</par>
 				<par endsync="last" id="t16">
 					<text src="amiskeys.html#t16"/>
-					<audio src="212_Viimeisimm_.mp3"/>
+					<audio src="208_Viimeisimm_.mp3"/>
 				</par>
 					<par endsync="last" id="t19">
 						<text src="amiskeys.html#t19"/>
-						<audio src="328_R.mp3"/>
+						<audio src="324_R.mp3"/>
 					</par>
 				<par endsync="last" id="t20">
 					<text src="amiskeys.html#t20"/>
-					<audio src="209_Poistu.mp3"/>
+					<audio src="205_Poistu.mp3"/>
 				</par>
 					<par endsync="last" id="t22">
 						<text src="amiskeys.html#t22"/>

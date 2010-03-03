@@ -14,83 +14,83 @@
 		<seq>
 				<par endsync="last" id="t81">
 					<text src="amiskeys.html#t81"/>
-					<audio src="147_Selaa.mp3"/>
+					<audio src="143_Selaa.mp3"/>
 				</par>
 					<par endsync="last" id="t113">
 						<text src="amiskeys.html#t113"/>
-						<audio src="272_Alt_N.mp3"/>
+						<audio src="268_Alt_N.mp3"/>
 					</par>
 				<par endsync="last" id="t82">
 					<text src="amiskeys.html#t82"/>
-					<audio src="146_Edellinen_l.mp3"/>
+					<audio src="142_Edellinen_l.mp3"/>
 				</par>
 					<par endsync="last" id="t84">
 						<text src="amiskeys.html#t84"/>
-						<audio src="280_nuoli_yl_s.mp3"/>
+						<audio src="276_nuoli_yl_s.mp3"/>
 					</par>
 				<par endsync="last" id="t86">
 					<text src="amiskeys.html#t86"/>
-					<audio src="144_Seuraava_lu.mp3"/>
+					<audio src="140_Seuraava_lu.mp3"/>
 				</par>
 					<par endsync="last" id="t88">
 						<text src="amiskeys.html#t88"/>
-						<audio src="279_nuoli_alas.mp3"/>
+						<audio src="275_nuoli_alas.mp3"/>
 					</par>
 				<par endsync="last" id="t90">
 					<text src="amiskeys.html#t90"/>
-					<audio src="142_Ilmoita_luk.mp3"/>
+					<audio src="138_Ilmoita_luk.mp3"/>
 				</par>
 					<par endsync="last" id="t93">
 						<text src="amiskeys.html#t93"/>
-						<audio src="329_S.mp3"/>
+						<audio src="325_S.mp3"/>
 					</par>
 				<par endsync="last" id="t94">
 					<text src="amiskeys.html#t94"/>
-					<audio src="139_Edellinen_v.mp3"/>
+					<audio src="135_Edellinen_v.mp3"/>
 				</par>
 					<par endsync="last" id="t96">
 						<text src="amiskeys.html#t96"/>
-						<audio src="278_nuoli_vasem.mp3"/>
+						<audio src="274_nuoli_vasem.mp3"/>
 					</par>
 				<par endsync="last" id="t97">
 					<text src="amiskeys.html#t97"/>
-					<audio src="137_Seuraava_vi.mp3"/>
+					<audio src="133_Seuraava_vi.mp3"/>
 				</par>
 					<par endsync="last" id="t99">
 						<text src="amiskeys.html#t99"/>
-						<audio src="277_nuoli_oikea.mp3"/>
+						<audio src="273_nuoli_oikea.mp3"/>
 					</par>
 				<par endsync="last" id="t100">
 					<text src="amiskeys.html#t100"/>
-					<audio src="135_Edellinen_s.mp3"/>
+					<audio src="131_Edellinen_s.mp3"/>
 				</par>
 					<par endsync="last" id="t102">
 						<text src="amiskeys.html#t102"/>
-						<audio src="276_Ctrl_nuoli_.mp3"/>
+						<audio src="272_Ctrl_nuoli_.mp3"/>
 					</par>
 				<par endsync="last" id="t103">
 					<text src="amiskeys.html#t103"/>
-					<audio src="133_Seuraava_si.mp3"/>
+					<audio src="129_Seuraava_si.mp3"/>
 				</par>
 					<par endsync="last" id="t105">
 						<text src="amiskeys.html#t105"/>
-						<audio src="275_Ctrl_nuoli_.mp3"/>
+						<audio src="271_Ctrl_nuoli_.mp3"/>
 					</par>
 				<par endsync="last" id="t106">
 					<text src="amiskeys.html#t106"/>
-					<audio src="131_Siirry_sivu.mp3"/>
+					<audio src="127_Siirry_sivu.mp3"/>
 				</par>
 					<par endsync="last" id="t108">
 						<text src="amiskeys.html#t108"/>
-						<audio src="274_Ctrl_G.mp3"/>
+						<audio src="270_Ctrl_G.mp3"/>
 					</par>
 				<par endsync="last" id="t109">
 					<text src="amiskeys.html#t109"/>
-					<audio src="129_Etsi_teksti.mp3"/>
+					<audio src="125_Etsi_teksti.mp3"/>
 				</par>
 					<par endsync="last" id="t111">
 						<text src="amiskeys.html#t111"/>
-						<audio src="273_Ctrl_F.mp3"/>
+						<audio src="269_Ctrl_F.mp3"/>
 					</par>
 		</seq>
 	</body>

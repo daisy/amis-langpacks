@@ -14,27 +14,27 @@
 		<seq>
 				<par endsync="last" id="t122">
 					<text src="amiskeys.html#t122"/>
-					<audio src="124_Info.mp3"/>
+					<audio src="120_Info.mp3"/>
 				</par>
 					<par endsync="last" id="t135">
 						<text src="amiskeys.html#t135"/>
-						<audio src="269_Alt_I.mp3"/>
+						<audio src="265_Alt_I.mp3"/>
 					</par>
 				<par endsync="last" id="t123">
 					<text src="amiskeys.html#t123"/>
-					<audio src="123_Ohitettavis.mp3"/>
+					<audio src="119_Ohitettavis.mp3"/>
 				</par>
 					<par endsync="last" id="t125">
 						<text src="amiskeys.html#t125"/>
-						<audio src="329_S.mp3"/>
+						<audio src="325_S.mp3"/>
 					</par>
 				<par endsync="last" id="t343">
 					<text src="amiskeys.html#t343"/>
-					<audio src="121_Julkaisun_y.mp3"/>
+					<audio src="117_Julkaisun_y.mp3"/>
 				</par>
 					<par endsync="last" id="t345">
 						<text src="amiskeys.html#t345"/>
-						<audio src="326_P.mp3"/>
+						<audio src="322_P.mp3"/>
 					</par>
 		</seq>
 	</body>

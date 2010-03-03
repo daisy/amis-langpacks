@@ -14,19 +14,19 @@
 		<seq>
 				<par endsync="last" id="t115">
 					<text src="amiskeys.html#t115"/>
-					<audio src="127_Kirjanmerki.mp3"/>
+					<audio src="123_Kirjanmerki.mp3"/>
 				</par>
 					<par endsync="last" id="t120">
 						<text src="amiskeys.html#t120"/>
-						<audio src="270_Alt_B.mp3"/>
+						<audio src="266_Alt_B.mp3"/>
 					</par>
 				<par endsync="last" id="t116">
 					<text src="amiskeys.html#t116"/>
-					<audio src="126_Lis___kirja.mp3"/>
+					<audio src="122_Lis___kirja.mp3"/>
 				</par>
 					<par endsync="last" id="t118">
 						<text src="amiskeys.html#t118"/>
-						<audio src="271_Ctrl_D.mp3"/>
+						<audio src="267_Ctrl_D.mp3"/>
 					</par>
 		</seq>
 	</body>

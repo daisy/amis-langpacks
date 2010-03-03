@@ -14,7 +14,7 @@
 		<seq>
 				<par endsync="last" id="t46">
 					<text src="amiskeys.html#t46"/>
-					<audio src="163_kuuntelu.mp3"/>
+					<audio src="159_kuuntelu.mp3"/>
 				</par>
 					<par endsync="last" id="t79">
 						<text src="amiskeys.html#t79"/>
@@ -22,51 +22,51 @@
 					</par>
 				<par endsync="last" id="t55">
 					<text src="amiskeys.html#t55"/>
-					<audio src="159_Poistu.mp3"/>
+					<audio src="155_Poistu.mp3"/>
 				</par>
 					<par endsync="last" id="t57">
 						<text src="amiskeys.html#t57"/>
-						<audio src="286_Esc.mp3"/>
+						<audio src="282_Esc.mp3"/>
 					</par>
 				<par endsync="last" id="t59">
 					<text src="amiskeys.html#t59"/>
-					<audio src="157_Nopeammin.mp3"/>
+					<audio src="153_Nopeammin.mp3"/>
 				</par>
 					<par endsync="last" id="t61">
 						<text src="amiskeys.html#t61"/>
-						<audio src="285_Ctrl__.mp3"/>
+						<audio src="281_Ctrl__.mp3"/>
 					</par>
 				<par endsync="last" id="t63">
 					<text src="amiskeys.html#t63"/>
-					<audio src="155_Hitaammin.mp3"/>
+					<audio src="151_Hitaammin.mp3"/>
 				</par>
 					<par endsync="last" id="t65">
 						<text src="amiskeys.html#t65"/>
-						<audio src="284_Ctrl_-.mp3"/>
+						<audio src="280_Ctrl_-.mp3"/>
 					</par>
 				<par endsync="last" id="t67">
 					<text src="amiskeys.html#t67"/>
-					<audio src="153_Normaali_no.mp3"/>
+					<audio src="149_Normaali_no.mp3"/>
 				</par>
 					<par endsync="last" id="t69">
 						<text src="amiskeys.html#t69"/>
-						<audio src="283_Ctrl_0.mp3"/>
+						<audio src="279_Ctrl_0.mp3"/>
 					</par>
 				<par endsync="last" id="t71">
 					<text src="amiskeys.html#t71"/>
-					<audio src="150_Lis_____nen.mp3"/>
+					<audio src="146_Lis_____nen.mp3"/>
 				</par>
 					<par endsync="last" id="t73">
 						<text src="amiskeys.html#t73"/>
-						<audio src="282_Ctrl_nuoli_.mp3"/>
+						<audio src="278_Ctrl_nuoli_.mp3"/>
 					</par>
 				<par endsync="last" id="t75">
 					<text src="amiskeys.html#t75"/>
-					<audio src="149_V_henn____n.mp3"/>
+					<audio src="145_V_henn____n.mp3"/>
 				</par>
 					<par endsync="last" id="t77">
 						<text src="amiskeys.html#t77"/>
-						<audio src="281_Ctrl_nuoli_.mp3"/>
+						<audio src="277_Ctrl_nuoli_.mp3"/>
 					</par>
 		</seq>
 	</body>
