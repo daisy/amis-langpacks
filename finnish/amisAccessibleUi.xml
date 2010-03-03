@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<ui next-id="t449" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2009-11-07_17:56:01"/>
+<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2010-02-06_18:32:32"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -266,7 +266,7 @@
                     <audio from="" src="./audio/169_pienempi_ki.mp3"/>
                 </caption>
                 <description>
-                    <text id="t338">Muuta kirjasimen kokoa asteittan</text>
+                    <text id="t338">Muuta kirjasimen kokoa asteittain</text>
                     <audio from="" src="./audio/167_Muuta_kirja.mp3"/>
                 </description>
                 <mnemonic>
@@ -310,7 +310,7 @@
         <container id="play">
             <note>This is the menu header &quot;Play&quot;</note>
             <caption>
-                <text id="t46">kuuntelu</text>
+                <text id="t46">Kuuntelu</text>
                 <audio from="" src="./audio/163_kuuntelu.mp3"/>
             </caption>
             <switch element="action">
@@ -319,7 +319,7 @@
                     <icon src="./settings/img/play-big.ico" type="smallIcon"/>
                     <icon src="./settings/img/play_big.ico" type="largeIcon"/>
                     <caption>
-                        <text id="t47">kuuntelu</text>
+                        <text id="t47">Kuuntelu</text>
                         <audio from="" src="./audio/164_kuuntelu.mp3"/>
                     </caption>
                     <description>
@@ -344,7 +344,7 @@
                         <audio from="" src="./audio/161_Tauko.mp3"/>
                     </caption>
                     <description>
-                        <text id="t52">Aloita tai keskeytä DAISY-kirjan toisto.</text>
+                        <text id="t52">Aloita tai keskeytä DAISY-kirjan kuuntelu.</text>
                         <audio from="" src="./audio/160_Aloita_tai_.mp3"/>
                     </description>
                     <accelerator keys="Space">
@@ -534,7 +534,7 @@
             <container id="sectiondepth">
                 <note>This is the &quot;show section depth&quot; sub-menu pop-up</note>
                 <caption>
-                    <text id="t90">ILMOITA lukutaso</text>
+                    <text id="t90">Ilmoita lukutaso</text>
                     <audio from="" src="./audio/142_Ilmoita_luk.mp3"/>
                 </caption>
                 <switch element="action">
@@ -780,7 +780,7 @@
             </action>
             <action mfcid="ID_AMIS_SHOW_KEYBOARD_SHORTCUTS" widget="menuItem">
                 <caption>
-                    <text id="t373">näppäinkomennot</text>
+                    <text id="t373">Näppäinkomennot</text>
                     <audio from="" src="./audio/116_N_pp_inkome.mp3"/>
                 </caption>
                 <description>
@@ -950,14 +950,26 @@ Adaptive Multimedia Information System (mukautettava multimedia tietojärjestelm
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t164">Versio 3.0</text>
-                    <audio from="" src="./audio/098_Version_3_0.mp3"/>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">Versio:</text>
+                      <audio from="" src="./audio/267_Versio_.mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t165">Julkaisupäivä: 5.5. 2009</text>
-                    <audio from="" src="./audio/097_Julkaisup_i.mp3"/>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">Julkaisupäivämäärä</text>
+                      <audio from="" src="./audio/266_Julkaisup_i.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
@@ -1312,7 +1324,7 @@ Adaptive Multimedia Information System (mukautettava multimedia tietojärjestelm
         <dialog mfcid="IDD_GOTOPAGE">
             <note>This dialog lets the user jump to a certain page</note>
             <caption>
-                <text id="t231">Mene sivulle</text>
+                <text id="t231">Siirry sivulle</text>
                 <audio from="" src="./audio/063_Mene_sivull.mp3"/>
             </caption>
             <description mfcid="IDC_GOTOPAGE_CAPTION">
@@ -1497,7 +1509,7 @@ Adaptive Multimedia Information System (mukautettava multimedia tietojärjestelm
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
                             <promptItem>
-                                <text id="t216">sivumäärä:</text>
+                                <text id="t216">Sivumäärä:</text>
                                 <audio from="" src="./audio/041_sivum__r__.mp3"/>
                             </promptItem>
                         </prompt>
@@ -1534,7 +1546,7 @@ Adaptive Multimedia Information System (mukautettava multimedia tietojärjestelm
         <dialog mfcid="IDD_TEXTSTYLE">
             <note>This dialog lets the user set text style properties.</note>
             <caption>
-                <text id="t358">tyylitiedosto.</text>
+                <text id="t358">Tekstin asetukset</text>
                 <audio from="" src="./audio/038_tyylitiedos.mp3"/>
             </caption>
             <description>
@@ -1810,11 +1822,11 @@ Adaptive Multimedia Information System (mukautettava multimedia tietojärjestelm
                 <audio from="" src="./audio/299_9.mp3"/>
             </promptItem>
             <promptItem id="will_be_skipped">
-                <text id="t300">ohitetaan</text>
+                <text id="t300">Ohitetaan</text>
                 <audio from="" src="./audio/226_ohitetaan.mp3"/>
             </promptItem>
             <promptItem id="will_be_played">
-                <text id="t301">toistetaan</text>
+                <text id="t301">Toistetaan</text>
                 <audio from="" src="./audio/227_toistetaan.mp3"/>
             </promptItem>
             <promptItem id="item_selected">
@@ -1929,13 +1941,13 @@ Adaptive Multimedia Information System (mukautettava multimedia tietojärjestelm
             </prompt>
             <prompt id="sidebarHasFocus">
                 <promptItem>
-                    <text id="t377">selausikkuna aktiivinen</text>
+                    <text id="t377">Selausikkuna aktiivinen</text>
                     <audio from="" src="./audio/247_selausikkun.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="textWindowHasFocus">
                 <promptItem>
-                    <text id="t378">teksti-ikkuna aktiivinen</text>
+                    <text id="t378">Teksti-ikkuna aktiivinen</text>
                     <audio from="" src="./audio/248_teksti-ikku.mp3"/>
                 </promptItem>
             </prompt>
