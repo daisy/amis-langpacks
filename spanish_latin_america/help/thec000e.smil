@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" []>
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.22" skip-content="true" />
+    <meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+    <meta name="title" content="Obtener ayuda con AMIS" skip-content="true" />
+    <meta name="dc:title" content="AMIS GUIA DEL USUARIO" skip-content="true" />
+    <meta name="ncc:timeInThisSmil" content="0:00:14" skip-content="true" />
+    <layout type="text/smil-basic-layout">
+        <region id="txtView" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+    </layout>
+</head>
+<body>
+<seq dur="13.776s" repeat="1">
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#thec_000f" id="thec_000f" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0050.mp3" clip-begin="npt=0.000s" clip-end="npt=2.623s" id="qwrt_0001" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_0055" id="xthe_0055" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0050.mp3" clip-begin="npt=2.623s" clip-end="npt=5.962s" id="qwrt_0002" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_0056" id="xthe_0056" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0050.mp3" clip-begin="npt=5.962s" clip-end="npt=9.260s" id="qwrt_0003" repeat="1" fill="remove" />
+        </seq>
+    </par>
+    <par endsync="last" repeat="1">
+        <text src="amis_guia_del_usuario.html#xthe_0057" id="xthe_0057" repeat="1" fill="remove" />
+        <seq repeat="1">
+            <audio src="thec0050.mp3" clip-begin="npt=9.260s" clip-end="npt=13.776s" id="qwrt_0004" repeat="1" fill="remove" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

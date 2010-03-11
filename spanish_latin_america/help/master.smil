@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="SigtunaDAR3 3.0.22" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="dc:title" content="AMIS GUIA DEL USUARIO" />
+<meta name="ncc:timeInThisSmil" content="00:11:10" />
+<meta name="dc:identifier" content="LIBRO GUIA DEL SUARIO" />
+<layout>
+<region id="txtView" />
+</layout>
+</head>
+<body>
+<ref title="AMIS Guia del Usuario" src="thec0001.smil" id="thec_0001" />
+<ref title="QUE ES AMIS?" src="thec0002.smil" id="thec_0003" />
+<ref title="QUE ES DAISY?" src="thec0003.smil" id="thec_0004" />
+<ref title="Formatos Soportados" src="thec0004.smil" id="thec_0005" />
+<ref title="Requisitos del Sistema" src="thec0005.smil" id="thec_0006" />
+<ref title="Disposicion de la Pantalla." src="thec0006.smil" id="thec_0007" />
+<ref title="Caracteristicas" src="thec0007.smil" id="thec_0008" />
+<ref title="Abriendo un libro" src="thec0008.smil" id="thec_0009" />
+<ref title="Control de reproduccion" src="thec0009.smil" id="thec_000a" />
+<ref title="Navegacion" src="thec000a.smil" id="thec_000b" />
+<ref title="Usando la ventana de navegacion" src="thec000b.smil" id="thec_000c" />
+<ref title="Configuracion de marcas" src="thec000c.smil" id="thec_000d" />
+<ref title="Obtencion de informacion sobre la publicacion" src="thec000d.smil" id="thec_000e" />
+<ref title="Obtener ayuda con AMIS" src="thec000e.smil" id="thec_000f" />
+<ref title="Cambiando la apariencia" src="thec000f.smil" id="thec_0010" />
+<ref title="Configuracion de las preferencias" src="thec0010.smil" id="thec_0011" />
+<ref title="Configuracion de estilo de texto" src="thec0011.smil" id="thec_0012" />
+<ref title="Contactenos" src="thec0012.smil" id="thec_0013" />
+</body>
+</smil>

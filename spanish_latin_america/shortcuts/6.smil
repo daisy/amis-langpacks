@@ -50,7 +50,7 @@
 				</par>
 					<par endsync="last" id="t96">
 						<text src="amiskeys.html#t96"/>
-						<audio src="izquierda.mp3"/>
+						<audio src="flecha izquierda.mp3"/>
 					</par>
 				<par endsync="last" id="t97">
 					<text src="amiskeys.html#t97"/>
@@ -58,7 +58,7 @@
 				</par>
 					<par endsync="last" id="t99">
 						<text src="amiskeys.html#t99"/>
-						<audio src="derecha.mp3"/>
+						<audio src="flecha derecha.mp3"/>
 					</par>
 				<par endsync="last" id="t100">
 					<text src="amiskeys.html#t100"/>

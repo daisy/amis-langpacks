@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
-<ui next-id="t447" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2009-11-30_16:42:52"/>
+<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2010-03-10_17:49:04"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -164,11 +164,11 @@
                 </accelerator>
                 <mnemonic>
                     <text id="t23">S</text>
-                    <audio from="" src="./audio/S.mp3"/>
+                    <audio from="" src="./audio/s.mp3"/>
                 </mnemonic>
             </action>
             <accelerator keys="Alt+F">
-                <text id="t24">Alt+F</text>
+                <text id="t24">Alt+A</text>
                 <audio from="" src="./audio/alt + a.mp3"/>
             </accelerator>
             <mnemonic>
@@ -251,7 +251,7 @@
                 </caption>
                 <description>
                     <text id="t39">Aumentar poco a poco el tamaño de la fuente</text>
-                    <audio from="" src="./audio/aumentar poco a poco el tamaño de la fuente.mp3"/>
+                    <audio from="" src="./audio/aumentar poco a poco el tamano de la fuente.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t40">G</text>
@@ -263,11 +263,11 @@
                 <icon src="./settings/img/font.ico" type="smallIcon"/>
                 <caption>
                     <text id="t337">Fuente más pequeña</text>
-                    <audio from="" src="./audio/fuente mas pequeña.mp3"/>
+                    <audio from="" src="./audio/fuente mas pequena.mp3"/>
                 </caption>
                 <description>
                     <text id="t338">Disminuir poco a poco el tamaño de la fuente.</text>
-                    <audio from="" src="./audio/disminuir poco a poco el tamaño de la fuente.mp3"/>
+                    <audio from="" src="./audio/disminuir poco a poco el tamano de la fuente.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t339">P</text>
@@ -448,11 +448,11 @@
                 </description>
                 <accelerator keys="Ctrl+Up">
                     <text id="t73">Ctrl+Up</text>
-                    <audio from="" src="./audio/ctrl + up.mp3"/>
+                    <audio from="" src="./audio/ctrl + flecha arriba.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t74">S</text>
-                    <audio from="" src="./audio/S.mp3"/>
+                    <audio from="" src="./audio/s.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_DECREASE_VOLUME" widget="menuItem">
@@ -467,7 +467,7 @@
                 </description>
                 <accelerator keys="Ctrl+Down">
                     <text id="t77">Ctrl+Down</text>
-                    <audio from="" src="./audio/ctrl + down.mp3"/>
+                    <audio from="" src="./audio/ctrl + flecha abajo.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t78">B</text>
@@ -475,7 +475,7 @@
                 </mnemonic>
             </action>
             <accelerator keys="Alt+P">
-                <text id="t79">Alt+P</text>
+                <text id="t79">Alt+E</text>
                 <audio from="" src="./audio/alt + e.mp3"/>
             </accelerator>
             <mnemonic>
@@ -507,7 +507,7 @@
                 </accelerator>
                 <mnemonic>
                     <text id="t85">S</text>
-                    <audio from="" src="./audio/S.mp3"/>
+                    <audio from="" src="./audio/s.mp3"/>
                 </mnemonic>
             </action>
             <action mfcid="ID_AMIS_NEXT_SECTION" widget="menuItem toolbarItem">
@@ -576,7 +576,7 @@
                 </description>
                 <accelerator keys="Left">
                     <text id="t96">Left</text>
-                    <audio from="" src="./audio/izquierda.mp3"/>
+                    <audio from="" src="./audio/flecha izquierda.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_NEXT_PHRASE" widget="menuItem toolbarItem">
@@ -592,7 +592,7 @@
                 </description>
                 <accelerator keys="Right">
                     <text id="t99">Right</text>
-                    <audio from="" src="./audio/derecha.mp3"/>
+                    <audio from="" src="./audio/flecha derecha.mp3"/>
                 </accelerator>
             </action>
             <action mfcid="ID_AMIS_PREVIOUS_PAGE" widget="menuItem toolbarItem">
@@ -705,7 +705,7 @@
                 </list>
             </action>
             <accelerator keys="Alt+B">
-                <text id="t120">Alt+B</text>
+                <text id="t120">Alt+M</text>
                 <audio from="" src="./audio/alt + m.mp3"/>
             </accelerator>
             <mnemonic>
@@ -750,7 +750,7 @@
                 </mnemonic>
             </action>
             <accelerator keys="Alt+I">
-                <text id="t135">Alt+I</text>
+                <text id="t135">Alt+F</text>
                 <audio from="" src="./audio/alt + f.mp3"/>
             </accelerator>
             <mnemonic>
@@ -808,7 +808,7 @@
                 </mnemonic>
             </action>
             <accelerator keys="Alt+H">
-                <text id="t144">Alt+H</text>
+                <text id="t144">Alt+Y</text>
                 <audio from="" src="./audio/alt + y.mp3"/>
             </accelerator>
             <mnemonic>
@@ -950,14 +950,26 @@ Adaptive Multimedia Information System</text>
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t164">Versión 3.0</text>
-                    <audio from="" src="./audio/version 3.0.mp3"/>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">Versión:</text>
+                      <audio from="" src="./audio/version .mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
                 <caption>
-                    <text id="t165">Fecha de emisión: Mayo 5 de 2009</text>
-                    <audio from="" src="./audio/fecha de emision mayo 5 de 2009.mp3"/>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">Fecha de emisión:</text>
+                      <audio from="" src="./audio/fecha de emision.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
                 </caption>
             </control>
             <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
@@ -1470,7 +1482,7 @@ Adaptive Multimedia Information System</text>
                         <prompt>
                             <promptItem>
                                 <text id="t356">Página Actual:</text>
-                                <audio from="" src="./audio/página actual.mp3"/>
+                                <audio from="" src="./audio/pagina actual.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_PAGE"/>
                         </prompt>
@@ -1709,7 +1721,7 @@ Adaptive Multimedia Information System</text>
             </promptItem>
             <promptItem id="nav_window">
                 <text id="t272">Navegación</text>
-                <audio from="" src="./audio/navegación.mp3"/>
+                <audio from="" src="./audio/navegacion.mp3"/>
             </promptItem>
             <promptItem id="sections">
                 <text id="t273">Secciones</text>

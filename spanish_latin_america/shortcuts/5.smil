@@ -58,7 +58,7 @@
 				</par>
 					<par endsync="last" id="t73">
 						<text src="amiskeys.html#t73"/>
-						<audio src="ctrl + up.mp3"/>
+						<audio src="ctrl + flecha arriba.mp3"/>
 					</par>
 				<par endsync="last" id="t75">
 					<text src="amiskeys.html#t75"/>
@@ -66,7 +66,7 @@
 				</par>
 					<par endsync="last" id="t77">
 						<text src="amiskeys.html#t77"/>
-						<audio src="ctrl + down.mp3"/>
+						<audio src="ctrl + flecha abajo.mp3"/>
 					</par>
 		</seq>
 	</body>
