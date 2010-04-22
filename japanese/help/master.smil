@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+    <head>
+        <meta name="ncc:generator" content="EasePublisher 2.12 Build 154 # 044FS2212178114"/>
+        <meta name="dc:format" content="Daisy 2.02"/>
+        <meta name="dc:title" content="AMISユーザーガイド"/>
+        <meta name="dc:identifier" content="81353847207-00016"/>
+        <meta name="ncc:timeInThisSmil" content="00:15:13.276"/>
+        <layout>
+            <region id="txtView"/>
+        </layout>
+    </head>
+    <body>
+        <ref title="AMIS ユーザーガイド" src="ervt0001.smil#wgyq_0002" id="smil_0001"/>
+        <ref title="AMISについて" src="ervt0002.smil#wgyq_0003" id="smil_0002"/>
+        <ref title="DAISYについて" src="ervt0003.smil#wgyq_0004" id="smil_0003"/>
+        <ref title="サポートされているDAISY規格" src="ervt0004.smil#yxel_0001" id="smil_0004"/>
+        <ref title="システム要件" src="ervt0005.smil#wgyq_0006" id="smil_0005"/>
+        <ref title="画面レイアウト" src="ervt0006.smil#wgyq_0007" id="smil_0006"/>
+        <ref title="機能" src="ervt0007.smil#wgyq_0008" id="smil_0007"/>
+        <ref title="DAISY図書を開く" src="ervt0008.smil#wgyq_0009" id="smil_0008"/>
+        <ref title="再生をコントロールする" src="ervt0009.smil#wgyq_000a" id="smil_0009"/>
+        <ref title="移動する" src="ervt0010.smil#wgyq_0011" id="smil_0010"/>
+        <ref title="ナビゲーションウィンドウを使用する" src="ervt0011.smil#yrmt_0001" id="smil_0011"/>
+        <ref title="ブックマークを設定する" src="ervt0012.smil#wgyq_0013" id="smil_0012"/>
+        <ref title="書誌情報を表示する" src="ervt0013.smil#wgyq_0014" id="smil_0013"/>
+        <ref title="AMISのヘルプ" src="ervt0014.smil#wgyq_0015" id="smil_0014"/>
+        <ref title="表示の変更" src="ervt0015.smil#wgyq_0016" id="smil_0015"/>
+        <ref title="環境設定" src="ervt0016.smil#wgyq_0017" id="smil_0016"/>
+        <ref title="テキストスタイルの設定" src="ervt0017.smil#wgyq_0018" id="smil_0017"/>
+        <ref title="ＡＭＩＳの詳細" src="ervt0018.smil#wgyq_0019" id="smil_0018"/>
+    </body>
+</smil>

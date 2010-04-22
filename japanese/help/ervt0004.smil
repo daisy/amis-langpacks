@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:24.708" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:03:26.732" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 154 # 044FS2212178114" skip-content="true" />
+    <meta name="title" content="サポートされているDAISY規格" skip-content="true" />
+    <meta name="dc:title" content="AMISユーザーガイド" skip-content="true" />
+    <meta name="dc:identifier" content="81353847207-00016" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="24.708s" repeat="1">
+			<par endsync="last" id="wgyq_0004" repeat="1">
+				<text src="amishelp.html#dol_1_4_wgyq_0004" id="yxel_0001" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003d.mp3" clip-begin="npt=0.000s" clip-end="npt=4.319s" id="audio_0001" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_4_xhxl_0010" id="yxel_0002" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003d.mp3" clip-begin="npt=4.319s" clip-end="npt=9.658s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_4_xhxl_0011" id="yxel_0003" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003d.mp3" clip-begin="npt=9.658s" clip-end="npt=13.378s" id="audio_0003" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_4_xhxl_0012" id="yxel_0004" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003d.mp3" clip-begin="npt=13.378s" clip-end="npt=24.708s" id="audio_0004" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

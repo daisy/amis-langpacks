@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:24.229" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:11:51.712" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 154 # 044FS2212178114" skip-content="true" />
+    <meta name="title" content="AMISのヘルプ" skip-content="true" />
+    <meta name="dc:title" content="AMISユーザーガイド" skip-content="true" />
+    <meta name="dc:identifier" content="81353847207-00016" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="24.229s" repeat="1">
+			<par endsync="last" id="wgyq_0014" repeat="1">
+				<text src="amishelp.html#dol_1_14_wgyq_0014" id="wgyq_0015" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0024.mp3" clip-begin="npt=0.000s" clip-end="npt=3.359s" id="audio_0001" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_14_xhxl_0057" id="wgyq_0016" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0024.mp3" clip-begin="npt=3.359s" clip-end="npt=8.999s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_14_xhxl_0058" id="wgyq_0017" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0024.mp3" clip-begin="npt=8.999s" clip-end="npt=17.339s" id="audio_0003" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_14_xhxl_0059" id="wgyq_0018" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0024.mp3" clip-begin="npt=17.339s" clip-end="npt=24.229s" id="audio_0004" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

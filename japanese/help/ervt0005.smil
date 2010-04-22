@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:42.054" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:03:51.440" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 154 # 044FS2212178114" skip-content="true" />
+    <meta name="title" content="システム要件" skip-content="true" />
+    <meta name="dc:title" content="AMISユーザーガイド" skip-content="true" />
+    <meta name="dc:identifier" content="81353847207-00016" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="42.054s" repeat="1">
+			<par endsync="last" id="wgyq_0005" repeat="1">
+				<text src="amishelp.html#dol_1_5_wgyq_0005" id="wgyq_0006" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=0.000s" clip-end="npt=2.248s" id="audio_0001" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_5_xhxl_0013" id="wgyq_0007" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=2.248s" clip-end="npt=6.688s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_5_xhxl_0014" id="wgyq_0008" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=6.688s" clip-end="npt=14.668s" id="audio_0003" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_5_xhxl_0015" id="wgyq_0009" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=14.668s" clip-end="npt=18.267s" id="audio_0004" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_5_xhxl_0016" id="wgyq_000a" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=18.267s" clip-end="npt=23.367s" id="audio_0005" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_5_xhxl_0017" id="wgyq_000b" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=23.367s" clip-end="npt=30.507s" id="audio_0006" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_5_xhxl_0018" id="wgyq_000c" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=30.507s" clip-end="npt=35.367s" id="audio_0007" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_5_xhxl_0019" id="wgyq_000d" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt003e.mp3" clip-begin="npt=35.367s" clip-end="npt=42.054s" id="audio_0008" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

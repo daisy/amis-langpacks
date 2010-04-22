@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:09.691" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:07:40.178" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 154 # 044FS2212178114" skip-content="true" />
+    <meta name="title" content="機能" skip-content="true" />
+    <meta name="dc:title" content="AMISユーザーガイド" skip-content="true" />
+    <meta name="dc:identifier" content="81353847207-00016" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="9.691s" repeat="1">
+			<par endsync="last" id="wgyq_0007" repeat="1">
+				<text src="amishelp.html#dol_1_7_wgyq_0007" id="wgyq_0008" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt001c.mp3" clip-begin="npt=0.000s" clip-end="npt=2.279s" id="audio_0001" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_7_xhxl_002a" id="wgyq_0009" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt001c.mp3" clip-begin="npt=2.279s" clip-end="npt=9.691s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

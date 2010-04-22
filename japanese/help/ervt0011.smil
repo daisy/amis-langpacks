@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" skip-content="true" />
+		<meta name="ncc:timeInThisSmil" content="00:00:27.233" skip-content="true" />
+		<meta name="ncc:totalElapsedTime" content="00:09:43.610" skip-content="true" />
+		<layout type="text/smil-basic-layout">
+			<region id="txt-view" left="0" top="0" z-index="0" fit="hidden" skip-content="true" />
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.12 Build 154 # 044FS2212178114" skip-content="true" />
+    <meta name="title" content="ナビゲーションウィンドウを使用する" skip-content="true" />
+    <meta name="dc:title" content="AMISユーザーガイド" skip-content="true" />
+    <meta name="dc:identifier" content="81353847207-00016" skip-content="true" />
+  </head>
+	<body>
+		<seq dur="27.233s" repeat="1">
+			<par endsync="last" id="wgyq_0011" repeat="1">
+				<text src="amishelp.html#dol_1_11_wgyq_0011" id="yrmt_0001" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0020.mp3" clip-begin="npt=0.000s" clip-end="npt=4.499s" id="audio_0001" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_11_xhxl_003d" id="yrmt_0002" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0020.mp3" clip-begin="npt=4.499s" clip-end="npt=13.919s" id="audio_0002" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_11_xhxl_003e" id="yrmt_0003" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0020.mp3" clip-begin="npt=13.919s" clip-end="npt=18.239s" id="audio_0003" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_11_xhxl_003f" id="yrmt_0004" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0020.mp3" clip-begin="npt=18.239s" clip-end="npt=21.239s" id="audio_0004" repeat="1" fill="remove" />
+				</seq>
+			</par>
+			<par endsync="last" repeat="1">
+				<text src="amishelp.html#dol_1_11_xhxl_0040" id="yrmt_0005" repeat="1" fill="remove" />
+				<seq repeat="1">
+					<audio src="ervt0020.mp3" clip-begin="npt=21.239s" clip-end="npt=27.233s" id="audio_0005" repeat="1" fill="remove" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
