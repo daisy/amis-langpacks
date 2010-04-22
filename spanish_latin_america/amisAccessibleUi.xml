@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-03-10_17:49:04"/>
+    <created by="DAISY Lion" date="2010-04-21_18:54:05"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -167,8 +167,8 @@
                     <audio from="" src="./audio/s.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+F">
-                <text id="t24">Alt+A</text>
+            <accelerator keys="Alt+R">
+                <text id="t24">Alt+R</text>
                 <audio from="" src="./audio/alt + a.mp3"/>
             </accelerator>
             <mnemonic>
@@ -474,7 +474,7 @@
                     <audio from="" src="./audio/B.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+P">
+            <accelerator keys="Alt+E">
                 <text id="t79">Alt+E</text>
                 <audio from="" src="./audio/alt + e.mp3"/>
             </accelerator>
@@ -704,7 +704,7 @@
                     </caption>
                 </list>
             </action>
-            <accelerator keys="Alt+B">
+            <accelerator keys="Alt+M">
                 <text id="t120">Alt+M</text>
                 <audio from="" src="./audio/alt + m.mp3"/>
             </accelerator>
@@ -749,7 +749,7 @@
                     <audio from="" src="./audio/r.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+I">
+            <accelerator keys="Alt+F">
                 <text id="t135">Alt+F</text>
                 <audio from="" src="./audio/alt + f.mp3"/>
             </accelerator>
@@ -807,7 +807,7 @@
                     <audio from="" src="./audio/A.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+H">
+            <accelerator keys="Alt+Y">
                 <text id="t144">Alt+Y</text>
                 <audio from="" src="./audio/alt + y.mp3"/>
             </accelerator>
