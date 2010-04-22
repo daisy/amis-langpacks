@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:08.996"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:05.316"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Ominaisuudet"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="8.996s">
+			<par endsync="last" id="nhui_0050">
+				<text src="kopiokopiokorj.html#dol_1_7_nhui_0050" id="nhui_0052"/>
+				<seq>
+					<audio src="07_Ominaisuudet.mp3" clip-begin="npt=0.000s" clip-end="npt=2.359s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0051">
+				<text src="kopiokopiokorj.html#dol_1_7_nhui_0051" id="nhui_0053"/>
+				<seq>
+					<audio src="07_Ominaisuudet.mp3" clip-begin="npt=2.359s" clip-end="npt=8.996s" id="audio_0002"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

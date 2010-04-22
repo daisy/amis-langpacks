@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:21.493"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:48.542"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Toiston hallinta"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="21.493s">
+			<par endsync="last" id="nhui_0060">
+				<text src="kopiokopiokorj.html#dol_1_9_nhui_0060" id="pgqc_0001"/>
+				<seq>
+					<audio src="09_Toiston_hall.mp3" clip-begin="npt=0.000s" clip-end="npt=2.214s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0061">
+				<text src="kopiokopiokorj.html#dol_1_9_nhui_0061" id="pgqc_0002"/>
+				<seq>
+					<audio src="09_Toiston_hall.mp3" clip-begin="npt=2.214s" clip-end="npt=6.852s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0062">
+				<text src="kopiokopiokorj.html#dol_1_9_nhui_0062" id="pgqc_0003"/>
+				<seq>
+					<audio src="09_Toiston_hall.mp3" clip-begin="npt=6.852s" clip-end="npt=10.686s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0063">
+				<text src="kopiokopiokorj.html#dol_1_9_nhui_0063" id="pgqc_0004"/>
+				<seq>
+					<audio src="09_Toiston_hall.mp3" clip-begin="npt=10.686s" clip-end="npt=14.014s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0064">
+				<text src="kopiokopiokorj.html#dol_1_9_nhui_0064" id="pgqc_0005"/>
+				<seq>
+					<audio src="09_Toiston_hall.mp3" clip-begin="npt=14.014s" clip-end="npt=16.023s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0065">
+				<text src="kopiokopiokorj.html#dol_1_9_nhui_0065" id="pgqc_0006"/>
+				<seq>
+					<audio src="09_Toiston_hall.mp3" clip-begin="npt=16.023s" clip-end="npt=21.493s" id="audio_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

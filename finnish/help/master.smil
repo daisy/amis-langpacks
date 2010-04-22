@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+    <head>
+        <meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+        <meta name="dc:format" content="Daisy 2.02"/>
+        <meta name="dc:title" content="AMIS_HELP_FI"/>
+        <meta name="dc:identifier" content="Celia"/>
+        <meta name="ncc:timeInThisSmil" content="00:11:40.384"/>
+        <layout>
+            <region id="txtView"/>
+        </layout>
+    </head>
+    <body>
+        <ref title="AMIS-ohjelman käyttöopas" src="ephw0001.smil#nhui_0001" id="smil_0001"/>
+        <ref title="Mikä on AMIS?" src="ephw0002.smil#nhui_0004" id="smil_0002"/>
+        <ref title="Mikä on DAISY?" src="ephw0003.smil#nhui_0011" id="smil_0003"/>
+        <ref title="Tuetut tiedostomuodot" src="ephw0004.smil#nhui_0021" id="smil_0004"/>
+        <ref title="Järjestelmävaatimukset" src="ephw0005.smil#nhui_0025" id="smil_0005"/>
+        <ref title="Näytön osat" src="ephw0006.smil#nhui_0033" id="smil_0006"/>
+        <ref title="Ominaisuudet" src="ephw0007.smil#nhui_0050" id="smil_0007"/>
+        <ref title="Kirjan avaaminen" src="ephw0008.smil#nhui_0052" id="smil_0008"/>
+        <ref title="Toiston hallinta" src="ephw0009.smil#nhui_0060" id="smil_0009"/>
+        <ref title="Selaaminen" src="ephw0010.smil#nhui_0066" id="smil_0010"/>
+        <ref title="Selausikkunan käyttö" src="ephw0011.smil#nhui_0073" id="smil_0011"/>
+        <ref title="Kirjanmerkkien asettaminen" src="ephw0012.smil#nhui_0078" id="smil_0012"/>
+        <ref title="Julkaisun tiedot" src="ephw0013.smil#nhui_0082" id="smil_0013"/>
+        <ref title="AMIS-ohjelman ohjeet" src="ephw0014.smil#nhui_0100" id="smil_0014"/>
+        <ref title="Ohjelman ulkonäön muuttaminen" src="ephw0015.smil#nhui_0104" id="smil_0015"/>
+        <ref title="Asetukset" src="ephw0016.smil#nhui_0112" id="smil_0016"/>
+        <ref title="Tekstin asetusten määrittäminen" src="ephw0017.smil#nhui_0123" id="smil_0017"/>
+        <ref title="Ota yhteyttä" src="ephw0018.smil#nhui_0128" id="smil_0018"/>
+    </body>
+</smil>

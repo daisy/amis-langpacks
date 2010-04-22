@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:31.468"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:59.266"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Mikä on DAISY?"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="91.468s">
+			<par endsync="last" id="nhui_0011">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0011" id="nhui_0021"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=0.000s" clip-end="npt=6.215s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0012">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0012" id="nhui_0022"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=6.215s" clip-end="npt=13.517s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0013">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0013" id="nhui_0023"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=13.517s" clip-end="npt=18.555s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0014">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0014" id="nhui_0024"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=18.555s" clip-end="npt=29.658s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0015">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0015" id="nhui_0025"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=29.658s" clip-end="npt=35.271s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0016">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0016" id="nhui_0026"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=35.271s" clip-end="npt=42.519s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0017">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0017" id="nhui_0027"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=42.519s" clip-end="npt=54.401s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0018">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0018" id="nhui_0028"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=54.401s" clip-end="npt=62.681s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0019">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0019" id="nhui_0029"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=62.681s" clip-end="npt=80.755s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0020">
+				<text src="kopiokopiokorj.html#dol_1_3_nhui_0020" id="nhui_002a"/>
+				<seq>
+					<audio src="03_Mik__on_DAIS.mp3" clip-begin="npt=80.755s" clip-end="npt=91.468s" id="audio_0010"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

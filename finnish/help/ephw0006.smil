@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:27.668"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:37.648"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Näytön osat"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="147.668s">
+			<par endsync="last" id="nhui_0033">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0033" id="nhui_004a"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=0.000s" clip-end="npt=2.322s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0034">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0034" id="nhui_004b"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=2.322s" clip-end="npt=7.917s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0035">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0035" id="nhui_004c"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=7.917s" clip-end="npt=18.533s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0036">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0036" id="nhui_004d"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=18.533s" clip-end="npt=29.655s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0037">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0037" id="nhui_004e"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=29.655s" clip-end="npt=35.983s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0038">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0038" id="nhui_004f"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=35.983s" clip-end="npt=65.630s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0039">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0039" id="nhui_0050"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=65.630s" clip-end="npt=71.514s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0040">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0040" id="nhui_0051"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=71.514s" clip-end="npt=78.834s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0041">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0041" id="nhui_0052"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=78.834s" clip-end="npt=82.641s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0042">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0042" id="nhui_0053"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=82.641s" clip-end="npt=87.490s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0043">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0043" id="nhui_0054"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=87.490s" clip-end="npt=93.089s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0044">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0044" id="nhui_0055"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=93.089s" clip-end="npt=102.484s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0045">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0045" id="nhui_0056"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=102.484s" clip-end="npt=109.718s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0046">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0046" id="nhui_0057"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=109.718s" clip-end="npt=118.179s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0047">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0047" id="nhui_0058"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=118.179s" clip-end="npt=133.442s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0048">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0048" id="nhui_0059"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=133.442s" clip-end="npt=140.241s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0049">
+				<text src="kopiokopiokorj.html#dol_1_6_nhui_0049" id="nhui_005a"/>
+				<seq>
+					<audio src="06_N_yt_n_osat.mp3" clip-begin="npt=140.241s" clip-end="npt=147.668s" id="audio_0017"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

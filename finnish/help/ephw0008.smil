@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:34.230"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:14.312"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Kirjan avaaminen"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="34.230s">
+			<par endsync="last" id="nhui_0052">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0052" id="nhui_005a"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=0.000s" clip-end="npt=2.268s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0053">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0053" id="nhui_005b"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=2.268s" clip-end="npt=9.095s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0054">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0054" id="nhui_005c"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=9.095s" clip-end="npt=12.415s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0055">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0055" id="nhui_005d"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=12.415s" clip-end="npt=17.952s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0056">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0056" id="nhui_005e"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=17.952s" clip-end="npt=21.415s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0057">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0057" id="nhui_005f"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=21.415s" clip-end="npt=26.109s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0058">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0058" id="nhui_0060"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=26.109s" clip-end="npt=29.073s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0059">
+				<text src="kopiokopiokorj.html#dol_1_8_nhui_0059" id="nhui_0061"/>
+				<seq>
+					<audio src="08_Kirjan_avaam.mp3" clip-begin="npt=29.073s" clip-end="npt=34.230s" id="audio_0008"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

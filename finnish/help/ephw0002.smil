@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:43.082"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:16.184"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Mikä on AMIS?"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="43.082s">
+			<par endsync="last" id="nhui_0004">
+				<text src="kopiokopiokorj.html#dol_1_2_nhui_0004" id="sxbv_0001"/>
+				<seq>
+					<audio src="02_Mik__on_AMIS.mp3" clip-begin="npt=0.000s" clip-end="npt=7.257s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0005">
+				<text src="kopiokopiokorj.html#dol_1_2_nhui_0005" id="sxbv_0002"/>
+				<seq>
+					<audio src="02_Mik__on_AMIS.mp3" clip-begin="npt=7.257s" clip-end="npt=13.875s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0006">
+				<text src="kopiokopiokorj.html#dol_1_2_nhui_0006" id="sxbv_0003"/>
+				<seq>
+					<audio src="02_Mik__on_AMIS.mp3" clip-begin="npt=13.875s" clip-end="npt=18.610s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0007">
+				<text src="kopiokopiokorj.html#dol_1_2_nhui_0007" id="sxbv_0004"/>
+				<seq>
+					<audio src="02_Mik__on_AMIS.mp3" clip-begin="npt=18.610s" clip-end="npt=24.845s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0008">
+				<text src="kopiokopiokorj.html#dol_1_2_nhui_0008" id="sxbv_0005"/>
+				<seq>
+					<audio src="02_Mik__on_AMIS.mp3" clip-begin="npt=24.845s" clip-end="npt=28.913s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0009">
+				<text src="kopiokopiokorj.html#dol_1_2_nhui_0009" id="sxbv_0006"/>
+				<seq>
+					<audio src="02_Mik__on_AMIS.mp3" clip-begin="npt=28.913s" clip-end="npt=31.870s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0010">
+				<text src="kopiokopiokorj.html#dol_1_2_nhui_0010" id="sxbv_0007"/>
+				<seq>
+					<audio src="02_Mik__on_AMIS.mp3" clip-begin="npt=31.870s" clip-end="npt=43.082s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:23.693"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:30.734"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Tuetut tiedostomuodot"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="23.693s">
+			<par endsync="last" id="nhui_0021">
+				<text src="kopiokopiokorj.html#dol_1_4_nhui_0021" id="rnbw_0001"/>
+				<seq>
+					<audio src="04_Tuetut_tiedo.mp3" clip-begin="npt=0.000s" clip-end="npt=2.748s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0022">
+				<text src="kopiokopiokorj.html#dol_1_4_nhui_0022" id="rnbw_0002"/>
+				<seq>
+					<audio src="04_Tuetut_tiedo.mp3" clip-begin="npt=2.748s" clip-end="npt=7.075s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0023">
+				<text src="kopiokopiokorj.html#dol_1_4_nhui_0023" id="rnbw_0003"/>
+				<seq>
+					<audio src="04_Tuetut_tiedo.mp3" clip-begin="npt=7.075s" clip-end="npt=10.787s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0024">
+				<text src="kopiokopiokorj.html#dol_1_4_nhui_0024" id="rnbw_0004"/>
+				<seq>
+					<audio src="04_Tuetut_tiedo.mp3" clip-begin="npt=10.787s" clip-end="npt=23.693s" id="audio_0004"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

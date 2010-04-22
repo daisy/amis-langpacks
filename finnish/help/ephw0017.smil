@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:28.208"/>
+		<meta name="ncc:totalElapsedTime" content="00:10:43.840"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Tekstin asetusten määrittäminen"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="28.208s">
+			<par endsync="last" id="nhui_0123">
+				<text src="kopiokopiokorj.html#dol_1_17_nhui_0123" id="nhui_0128"/>
+				<seq>
+					<audio src="17_Tekstin_aset.mp3" clip-begin="npt=0.000s" clip-end="npt=3.638s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0124">
+				<text src="kopiokopiokorj.html#dol_1_17_nhui_0124" id="nhui_0129"/>
+				<seq>
+					<audio src="17_Tekstin_aset.mp3" clip-begin="npt=3.638s" clip-end="npt=10.782s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0125">
+				<text src="kopiokopiokorj.html#dol_1_17_nhui_0125" id="nhui_012a"/>
+				<seq>
+					<audio src="17_Tekstin_aset.mp3" clip-begin="npt=10.782s" clip-end="npt=13.586s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0126">
+				<text src="kopiokopiokorj.html#dol_1_17_nhui_0126" id="nhui_012b"/>
+				<seq>
+					<audio src="17_Tekstin_aset.mp3" clip-begin="npt=13.586s" clip-end="npt=19.791s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0127">
+				<text src="kopiokopiokorj.html#dol_1_17_nhui_0127" id="nhui_012c"/>
+				<seq>
+					<audio src="17_Tekstin_aset.mp3" clip-begin="npt=19.791s" clip-end="npt=28.208s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

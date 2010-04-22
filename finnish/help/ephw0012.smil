@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:21.130"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:51.703"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Kirjanmerkkien asettaminen"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="21.130s">
+			<par endsync="last" id="nhui_0078">
+				<text src="kopiokopiokorj.html#dol_1_12_nhui_0078" id="rrhz_0001"/>
+				<seq>
+					<audio src="12_Kirjanmerkki.mp3" clip-begin="npt=0.000s" clip-end="npt=3.090s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0079">
+				<text src="kopiokopiokorj.html#dol_1_12_nhui_0079" id="rrhz_0002"/>
+				<seq>
+					<audio src="12_Kirjanmerkki.mp3" clip-begin="npt=3.090s" clip-end="npt=10.327s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0080">
+				<text src="kopiokopiokorj.html#dol_1_12_nhui_0080" id="rrhz_0003"/>
+				<seq>
+					<audio src="12_Kirjanmerkki.mp3" clip-begin="npt=10.327s" clip-end="npt=14.654s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0081">
+				<text src="kopiokopiokorj.html#dol_1_12_nhui_0081" id="rrhz_0004"/>
+				<seq>
+					<audio src="12_Kirjanmerkki.mp3" clip-begin="npt=14.654s" clip-end="npt=21.130s" id="audio_0004"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

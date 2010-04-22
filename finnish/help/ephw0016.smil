@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:45.439"/>
+		<meta name="ncc:totalElapsedTime" content="00:09:58.401"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Asetukset"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="45.439s">
+			<par endsync="last" id="nhui_0112">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0112" id="shfh_0001"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=0.000s" clip-end="npt=1.881s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0113">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0113" id="shfh_0002"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=1.881s" clip-end="npt=7.229s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0114">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0114" id="shfh_0003"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=7.229s" clip-end="npt=11.015s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0115">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0115" id="shfh_0004"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=11.015s" clip-end="npt=13.163s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0116">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0116" id="shfh_0005"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=13.163s" clip-end="npt=16.977s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0117">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0117" id="shfh_0006"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=16.977s" clip-end="npt=22.449s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0118">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0118" id="shfh_0007"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=22.449s" clip-end="npt=25.625s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0119">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0119" id="shfh_0008"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=25.625s" clip-end="npt=29.311s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0120">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0120" id="shfh_0009"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=29.311s" clip-end="npt=34.377s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0121">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0121" id="shfh_000a"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=34.377s" clip-end="npt=38.012s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0122">
+				<text src="kopiokopiokorj.html#dol_1_16_nhui_0122" id="shfh_000b"/>
+				<seq>
+					<audio src="16_Asetukset.mp3" clip-begin="npt=38.012s" clip-end="npt=45.439s" id="audio_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

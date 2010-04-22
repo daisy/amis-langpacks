@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:25.868"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:10.035"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Selaaminen"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="25.868s">
+			<par endsync="last" id="nhui_0066">
+				<text src="kopiokopiokorj.html#dol_1_10_nhui_0066" id="tsyf_0001"/>
+				<seq>
+					<audio src="10_Selaaminen.mp3" clip-begin="npt=0.000s" clip-end="npt=2.057s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0067">
+				<text src="kopiokopiokorj.html#dol_1_10_nhui_0067" id="tsyf_0002"/>
+				<seq>
+					<audio src="10_Selaaminen.mp3" clip-begin="npt=2.057s" clip-end="npt=8.630s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0068">
+				<text src="kopiokopiokorj.html#dol_1_10_nhui_0068" id="tsyf_0003"/>
+				<seq>
+					<audio src="10_Selaaminen.mp3" clip-begin="npt=8.630s" clip-end="npt=12.715s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0069">
+				<text src="kopiokopiokorj.html#dol_1_10_nhui_0069" id="tsyf_0004"/>
+				<seq>
+					<audio src="10_Selaaminen.mp3" clip-begin="npt=12.715s" clip-end="npt=16.318s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0070">
+				<text src="kopiokopiokorj.html#dol_1_10_nhui_0070" id="tsyf_0005"/>
+				<seq>
+					<audio src="10_Selaaminen.mp3" clip-begin="npt=16.318s" clip-end="npt=20.116s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0071">
+				<text src="kopiokopiokorj.html#dol_1_10_nhui_0071" id="tsyf_0006"/>
+				<seq>
+					<audio src="10_Selaaminen.mp3" clip-begin="npt=20.116s" clip-end="npt=22.853s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0072">
+				<text src="kopiokopiokorj.html#dol_1_10_nhui_0072" id="tsyf_0007"/>
+				<seq>
+					<audio src="10_Selaaminen.mp3" clip-begin="npt=22.853s" clip-end="npt=25.868s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

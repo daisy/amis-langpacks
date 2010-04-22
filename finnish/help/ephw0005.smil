@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:43.221"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:54.427"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213091650"/>
+    <meta name="title" content="Järjestelmävaatimukset"/>
+    <meta name="dc:title" content="AMIS_HELP_FI"/>
+    <meta name="dc:identifier" content="Celia"/>
+  </head>
+	<body>
+		<seq dur="43.221s">
+			<par endsync="last" id="nhui_0025">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0025" id="sqig_0001"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=0.000s" clip-end="npt=2.739s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0026">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0026" id="sqig_0002"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=2.739s" clip-end="npt=6.498s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0027">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0027" id="sqig_0003"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=6.498s" clip-end="npt=14.523s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0028">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0028" id="sqig_0004"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=14.523s" clip-end="npt=19.802s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0029">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0029" id="sqig_0005"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=19.802s" clip-end="npt=25.220s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0030">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0030" id="sqig_0006"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=25.220s" clip-end="npt=34.243s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0031">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0031" id="sqig_0007"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=34.243s" clip-end="npt=37.659s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nhui_0032">
+				<text src="kopiokopiokorj.html#dol_1_5_nhui_0032" id="sqig_0008"/>
+				<seq>
+					<audio src="05_J_rjestelm_v.mp3" clip-begin="npt=37.659s" clip-end="npt=43.221s" id="audio_0008"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
