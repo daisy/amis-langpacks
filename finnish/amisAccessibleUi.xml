@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-04-21_23:30:21"/>
+    <created by="DAISY Lion" date="2010-04-22_00:42:45"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -58,7 +58,7 @@
                 </caption>
                 <description>
                     <text id="t332">Sulje DAISY-julkaisu</text>
-                    <audio from="" src="./audio/215_Sulje_DAISY.mp3"/>
+                    <audio from="" src="./audio/38_Sulje_DAISY-.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t333">C</text>
@@ -120,7 +120,7 @@
                 <note>This is the menu header for the recent books sub-menu.</note>
                 <caption>
                     <text id="t16">Viimeksi luetut</text>
-                    <audio from="" src="./audio/208_Viimeisimm_.mp3"/>
+                    <audio from="" src="./audio/37_Viimeksi_lue.mp3"/>
                 </caption>
                 <switch element="action">
                     <action condition="ID_AMIS_RECENT_BOOKS_EMPTY" mfcid="ID_AMIS_RECENT_BOOKS_EMPTY" widget="menuItem">
@@ -169,11 +169,11 @@
             </action>
             <accelerator keys="Alt+T">
                 <text id="t24">Alt+T</text>
-                <audio from="" src="./audio/300_Alt_F.mp3"/>
+                <audio from="" src="./audio/43_Alt_T.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t25">T</text>
-                <audio from="" src="./audio/312_F.mp3"/>
+                <audio from="" src="./audio/326_T.mp3"/>
             </mnemonic>
         </container>
         <container id="view">
@@ -186,11 +186,11 @@
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t27">Selausikkuna</text>
-                    <audio from="" src="./audio/202_Sivupalkki.mp3"/>
+                    <audio from="" src="./audio/36_Selausikkuna.mp3"/>
                 </caption>
                 <description>
                     <text id="t28">Selausikkuna näkyviin tai piiloon.</text>
-                    <audio from="" src="./audio/201_Sivupalkki_.mp3"/>
+                    <audio from="" src="./audio/35_Selausikkuna.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t29">S</text>
@@ -201,11 +201,11 @@
                 <note>This is going to be a menu item</note>
                 <caption>
                     <text id="t30">Perusnäkymä</text>
-                    <audio from="" src="./audio/171_Teksti-ikku.mp3"/>
+                    <audio from="" src="./audio/22_Perusn_kym_.mp3"/>
                 </caption>
                 <description>
                     <text id="t31">Vaihda näkymää</text>
-                    <audio from="" src="./audio/170_Vaihda_ikku.mp3"/>
+                    <audio from="" src="./audio/21_Vaihda_n_kym.mp3"/>
                 </description>
                 <accelerator keys="F11">
                     <text id="t32">F11</text>
@@ -251,7 +251,7 @@
                 </caption>
                 <description>
                     <text id="t39">Suurenna kirjasimen kokoa.</text>
-                    <audio from="" src="./audio/164_Suurenna_ki.mp3"/>
+                    <audio from="" src="./audio/20_Suurenna_kir.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t40">I</text>
@@ -267,7 +267,7 @@
                 </caption>
                 <description>
                     <text id="t338">Pienennä kirjasimen kokoa.</text>
-                    <audio from="" src="./audio/163_Muuta_kirja.mp3"/>
+                    <audio from="" src="./audio/19_Pienenn__kir.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t339">M</text>
@@ -300,11 +300,11 @@
             </action>
             <accelerator keys="Alt+N">
                 <text id="t44">Alt+N</text>
-                <audio from="" src="./audio/284_Alt_V.mp3"/>
+                <audio from="" src="./audio/44_Alt_N.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t45">N</text>
-                <audio from="" src="./audio/328_V.mp3"/>
+                <audio from="" src="./audio/320_N.mp3"/>
             </mnemonic>
         </container>
         <container id="play">
@@ -476,11 +476,11 @@
             </action>
             <accelerator keys="Alt+K">
                 <text id="t79">Alt+K</text>
-                <audio from="" src="./audio/Alt_P.mp3"/>
+                <audio from="" src="./audio/45_Alt_K.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t80">K</text>
-                <audio from="" src="./audio/322_P.mp3"/>
+                <audio from="" src="./audio/317_K.mp3"/>
             </mnemonic>
         </container>
         <container id="navigate">
@@ -663,11 +663,11 @@
             </action>
             <accelerator keys="Alt+S">
                 <text id="t113">Alt+S</text>
-                <audio from="" src="./audio/268_Alt_N.mp3"/>
+                <audio from="" src="./audio/46_Alt_S.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t114">S</text>
-                <audio from="" src="./audio/320_N.mp3"/>
+                <audio from="" src="./audio/325_S.mp3"/>
             </mnemonic>
         </container>
         <container id="bookmarks">
@@ -706,11 +706,11 @@
             </action>
             <accelerator keys="Alt+M">
                 <text id="t120">Alt+M</text>
-                <audio from="" src="./audio/266_Alt_B.mp3"/>
+                <audio from="" src="./audio/47_Alt_M.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t121">M</text>
-                <audio from="" src="./audio/308_B.mp3"/>
+                <audio from="" src="./audio/319_M.mp3"/>
             </mnemonic>
         </container>
         <container id="info">
@@ -751,7 +751,7 @@
             </action>
             <accelerator keys="Alt+I">
                 <text id="t135">Alt+I</text>
-                <audio from="" src="./audio/265_Alt_I.mp3"/>
+                <audio from="" src="./audio/48_Alt_I.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t136">I</text>
@@ -771,7 +771,7 @@
                 </caption>
                 <description>
                     <text id="t139">Ohjeita AMIS-ohjelman käyttöön</text>
-                    <audio from="" src="./audio/113_Ohjeita_AMI.mp3"/>
+                    <audio from="" src="./audio/18_Ohjeita_AMIS.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t140">C</text>
@@ -785,7 +785,7 @@
                 </caption>
                 <description>
                     <text id="t374">Näe ja kuule kaikki AMIS-näppäinkomennot.</text>
-                    <audio from="" src="./audio/111_N_e_ja_kuul.mp3"/>
+                    <audio from="" src="./audio/17_N_e_ja_kuule.mp3"/>
                 </description>
                 <mnemonic>
                     <text id="t375">K</text>
@@ -809,11 +809,11 @@
             </action>
             <accelerator keys="Alt+O">
                 <text id="t144">Alt+O</text>
-                <audio from="" src="./audio/264_Alt_H.mp3"/>
+                <audio from="" src="./audio/49_Alt_O.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t145">O</text>
-                <audio from="" src="./audio/314_H.mp3"/>
+                <audio from="" src="./audio/321_O.mp3"/>
             </mnemonic>
         </container>
     </containers>
@@ -944,7 +944,7 @@
             <control mfcid="IDC_AMISNAME" translate="no" widget="textlabel autoplay">
                 <caption>
                     <text id="t163">AMIS: Adaptive Multimedia Information System</text>
-                    <audio from="" src="./audio/097_AMIS__Adapt.mp3"/>
+                    <audio from="" src="./audio/16_AMIS__Adapti.mp3"/>
                 </caption>
             </control>
             <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
@@ -1231,7 +1231,7 @@
             <control mfcid="IDC_LOADLASTBOOK" widget="checkbox">
                 <caption>
                     <text id="t225">Lataa viimeksi luettu kirja käynnistettäessä</text>
-                    <audio from="" src="./audio/068_Lataa_viime.mp3"/>
+                    <audio from="" src="./audio/15_Lataa_viimek.mp3"/>
                 </caption>
                 <description>
                     <prompt>
@@ -1371,7 +1371,7 @@
             </caption>
             <description mfcid="IDC_PUBLICATIONSUMMARYCAPTION">
                 <text id="t214">Julkaisun tiedot ja nykyinen sijaintisi</text>
-                <audio from="" src="./audio/057_Kirjan_tied.mp3"/>
+                <audio from="" src="./audio/14_Julkaisun_ti.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1391,7 +1391,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t240">Teoksen nimi:</text>
-                                <audio from="" src="./audio/055_Kirjan_nimi.mp3"/>
+                                <audio from="" src="./audio/13_Teoksen_nimi.mp3"/>
                             </promptItem>
                             <promptVar name="META_TITLE"/>
                         </prompt>
@@ -1490,7 +1490,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t215">Nykyinen luku:</text>
-                                <audio from="" src="./audio/044_Nykyisen_lu.mp3"/>
+                                <audio from="" src="./audio/12_Nykyinen_luk.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_TITLE"/>
                         </prompt>
@@ -1499,17 +1499,17 @@
                         <prompt>
                             <promptItem>
                                 <text id="t390">Luvun sisältö:</text>
-                                <audio from="" src="./audio/043_Osion_kohte.mp3"/>
+                                <audio from="" src="./audio/11_Luvun_sis_lt.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_SUBSECTIONS"/>
                             <promptItem>
                                 <text id="t217">alalukuja,</text>
-                                <audio from="" src="./audio/042_Alalukujen_.mp3"/>
+                                <audio from="" src="./audio/10_alalukuja_.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
                             <promptItem>
                                 <text id="t216">sivuja</text>
-                                <audio from="" src="./audio/041_sivum__r__.mp3"/>
+                                <audio from="" src="./audio/09_sivuja.mp3"/>
                             </promptItem>
                         </prompt>
                     </caption>
@@ -1517,7 +1517,7 @@
                         <prompt>
                             <promptItem>
                                 <text id="t244">Sisällysluettelon otsikoita:</text>
-                                <audio from="" src="./audio/040_Sis_llyslue.mp3"/>
+                                <audio from="" src="./audio/08_Sis_llysluet.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOCITEMS"/>
                         </prompt>
@@ -1668,7 +1668,7 @@
         <promptItemRefs>
             <promptItem id="useArrowsList">
                 <text id="t380">Käytä nuolinäppäimiä listassa liikkumiseen.</text>
-                <audio from="" src="./audio/028_K_yt__nuoli.mp3"/>
+                <audio from="" src="./audio/04_K_yt__nuolin.mp3"/>
             </promptItem>
             <promptItem id="thisItem">
                 <text id="t252">Tämä osio</text>
@@ -1680,7 +1680,7 @@
             </promptItem>
             <promptItem id="tabAround">
                 <text id="t254">Liiku sarkainnäppäimellä viestiruudun valinnoissa.</text>
-                <audio from="" src="./audio/025_Liiku_sarka.mp3"/>
+                <audio from="" src="./audio/03_Liiku_sarkai.mp3"/>
             </promptItem>
             <promptItem id="thisItemIsCurrently">
                 <text id="t258">Tämä osio on nyt</text>
@@ -1688,7 +1688,7 @@
             </promptItem>
             <promptItem id="enter_to_close">
                 <text id="t259">Paina Enter-näppäintä sulkeaksesi tämän viestiruudun.</text>
-                <audio from="" src="./audio/023_Valitse_Hyv.mp3"/>
+                <audio from="" src="./audio/02_Paina_Enter-.mp3"/>
             </promptItem>
             <promptItem id="ok_button_caption">
                 <text id="t262">OK</text>
@@ -1773,7 +1773,7 @@
             </promptItem>
             <promptItem id="cant_create_folder">
                 <text id="t287">Tätä kansiota ei voida luoda. Tarkista uudelleen.</text>
-                <audio from="" src="./audio/002_T_t__kansio.mp3"/>
+                <audio from="" src="./audio/01_T_t__kansiot.mp3"/>
             </promptItem>
             <promptItem id="not_available">
                 <text id="t288">Ei saatavissa</text>
@@ -1893,7 +1893,7 @@
             <prompt id="noCdLoaded">
                 <promptItem>
                     <text id="t315">CD-asemassa ei ole CD-levyä.</text>
-                    <audio from="" src="./audio/236_CD_asemassa.mp3"/>
+                    <audio from="" src="./audio/39_CD-asemassa_.mp3"/>
                 </promptItem>
                 <promptItem refid="enter_to_close"/>
             </prompt>
@@ -1928,7 +1928,7 @@
             <prompt id="noBooksFoundOnCd">
                 <promptItem>
                     <text id="t326">Tällä CD-levyllä ei ole DAISY-kirjoja.</text>
-                    <audio from="" src="./audio/241_T_ll__CD_le.mp3"/>
+                    <audio from="" src="./audio/40_T_ll__CD-lev.mp3"/>
                 </promptItem>
                 <promptItem refid="enter_to_close"/>
             </prompt>
@@ -1947,7 +1947,7 @@
             <prompt id="textWindowHasFocus">
                 <promptItem>
                     <text id="t378">Sisältöikkuna aktiivinen</text>
-                    <audio from="" src="./audio/244_teksti-ikku.mp3"/>
+                    <audio from="" src="./audio/41_Sis_lt_ikkun.mp3"/>
                 </promptItem>
             </prompt>
             <prompt id="generalBookErrorReloading">
@@ -2001,7 +2001,7 @@
             <prompt id="searching_for_text">
                <promptItem>
                  <text id="t435">Tekstiä etsitään</text>
-                 <audio from="" src="./audio/253_Tekstin_ets.mp3"/>
+                 <audio from="" src="./audio/42_Teksti__etsi.mp3"/>
                </promptItem>
            </prompt>
            <prompt id="not_found">

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="big5"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="ncc:generator" content="LpStudioGen 1.6" />
+	<meta name="dc:format" content="Daisy 2.02" />
+	<meta name="dc:title" content="AMIS使用說明" />
+	<meta name="ncc:timeInThisSmil" content="00:10:12" />
+	<meta name="dc:identifier" content="AMIS_Zh_TW" />
+	<layout>
+		<region id="txtView" />
+	</layout>
+</head>
+<body>
+	<ref title="AMIS使用說明" src="bagw0001.smil" id="bagw_0001" />
+	<ref title="AMIS是什麼?" src="bagw0002.smil" id="bagw_0002" />
+	<ref title="DAISY是什麼?" src="bagw0003.smil" id="bagw_0003" />
+	<ref title="支援格式" src="bagw0004.smil" id="bagw_0004" />
+	<ref title="系統需求" src="bagw0005.smil" id="bagw_0005" />
+	<ref title="螢幕外觀" src="bagw0006.smil" id="bagw_0006" />
+	<ref title="功能" src="bagw0007.smil" id="bagw_0007" />
+	<ref title="開啟讀本" src="bagw0008.smil" id="bagw_0008" />
+	<ref title="播放控制" src="bagw0009.smil" id="bagw_0009" />
+	<ref title="導航" src="bagw000A.smil" id="bagw_000a" />
+	<ref title="使用導航窗格" src="bagw000B.smil" id="bagw_000b" />
+	<ref title="設置書籤" src="bagw000C.smil" id="bagw_000c" />
+	<ref title="獲取出版資訊" src="bagw000D.smil" id="bagw_000d" />
+	<ref title="獲取AMIS使用說明" src="bagw000E.smil" id="bagw_000e" />
+	<ref title="切換檢視模式" src="bagw000F.smil" id="bagw_000f" />
+	<ref title="偏好設定" src="bagw0010.smil" id="bagw_0010" />
+	<ref title="設定文字樣式" src="bagw0011.smil" id="bagw_0011" />
+	<ref title="聯絡我們" src="bagw0012.smil" id="bagw_0012" />
+</body>
+</smil>

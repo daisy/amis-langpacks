@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="big5"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="dc:title" content="AMIS使用說明" />
+<meta name="ncc:totalElapsedTime" content="00:06:46" />
+<meta name="ncc:timeInThisSmil" content="00:00:15" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="title" content="使用導航窗格" />
+<meta name="dc:identifier" content="AMIS_Zh_TW" />
+</head>
+<body>
+<seq dur="15.366s">
+<par endsync="last">
+<text src="amis.htm#bagw_000b" id="bagw_000b" />
+<seq>
+<audio src="11.mp3" clip-begin="npt=0.000s" clip-end="npt=3.188s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_003a" id="xbag_003a" />
+<seq>
+<audio src="11.mp3" clip-begin="npt=3.188s" clip-end="npt=8.174s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_003b" id="xbag_003b" />
+<seq>
+<audio src="11.mp3" clip-begin="npt=8.174s" clip-end="npt=10.953s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_003c" id="xbag_003c" />
+<seq>
+<audio src="11.mp3" clip-begin="npt=10.953s" clip-end="npt=12.914s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_003d" id="xbag_003d" />
+<seq>
+<audio src="11.mp3" clip-begin="npt=12.914s" clip-end="npt=15.366s" id="qwrt_0005" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

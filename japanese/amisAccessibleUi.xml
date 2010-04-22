@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-01-06_16:22:53"/>
+    <created by="DAISY Lion" date="2010-01-09_15:15:42"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -1703,7 +1703,7 @@
                 <audio from="" src="./audio/aud162.mp3"/>
             </promptItem>
             <promptItem id="cancel_button_description">
-                <text id="t265">ダイアログをキャンセルをするには、キャンセルを押してください</text>
+                <text id="t265">ダイアログをキャンセルするには、キャンセルを押してください</text>
                 <audio from="" src="./audio/aud163.mp3"/>
             </promptItem>
             <promptItem id="thisDialogNotSelfVoicing">

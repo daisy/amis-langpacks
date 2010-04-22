@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="big5"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="dc:title" content="AMIS使用說明" />
+<meta name="ncc:totalElapsedTime" content="00:05:30" />
+<meta name="ncc:timeInThisSmil" content="00:00:31" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="title" content="開啟讀本" />
+<meta name="dc:identifier" content="AMIS_Zh_TW" />
+</head>
+<body>
+<seq dur="30.077s">
+<par endsync="last">
+<text src="amis.htm#bagw_0008" id="bagw_0008" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=0.000s" clip-end="npt=2.207s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0026" id="xbag_0026" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=2.207s" clip-end="npt=8.828s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0027" id="xbag_0027" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=8.828s" clip-end="npt=11.852s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0028" id="xbag_0028" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=11.852s" clip-end="npt=16.020s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0029" id="xbag_0029" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=16.020s" clip-end="npt=19.044s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_002a" id="xbag_002a" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=19.044s" clip-end="npt=23.212s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_002b" id="xbag_002b" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=23.212s" clip-end="npt=26.236s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_002c" id="xbag_002c" />
+<seq>
+<audio src="08.mp3" clip-begin="npt=26.236s" clip-end="npt=30.077s" id="qwrt_0008" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

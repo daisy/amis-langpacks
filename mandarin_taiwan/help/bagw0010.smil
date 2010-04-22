@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="big5"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+<meta name="ncc:generator" content="LpStudioGen 1.6" />
+<meta name="dc:format" content="Daisy 2.02" />
+<meta name="dc:title" content="AMIS使用說明" />
+<meta name="ncc:totalElapsedTime" content="00:08:48" />
+<meta name="ncc:timeInThisSmil" content="00:00:37" />
+<layout>
+<region id="txtView" />
+</layout>
+<meta name="title" content="偏好設定" />
+<meta name="dc:identifier" content="AMIS_Zh_TW" />
+</head>
+<body>
+<seq dur="36.948s">
+<par endsync="last">
+<text src="amis.htm#bagw_0010" id="bagw_0010" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=0.000s" clip-end="npt=1.397s" id="qwrt_0001" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0060" id="xbag_0060" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=1.397s" clip-end="npt=6.792s" id="qwrt_0002" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0061" id="xbag_0061" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=6.792s" clip-end="npt=9.980s" id="qwrt_0003" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0062" id="xbag_0062" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=9.980s" clip-end="npt=12.105s" id="qwrt_0004" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0063" id="xbag_0063" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=12.105s" clip-end="npt=15.701s" id="qwrt_0005" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0064" id="xbag_0064" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=15.701s" clip-end="npt=19.542s" id="qwrt_0006" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0065" id="xbag_0065" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=19.542s" clip-end="npt=21.994s" id="qwrt_0007" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0066" id="xbag_0066" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=21.994s" clip-end="npt=26.308s" id="qwrt_0008" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0067" id="xbag_0067" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=26.308s" clip-end="npt=30.956s" id="qwrt_0009" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0068" id="xbag_0068" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=30.956s" clip-end="npt=34.146s" id="qwrt_000a" />
+</seq>
+</par>
+<par endsync="last">
+<text src="amis.htm#xbag_0069" id="xbag_0069" />
+<seq>
+<audio src="16.mp3" clip-begin="npt=34.146s" clip-end="npt=36.948s" id="qwrt_000b" />
+</seq>
+</par>
+</seq>
+</body>
+</smil>

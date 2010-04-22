@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../bin/copyLangpack.bat nld-NL  ..\..\DutchLangpack debug"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat nld-NL  ..\..\..\langpacks\dutch debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../bin/copyLangpack.bat nld-NL  ..\..\DutchLangpack release"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat nld-NL  ..\..\..\langpacks\dutch release"
 			/>
 		</Configuration>
 	</Configurations>
