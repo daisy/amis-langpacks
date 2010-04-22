@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="title" content="DAISY l&#224; g&#236;?" />
+    <meta name="dc:title" content="AMIS User Guide" />
+    <meta name="ncc:timeInThisSmil" content="0:01:27" />
+    <layout>
+        <region id="txtView" />
+    </layout>
+</head>
+<body>
+<seq dur="87.000s">
+    <par endsync="last">
+        <text src="ncc.html#amis_0004" id="amis_0004" />
+        <seq>
+            <audio src="2.0 what is daisy.mp3" clip-begin="npt=0.000s" clip-end="npt=3.000s" id="qwrt_0001" />
+            <audio src="2.1 daisy stands for.mp3" clip-begin="npt=0.000s" clip-end="npt=10.000s" id="qwrt_0002" />
+            <audio src="2.2 daisy books are fully accessible.mp3" clip-begin="npt=0.000s" clip-end="npt=5.000s" id="qwrt_0003" />
+            <audio src="2.3 common features of books.mp3" clip-begin="npt=0.000s" clip-end="npt=12.000s" id="qwrt_0004" />
+            <audio src="2.4 in fact.mp3" clip-begin="npt=0.000s" clip-end="npt=5.000s" id="qwrt_0005" />
+            <audio src="2.5 you can move around.mp3" clip-begin="npt=0.000s" clip-end="npt=6.000s" id="qwrt_0006" />
+            <audio src="2.6 the daisy standard is a globally recognized technical standard.mp3" clip-begin="npt=0.000s" clip-end="npt=17.000s" id="qwrt_0007" />
+            <audio src="2.7 the daisy consortium was founded in 1996.mp3" clip-begin="npt=0.000s" clip-end="npt=17.000s" id="qwrt_0008" />
+            <audio src="2.8 you can learn more about daisy at.mp3" clip-begin="npt=0.000s" clip-end="npt=12.000s" id="qwrt_0009" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="title" content="Giao di&#7879;n m&#224;n h&#236;nh" />
+    <meta name="dc:title" content="AMIS User Guide" />
+    <meta name="ncc:timeInThisSmil" content="0:02:20" />
+    <layout>
+        <region id="txtView" />
+    </layout>
+</head>
+<body>
+<seq dur="140.000s">
+    <par endsync="last">
+        <text src="ncc.html#amis_0007" id="amis_0007" />
+        <seq>
+            <audio src="5.0 screen layout.mp3" clip-begin="npt=0.000s" clip-end="npt=3.000s" id="qwrt_0001" />
+            <audio src="5.1 the screen has two view modes.mp3" clip-begin="npt=0.000s" clip-end="npt=5.000s" id="qwrt_0002" />
+            <audio src="5.2 amis will start in default view mode.mp3" clip-begin="npt=0.000s" clip-end="npt=11.000s" id="qwrt_0003" />
+            <audio src="5.3 default view for amis.mp3" clip-begin="npt=0.000s" clip-end="npt=13.000s" id="qwrt_0004" />
+            <audio src="5.4 default toolbar for amis.mp3" clip-begin="npt=0.000s" clip-end="npt=7.000s" id="qwrt_0005" />
+            <audio src="5.5 list of 11 items.mp3" clip-begin="npt=0.000s" clip-end="npt=33.000s" id="qwrt_0006" />
+            <audio src="5.6 the navigation window of amis.mp3" clip-begin="npt=0.000s" clip-end="npt=10.000s" id="qwrt_0007" />
+            <audio src="5.7 the first list.mp3" clip-begin="npt=0.000s" clip-end="npt=6.000s" id="qwrt_0008" />
+            <audio src="5.8 the second list.mp3" clip-begin="npt=0.000s" clip-end="npt=6.000s" id="qwrt_0009" />
+            <audio src="5.9 the subsequent lists.mp3" clip-begin="npt=0.000s" clip-end="npt=11.000s" id="qwrt_000A" />
+            <audio src="5.10 basic view for amis.mp3" clip-begin="npt=0.000s" clip-end="npt=12.000s" id="qwrt_000B" />
+            <audio src="5.11 the toolbar has four large buttons.mp3" clip-begin="npt=0.000s" clip-end="npt=3.000s" id="qwrt_000C" />
+            <audio src="5.12 list of 4 items.mp3" clip-begin="npt=0.000s" clip-end="npt=14.000s" id="qwrt_000D" />
+            <audio src="5.13 there is no menu or navigation window.mp3" clip-begin="npt=0.000s" clip-end="npt=6.000s" id="qwrt_000E" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

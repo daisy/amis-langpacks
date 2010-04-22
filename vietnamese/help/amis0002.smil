@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="title" content="AMIS l&#224; g&#236;?" />
+    <meta name="dc:title" content="AMIS User Guide" />
+    <meta name="ncc:timeInThisSmil" content="0:00:54" />
+    <layout>
+        <region id="txtView" />
+    </layout>
+</head>
+<body>
+<seq dur="54.000s">
+    <par endsync="last">
+        <text src="ncc.html#amis_0003" id="amis_0003" />
+        <seq>
+            <audio src="1.0 what is amis.mp3" clip-begin="npt=0.000s" clip-end="npt=4.000s" id="qwrt_0001" />
+            <audio src="1.1 amis stands for.mp3" clip-begin="npt=0.000s" clip-end="npt=11.000s" id="qwrt_0002" />
+            <audio src="1.2 amis is a software program.mp3" clip-begin="npt=0.000s" clip-end="npt=6.000s" id="qwrt_0003" />
+            <audio src="1.3 it is self voicing.mp3" clip-begin="npt=0.000s" clip-end="npt=10.000s" id="qwrt_0004" />
+            <audio src="1.4 amis is open source software.mp3" clip-begin="npt=0.000s" clip-end="npt=7.000s" id="qwrt_0005" />
+            <audio src="1.5 it has been translated into dozens of languages.mp3" clip-begin="npt=0.000s" clip-end="npt=4.000s" id="qwrt_0006" />
+            <audio src="1.6 go to.mp3" clip-begin="npt=0.000s" clip-end="npt=12.000s" id="qwrt_0007" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

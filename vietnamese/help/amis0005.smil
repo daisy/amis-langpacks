@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="title" content="&#272;&#242;i h&#7887;i c&#7845;u h&#236;nh" />
+    <meta name="dc:title" content="AMIS User Guide" />
+    <meta name="ncc:timeInThisSmil" content="0:00:43" />
+    <layout>
+        <region id="txtView" />
+    </layout>
+</head>
+<body>
+<seq dur="43.000s">
+    <par endsync="last">
+        <text src="ncc.html#amis_0006" id="amis_0006" />
+        <seq>
+            <audio src="4.0 system requirements.mp3" clip-begin="npt=0.000s" clip-end="npt=3.000s" id="qwrt_0001" />
+            <audio src="4.1 the following pc configuration.mp3" clip-begin="npt=0.000s" clip-end="npt=5.000s" id="qwrt_0002" />
+            <audio src="4.2 list of 5 items.mp3" clip-begin="npt=0.000s" clip-end="npt=28.000s" id="qwrt_0003" />
+            <audio src="4.3 the amis installer will report.mp3" clip-begin="npt=0.000s" clip-end="npt=7.000s" id="qwrt_0004" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>

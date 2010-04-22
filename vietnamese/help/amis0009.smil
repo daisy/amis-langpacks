@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+    <meta name="ncc:generator" content="SigtunaDAR3 3.0.20" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="title" content="&#272;i&#7873;u khi&#7875;n &#273;&#7885;c s&#225;ch " />
+    <meta name="dc:title" content="AMIS User Guide" />
+    <meta name="ncc:timeInThisSmil" content="0:00:23" />
+    <layout>
+        <region id="txtView" />
+    </layout>
+</head>
+<body>
+<seq dur="23.000s">
+    <par endsync="last">
+        <text src="ncc.html#amis_000a" id="amis_000a" />
+        <seq>
+            <audio src="6.2.0 controlling playback.mp3" clip-begin="npt=0.000s" clip-end="npt=3.000s" id="qwrt_0001" />
+            <audio src="6.2.1 daisy books are played automatically from beginning to end.mp3" clip-begin="npt=0.000s" clip-end="npt=8.000s" id="qwrt_0002" />
+            <audio src="6.2.2 3 listed items.mp3" clip-begin="npt=0.000s" clip-end="npt=12.000s" id="qwrt_0003" />
+        </seq>
+    </par>
+</seq>
+</body>
+</smil>
