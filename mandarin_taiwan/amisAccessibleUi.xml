@@ -1,0 +1,2022 @@
+<?xml version="1.0" ?>
+<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2010-04-22_13:33:33"/>
+    <containers>
+        <container id="file">
+            <note>This is the menu header &quot;File&quot;</note>
+            <caption>
+                <text id="t1">檔案</text>
+                <audio from="" src="./audio/Zh-TW_t1.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_OPEN_FILE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and a toolbar item</note>
+                <icon src="./open.png" type="smallIcon"/>
+                <caption>
+                    <text id="t2">開啟...</text>
+                    <audio from="" src="./audio/Zh-TW_t2.mp3"/>
+                </caption>
+                <description>
+                    <text id="t3">從本機端開啟DAISY讀本</text>
+                    <audio from="" src="./audio/Zh-TW_t109.mp3"/>
+                </description>
+                <!--keys = the actual keys; text = the name of the keys-->
+                <accelerator keys="Ctrl+O">
+                    <text id="t4">Ctrl+O</text>
+                    <audio from="" src="./audio/Zh-TW_t152.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t5">O</text>
+                    <audio from="" src="./audio/Zh-TW_t153.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_OPEN_URL" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <icon src="./open.png" type="smallIcon"/>
+                <caption>
+                    <text id="t327">開啟URL...</text>
+                    <audio from="" src="./audio/Zh-TW_t3.mp3"/>
+                </caption>
+                <description>
+                    <text id="t328">從URL開啟DAISY讀本</text>
+                    <audio from="" src="./audio/Zh-TW_t260.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+U">
+                    <text id="t329">Ctrl+U</text>
+                    <audio from="" src="./audio/Zh-TW_t154.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t330">U</text>
+                    <audio from="" src="./audio/Zh-TW_t155.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_CLOSE_BOOK" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <icon src="./close.png" type="smallIcon"/>
+                <caption>
+                    <text id="t331">關閉讀本</text>
+                    <audio from="" src="./audio/Zh-TW_t4.mp3"/>
+                </caption>
+                <description>
+                    <text id="t332">關閉DAISY讀本</text>
+                    <audio from="" src="./audio/Zh-TW_t110.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t333">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_LOAD_CD" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and a toolbar item</note>
+                <icon src="./settings/img/cd3.ico" type="smallIcon"/>
+                <icon src="./settings/img/cd_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t6">載入CD</text>
+                    <audio from="" src="./audio/Zh-TW_t5.mp3"/>
+                </caption>
+                <description>
+                    <text id="t7">從CD-ROM載入DAISY讀本</text>
+                    <audio from="" src="./audio/Zh-TW_t111.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+L">
+                    <text id="t8">Ctrl+L</text>
+                    <audio from="" src="./audio/Zh-TW_t157.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t9">L</text>
+                    <audio from="" src="./audio/Zh-TW_t158.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SEARCH_LOCAL_DRIVES" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t10">搜尋磁碟...</text>
+                    <audio from="" src="./audio/Zh-TW_t6.mp3"/>
+                </caption>
+                <description>
+                    <text id="t11">搜尋本機磁碟中的DAISY讀本</text>
+                    <audio from="" src="./audio/Zh-TW_t112.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t12">S</text>
+                    <audio from="" src="./audio/Zh-TW_t199.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_PREFERENCES" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t13">偏好設定...</text>
+                    <audio from="" src="./audio/Zh-TW_t7.mp3"/>
+                </caption>
+                <description>
+                    <text id="t14">AMIS的偏好設定。</text>
+                    <audio from="" src="./audio/Zh-TW_t113.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t15">P</text>
+                    <audio from="" src="./audio/Zh-TW_t159.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="recentBooksList">
+                <note>This is the menu header for the recent books sub-menu.</note>
+                <caption>
+                    <text id="t16">最近使用讀本</text>
+                    <audio from="" src="./audio/Zh-TW_t8.mp3"/>
+                </caption>
+                <switch element="action">
+                    <action condition="ID_AMIS_RECENT_BOOKS_EMPTY" mfcid="ID_AMIS_RECENT_BOOKS_EMPTY" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <caption>
+                            <text id="t17">空</text>
+                            <audio from="" src="./audio/Zh-TW_t9.mp3"/>
+                        </caption>
+                        <description>
+                            <text id="t18">最近沒有使用讀本的記錄。</text>
+                            <audio from="" src="./audio/Zh-TW_t266.mp3"/>
+                        </description>
+                    </action>
+                    <action condition="AMIS_RECENT_BOOK_BASE_ID" mfcid="AMIS_RECENT_BOOK_BASE_ID" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <list repeat="yes">
+                            <caption>
+                                <promptVar name="RECENT_BOOK_TITLE"/>
+                            </caption>
+                        </list>
+                    </action>
+                </switch>
+                <mnemonic>
+                    <text id="t19">R</text>
+                    <audio from="" src="./audio/Zh-TW_t160.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_EXIT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t20">結束</text>
+                    <audio from="" src="./audio/Zh-TW_t10.mp3"/>
+                </caption>
+                <description>
+                    <text id="t21">關閉AMIS</text>
+                    <audio from="" src="./audio/Zh-TW_t284.mp3"/>
+                </description>
+                <accelerator keys="Alt+F4">
+                    <text id="t22">Alt+F4</text>
+                    <audio from="" src="./audio/Zh-TW_t161.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t23">X</text>
+                    <audio from="" src="./audio/Zh-TW_t162.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+F">
+                <text id="t24">Alt+F</text>
+                <audio from="" src="./audio/Zh-TW_t163.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t25">F</text>
+                <audio from="" src="./audio/Zh-TW_t164.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="view">
+            <note>This is the menu header &quot;View&quot;</note>
+            <caption>
+                <text id="t26">檢視</text>
+                <audio from="" src="./audio/Zh-TW_t11.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_TOGGLE_SIDEBAR" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t27">導航窗格</text>
+                    <audio from="" src="./audio/Zh-TW_t12.mp3"/>
+                </caption>
+                <description>
+                    <text id="t28">開啟/關閉導航窗格。</text>
+                    <audio from="" src="./audio/Zh-TW_t115.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t29">S</text>
+                    <audio from="" src="./audio/Zh-TW_t199.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_TOGGLE_VIEW" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t30">基本模式</text>
+                    <audio from="" src="./audio/Zh-TW_t13.mp3"/>
+                </caption>
+                <description>
+                    <text id="t31">切換檢視模式</text>
+                    <audio from="" src="./audio/Zh-TW_t116.mp3"/>
+                </description>
+                <accelerator keys="F11">
+                    <text id="t32">F11</text>
+                    <audio from="" src="./audio/Zh-TW_t165.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t33">B</text>
+                    <audio from="" src="./audio/Zh-TW_t166.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="pageStylesList">
+                <note>This is the menu header for the list of styles available for this page.</note>
+                <caption>
+                    <text id="t334">樣式</text>
+                    <audio from="" src="./audio/Zh-TW_t14.mp3"/>
+                </caption>
+                <action mfcid="ID_AMIS_NO_PAGE_STYLES" widget="menuItem">
+                    <note>This is going to be a menu item</note>
+                    <caption>
+                        <text id="t335">無</text>
+                        <audio from="" src="./audio/Zh-TW_t15.mp3"/>
+                    </caption>
+                </action>
+                <action mfcid="AMIS_PAGE_STYLE_BASE_ID" widget="menuItem">
+                    <note>This is going to be a menu item</note>
+                    <list repeat="yes">
+                        <caption>
+                            <promptVar name="PAGE_STYLE_NAME"/>
+                        </caption>
+                    </list>
+                </action>
+                <mnemonic>
+                    <text id="t336">P</text>
+                    <audio from="" src="./audio/Zh-TW_t159.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_BIGGER_FONT" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/font.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t38">放大字體</text>
+                    <audio from="" src="./audio/Zh-TW_t16.mp3"/>
+                </caption>
+                <description>
+                    <text id="t39">逐步放大字體。</text>
+                    <audio from="" src="./audio/Zh-TW_t117.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t40">G</text>
+                    <audio from="" src="./audio/Zh-TW_t167.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SMALLER_FONT" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/font.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t337">縮小字體</text>
+                    <audio from="" src="./audio/Zh-TW_t17.mp3"/>
+                </caption>
+                <description>
+                    <text id="t338">逐步縮小字體。</text>
+                    <audio from="" src="./audio/Zh-TW_t118.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t339">M</text>
+                    <audio from="" src="./audio/Zh-TW_t168.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_TEXTSTYLE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t340">文字樣式...</text>
+                    <audio from="" src="./audio/Zh-TW_t18.mp3"/>
+                </caption>
+                <description>
+                    <text id="t341">改變文字樣式的屬性。</text>
+                    <audio from="" src="./audio/Zh-TW_t232.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t342">T</text>
+                    <audio from="" src="./audio/Zh-TW_t169.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="AMIS_NAVLIST_BASE_ID" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <promptVar name="NAVLIST_NAME"/>
+                </caption>
+                <description>
+                    <promptVar name="NAVLIST_DESCRIPTION"/>
+                </description>
+            </action>
+            <accelerator keys="Alt+V">
+                <text id="t44">Alt+V</text>
+                <audio from="" src="./audio/Zh-TW_t170.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t45">V</text>
+                <audio from="" src="./audio/Zh-TW_t171.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="play">
+            <note>This is the menu header &quot;Play&quot;</note>
+            <caption>
+                <text id="t46">播放</text>
+                <audio from="" src="./audio/Zh-TW_t19.mp3"/>
+            </caption>
+            <switch element="action">
+                <action condition="canPlay" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
+                    <note>This is going to be a menu item and toolbar item</note>
+                    <icon src="./settings/img/play-big.ico" type="smallIcon"/>
+                    <icon src="./settings/img/play_big.ico" type="largeIcon"/>
+                    <caption>
+                        <text id="t47">播放</text>
+                        <audio from="" src="./audio/Zh-TW_t19.mp3"/>
+                    </caption>
+                    <description>
+                        <text id="t48">開始或停止同步播放。</text>
+                        <audio from="" src="./audio/Zh-TW_t119.mp3"/>
+                    </description>
+                    <accelerator keys="Space">
+                        <text id="t49">Space</text>
+                        <audio from="" src="./audio/Zh-TW_t236.mp3"/>
+                    </accelerator>
+                    <mnemonic>
+                        <text id="t50">P</text>
+                        <audio from="" src="./audio/Zh-TW_t159.mp3"/>
+                    </mnemonic>
+                </action>
+                <action condition="canPause" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
+                    <note>This is going to be a menu item and toolbar item</note>
+                    <icon src="./settings/img/pause.ico" type="smallIcon"/>
+                    <icon src="./settings/img/pause_big.ico" type="largeIcon"/>
+                    <caption>
+                        <text id="t51">暫停</text>
+                        <audio from="" src="./audio/Zh-TW_t279.mp3"/>
+                    </caption>
+                    <description>
+                        <text id="t52">開始或暫停播放DAISY讀本。</text>
+                        <audio from="" src="./audio/Zh-TW_t270.mp3"/>
+                    </description>
+                    <accelerator keys="Space">
+                        <text id="t53">Space</text>
+                        <audio from="" src="./audio/Zh-TW_t236.mp3"/>
+                    </accelerator>
+                    <mnemonic>
+                        <text id="t54">A</text>
+                        <audio from="" src="./audio/Zh-TW_t193.mp3"/>
+                    </mnemonic>
+                </action>
+            </switch>
+            <action mfcid="ID_AMIS_ESCAPE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t55">跳過</text>
+                    <audio from="" src="./audio/Zh-TW_t20.mp3"/>
+                </caption>
+                <description>
+                    <text id="t56">跳過目前播放的位置。</text>
+                    <audio from="" src="./audio/Zh-TW_t276.mp3"/>
+                </description>
+                <accelerator keys="Esc">
+                    <text id="t57">Esc</text>
+                    <audio from="" src="./audio/Zh-TW_t172.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t58">E</text>
+                    <audio from="" src="./audio/Zh-TW_t173.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_FASTER" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/fullspeedahead.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t59">加速</text>
+                    <audio from="" src="./audio/Zh-TW_t21.mp3"/>
+                </caption>
+                <description>
+                    <text id="t60">加快播放速度。</text>
+                    <audio from="" src="./audio/Zh-TW_t121.mp3"/>
+                </description>
+                <accelerator keys="Ctrl++">
+                    <text id="t61">Ctrl++</text>
+                    <audio from="" src="./audio/Zh-TW_t174.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t62">F</text>
+                    <audio from="" src="./audio/Zh-TW_t164.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SLOWER" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/slowdown.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t63">減速</text>
+                    <audio from="" src="./audio/Zh-TW_t22.mp3"/>
+                </caption>
+                <description>
+                    <text id="t64">放慢播放速度。</text>
+                    <audio from="" src="./audio/Zh-TW_t122.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+-">
+                    <text id="t65">Ctrl+-</text>
+                    <audio from="" src="./audio/Zh-TW_t175.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t66">S</text>
+                    <audio from="" src="./audio/Zh-TW_t199.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_RESET_SPEED" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/normalspeed.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t67">正常速度</text>
+                    <audio from="" src="./audio/Zh-TW_t23.mp3"/>
+                </caption>
+                <description>
+                    <text id="t68">恢復正常播放速度。</text>
+                    <audio from="" src="./audio/Zh-TW_t123.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+0">
+                    <text id="t69">Ctrl+0</text>
+                    <audio from="" src="./audio/Zh-TW_t176.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t70">N</text>
+                    <audio from="" src="./audio/Zh-TW_t177.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_INCREASE_VOLUME" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t71">增加音量</text>
+                    <audio from="" src="./audio/Zh-TW_t24.mp3"/>
+                </caption>
+                <description>
+                    <text id="t72">逐步增加音量。</text>
+                    <audio from="" src="./audio/Zh-TW_t124.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Up">
+                    <text id="t73">Ctrl+向上鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t178.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t74">I</text>
+                    <audio from="" src="./audio/Zh-TW_t179.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_DECREASE_VOLUME" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t75">降低音量</text>
+                    <audio from="" src="./audio/Zh-TW_t25.mp3"/>
+                </caption>
+                <description>
+                    <text id="t76">逐步降低音量。</text>
+                    <audio from="" src="./audio/Zh-TW_t125.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Down">
+                    <text id="t77">Ctrl+向下鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t180.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t78">D</text>
+                    <audio from="" src="./audio/Zh-TW_t181.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+P">
+                <text id="t79">Alt+P</text>
+                <audio from="" src="./audio/Zh-TW_t182.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t80">P</text>
+                <audio from="" src="./audio/Zh-TW_t159.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="navigate">
+            <note>This is the menu header &quot;Navigate&quot;</note>
+            <caption>
+                <text id="t81">Navigate</text>
+                <audio from="" src="./audio/Zh-TW_t26.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_PREVIOUS_SECTION" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevsection.ico" type="smallIcon"/>
+                <icon src="./settings/img/prevsection_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t82">上一章節</text>
+                    <audio from="" src="./audio/Zh-TW_t27.mp3"/>
+                </caption>
+                <description>
+                    <text id="t83">返回上一章節。</text>
+                    <audio from="" src="./audio/Zh-TW_t238.mp3"/>
+                </description>
+                <accelerator keys="Up">
+                    <text id="t84">向上鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t183.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t85">P</text>
+                    <audio from="" src="./audio/Zh-TW_t159.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_SECTION" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextsection.ico" type="smallIcon"/>
+                <icon src="./settings/img/nextsection_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t86">下一章節</text>
+                    <audio from="" src="./audio/Zh-TW_t28.mp3"/>
+                </caption>
+                <description>
+                    <text id="t87">跳至下一章節。</text>
+                    <audio from="" src="./audio/Zh-TW_t273.mp3"/>
+                </description>
+                <accelerator keys="Down">
+                    <text id="t88">向下鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t184.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t89">N</text>
+                    <audio from="" src="./audio/Zh-TW_t177.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="sectiondepth">
+                <note>This is the &quot;show section depth&quot; sub-menu pop-up</note>
+                <caption>
+                    <text id="t90">顯示章節層級</text>
+                    <audio from="" src="./audio/Zh-TW_t29.mp3"/>
+                </caption>
+                <switch element="action">
+                    <action condition="ID_AMIS_SECTION_DEPTH_EMPTY" mfcid="ID_AMIS_SECTION_DEPTH_EMPTY" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <caption>
+                            <text id="t91">空</text>
+                            <audio from="" src="./audio/Zh-TW_t9.mp3"/>
+                        </caption>
+                        <description>
+                            <text id="t92">無章節層級。</text>
+                            <audio from="" src="./audio/Zh-TW_t269.mp3"/>
+                        </description>
+                    </action>
+                    <action condition="AMIS_SECTION_DEPTH_BASE_ID" mfcid="AMIS_SECTION_DEPTH_BASE_ID" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <list repeat="yes">
+                            <caption>
+                                <promptVar name="SECTION_DEPTH_OPTION"/>
+                            </caption>
+                        </list>
+                    </action>
+                </switch>
+                <mnemonic>
+                    <text id="t93">S</text>
+                    <audio from="" src="./audio/Zh-TW_t199.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_PREVIOUS_PHRASE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevphasecirc.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t94">上一詞句</text>
+                    <audio from="" src="./audio/Zh-TW_t30.mp3"/>
+                </caption>
+                <description>
+                    <text id="t95">返回上一詞句。</text>
+                    <audio from="" src="./audio/Zh-TW_t239.mp3"/>
+                </description>
+                <accelerator keys="Left">
+                    <text id="t96">向左鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t185.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_PHRASE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextphrasecirc.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t97">下一詞句</text>
+                    <audio from="" src="./audio/Zh-TW_t31.mp3"/>
+                </caption>
+                <description>
+                    <text id="t98">跳至下一詞句。</text>
+                    <audio from="" src="./audio/Zh-TW_t275.mp3"/>
+                </description>
+                <accelerator keys="Right">
+                    <text id="t99">向右鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t186.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_PREVIOUS_PAGE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevpage.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t100">上一頁</text>
+                    <audio from="" src="./audio/Zh-TW_t32.mp3"/>
+                </caption>
+                <description>
+                    <text id="t101">返回上一頁。</text>
+                    <audio from="" src="./audio/Zh-TW_t237.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Left">
+                    <text id="t102">Ctrl+向左鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t187.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_PAGE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextpage.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t103">下一頁</text>
+                    <audio from="" src="./audio/Zh-TW_t33.mp3"/>
+                </caption>
+                <description>
+                    <text id="t104">跳至下一頁。</text>
+                    <audio from="" src="./audio/Zh-TW_t274.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Right">
+                    <text id="t105">Ctrl+向右鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t188.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_GOTO_PAGE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t106">移至頁碼...</text>
+                    <audio from="" src="./audio/Zh-TW_t34.mp3"/>
+                </caption>
+                <description>
+                    <text id="t107">移動到指定頁碼。</text>
+                    <audio from="" src="./audio/Zh-TW_t265.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+G">
+                    <text id="t108">Ctrl+G</text>
+                    <audio from="" src="./audio/Zh-TW_t189.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_FIND_IN_TEXT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t109">尋找...</text>
+                    <audio from="" src="./audio/Zh-TW_t35.mp3"/>
+                </caption>
+                <description>
+                    <text id="t110">搜尋本文中的文字或詞句。</text>
+                    <audio from="" src="./audio/Zh-TW_t133.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+F">
+                    <text id="t111">Ctrl+F</text>
+                    <audio from="" src="./audio/Zh-TW_t190.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t112">F</text>
+                    <audio from="" src="./audio/Zh-TW_t164.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+N">
+                <text id="t113">Alt+N</text>
+                <audio from="" src="./audio/Zh-TW_t191.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t114">N</text>
+                <audio from="" src="./audio/Zh-TW_t177.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="bookmarks">
+            <note>This is the menu header &quot;Bookmarks&quot;</note>
+            <caption>
+                <text id="t115">書籤</text>
+                <audio from="" src="./audio/Zh-TW_t36.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_ADD_BOOKMARK" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/adbookmark.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t116">新增書籤</text>
+                    <audio from="" src="./audio/Zh-TW_t37.mp3"/>
+                </caption>
+                <description>
+                    <text id="t117">在目前位置加入書籤。</text>
+                    <audio from="" src="./audio/Zh-TW_t134.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+D">
+                    <text id="t118">Ctrl+D</text>
+                    <audio from="" src="./audio/Zh-TW_t192.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t119">A</text>
+                    <audio from="" src="./audio/Zh-TW_t193.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="AMIS_BOOKMARK_BASE_ID" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOKMARK_TITLE"/>
+                    </caption>
+                </list>
+            </action>
+            <accelerator keys="Alt+B">
+                <text id="t120">Alt+B</text>
+                <audio from="" src="./audio/Zh-TW_t194.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t121">B</text>
+                <audio from="" src="./audio/Zh-TW_t166.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="info">
+            <note>This is the menu header &quot;Info&quot;</note>
+            <caption>
+                <text id="t122">資訊</text>
+                <audio from="" src="./audio/Zh-TW_t38.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_SHOW_READING_OPTIONS" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t123">閱讀選項...</text>
+                    <audio from="" src="./audio/Zh-TW_t39.mp3"/>
+                </caption>
+                <description>
+                    <text id="t124">查看本書的閱讀選項。</text>
+                    <audio from="" src="./audio/Zh-TW_t135.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t125">R</text>
+                    <audio from="" src="./audio/Zh-TW_t160.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_PUBLICATION_SUMMARY" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t343">出版資訊...</text>
+                    <audio from="" src="./audio/Zh-TW_t40.mp3"/>
+                </caption>
+                <description>
+                    <text id="t344">查看讀本相關資訊。</text>
+                    <audio from="" src="./audio/Zh-TW_t136.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t345">P</text>
+                    <audio from="" src="./audio/Zh-TW_t159.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+I">
+                <text id="t135">Alt+I</text>
+                <audio from="" src="./audio/Zh-TW_t195.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t136">I</text>
+                <audio from="" src="./audio/Zh-TW_t179.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="help">
+            <note>This is the menu header &quot;Help&quot;</note>
+            <caption>
+                <text id="t137">說明</text>
+                <audio from="" src="./audio/Zh-TW_t41.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_SHOW_HELP_CONTENTS" widget="menuItem toolbarItem">
+                <caption>
+                    <text id="t138">使用說明</text>
+                    <audio from="" src="./audio/Zh-TW_t42.mp3"/>
+                </caption>
+                <description>
+                    <text id="t139">開啟AMIS使用說明</text>
+                    <audio from="" src="./audio/Zh-TW_t137.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t140">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_KEYBOARD_SHORTCUTS" widget="menuItem">
+                <caption>
+                    <text id="t373">快速鍵</text>
+                    <audio from="" src="./audio/Zh-TW_t43.mp3"/>
+                </caption>
+                <description>
+                    <text id="t374">展示AMIS中的所有快速鍵。</text>
+                    <audio from="" src="./audio/Zh-TW_t256.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t375">K</text>
+                    <audio from="" src="./audio/Zh-TW_t196.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_ABOUT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t141">關於AMIS</text>
+                    <audio from="" src="./audio/Zh-TW_t44.mp3"/>
+                </caption>
+                <description>
+                    <text id="t142">了解更多有關於AMIS及DAISY-for-All的資訊。</text>
+                    <audio from="" src="./audio/Zh-TW_t138.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t143">A</text>
+                    <audio from="" src="./audio/Zh-TW_t193.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+H">
+                <text id="t144">Alt+H</text>
+                <audio from="" src="./audio/Zh-TW_t197.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t145">H</text>
+                <audio from="" src="./audio/Zh-TW_t198.mp3"/>
+            </mnemonic>
+        </container>
+    </containers>
+    <dialogs>
+        <dialog mfcid="IDD_FIND">
+            <note>This is the find in text dialog</note>
+            <caption>
+                <text id="t146">尋找</text>
+                <audio from="" src="./audio/Zh-TW_t35.mp3"/>
+            </caption>
+            <description mfcid="IDC_FIND_DESCRIPTION">
+                <text id="t147">搜尋目標。</text>
+                <audio from="" src="./audio/Zh-TW_t50.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SEARCHSTRING" widget="textfield autoplay">
+                <description>
+                    <text id="t151">在此欄位輸入要尋找的文字。</text>
+                    <audio from="" src="./audio/Zh-TW_t230.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_FINDPREVIOUS" widget="radiobutton">
+                <note>This indicates the direction of the search</note>
+                <caption>
+                    <text id="t152">向前搜尋</text>
+                    <audio from="" src="./audio/Zh-TW_t51.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="SELECTED_OR_DESELECTED" param="FIND_PREV_IN_TEXT"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t149">按下此按鈕開始搜尋。</text>
+                    <audio from="" src="./audio/Zh-TW_t248.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t150">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_CDSEARCH">
+            <note>This dialog appears when more than one book is on a CD-ROM</note>
+            <caption>
+                <text id="t154">找到多本讀本</text>
+                <audio from="" src="./audio/Zh-TW_t60.mp3"/>
+            </caption>
+            <description mfcid="IDC_MULTIVOLCD_INSTRUCTIONS">
+                <text id="t155">在這片CD中找到多本讀本，請從下面的清單中選擇其中一本</text>
+                <audio from="" src="./audio/Zh-TW_t61.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_BOOKLIST" widget="list autoplay">
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOK_TITLE"/>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t156">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_OPENBOOK" widget="button">
+                <caption>
+                    <text id="t157">開啟</text>
+                    <audio from="" src="./audio/Zh-TW_t2.mp3"/>
+                </caption>
+                <description>
+                    <text id="t158">按下此按鈕關閉對話框，並開啟所選擇的讀本。</text>
+                    <audio from="" src="./audio/Zh-TW_t252.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t159">O</text>
+                    <audio from="" src="./audio/Zh-TW_t153.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_ABOUTBOX">
+            <note>This dialog gives some basic information about AMIS.</note>
+            <caption>
+                <text id="t161">關於AMIS</text>
+                <audio from="" src="./audio/Zh-TW_t44.mp3"/>
+            </caption>
+            <description>
+                <text id="t162">AMIS資訊對話框。</text>
+                <audio from="" src="./audio/Zh-TW_t218.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_AMISNAME" translate="no" widget="textlabel autoplay">
+                <caption>
+                    <text id="t163">AMIS: 
+Adaptive Multimedia Information System</text>
+                    <audio from="" src="./audio/Zh-TW_t45.mp3"/>
+                </caption>
+            </control>
+            <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
+                <caption>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">版本：</text>
+                      <audio from="" src="./audio/Zh-TW_t321.mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
+                </caption>
+            </control>
+            <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
+                <caption>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">發布日期：</text>
+                      <audio from="" src="./audio/Zh-TW_t322.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
+                </caption>
+            </control>
+            <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
+                <caption>
+                    <text id="t166">Copyright (c) 2009 DAISY Consortium</text>
+                    <audio from="" src="./audio/Zh-TW_t48.mp3"/>
+                </caption>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_SEARCHDAISY">
+            <note>This dialog is for searching your hard drive for DAISY books.</note>
+            <caption>
+                <text id="t167">搜尋DAISY讀本</text>
+                <audio from="" src="./audio/Zh-TW_t52.mp3"/>
+            </caption>
+            <description mfcid="IDC_SEARCHINSTRUCTIONS">
+                <text id="t168">您可以搜尋電腦中的DAISY讀本。請輸入路徑或資料夾來進行搜尋。</text>
+                <audio from="" src="./audio/Zh-TW_t53.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SEARCHPATH" widget="textfield autoplay">
+                <description>
+                    <text id="t169">在此欄位輸入要尋找的路徑。</text>
+                    <audio from="" src="./audio/Zh-TW_t231.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_BROWSE" widget="button">
+                <caption>
+                    <text id="t260">瀏覽...</text>
+                    <audio from="" src="./audio/Zh-TW_t54.mp3"/>
+                </caption>
+                <description>
+                    <text id="t261">按下此按鈕開啟瀏覽資料夾對話框</text>
+                    <audio from="" src="./audio/Zh-TW_t250.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_STARTSEARCH" widget="button">
+                <caption>
+                    <text id="t170">搜尋</text>
+                    <audio from="" src="./audio/Zh-TW_t55.mp3"/>
+                </caption>
+                <description>
+                    <text id="t171">按下此按鈕開始尋找</text>
+                    <audio from="" src="./audio/Zh-TW_t247.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t172">S</text>
+                    <audio from="" src="./audio/Zh-TW_t199.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_STOPSEARCH" widget="button">
+                <caption>
+                    <text id="t173">停止</text>
+                    <audio from="" src="./audio/Zh-TW_t58.mp3"/>
+                </caption>
+                <description>
+                    <text id="t174">按下此按鈕停止尋找。</text>
+                    <audio from="" src="./audio/Zh-TW_t245.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t175">T</text>
+                    <audio from="" src="./audio/Zh-TW_t169.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_SEARCHING" widget="textlabel">
+                <switch element="caption">
+                    <caption condition="default">
+                        <text id="t176">準備就緒</text>
+                        <audio from="" src="./audio/Zh-TW_t56.mp3"/>
+                    </caption>
+                    <caption condition="WhileSearching">
+                        <text id="t177">搜尋中...</text>
+                        <audio from="" src="./audio/Zh-TW_t94.mp3"/>
+                    </caption>
+                    <caption condition="SearchAborted">
+                        <text id="t178">停止搜尋。</text>
+                        <audio from="" src="./audio/Zh-TW_t257.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteNoFilesFound">
+                        <text id="t179">搜尋完成：沒有找到任何符合檔案。</text>
+                        <audio from="" src="./audio/Zh-TW_t96.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteOneFileFound">
+                        <text id="t180">搜尋結束：找到一個檔案。</text>
+                        <audio from="" src="./audio/Zh-TW_t97.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteFilesFound">
+                        <prompt>
+                            <promptVar name="NUM_FILES_FOUND"/>
+                            <promptItem>
+                                <note>This is used in the sentence &quot;7 files were found&quot;</note>
+                                <text id="t181">個檔案被找到。</text>
+                                <audio from="" src="./audio/Zh-TW_t98.mp3"/>
+                            </promptItem>
+                        </prompt>
+                    </caption>
+                </switch>
+            </control>
+            <control mfcid="IDC_FILESFOUND" widget="list">
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOK_TITLE"/>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDC_OPENBOOK" widget="button">
+                <caption>
+                    <text id="t183">開啟</text>
+                    <audio from="" src="./audio/Zh-TW_t2.mp3"/>
+                </caption>
+                <description>
+                    <text id="t184">按下此按鈕開啟所選擇的讀本。</text>
+                    <audio from="" src="./audio/Zh-TW_t249.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t185">O</text>
+                    <audio from="" src="./audio/Zh-TW_t153.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t186">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_READING_OPTIONS">
+            <note>This dialog lets the user control rendering of skippable structures.</note>
+            <caption>
+                <text id="t187">閱讀選項</text>
+                <audio from="" src="./audio/Zh-TW_t39.mp3"/>
+            </caption>
+            <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
+                <text id="t188">此讀本包含以下特殊類型。選取的類型將會被播放，未選取的將會被忽略。</text>
+                <audio from="" src="./audio/Zh-TW_t75.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_OPTIONS_LIST" widget="list autoplay">
+                <caption>
+                    <text id="t190">閱讀選項清單：</text>
+                    <audio from="" src="./audio/Zh-TW_t280.mp3"/>
+                </caption>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="SKIPPABLE_ITEM"/>
+                    </caption>
+                    <description>
+                        <prompt>
+                            <promptItem refid="thisItemIsCurrently"/>
+                            <promptVar name="WILL_SKIP_OR_NOT" param="SKIPPABLE_ITEM_ID"/>
+                            <promptItem refid="spaceToToggle"/>
+                        </prompt>
+                    </description>
+                </list>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t381">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_PREFERENCES">
+            <note>This dialog lets the user set some basic preferences for AMIS.</note>
+            <caption>
+                <text id="t218">偏好設定</text>
+                <audio from="" src="./audio/Zh-TW_t7.mp3"/>
+            </caption>
+            <description>
+                <text id="t219">在此您可以修改AMIS的偏好設定。</text>
+                <audio from="" src="./audio/Zh-TW_t228.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_ISSELFVOICING" widget="checkbox autoplay">
+                <caption>
+                    <text id="t220">使用語音提示</text>
+                    <audio from="" src="./audio/Zh-TW_t64.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="SELF_VOICING_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_TTSVOICES" widget="list">
+                <caption mfcid="IDC_SELTTSLABEL">
+                    <text id="t221">選擇TTS:</text>
+                    <audio from="" src="./audio/Zh-TW_t65.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="TTS_VOICE_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTTEXT" widget="checkbox">
+                <caption>
+                    <text id="t346">閱讀時強調文字</text>
+                    <audio from="" src="./audio/Zh-TW_t66.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="HIGHLIGHTTEXT_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_LOADLASTBOOK" widget="checkbox">
+                <caption>
+                    <text id="t225">啟動時自動載入上次閱讀書籍</text>
+                    <audio from="" src="./audio/Zh-TW_t67.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="LOAD_LAST_READ_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_STARTINBASICVIEW" widget="checkbox">
+                <caption>
+                    <text id="t223">以基本模式啟動</text>
+                    <audio from="" src="./audio/Zh-TW_t68.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="BASIC_VIEW_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_PAUSEONLOSTFOCUS" widget="checkbox">
+                <caption>
+                    <text id="t347">當切換應用程式時，暫停播放</text>
+                    <audio from="" src="./audio/Zh-TW_t69.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="PAUSEONLOSTFOCUS_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_DISABLESCREENSAVER" widget="checkbox">
+                <caption>
+                    <text id="t348">閱讀時，停用螢幕保護裝置</text>
+                    <audio from="" src="./audio/Zh-TW_t70.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="DISABLESCREENSAVER_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_INSTALLEDLANGUAGES" widget="list">
+                <caption mfcid="IDC_CURRLANG">
+                    <prompt>
+                        <promptItem>
+                            <text id="t349">你目前所使用的語系是:</text>
+                            <audio from="" src="./audio/Zh-TW_t71.mp3"/>
+                        </promptItem>
+                        <promptVar name="CURRENT_LANGUAGE_NAME"/>
+                    </prompt>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="LANGUAGE_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t350">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_GOTOPAGE">
+            <note>This dialog lets the user jump to a certain page</note>
+            <caption>
+                <text id="t231">移至頁碼</text>
+                <audio from="" src="./audio/Zh-TW_t34.mp3"/>
+            </caption>
+            <description mfcid="IDC_GOTOPAGE_CAPTION">
+                <text id="t236">輸入要移至的頁碼:</text>
+                <audio from="" src="./audio/Zh-TW_t59.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_PAGENUM" widget="textfield autoplay">
+                <description>
+                    <text id="t237">輸入頁碼。</text>
+                    <audio from="" src="./audio/Zh-TW_t281.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t234">按下此按鈕移動到目標頁。</text>
+                    <audio from="" src="./audio/Zh-TW_t246.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t235">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_PUBLICATIONSUMMARY">
+            <note>This dialog contains publication metadata and feedback about the user's current position.</note>
+            <caption>
+                <text id="t238">出版資訊</text>
+                <audio from="" src="./audio/Zh-TW_t40.mp3"/>
+            </caption>
+            <description mfcid="IDC_PUBLICATIONSUMMARYCAPTION">
+                <text id="t214">有關此讀本的資訊</text>
+                <audio from="" src="./audio/Zh-TW_t62.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SUMMARYLIST" widget="list autoplay">
+                <caption>
+                    <text id="t434">讀本資訊清單:</text>
+                    <audio from="" src="./audio/Zh-TW_t285.mp3"/>
+                </caption>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="no">
+                    <caption>
+                        <prompt>
+                            <promptItem>
+                                <text id="t240">書名:</text>
+                                <audio from="" src="./audio/Zh-TW_t76.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TITLE"/>
+                        </prompt>
+                    </caption>
+                    <caption>
+                        <prompt>
+                            <promptItem>
+                                <text id="t241">作者:</text>
+                                <audio from="" src="./audio/Zh-TW_t77.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_CREATOR"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t242">出版單位:</text>
+                                <audio from="" src="./audio/Zh-TW_t78.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_PUBLISHER"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t243">摘要:</text>
+                                <audio from="" src="./audio/Zh-TW_t79.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DESC"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t351">錄音者:</text>
+                                <audio from="" src="./audio/Zh-TW_t80.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_NARRATOR"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t249">總時數:</text>
+                                <audio from="" src="./audio/Zh-TW_t81.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TOTALTIME"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t352">總頁數:</text>
+                                <audio from="" src="./audio/Zh-TW_t82.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_NUMPAGES"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t353">日期:</text>
+                                <audio from="" src="./audio/Zh-TW_t83.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DATE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t354">格式:</text>
+                                <audio from="" src="./audio/Zh-TW_t84.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_FORMAT"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t355">Features:</text>
+                                <audio from="" src="./audio/Zh-TW_t85.mp3"/>
+                            </promptItem>
+                            <promptVar name="TOC_CATEGORIES"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t356">目前頁數:</text>
+                                <audio from="" src="./audio/Zh-TW_t86.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_PAGE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t215">目前章節:</text>
+                                <audio from="" src="./audio/Zh-TW_t87.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_TITLE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t390">章節內容:</text>
+                                <audio from="" src="./audio/Zh-TW_t92.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_NUM_SUBSECTIONS"/>
+                            <promptItem>
+                                <text id="t217">子章節,</text>
+                                <audio from="" src="./audio/Zh-TW_t90.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
+                            <promptItem>
+                                <text id="t216">頁</text>
+                                <audio from="" src="./audio/Zh-TW_t91.mp3"/>
+                            </promptItem>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t244">標題總數:</text>
+                                <audio from="" src="./audio/Zh-TW_t89.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TOCITEMS"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t245">層級深度:</text>
+                                <audio from="" src="./audio/Zh-TW_t88.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DEPTH"/>
+                        </prompt>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_TEXTSTYLE">
+            <note>This dialog lets the user set text style properties.</note>
+            <caption>
+                <text id="t358">文字樣式</text>
+                <audio from="" src="./audio/Zh-TW_t18.mp3"/>
+            </caption>
+            <description>
+                <text id="t359">您可以在此變更文字樣式。</text>
+                <audio from="" src="./audio/Zh-TW_t261.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_FONT" widget="list autoplay">
+                <caption mfcid="IDC_FONTLABEL">
+                    <text id="t360">字型:</text>
+                    <audio from="" src="./audio/Zh-TW_t72.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="FONT_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTFOREGROUND" widget="list">
+                <caption mfcid="IDC_HIGHLIGHTFOREGROUNDLABEL">
+                    <text id="t362">強調文字的顏色:</text>
+                    <audio from="" src="./audio/Zh-TW_t73.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="FOREGROUND_COLOR_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTBACKGROUND" widget="list">
+                <caption mfcid="IDC_HIGHLIGHTBACKGROUNDLABEL">
+                    <text id="t364">強調文字的背景顏色:</text>
+                    <audio from="" src="./audio/Zh-TW_t74.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BACKGROUND_COLOR_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t366">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_OPENURL">
+            <note>This is the open URL dialog</note>
+            <caption>
+                <text id="t368">開啟URL</text>
+                <audio from="" src="./audio/Zh-TW_t3.mp3"/>
+            </caption>
+            <description mfcid="IDC_OPENURL_CAPTION">
+                <text id="t369">輸入想要開啟讀本的URL:</text>
+                <audio from="" src="./audio/Zh-TW_t63.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_URL" widget="textfield autoplay">
+                <description>
+                    <text id="t371">在此欄位輸入URL。</text>
+                    <audio from="" src="./audio/Zh-TW_t229.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t372">按下此按鈕載入URL</text>
+                    <audio from="" src="./audio/Zh-TW_t251.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t367">C</text>
+                    <audio from="" src="./audio/Zh-TW_t156.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+    </dialogs>
+    <prompts>
+        <promptItemRefs>
+            <promptItem id="useArrowsList">
+                <text id="t380">使用方向鍵移動清單中的項目。</text>
+                <audio from="" src="./audio/Zh-TW_t235.mp3"/>
+            </promptItem>
+            <promptItem id="thisItem">
+                <text id="t252">本項目</text>
+                <audio from="" src="./audio/Zh-TW_t224.mp3"/>
+            </promptItem>
+            <promptItem id="spaceToToggle">
+                <text id="t253">按空白鍵切換。</text>
+                <audio from="" src="./audio/Zh-TW_t254.mp3"/>
+            </promptItem>
+            <promptItem id="tabAround">
+                <text id="t254">按Tab鍵移動對話框項目。</text>
+                <audio from="" src="./audio/Zh-TW_t244.mp3"/>
+            </promptItem>
+            <promptItem id="thisItemIsCurrently">
+                <text id="t258">目前項目</text>
+                <audio from="" src="./audio/Zh-TW_t227.mp3"/>
+            </promptItem>
+            <promptItem id="enter_to_close">
+                <text id="t259">按Enter鍵關閉本對話框</text>
+                <audio from="" src="./audio/Zh-TW_t241.mp3"/>
+            </promptItem>
+            <promptItem id="ok_button_caption">
+                <text id="t262">確定</text>
+                <audio from="" src="./audio/Zh-TW_t49.mp3"/>
+            </promptItem>
+            <promptItem id="ok_button_description">
+                <text id="t263">按確定關閉本對話框</text>
+                <audio from="" src="./audio/Zh-TW_t255.mp3"/>
+            </promptItem>
+            <promptItem id="cancel_button_caption">
+                <text id="t264">取消</text>
+                <audio from="" src="./audio/Zh-TW_t57.mp3"/>
+            </promptItem>
+            <promptItem id="cancel_button_description">
+                <text id="t265">按取消退出本對話框</text>
+                <audio from="" src="./audio/Zh-TW_t253.mp3"/>
+            </promptItem>
+            <promptItem id="thisDialogNotSelfVoicing">
+                <text id="t268">本對話框無語音提示。</text>
+                <audio from="" src="./audio/Zh-TW_t225.mp3"/>
+            </promptItem>
+            <promptItem id="escapeToCancel">
+                <text id="t269">按ESC鍵取消。</text>
+                <audio from="" src="./audio/Zh-TW_t242.mp3"/>
+            </promptItem>
+            <promptItem id="hearDlgInstructions">
+                <text id="t270">按F1開啟說明</text>
+                <audio from="" src="./audio/Zh-TW_t243.mp3"/>
+            </promptItem>
+            <promptItem id="nav_window">
+                <text id="t272">導航</text>
+                <audio from="" src="./audio/Zh-TW_t26.mp3"/>
+            </promptItem>
+            <promptItem id="sections">
+                <text id="t273">章節</text>
+                <audio from="" src="./audio/Zh-TW_t103.mp3"/>
+            </promptItem>
+            <promptItem id="pages">
+                <text id="t274">頁</text>
+                <audio from="" src="./audio/Zh-TW_t91.mp3"/>
+            </promptItem>
+            <promptItem id="noterefs">
+                <text id="t275">註腳</text>
+                <audio from="" src="./audio/Zh-TW_t104.mp3"/>
+            </promptItem>
+            <promptItem id="prodnotes">
+                <text id="t276">製作者標記</text>
+                <audio from="" src="./audio/Zh-TW_t105.mp3"/>
+            </promptItem>
+            <promptItem id="sidebars">
+                <text id="t277">側邊框</text>
+                <audio from="" src="./audio/Zh-TW_t106.mp3"/>
+            </promptItem>
+            <promptItem id="groups">
+                <text id="t278">群組項目</text>
+                <audio from="" src="./audio/Zh-TW_t107.mp3"/>
+            </promptItem>
+            <promptItem id="ready">
+                <text id="t280">準備就緒</text>
+                <audio from="" src="./audio/Zh-TW_t56.mp3"/>
+            </promptItem>
+            <promptItem id="selfolder_title">
+                <text id="t282">選擇一個資料夾</text>
+                <audio from="" src="./audio/Zh-TW_t146.mp3"/>
+            </promptItem>
+            <promptItem id="selfolder_instr">
+                <text id="t283">從目錄中選擇一個資料夾</text>
+                <audio from="" src="./audio/Zh-TW_t147.mp3"/>
+            </promptItem>
+            <promptItem id="daisy_books">
+                <note>This is for the file open dialog's file type filter</note>
+                <text id="t284">DAISY讀本</text>
+                <audio from="" src="./audio/Zh-TW_t151.mp3"/>
+            </promptItem>
+            <promptItem id="folder_does_not_exist">
+                <text id="t285">資料夾 %s 不存在。是否要建立此資料夾?</text>
+                <audio from="" src="./audio/Zh-TW_t148.mp3"/>
+            </promptItem>
+            <promptItem id="folder_invalid">
+                <text id="t286">資料夾名稱無效。請重新選擇。</text>
+                <audio from="" src="./audio/Zh-TW_t149.mp3"/>
+            </promptItem>
+            <promptItem id="cant_create_folder">
+                <text id="t287">無法建立資料夾，請再次確認。</text>
+                <audio from="" src="./audio/Zh-TW_t150.mp3"/>
+            </promptItem>
+            <promptItem id="not_available">
+                <text id="t288">無效</text>
+                <audio from="" src="./audio/Zh-TW_t93.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_zero">
+                <note>All numerals should be translated into numerals, not words.</note>
+                <text id="t289">0</text>
+                <audio from="" src="./audio/Zh-TW_t201.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_one">
+                <text id="t290">1</text>
+                <audio from="" src="./audio/Zh-TW_t202.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_two">
+                <text id="t291">2</text>
+                <audio from="" src="./audio/Zh-TW_t203.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_three">
+                <text id="t292">3</text>
+                <audio from="" src="./audio/Zh-TW_t204.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_four">
+                <text id="t293">4</text>
+                <audio from="" src="./audio/Zh-TW_t205.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_five">
+                <text id="t294">5</text>
+                <audio from="" src="./audio/Zh-TW_t206.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_six">
+                <text id="t295">6</text>
+                <audio from="" src="./audio/Zh-TW_t207.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_seven">
+                <text id="t296">7</text>
+                <audio from="" src="./audio/Zh-TW_t208.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_eight">
+                <text id="t297">8</text>
+                <audio from="" src="./audio/Zh-TW_t209.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_nine">
+                <text id="t298">9</text>
+                <audio from="" src="./audio/Zh-TW_t210.mp3"/>
+            </promptItem>
+            <promptItem id="will_be_skipped">
+                <text id="t300">將被跳過</text>
+                <audio from="" src="./audio/Zh-TW_t258.mp3"/>
+            </promptItem>
+            <promptItem id="will_be_played">
+                <text id="t301">將被播放</text>
+                <audio from="" src="./audio/Zh-TW_t259.mp3"/>
+            </promptItem>
+            <promptItem id="item_selected">
+                <text id="t304">已選取</text>
+                <audio from="" src="./audio/Zh-TW_t222.mp3"/>
+            </promptItem>
+            <promptItem id="item_deselected">
+                <text id="t305">未選取</text>
+                <audio from="" src="./audio/Zh-TW_t221.mp3"/>
+            </promptItem>
+            <promptItem id="menu">
+                <text id="t308">選單</text>
+                <audio from="" src="./audio/Zh-TW_t282.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="keyboardShortcut">
+                <text id="t306">快速鍵</text>
+                <audio from="" src="./audio/Zh-TW_t43.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="icon">
+                <text id="t307">圖示</text>
+                <audio from="" src="./audio/Zh-TW_t277.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="followedBy">
+                <note>This is used in the context of a sequence of key presses, as in &quot;Press Alt + V, followed by S&quot;.  </note>
+                <text id="t309">接下來是</text>
+                <audio from="" src="./audio/Zh-TW_t262.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="submenu">
+                <text id="t310">子選單</text>
+                <audio from="" src="./audio/Zh-TW_t219.mp3"/>
+            </promptItem>
+        </promptItemRefs>
+        <generalPrompts>
+            <prompt id="dialogClosed">
+                <promptItem>
+                    <text id="t311">對話框已關閉。</text>
+                    <audio from="" src="./audio/Zh-TW_t278.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="textFieldEntry">
+                <promptItem>
+                    <text id="t312">本文字欄位包括:</text>
+                    <audio from="" src="./audio/Zh-TW_t223.mp3"/>
+                </promptItem>
+                <promptVar name="TEXT_FIELD"/>
+            </prompt>
+            <prompt id="bookAtPathChanged">
+                <promptItem>
+                    <text id="t313">沒有找到您要開啟的讀本。</text>
+                    <audio from="" src="./audio/Zh-TW_t234.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="generalBookError">
+                <promptItem>
+                    <text id="t314">無法開啟此讀本。</text>
+                    <audio from="" src="./audio/Zh-TW_t102.mp3"/>
+                </promptItem>
+                <promptVar name="BOOK_PATH"/>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="noCdLoaded">
+                <promptItem>
+                    <text id="t315">未放入CD。</text>
+                    <audio from="" src="./audio/Zh-TW_t226.mp3"/>
+                </promptItem>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="OpenFile_notSelfVoicing">
+                <promptItem>
+                    <text id="t319">開啟檔案對話框</text>
+                    <audio from="" src="./audio/Zh-TW_t271.mp3"/>
+                </promptItem>
+                <promptItem refid="thisDialogNotSelfVoicing"/>
+                <promptItem refid="escapeToCancel"/>
+            </prompt>
+            <prompt id="BrowseForFolder_notSelfVoicing">
+                <promptItem>
+                    <text id="t321">瀏覽資料夾對話框</text>
+                    <audio from="" src="./audio/Zh-TW_t283.mp3"/>
+                </promptItem>
+                <promptItem refid="thisDialogNotSelfVoicing"/>
+                <promptItem refid="escapeToCancel"/>
+            </prompt>
+            <prompt id="loading">
+                <promptItem>
+                    <text id="t324">讀取中</text>
+                    <audio from="" src="./audio/Zh-TW_t286.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="restartForChanges">
+                <promptItem>
+                    <text id="t325">請重新啟動AMIS，以轉換語系。</text>
+                    <audio from="" src="./audio/Zh-TW_t100.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="noBooksFoundOnCd">
+                <promptItem>
+                    <text id="t326">並未在CD-ROM中找到DAISY讀本。</text>
+                    <audio from="" src="./audio/Zh-TW_t99.mp3"/>
+                </promptItem>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="done">
+                <promptItem>
+                    <text id="t376">已完成</text>
+                    <audio from="" src="./audio/Zh-TW_t220.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="sidebarHasFocus">
+                <promptItem>
+                    <text id="t377">焦點在導航窗格</text>
+                    <audio from="" src="./audio/Zh-TW_t268.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="textWindowHasFocus">
+                <promptItem>
+                    <text id="t378">焦點在本文窗格</text>
+                    <audio from="" src="./audio/Zh-TW_t267.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="generalBookErrorReloading">
+                <promptItem>
+                    <text id="t382">無法開啟讀本。AMIS將會重新開啟先前的讀本。</text>
+                    <audio from="" src="./audio/Zh-TW_t101.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="shift_key">
+                <promptItem>
+                    <text id="t383">shift</text>
+                    <audio from="" src="./audio/Zh-TW_t211.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="control_key">
+                <promptItem>
+                    <text id="t384">control</text>
+                    <audio from="" src="./audio/Zh-TW_t212.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="alt_key">
+                <promptItem>
+                    <text id="t385">alt</text>
+                    <audio from="" src="./audio/Zh-TW_t213.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="space_key">
+                <promptItem>
+                    <text id="t386">space</text>
+                    <audio from="" src="./audio/Zh-TW_t214.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="delete_key">
+                <promptItem>
+                    <text id="t387">delete</text>
+                    <audio from="" src="./audio/Zh-TW_t215.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="backspace_key">
+                <promptItem>
+                    <text id="t388">backspace</text>
+                    <audio from="" src="./audio/Zh-TW_t216.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="enter_key">
+                <promptItem>
+                    <text id="t389">enter</text>
+                    <audio from="" src="./audio/Zh-TW_t217.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="searching_for_text">
+               <promptItem>
+                 <text id="t435">搜尋文字</text>
+                 <audio from="" src="./audio/Zh-TW_t272.mp3"/>
+               </promptItem>
+           </prompt>
+           <prompt id="not_found">
+             <promptItem>
+               <text id="t436">沒有找到相符文字</text>
+               <audio from="" src="./audio/Zh-TW_t233.mp3"/>
+             </promptItem>
+           </prompt>
+           <prompt id="paused">
+             <promptItem>
+               <text id="t437">Paused</text>
+               <audio from="" src="./audio/Zh-TW_t279.mp3"/>
+             </promptItem>
+           </prompt>
+          </generalPrompts>
+    </prompts>
+</ui>
