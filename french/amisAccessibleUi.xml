@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-01-07_16:49:11"/>
+    <created by="DAISY Lion" date="2010-05-21_15:36:54"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -661,8 +661,8 @@
                     <audio from="" src="./audio/t112.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+N">
-                <text id="t113">Alt+N</text>
+            <accelerator keys="Alt+E">
+                <text id="t113">Alt+E</text>
                 <audio from="" src="./audio/t113.mp3"/>
             </accelerator>
             <mnemonic>
@@ -807,8 +807,8 @@
                     <audio from="" src="./audio/t143.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+H">
-                <text id="t144">Alt+H</text>
+            <accelerator keys="Alt+A">
+                <text id="t144">Alt+A</text>
                 <audio from="" src="./audio/t144.mp3"/>
             </accelerator>
             <mnemonic>
