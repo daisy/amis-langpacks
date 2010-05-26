@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-04-22_13:33:33"/>
+    <created by="DAISY Lion" date="2010-05-25_20:38:03"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -486,7 +486,7 @@
         <container id="navigate">
             <note>This is the menu header &quot;Navigate&quot;</note>
             <caption>
-                <text id="t81">Navigate</text>
+                <text id="t81">導航</text>
                 <audio from="" src="./audio/Zh-TW_t26.mp3"/>
             </caption>
             <action mfcid="ID_AMIS_PREVIOUS_SECTION" widget="menuItem toolbarItem">
@@ -1472,7 +1472,7 @@ Adaptive Multimedia Information System</text>
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t355">Features:</text>
+                                <text id="t355">導航項目:</text>
                                 <audio from="" src="./audio/Zh-TW_t85.mp3"/>
                             </promptItem>
                             <promptVar name="TOC_CATEGORIES"/>
@@ -2013,7 +2013,7 @@ Adaptive Multimedia Information System</text>
            </prompt>
            <prompt id="paused">
              <promptItem>
-               <text id="t437">Paused</text>
+               <text id="t437">暫停</text>
                <audio from="" src="./audio/Zh-TW_t279.mp3"/>
              </promptItem>
            </prompt>
