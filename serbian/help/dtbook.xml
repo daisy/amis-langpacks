@@ -1,0 +1,463 @@
+<?xml version="1.0"?>
+<!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+<dtbook version="2005-3" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/dtbook/">
+  <head>
+    <meta name="dtb:uid" content="amis-help-sr-BA" />
+    <meta name="dtb:generator" content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+    <meta name="dc:Title" content="Amis Help" />
+    <meta name="dc:Publisher" content="AMIS Project" />
+    <meta name="dc:Date" content="2010-05-10" />
+    <meta name="dc:Language" content="sr" />
+  </head>
+  <book>
+    <bodymatter>
+      <level1>
+        <h1 id="dtb_3">
+          <sent id="dtb_4">Амис – Упутство за употребу</sent>
+        </h1>
+        <p id="dtb_5">
+          <sent id="dtb_6"> Овај документ укратко ће вас упознати са Амисом, његовим карактеристикама, техничким захтјевима и могућностима. </sent>
+          <sent id="dtb_7"> За листу свих команди и пречица на тастатури, молим вас да прочитате документ „Пречице за тастатуру“, који се налази у менију за помоћ. </sent>
+        </p>
+        <level2>
+          <h2 id="dtb_8">
+            <sent id="dtb_9">Шта је Амис?</sent>
+          </h2>
+          <div id="dtb_10">
+            <p class="inserted-by-transformer" id="dtb_11">
+              <span class="image" id="dtb_12">
+                <img src="amishelp_files_amis.jpg" alt="AMIS logo" id="dtb_13" />
+              </span>
+            </p>
+          </div>
+          <p id="dtb_14">
+            <sent id="dtb_15">Амис представља прилагодљиви мултимедијални информациони систем (Adaptive Multimedia Information System).</sent>
+          </p>
+          <p id="dtb_16">
+            <sent id="dtb_17"> Амис је софтверски програм који можете користити за читање дејзи књига. </sent>
+            <sent id="dtb_18"> Он је самоговорећи, што значи да није потребан специјализован софтвер за читање с екрана да би га користиле особе с оштећеним видом. </sent>
+            <sent id="dtb_19"> Амис је софтвер отвореног кода и бесплатан је. </sent>
+            <sent id="dtb_20"> Преведен је на десетине језика. </sent>
+            <sent id="dtb_21">Идите на http://amisproject.org за преузимање језичких пакета.</sent>
+          </p>
+        </level2>
+        <level2>
+          <h2 id="dtb_22">
+            <sent id="dtb_23">Шта је Дејзи?</sent>
+          </h2>
+          <div id="dtb_24">
+            <p class="inserted-by-transformer" id="dtb_25">
+              <span class="image" id="dtb_26">
+                <img src="amishelp_files_daisy.jpg" alt="DAISY logo" id="dtb_27" />
+              </span>
+            </p>
+          </div>
+          <p id="dtb_28">
+            <sent id="dtb_29"> Дејзи је скраћеница за дигитални приступачни информациони систем (Digital Accessible Information SYstem). </sent>
+            <sent id="dtb_30"> Дејзи књиге су потпуно доступне говорне књиге. </sent>
+            <sent id="dtb_31"> Уобичајене карактеристике књига као што су одломци, стране, фусноте, бочне траке, забиљешке, представљене су тако да омогућавају корисницима брзо претраживање. </sent>
+          </p>
+          <p id="dtb_32">
+            <sent id="dtb_33"> У ствари, документ који сад читате је дејзи књига! </sent>
+            <sent id="dtb_34"> Можете да видите и чујете синхрониизован текст и звук, и да се помјерате по одломцима или фразама. </sent>
+          </p>
+          <p id="dtb_35">
+            <sent id="dtb_36"> Дејзи стандард је глобално препознат технички стандард, првобитно развијен да користи људима који не могу да читају штампани текст усљед инвалидитета. </sent>
+            <sent id="dtb_37">Такође он има широку примјену када је у питању напредан приступ главном тексту.</sent>
+          </p>
+          <p id="dtb_38">
+            <sent id="dtb_39"> Дејзи конзорцијум основан је 1966. и чине га организације широм свијета, чији број непрестано расте, а које су посвећене развоју слободног приступа информацијама за људе са потешкоћама у читању. </sent>
+          </p>
+          <p id="dtb_40">
+            <sent id="dtb_41">Можете научити више о Дејзију на http://daisy.org .</sent>
+          </p>
+        </level2>
+        <level2>
+          <h2 id="dtb_42">
+            <sent id="dtb_43">Подржавани формати</sent>
+          </h2>
+          <p id="dtb_44">
+            <sent id="dtb_45">Следећи формати докумената су подржани од стране Амиса:</sent>
+          </p>
+          <list type="ul" id="dtb_46" smilref="0005.smil#sm_338">
+            <li id="dtb_47">
+              <sent id="dtb_48"> DAISY 2.02 </sent>
+            </li>
+            <li id="dtb_49">
+              <sent id="dtb_50">DAISY 3 (такође је познат као ANSI/NISO z39.86-2005)</sent>
+            </li>
+          </list>
+        </level2>
+        <level2>
+          <h2 id="dtb_51">
+            <sent id="dtb_52">Системски захтјеви</sent>
+          </h2>
+          <p id="dtb_53">
+            <sent id="dtb_54">Захтјева се слиједећа конфигурација рачунара:</sent>
+          </p>
+          <list type="ul" id="dtb_55" smilref="0006.smil#sm_350">
+            <li id="dtb_56">
+              <sent id="dtb_57">Windows XP, Windows Vista, Windows 2000</sent>
+            </li>
+            <li id="dtb_58">
+              <sent id="dtb_59">DirectX 9</sent>
+            </li>
+            <li id="dtb_60">
+              <sent id="dtb_61">SAPI 5.1 машина за говорни текст</sent>
+            </li>
+            <li id="dtb_62">
+              <sent id="dtb_63">Internet Explorer 7 (Могу се користити и остале верзије, али ово је препоручена верзија.)</sent>
+            </li>
+            <li id="dtb_64">
+              <sent id="dtb_65">50 MB простора на диску</sent>
+            </li>
+          </list>
+          <p id="dtb_66">
+            <sent id="dtb_67">Амисов програм за инсталацију ће пријавити ако нека од тражених компоненти недостаје.</sent>
+          </p>
+        </level2>
+        <level2>
+          <h2 id="dtb_68">
+            <sent id="dtb_69">Изглед екрана</sent>
+          </h2>
+          <p id="dtb_70">
+            <sent id="dtb_71"> Екран има два режима прегледавања: стандардни и основни. </sent>
+            <sent id="dtb_72"> Амис се покреће у стандардном режиму прегледавања осим ако не наредите да се покрене у основном режиму (подешавање се обавља у прозору с подешавањима). </sent>
+          </p>
+          <p id="dtb_73">
+            <sent id="dtb_74"> Стандардни режим има четири главна дијела: мени, прозор са алатима, навигациони прозор улијево и прозор са садржајем у средишту екрана. </sent>
+          </p>
+          <div class="example" id="dtb_75">
+            <img src="amishelp_files_amis-default-view.jpg" alt="default view for AMIS" id="dtb_76" />
+            <p class="caption" id="dtb_77">
+              <sent id="dtb_78">Амис, распоред прозора</sent>
+            </p>
+          </div>
+          <p id="dtb_79">
+            <sent id="dtb_80">Алати имају 11 средњих по величини тастера: отвори књигу, учитај CD, иди на претходну фразу, репродукуј/паузирај, иди на слиједећу фразу, успори, убрзај, мањи фонт слова, већи фонт слова, промјени стил стране и додај биљешку.</sent>
+          </p>
+          <div class="example" id="dtb_81">
+            <img src="amishelp_files_amis-default-toolbar.jpg" alt="default toolbar for AMIS" id="dtb_82" />
+            <p class="caption" id="dtb_83">
+              <sent id="dtb_84">Трака са алатима</sent>
+            </p>
+          </div>
+          <p id="dtb_85">
+            <sent id="dtb_86"> Прозор за навигацију садржи једну или више означених листа, зависно од тога шта књига садржи. </sent>
+            <sent id="dtb_87"> Прва листа је увијек хијерархијска листа одломака. </sent>
+            <sent id="dtb_88"> Друга листа садржи бројеве страна (ако књига има стране). </sent>
+            <sent id="dtb_89"> Наредне листе садрже посебне јединице као што су фусноте или цифре (такође ако књига садржи те јединице), и сваки тип јединице појављује се у својој листи. </sent>
+          </p>
+          <div class="example" id="dtb_90">
+            <img src="amishelp_files_amis-nav.jpg" alt="the navigation window of AMIS" id="dtb_91" />
+            <p class="caption" id="dtb_92">
+              <sent id="dtb_93">Прозор за навигацију</sent>
+            </p>
+          </div>
+          <p id="dtb_94">
+            <sent id="dtb_95"> Основни режим прегледавања има два главна дијела: алате заједно са доњим дијелом екрана и прозор са садржајем у средишту екрана. </sent>
+            <sent id="dtb_96"> Алати имају четири велика тастера: иди на претходну страну, репродукуј/паузирај, иди на слиједећу фразу, врати на задати режим прегледавања. </sent>
+            <sent id="dtb_97">Нема менија нити прозора за навигацију у основном режиму прегледавања.</sent>
+          </p>
+          <div class="example" id="dtb_98">
+            <img src="amishelp_files_amis-basic-view.jpg" alt="basic view for AMIS" id="dtb_99" />
+            <p class="caption" id="dtb_100">
+              <sent id="dtb_101">Амис, основни режим прегледавања</sent>
+            </p>
+          </div>
+        </level2>
+        <level2>
+          <h2 id="dtb_102">
+            <sent id="dtb_103">Карактеристике</sent>
+          </h2>
+          <p id="dtb_104">
+            <sent id="dtb_105">Слиједећи одломци садрже кратке описе карактеристика Амиса, организоване по темама.</sent>
+          </p>
+          <level3>
+            <h3 id="dtb_106">
+              <sent id="dtb_107">Отварање књиге</sent>
+            </h3>
+            <p id="dtb_108">
+              <sent id="dtb_109">Дејзи књига може да се налази на вашем хард диску, CD ROM-у или на удаљеној локацији.</sent>
+            </p>
+            <list type="ul" id="dtb_110" smilref="0009.smil#sm_404">
+              <li id="dtb_111">
+                <sent id="dtb_112">Отвори недавно читану књигу.</sent>
+              </li>
+              <li id="dtb_113">
+                <sent id="dtb_114">Аутоматски отвори књигу коју си посљедњу читао при покретању</sent>
+              </li>
+              <li id="dtb_115">
+                <sent id="dtb_116">Отвори књигу са командне линије</sent>
+              </li>
+              <li id="dtb_117">
+                <sent id="dtb_118">Отвори садржаје са CD ROM-а који садржи једну или више књигa</sent>
+              </li>
+              <li id="dtb_119">
+                <sent id="dtb_120">Отвори књигу са свог локалног система датотека</sent>
+              </li>
+              <li id="dtb_121">
+                <sent id="dtb_122"> Отвори књигу са удаљеног URL-а </sent>
+              </li>
+            </list>
+          </level3>
+          <level3>
+            <h3 id="dtb_123">
+              <sent id="dtb_124">Контрола преслушавања</sent>
+            </h3>
+            <p id="dtb_125">
+              <sent id="dtb_126"> Дејзи књиге се аутоматски репродукују од почетка до краја. </sent>
+              <sent id="dtb_127">Можете да контролишете слиједеће карактеристике преслушавања:</sent>
+            </p>
+            <list type="ul" id="dtb_128" smilref="0010.smil#sm_426">
+              <li id="dtb_129">
+                <sent id="dtb_130">Репродукуј и паузирај књигу</sent>
+              </li>
+              <li id="dtb_131">
+                <sent id="dtb_132">Убрзај преслушавање</sent>
+              </li>
+              <li id="dtb_133">
+                <sent id="dtb_134">Подеси могућности читања, као што су најаве бројева страна и фусноте</sent>
+              </li>
+            </list>
+          </level3>
+          <level3>
+            <h3 id="dtb_135">
+              <sent id="dtb_136">Навигација</sent>
+            </h3>
+            <p id="dtb_137">
+              <sent id="dtb_138">Поред линеарног преслушавања, дејзи књиге нуде друге начине кретања кроз садржај.</sent>
+            </p>
+            <list type="ul" id="dtb_139" smilref="0011.smil#sm_440">
+              <li id="dtb_140">
+                <sent id="dtb_141">Претходна/Слиједећа фраза</sent>
+              </li>
+              <li id="dtb_142">
+                <sent id="dtb_143">Претходна/Слиједећа страна</sent>
+              </li>
+              <li id="dtb_144">
+                <sent id="dtb_145">Претходни/Слиједећи одломак</sent>
+              </li>
+              <li id="dtb_146">
+                <sent id="dtb_147">Иди на страну</sent>
+              </li>
+              <li id="dtb_148">
+                <sent id="dtb_149">Пронађи текст</sent>
+              </li>
+            </list>
+          </level3>
+          <level3>
+            <h3 id="dtb_150">
+              <sent id="dtb_151">Употреба прозора за навигацију</sent>
+            </h3>
+            <p id="dtb_152">
+              <sent id="dtb_153">Користи јединице у прозору за навигацију за претраживање садржаја књиге.</sent>
+            </p>
+            <list type="ul" id="dtb_154" smilref="0012.smil#sm_458">
+              <li id="dtb_155">
+                <sent id="dtb_156">Хијерархијски преглед одломака</sent>
+              </li>
+              <li id="dtb_157">
+                <sent id="dtb_158">Листа страна</sent>
+              </li>
+              <li id="dtb_159">
+                <sent id="dtb_160">Листа сваког посебног типа јединице у књизи</sent>
+              </li>
+            </list>
+          </level3>
+          <level3>
+            <h3 id="dtb_161">
+              <sent id="dtb_162">Систем забиљешки</sent>
+            </h3>
+            <list type="ul" id="dtb_163" smilref="0013.smil#sm_470">
+              <li id="dtb_164">
+                <sent id="dtb_165">Додај забиљешку (аутоматски именовану на основу тога шта обиљежавате)</sent>
+              </li>
+              <li id="dtb_166">
+                <sent id="dtb_167">Иди на забиљешку</sent>
+              </li>
+              <li id="dtb_168">
+                <sent id="dtb_169">Листа забиљешки за одређену књигу учитава се кад отворите књигу.</sent>
+              </li>
+            </list>
+          </level3>
+          <level3>
+            <h3 id="dtb_170">
+              <sent id="dtb_171">Информишите се о издању</sent>
+            </h3>
+            <p id="dtb_172">
+              <sent id="dtb_173"> Лако је добити више информација о књизи коју читате користећи Амисов прозор са садржајем издања. </sent>
+              <sent id="dtb_174">Овдје је комплетна листа онога што је доступно:</sent>
+            </p>
+            <list type="ul" id="dtb_175" smilref="0014.smil#sm_488">
+              <li id="dtb_176">
+                <sent id="dtb_177">Наслов</sent>
+              </li>
+              <li id="dtb_178">
+                <sent id="dtb_179">Аутор</sent>
+              </li>
+              <li id="dtb_180">
+                <sent id="dtb_181">Издавач</sent>
+              </li>
+              <li id="dtb_182">
+                <sent id="dtb_183">Опис</sent>
+              </li>
+              <li id="dtb_184">
+                <sent id="dtb_185">Наратор</sent>
+              </li>
+              <li id="dtb_186">
+                <sent id="dtb_187">Укупно трајање</sent>
+              </li>
+              <li id="dtb_188">
+                <sent id="dtb_189">Укупан број страна</sent>
+              </li>
+              <li id="dtb_190">
+                <sent id="dtb_191">Датум</sent>
+              </li>
+              <li id="dtb_192">
+                <sent id="dtb_193">Формат</sent>
+              </li>
+              <li id="dtb_194">
+                <sent id="dtb_195">Карактеристике (ствари попут одломака, страна и фуснота)</sent>
+              </li>
+              <li id="dtb_196">
+                <sent id="dtb_197">Тренутна страна</sent>
+              </li>
+              <li id="dtb_198">
+                <sent id="dtb_199">Тренутни одломак (укључујући број страна и пододломака)</sent>
+              </li>
+              <li id="dtb_200">
+                <sent id="dtb_201">Укупан број јединица у таблици садржаја</sent>
+              </li>
+              <li id="dtb_202">
+                <sent id="dtb_203">Mаксимална дубина секције</sent>
+              </li>
+            </list>
+            <div class="example" id="dtb_204">
+              <img src="amishelp_files_amis-publication-summary-dialog.jpg" alt="the publication summary dialog" id="dtb_205" />
+              <p class="caption" id="dtb_206">
+                <sent id="dtb_207">Прозор са кратким садржајем издања</sent>
+              </p>
+            </div>
+          </level3>
+          <level3>
+            <h3 id="dtb_208">
+              <sent id="dtb_209">Систем помоћи у Амису</sent>
+            </h3>
+            <list type="ul" id="dtb_210" smilref="0015.smil#sm_524">
+              <li id="dtb_211">
+                <sent id="dtb_212">Сазнај основне информације о Амису</sent>
+              </li>
+              <li id="dtb_213">
+                <sent id="dtb_214">Причитај упутство за употребу (овај документ)</sent>
+              </li>
+              <li id="dtb_215">
+                <sent id="dtb_216">Научи све команде и пречице за Амис</sent>
+              </li>
+            </list>
+          </level3>
+          <level3>
+            <h3 id="dtb_217">
+              <sent id="dtb_218">Промјени изглед</sent>
+            </h3>
+            <p id="dtb_219">
+              <sent id="dtb_220">Амисов кориснички интрефејс омогућава вам да изаберете различите варијанте за изглед екрана и стил дејзи књига.</sent>
+            </p>
+            <list type="ul" id="dtb_221" smilref="0016.smil#sm_538">
+              <li id="dtb_222">
+                <sent id="dtb_223">Користи основни или стандардни режим прегледавања</sent>
+              </li>
+              <li id="dtb_224">
+                <sent id="dtb_225">Прикажи/Сакриј прозор за навигацију</sent>
+              </li>
+              <li id="dtb_226">
+                <sent id="dtb_227">Помјерај прозор за навигацију по екрану</sent>
+              </li>
+              <li id="dtb_228">
+                <sent id="dtb_229">Промјени стил стране</sent>
+              </li>
+              <li id="dtb_230">
+                <sent id="dtb_231">Повећај фонт слова</sent>
+              </li>
+              <li id="dtb_232">
+                <sent id="dtb_233"> Прилагоди боје за истицање и промјени фонт слова у тексту помоћу прозора за стил </sent>
+              </li>
+            </list>
+          </level3>
+          <level3>
+            <h3 id="dtb_234">
+              <sent id="dtb_235">Систем подешавања</sent>
+            </h3>
+            <p id="dtb_236">
+              <sent id="dtb_237">Слиједећа подешавања су доступна у прозору с подешавањима који се налази у датотека менију.</sent>
+            </p>
+            <list type="ul" id="dtb_238" smilref="0017.smil#sm_558">
+              <li id="dtb_239">
+                <sent id="dtb_240">Укључи или искључи самоговор</sent>
+              </li>
+              <li id="dtb_241">
+                <sent id="dtb_242">Изабери ТТS глас</sent>
+              </li>
+              <li id="dtb_243">
+                <sent id="dtb_244"> Укључи или искључи истицање текста </sent>
+              </li>
+              <li id="dtb_245">
+                <sent id="dtb_246">Учитај посљедњу читану књигу при покретању</sent>
+              </li>
+              <li id="dtb_247">
+                <sent id="dtb_248">Покрени Амис у основном режиму прегледавања</sent>
+              </li>
+              <li id="dtb_249">
+                <sent id="dtb_250">Аутоматски паузирај Амис приликом мијењања апликација</sent>
+              </li>
+              <li id="dtb_251">
+                <sent id="dtb_252">Онемогући чувар екрана приликом кориштења Амиса</sent>
+              </li>
+              <li id="dtb_253">
+                <sent id="dtb_254">Изабери језички пакет који ће се користити у Амису</sent>
+              </li>
+            </list>
+            <div class="example" id="dtb_255">
+              <img src="amishelp_files_amis-preferences-dialog.jpg" alt="the preferences dialog" id="dtb_256" />
+              <p class="caption" id="dtb_257">
+                <sent id="dtb_258">Прозор за подешавања</sent>
+              </p>
+            </div>
+          </level3>
+          <level3>
+            <h3 id="dtb_259">
+              <sent id="dtb_260">Подешавање стила текста</sent>
+            </h3>
+            <p id="dtb_261">
+              <sent id="dtb_262">Слиједећа подешавања су доступна у прозору за стил текста који се налази у преглед менију.</sent>
+            </p>
+            <list type="ul" id="dtb_263" smilref="0018.smil#sm_584">
+              <li id="dtb_264">
+                <sent id="dtb_265">Изабери фонт слова за Амис</sent>
+              </li>
+              <li id="dtb_266">
+                <sent id="dtb_267">Изабери боје предњег плана и позадине за истицање текста за вријеме читања</sent>
+              </li>
+            </list>
+            <div class="example" id="dtb_268">
+              <img src="amishelp_files_amis-text-style-dialog.jpg" alt="The text style dialog" id="dtb_269" />
+              <p class="caption" id="dtb_270">
+                <sent id="dtb_271">Прозор за подешавање стила текста</sent>
+              </p>
+            </div>
+          </level3>
+        </level2>
+        <level2>
+          <h2 id="dtb_272">
+            <sent id="dtb_273">Контактирајте нас</sent>
+          </h2>
+          <p id="dtb_274">
+            <sent id="dtb_275"> Адреса Амисове странице је http://amisproject.org. </sent>
+            <sent id="dtb_276"> Тамо можете наћи све о новим издањима, доступним језичким пакетима, пријављивању грешака у програму и вашем ангажовању. </sent>
+            <sent id="dtb_277">Унапред се радујемо вашем јављању.</sent>
+          </p>
+        </level2>
+      </level1>
+    </bodymatter>
+  </book>
+</dtbook>

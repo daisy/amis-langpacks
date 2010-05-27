@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd" []>
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content="amis-help-sr-BA" />
+    <meta name="dtb:generator" content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+    <meta name="dtb:totalElapsedTime" content="00:08:13.0902042" />
+  </head>
+  <body>
+    <seq id="sm_519" dur="00:00:13.4530612" fill="remove">
+      <seq id="sm_520" class="h3" fill="remove">
+        <par id="sm_521">
+          <text id="sm_522" src="dtbook.xml#dtb_209" />
+          <audio clipBegin="00:00:00" clipEnd="00:00:02.3248980" src="aud014.mp3" />
+        </par>
+      </seq>
+      <seq id="sm_524" class="list" end="DTBuserEscape;sm_529.end" fill="remove">
+        <par id="sm_525">
+          <text id="sm_526" src="dtbook.xml#dtb_212" />
+          <audio clipBegin="00:00:02.3248980" clipEnd="00:00:05.7469388" src="aud014.mp3" />
+        </par>
+        <par id="sm_527">
+          <text id="sm_528" src="dtbook.xml#dtb_214" />
+          <audio clipBegin="00:00:05.7469388" clipEnd="00:00:09.8220408" src="aud014.mp3" />
+        </par>
+        <par id="sm_529">
+          <text id="sm_530" src="dtbook.xml#dtb_216" />
+          <audio clipBegin="00:00:09.8220408" clipEnd="00:00:13.4530612" src="aud014.mp3" />
+        </par>
+      </seq>
+    </seq>
+  </body>
+</smil>

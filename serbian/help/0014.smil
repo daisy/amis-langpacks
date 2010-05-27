@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd" []>
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content="amis-help-sr-BA" />
+    <meta name="dtb:generator" content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+    <meta name="dtb:totalElapsedTime" content="00:07:28.8958731" />
+  </head>
+  <body>
+    <seq id="sm_479" dur="00:00:44.1943311" fill="remove">
+      <seq id="sm_480" class="h3" fill="remove">
+        <par id="sm_481">
+          <text id="sm_482" src="dtbook.xml#dtb_170" />
+          <audio clipBegin="00:00:00" clipEnd="00:00:02.4816327" src="aud013.mp3" />
+        </par>
+      </seq>
+      <par id="sm_484">
+        <text id="sm_485" src="dtbook.xml#dtb_173" />
+        <audio clipBegin="00:00:02.4816327" clipEnd="00:00:10.6410884" src="aud013.mp3" />
+      </par>
+      <par id="sm_486">
+        <text id="sm_487" src="dtbook.xml#dtb_174" />
+        <audio clipBegin="00:00:10.6410884" clipEnd="00:00:14.3363719" src="aud013.mp3" />
+      </par>
+      <seq id="sm_488" class="list" end="DTBuserEscape;sm_515.end" fill="remove">
+        <par id="sm_489">
+          <text id="sm_490" src="dtbook.xml#dtb_177" />
+          <audio clipBegin="00:00:14.3363719" clipEnd="00:00:15.4596372" src="aud013.mp3" />
+        </par>
+        <par id="sm_491">
+          <text id="sm_492" src="dtbook.xml#dtb_179" />
+          <audio clipBegin="00:00:15.4596372" clipEnd="00:00:16.4784127" src="aud013.mp3" />
+        </par>
+        <par id="sm_493">
+          <text id="sm_494" src="dtbook.xml#dtb_181" />
+          <audio clipBegin="00:00:16.4784127" clipEnd="00:00:17.8106576" src="aud013.mp3" />
+        </par>
+        <par id="sm_495">
+          <text id="sm_496" src="dtbook.xml#dtb_183" />
+          <audio clipBegin="00:00:17.8106576" clipEnd="00:00:18.8816780" src="aud013.mp3" />
+        </par>
+        <par id="sm_497">
+          <text id="sm_498" src="dtbook.xml#dtb_185" />
+          <audio clipBegin="00:00:18.8816780" clipEnd="00:00:20.1094331" src="aud013.mp3" />
+        </par>
+        <par id="sm_499">
+          <text id="sm_500" src="dtbook.xml#dtb_187" />
+          <audio clipBegin="00:00:20.1094331" clipEnd="00:00:21.8073923" src="aud013.mp3" />
+        </par>
+        <par id="sm_501">
+          <text id="sm_502" src="dtbook.xml#dtb_189" />
+          <audio clipBegin="00:00:21.8073923" clipEnd="00:00:23.8971882" src="aud013.mp3" />
+        </par>
+        <par id="sm_503">
+          <text id="sm_504" src="dtbook.xml#dtb_191" />
+          <audio clipBegin="00:00:23.8971882" clipEnd="00:00:25.0726984" src="aud013.mp3" />
+        </par>
+        <par id="sm_505">
+          <text id="sm_506" src="dtbook.xml#dtb_193" />
+          <audio clipBegin="00:00:25.0726984" clipEnd="00:00:26.2482086" src="aud013.mp3" />
+        </par>
+        <par id="sm_507">
+          <text id="sm_508" src="dtbook.xml#dtb_195" />
+          <audio clipBegin="00:00:26.2482086" clipEnd="00:00:31.6033107" src="aud013.mp3" />
+        </par>
+        <par id="sm_509">
+          <text id="sm_510" src="dtbook.xml#dtb_197" />
+          <audio clipBegin="00:00:31.6033107" clipEnd="00:00:33.1445351" src="aud013.mp3" />
+        </par>
+        <par id="sm_511">
+          <text id="sm_512" src="dtbook.xml#dtb_199" />
+          <audio clipBegin="00:00:33.1445351" clipEnd="00:00:38.3951474" src="aud013.mp3" />
+        </par>
+        <par id="sm_513">
+          <text id="sm_514" src="dtbook.xml#dtb_201" />
+          <audio clipBegin="00:00:38.3951474" clipEnd="00:00:41.7910658" src="aud013.mp3" />
+        </par>
+        <par id="sm_515">
+          <text id="sm_516" src="dtbook.xml#dtb_203" />
+          <audio clipBegin="00:00:41.7910658" clipEnd="00:00:44.1943311" src="aud013.mp3" />
+        </par>
+      </seq>
+      <par id="sm_517">
+        <text id="sm_518" src="dtbook.xml#dtb_207" />
+      </par>
+    </seq>
+  </body>
+</smil>

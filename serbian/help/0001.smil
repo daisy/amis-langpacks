@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content="amis-help-sr-BA" />
+    <meta name="dtb:generator" content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+    <meta name="dtb:totalElapsedTime" content="00:00:00" />
+  </head>
+  <body>
+    <seq id="sm_278" dur="00:00:00" fill="remove">
+      <seq id="sm_279" class="doctitle">
+        <par id="sm_280">
+          <text id="sm_281" src="dtbook.xml#dtb_2" />
+        </par>
+      </seq>
+    </seq>
+  </body>
+</smil>

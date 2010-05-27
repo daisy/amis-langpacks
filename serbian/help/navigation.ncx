@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd" []>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+  <head>
+    <meta name="dtb:uid" content="amis-help-sr-BA" />
+    <meta name="dtb:generator" content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Амис – Упутство за употребу</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="h1" id="ncx_286" playOrder="1">
+      <navLabel>
+        <text>Амис – Упутство за употребу</text>
+        <audio clipBegin="00:00:00" clipEnd="00:00:02.8473469" src="aud001.mp3" />
+      </navLabel>
+      <content src="0002.smil#sm_284" />
+      <navPoint class="h2" id="ncx_295" playOrder="2">
+        <navLabel>
+          <text>Шта је Амис?</text>
+          <audio clipBegin="00:00:00" clipEnd="00:00:01.6457143" src="aud002.mp3" />
+        </navLabel>
+        <content src="0003.smil#sm_293" />
+      </navPoint>
+      <navPoint class="h2" id="ncx_312" playOrder="3">
+        <navLabel>
+          <text>Шта је Дејзи?</text>
+          <audio clipBegin="00:00:00" clipEnd="00:00:01.6457143" src="aud003.mp3" />
+        </navLabel>
+        <content src="0004.smil#sm_310" />
+      </navPoint>
+      <navPoint class="h2" id="ncx_335" playOrder="4">
+        <navLabel>
+          <text>Подржавани формати</text>
+          <audio clipBegin="00:00:00" clipEnd="00:00:01.8285714" src="aud004.mp3" />
+        </navLabel>
+        <content src="0005.smil#sm_333" />
+      </navPoint>
+      <navPoint class="h2" id="ncx_347" playOrder="5">
+        <navLabel>
+          <text>Системски захтјеви</text>
+          <audio clipBegin="00:00:00" clipEnd="00:00:02.1681633" src="aud005.mp3" />
+        </navLabel>
+        <content src="0006.smil#sm_345" />
+      </navPoint>
+      <navPoint class="h2" id="ncx_367" playOrder="6">
+        <navLabel>
+          <text>Изглед екрана</text>
+          <audio clipBegin="00:00:00" clipEnd="00:00:01.5934694" src="aud006.mp3" />
+        </navLabel>
+        <content src="0007.smil#sm_365" />
+      </navPoint>
+      <navPoint class="h2" id="ncx_394" playOrder="7">
+        <navLabel>
+          <text>Карактеристике</text>
+          <audio clipBegin="00:00:00" clipEnd="00:00:02.0114286" src="aud007.mp3" />
+        </navLabel>
+        <content src="0008.smil#sm_392" />
+        <navPoint class="h3" id="ncx_401" playOrder="8">
+          <navLabel>
+            <text>Отварање књиге</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:02.0375510" src="aud008.mp3" />
+          </navLabel>
+          <content src="0009.smil#sm_399" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_421" playOrder="9">
+          <navLabel>
+            <text>Контрола преслушавања</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:02.9518367" src="aud009.mp3" />
+          </navLabel>
+          <content src="0010.smil#sm_419" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_437" playOrder="10">
+          <navLabel>
+            <text>Навигација</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:01.4889796" src="aud010.mp3" />
+          </navLabel>
+          <content src="0011.smil#sm_435" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_455" playOrder="11">
+          <navLabel>
+            <text>Употреба прозора за навигацију</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:02.8473469" src="aud011.mp3" />
+          </navLabel>
+          <content src="0012.smil#sm_453" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_469" playOrder="12">
+          <navLabel>
+            <text>Систем забиљешки</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:02.1159184" src="aud012.mp3" />
+          </navLabel>
+          <content src="0013.smil#sm_467" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_483" playOrder="13">
+          <navLabel>
+            <text>Информишите се о издању</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:02.4816327" src="aud013.mp3" />
+          </navLabel>
+          <content src="0014.smil#sm_481" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_523" playOrder="14">
+          <navLabel>
+            <text>Систем помоћи у Амису</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:02.3248980" src="aud014.mp3" />
+          </navLabel>
+          <content src="0015.smil#sm_521" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_535" playOrder="15">
+          <navLabel>
+            <text>Промјени изглед</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:01.6979592" src="aud015.mp3" />
+          </navLabel>
+          <content src="0016.smil#sm_533" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_555" playOrder="16">
+          <navLabel>
+            <text>Систем подешавања</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:01.8285714" src="aud016.mp3" />
+          </navLabel>
+          <content src="0017.smil#sm_553" />
+        </navPoint>
+        <navPoint class="h3" id="ncx_581" playOrder="17">
+          <navLabel>
+            <text>Подешавање стила текста</text>
+            <audio clipBegin="00:00:00" clipEnd="00:00:02.4293878" src="aud017.mp3" />
+          </navLabel>
+          <content src="0018.smil#sm_579" />
+        </navPoint>
+      </navPoint>
+      <navPoint class="h2" id="ncx_595" playOrder="18">
+        <navLabel>
+          <text>Контактирајте нас</text>
+          <audio clipBegin="00:00:00" clipEnd="00:00:01.9330612" src="aud018.mp3" />
+        </navLabel>
+        <content src="0019.smil#sm_593" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

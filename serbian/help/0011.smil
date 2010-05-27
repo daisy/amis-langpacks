@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd" []>
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content="amis-help-sr-BA" />
+    <meta name="dtb:generator" content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+    <meta name="dtb:totalElapsedTime" content="00:06:39.0548981" />
+  </head>
+  <body>
+    <seq id="sm_433" dur="00:00:18.3373016" fill="remove">
+      <seq id="sm_434" class="h3" fill="remove">
+        <par id="sm_435">
+          <text id="sm_436" src="dtbook.xml#dtb_136" />
+          <audio clipBegin="00:00:00" clipEnd="00:00:01.4889796" src="aud010.mp3" />
+        </par>
+      </seq>
+      <par id="sm_438">
+        <text id="sm_439" src="dtbook.xml#dtb_138" />
+        <audio clipBegin="00:00:01.4889796" clipEnd="00:00:07.3665306" src="aud010.mp3" />
+      </par>
+      <seq id="sm_440" class="list" end="DTBuserEscape;sm_449.end" fill="remove">
+        <par id="sm_441">
+          <text id="sm_442" src="dtbook.xml#dtb_141" />
+          <audio clipBegin="00:00:07.3665306" clipEnd="00:00:09.9787755" src="aud010.mp3" />
+        </par>
+        <par id="sm_443">
+          <text id="sm_444" src="dtbook.xml#dtb_143" />
+          <audio clipBegin="00:00:09.9787755" clipEnd="00:00:12.4597506" src="aud010.mp3" />
+        </par>
+        <par id="sm_445">
+          <text id="sm_446" src="dtbook.xml#dtb_145" />
+          <audio clipBegin="00:00:12.4597506" clipEnd="00:00:15.1242404" src="aud010.mp3" />
+        </par>
+        <par id="sm_447">
+          <text id="sm_448" src="dtbook.xml#dtb_147" />
+          <audio clipBegin="00:00:15.1242404" clipEnd="00:00:16.6654649" src="aud010.mp3" />
+        </par>
+        <par id="sm_449">
+          <text id="sm_450" src="dtbook.xml#dtb_149" />
+          <audio clipBegin="00:00:16.6654649" clipEnd="00:00:18.3373016" src="aud010.mp3" />
+        </par>
+      </seq>
+    </seq>
+  </body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd" []>
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content="amis-help-sr-BA" />
+    <meta name="dtb:generator" content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+    <meta name="dtb:totalElapsedTime" content="00:01:10.8815420" />
+  </head>
+  <body>
+    <seq id="sm_308" dur="00:01:24.2302948" fill="remove">
+      <seq id="sm_309" class="h2" fill="remove">
+        <par id="sm_310">
+          <text id="sm_311" src="dtbook.xml#dtb_23" />
+          <audio clipBegin="00:00:00" clipEnd="00:00:01.6457143" src="aud003.mp3" />
+        </par>
+      </seq>
+      <par id="sm_313">
+        <text id="sm_314" src="dtbook.xml#dtb_29" />
+        <audio clipBegin="00:00:01.6457143" clipEnd="00:00:14.9681633" src="aud003.mp3" />
+      </par>
+      <par id="sm_315">
+        <text id="sm_316" src="dtbook.xml#dtb_30" />
+        <audio clipBegin="00:00:14.9681633" clipEnd="00:00:18.6924036" src="aud003.mp3" />
+      </par>
+      <par id="sm_317">
+        <text id="sm_318" src="dtbook.xml#dtb_31" />
+        <audio clipBegin="00:00:18.6924036" clipEnd="00:00:31.8888435" src="aud003.mp3" />
+      </par>
+      <par id="sm_319">
+        <text id="sm_320" src="dtbook.xml#dtb_33" />
+        <audio clipBegin="00:00:31.8888435" clipEnd="00:00:36.4185941" src="aud003.mp3" />
+      </par>
+      <par id="sm_321">
+        <text id="sm_322" src="dtbook.xml#dtb_34" />
+        <audio clipBegin="00:00:36.4185941" clipEnd="00:00:43.3510884" src="aud003.mp3" />
+      </par>
+      <par id="sm_323">
+        <text id="sm_324" src="dtbook.xml#dtb_36" />
+        <audio clipBegin="00:00:43.3510884" clipEnd="00:00:53.4405896" src="aud003.mp3" />
+      </par>
+      <par id="sm_325">
+        <text id="sm_326" src="dtbook.xml#dtb_37" />
+        <audio clipBegin="00:00:53.4405896" clipEnd="00:00:59.0482540" src="aud003.mp3" />
+      </par>
+      <par id="sm_327">
+        <text id="sm_328" src="dtbook.xml#dtb_39" />
+        <audio clipBegin="00:00:59.0482540" clipEnd="00:01:14.4082540" src="aud003.mp3" />
+      </par>
+      <par id="sm_329">
+        <text id="sm_330" src="dtbook.xml#dtb_40" />
+        <audio clipBegin="00:01:14.4082540" clipEnd="00:01:24.2302948" src="aud003.mp3" />
+      </par>
+    </seq>
+  </body>
+</smil>

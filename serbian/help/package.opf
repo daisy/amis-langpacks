@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN" "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd" []>
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="uid">amis-help-sr-BA</dc:Identifier>
+      <dc:Format xmlns:dc="http://purl.org/dc/elements/1.1/">ANSI/NISO Z39.86-2005</dc:Format>
+      <dc:Title xmlns:dc="http://purl.org/dc/elements/1.1/">Amis Help</dc:Title>
+      <dc:Publisher xmlns:dc="http://purl.org/dc/elements/1.1/">AMIS Project</dc:Publisher>
+      <dc:Date xmlns:dc="http://purl.org/dc/elements/1.1/">2010-03-01</dc:Date>
+      <dc:Language xmlns:dc="http://purl.org/dc/elements/1.1/">sr</dc:Language>
+    </dc-metadata>
+    <x-metadata>
+      <meta name="dtb:totalTime" content="00:10:23.9762813" />
+      <meta name="dtb:multimediaType" content="audioFullText" />
+      <meta name="dtb:multimediaContent" content="audio,text" />
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item href="navigation.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="dtbook.xml" id="opf_602" media-type="application/x-dtbook+xml" />
+    <item href="package.opf" id="opf_603" media-type="text/xml" />
+    <item href="0001.smil" id="opf_604" media-type="application/smil" />
+    <item href="0002.smil" id="opf_605" media-type="application/smil" />
+    <item href="0003.smil" id="opf_606" media-type="application/smil" />
+    <item href="0004.smil" id="opf_607" media-type="application/smil" />
+    <item href="0005.smil" id="opf_608" media-type="application/smil" />
+    <item href="0006.smil" id="opf_609" media-type="application/smil" />
+    <item href="0007.smil" id="opf_610" media-type="application/smil" />
+    <item href="0008.smil" id="opf_611" media-type="application/smil" />
+    <item href="0009.smil" id="opf_612" media-type="application/smil" />
+    <item href="0010.smil" id="opf_613" media-type="application/smil" />
+    <item href="0011.smil" id="opf_614" media-type="application/smil" />
+    <item href="0012.smil" id="opf_615" media-type="application/smil" />
+    <item href="0013.smil" id="opf_616" media-type="application/smil" />
+    <item href="0014.smil" id="opf_617" media-type="application/smil" />
+    <item href="0015.smil" id="opf_618" media-type="application/smil" />
+    <item href="0016.smil" id="opf_619" media-type="application/smil" />
+    <item href="0017.smil" id="opf_620" media-type="application/smil" />
+    <item href="0018.smil" id="opf_621" media-type="application/smil" />
+    <item href="0019.smil" id="opf_622" media-type="application/smil" />
+    <item href="aud001.mp3" id="opf_623" media-type="audio/mpeg" />
+    <item href="aud002.mp3" id="opf_624" media-type="audio/mpeg" />
+    <item href="aud003.mp3" id="opf_625" media-type="audio/mpeg" />
+    <item href="aud004.mp3" id="opf_626" media-type="audio/mpeg" />
+    <item href="aud005.mp3" id="opf_627" media-type="audio/mpeg" />
+    <item href="aud006.mp3" id="opf_628" media-type="audio/mpeg" />
+    <item href="aud007.mp3" id="opf_629" media-type="audio/mpeg" />
+    <item href="aud008.mp3" id="opf_630" media-type="audio/mpeg" />
+    <item href="aud009.mp3" id="opf_631" media-type="audio/mpeg" />
+    <item href="aud010.mp3" id="opf_632" media-type="audio/mpeg" />
+    <item href="aud011.mp3" id="opf_633" media-type="audio/mpeg" />
+    <item href="aud012.mp3" id="opf_634" media-type="audio/mpeg" />
+    <item href="aud013.mp3" id="opf_635" media-type="audio/mpeg" />
+    <item href="aud014.mp3" id="opf_636" media-type="audio/mpeg" />
+    <item href="aud015.mp3" id="opf_637" media-type="audio/mpeg" />
+    <item href="aud016.mp3" id="opf_638" media-type="audio/mpeg" />
+    <item href="aud017.mp3" id="opf_639" media-type="audio/mpeg" />
+    <item href="aud018.mp3" id="opf_640" media-type="audio/mpeg" />
+    <item href="amishelp_files_amis.jpg" id="opf_641" media-type="image/jpeg" />
+    <item href="amishelp_files_daisy.jpg" id="opf_642" media-type="image/jpeg" />
+    <item href="amishelp_files_amis-default-view.jpg" id="opf_643" media-type="image/jpeg" />
+    <item href="amishelp_files_amis-default-toolbar.jpg" id="opf_644" media-type="image/jpeg" />
+    <item href="amishelp_files_amis-nav.jpg" id="opf_645" media-type="image/jpeg" />
+    <item href="amishelp_files_amis-basic-view.jpg" id="opf_646" media-type="image/jpeg" />
+    <item href="amishelp_files_amis-publication-summary-dialog.jpg" id="opf_647" media-type="image/jpeg" />
+    <item href="amishelp_files_amis-preferences-dialog.jpg" id="opf_648" media-type="image/jpeg" />
+    <item href="amishelp_files_amis-text-style-dialog.jpg" id="opf_649" media-type="image/jpeg" />
+    <item href="tpbnarrator.res" id="resource" media-type="application/x-dtbresource+xml" />
+    <item href="tpbnarrator_res.mp3" id="opf_650" media-type="audio/mpeg" />
+  </manifest>
+  <spine>
+    <itemref idref="opf_604" />
+    <itemref idref="opf_605" />
+    <itemref idref="opf_606" />
+    <itemref idref="opf_607" />
+    <itemref idref="opf_608" />
+    <itemref idref="opf_609" />
+    <itemref idref="opf_610" />
+    <itemref idref="opf_611" />
+    <itemref idref="opf_612" />
+    <itemref idref="opf_613" />
+    <itemref idref="opf_614" />
+    <itemref idref="opf_615" />
+    <itemref idref="opf_616" />
+    <itemref idref="opf_617" />
+    <itemref idref="opf_618" />
+    <itemref idref="opf_619" />
+    <itemref idref="opf_620" />
+    <itemref idref="opf_621" />
+    <itemref idref="opf_622" />
+  </spine>
+</package>
