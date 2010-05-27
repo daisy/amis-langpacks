@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<moduleDesc xmlns="http://amis.sf.net" id="ice-IS" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
+<moduleDesc xmlns="http://amis.sf.net" id="INSERT_LANGID" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
 	<label>
-			<text>Íslenska (Icelandic)</text>
+			<text>INSERT_LANGNAME</text>
 			<audio src="./thislang.mp3"/>
 			<image src="./flag.ico"/>
 	</label>
