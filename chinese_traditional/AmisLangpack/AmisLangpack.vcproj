@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat zho-TW  ..\..\mandarin_taiwan debug"
+				CommandLine="../../../amis/bin/copyLangpack.bat zho-TW  ..\..\chinese_traditional debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat zho-TW  ..\..\mandarin_taiwan release"
+				CommandLine="../../../amis/bin/copyLangpack.bat zho-TW  ..\..\chinese_traditional release"
 			/>
 		</Configuration>
 	</Configurations>
