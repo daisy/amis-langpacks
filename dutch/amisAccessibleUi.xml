@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-02-10_18:30:34"/>
+    <created by="DAISY Lion" date="2010-06-23_12:20:42"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -160,16 +160,16 @@
                 </description>
                 <accelerator keys="Alt+F4">
                     <text id="t22">Alt+F4</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/Alt_F4.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t23">A</text>
                     <audio from="" src="./audio/a.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+F">
-                <text id="t24">Alt+F</text>
-                <audio from="" src=""/>
+            <accelerator keys="Alt+E">
+                <text id="t24">Alt+E</text>
+                <audio from="" src="./audio/bbjw015_E.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t25">E</text>
@@ -209,7 +209,7 @@
                 </description>
                 <accelerator keys="F11">
                     <text id="t32">F11</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/F11.mp3"/>
                 </accelerator>
                 <mnemonic>
                     <text id="t33">B</text>
@@ -298,9 +298,9 @@
                     <promptVar name="NAVLIST_DESCRIPTION"/>
                 </description>
             </action>
-            <accelerator keys="Alt+V">
-                <text id="t44">Alt+V</text>
-                <audio from="" src=""/>
+            <accelerator keys="Alt+W">
+                <text id="t44">Alt+W</text>
+                <audio from="" src="./audio/bbjw015_W.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t45">W</text>
@@ -328,7 +328,7 @@
                     </description>
                     <accelerator keys="Space">
                         <text id="t49">Space</text>
-                        <audio from="" src=""/>
+                        <audio from="" src="./audio/Space.mp3"/>
                     </accelerator>
                     <mnemonic>
                         <text id="t50">P</text>
@@ -474,9 +474,9 @@
                     <audio from="" src="./audio/z.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+P">
-                <text id="t79">Alt+P</text>
-                <audio from="" src=""/>
+            <accelerator keys="Alt+A">
+                <text id="t79">Alt+A</text>
+                <audio from="" src="./audio/bbjw015_A.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t80">A</text>
@@ -663,7 +663,7 @@
             </action>
             <accelerator keys="Alt+N">
                 <text id="t113">Alt+N</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/Alt_N.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t114">N</text>
@@ -706,7 +706,7 @@
             </action>
             <accelerator keys="Alt+B">
                 <text id="t120">Alt+B</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/Alt_B.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t121">B</text>
@@ -751,7 +751,7 @@
             </action>
             <accelerator keys="Alt+I">
                 <text id="t135">Alt+I</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/Alt_I.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t136">I</text>
@@ -809,7 +809,7 @@
             </action>
             <accelerator keys="Alt+H">
                 <text id="t144">Alt+H</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/Alt_H.mp3"/>
             </accelerator>
             <mnemonic>
                 <text id="t145">H</text>
@@ -1783,43 +1783,43 @@ Adaptive Multimedia Information System</text>
             <promptItem id="numeric_zero">
                 <note>All numerals should be translated into numerals, not words.</note>
                 <text id="t289">0</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/0.mp3"/>
             </promptItem>
             <promptItem id="numeric_one">
                 <text id="t290">1</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/1.mp3"/>
             </promptItem>
             <promptItem id="numeric_two">
                 <text id="t291">2</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/2.mp3"/>
             </promptItem>
             <promptItem id="numeric_three">
                 <text id="t292">3</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/3.mp3"/>
             </promptItem>
             <promptItem id="numeric_four">
                 <text id="t293">4</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/4.mp3"/>
             </promptItem>
             <promptItem id="numeric_five">
                 <text id="t294">5</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/5.mp3"/>
             </promptItem>
             <promptItem id="numeric_six">
                 <text id="t295">6</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/6.mp3"/>
             </promptItem>
             <promptItem id="numeric_seven">
                 <text id="t296">7</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/7.mp3"/>
             </promptItem>
             <promptItem id="numeric_eight">
                 <text id="t297">8</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/8.mp3"/>
             </promptItem>
             <promptItem id="numeric_nine">
                 <text id="t298">9</text>
-                <audio from="" src=""/>
+                <audio from="" src="./audio/9.mp3"/>
             </promptItem>
             <promptItem id="will_be_skipped">
                 <text id="t300">wordt overgeslagen</text>
