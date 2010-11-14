@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat INSERT_LANGID  ..\..\INSERT_LANGDIR debug"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat heb-IL  ..\..\hebrew debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat INSERT_LANGID  ..\..\INSERT_LANGDIR release"
+				CommandLine="..\..\..\amis\bin\copyLangpack.bat heb-IL  ..\..\hebrew release"
 			/>
 		</Configuration>
 	</Configurations>
