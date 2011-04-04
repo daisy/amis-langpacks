@@ -1,5 +1,5 @@
 <?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-11-14_10:32:29"/>
+    <created by="DAISY Lion" date="2011-04-04_10:33:11"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -534,7 +534,7 @@
                 <note>This is the &quot;show section depth&quot; sub-menu pop-up</note>
                 <caption>
                     <text id="t90">הצגת עומק סעיף</text>
-                    <audio from="" src=""/>
+                    <audio from="" src="./audio/t90.mp3"/>
                 </caption>
                 <switch element="action">
                     <action condition="ID_AMIS_SECTION_DEPTH_EMPTY" mfcid="ID_AMIS_SECTION_DEPTH_EMPTY" widget="menuItem">
@@ -1407,7 +1407,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t242">‫מו&quot;ל:‬</text>
+                                <text id="t242">‫מוציא לאור:‬</text>
                                 <audio from="" src="./audio/t242.mp3"/>
                             </promptItem>
                             <promptVar name="META_PUBLISHER"/>
@@ -1443,7 +1443,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t352">‫סה&quot;כ עמודים:‬</text>
+                                <text id="t352">‫סה&quot;&quot;כ עמודים:‬</text>
                                 <audio from="" src="./audio/t352.mp3"/>
                             </promptItem>
                             <promptVar name="META_NUMPAGES"/>
@@ -1515,7 +1515,7 @@
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t244">‫סה&quot;כ פריטי תוכן העניינים:‬</text>
+                                <text id="t244">‫סה&quot;&quot;כ פריטי תוכן העניינים:‬</text>
                                 <audio from="" src="./audio/t244.mp3"/>
                             </promptItem>
                             <promptVar name="META_TOCITEMS"/>
