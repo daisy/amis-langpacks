@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat hin-IN  ..\..\hindi debug"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat hin-IN  ..\ debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat hin-IN  ..\..\hindi release"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat hin-IN  ..\ release"
 			/>
 		</Configuration>
 	</Configurations>

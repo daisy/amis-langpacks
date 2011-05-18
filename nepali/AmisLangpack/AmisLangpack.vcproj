@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat nep-NP  ..\..\nepali debug"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat nep-NP  ..\ debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat nep-NP  ..\..\nepali release"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat nep-NP  ..\ release"
 			/>
 		</Configuration>
 	</Configurations>

@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat kh-KH  ..\..\..\langpacks\khmer debug"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat kh-KH  ..\ debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat kh-KH  ..\..\..\langpacks\khmer release"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat kh-KH  ..\ release"
 			/>
 		</Configuration>
 	</Configurations>

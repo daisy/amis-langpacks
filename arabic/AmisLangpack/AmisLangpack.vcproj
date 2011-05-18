@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat arb  ..\..\arabic debug"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat arb  ..\ debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat arb  ..\..\arabic  release"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat arb  ..\..\arabic  release"
 			/>
 		</Configuration>
 	</Configurations>

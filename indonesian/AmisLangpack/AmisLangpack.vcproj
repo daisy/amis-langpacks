@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat ind-ID  ..\..\indonesian debug"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat ind-ID  ..\ debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat ind-ID  ..\..\indonesian release"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat ind-ID  ..\ release"
 			/>
 		</Configuration>
 	</Configurations>

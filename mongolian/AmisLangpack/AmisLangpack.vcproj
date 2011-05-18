@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat mon-MN  ..\..\..\langpacks\mongolian debug"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat mon-MN  ..\ debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="..\..\..\amis\bin\copyLangpack.bat mon-MN  ..\..\..\langpacks\mongolian release"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat mon-MN  ..\ release"
 			/>
 		</Configuration>
 	</Configurations>

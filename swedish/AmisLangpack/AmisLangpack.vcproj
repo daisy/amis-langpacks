@@ -108,7 +108,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat swe-SE  ..\..\swedish debug"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat swe-SE  ..\ debug"
 			/>
 		</Configuration>
 		<Configuration
@@ -203,7 +203,7 @@
 			/>
 			<Tool
 				Name="VCPostBuildEventTool"
-				CommandLine="../../../amis/bin/copyLangpack.bat swe-SE  ..\..\swedish release"
+				CommandLine="..\..\..\amis\trunk\amis\bin\copyLangpack.bat swe-SE  ..\ release"
 			/>
 		</Configuration>
 	</Configurations>
