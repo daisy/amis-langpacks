@@ -2,8 +2,8 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="8.00"
-	Name="AmisLangpack"
-	ProjectGUID="{92F93B73-6D27-47ED-89F3-B82590338216}"
+	Name="Serbian.AmisLangpack"
+	ProjectGUID="{1CBD7513-1F8C-46C9-880B-92CA3E94D2C1}"
 	RootNamespace="AmisLangpack"
 	Keyword="MFCProj"
 	>

@@ -1,6 +1,5 @@
-<?xml version="1.0" ?>
-<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-02-06_19:29:49"/>
+<?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2011-08-18_02:47:24"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -167,8 +166,8 @@
                     <audio from="" src="./audio/aud242.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+F">
-                <text id="t24">Alt+F</text>
+            <accelerator keys="Alt+A">
+                <text id="t24">Alt+A</text>
                 <audio from="" src="./audio/aud18.mp3"/>
             </accelerator>
             <mnemonic>
@@ -995,7 +994,7 @@ Adaptive Multimedia Information System</text>
             </caption>
             <description mfcid="IDC_SEARCHINSTRUCTIONS">
                 <text id="t168">Sök i datorn efter DAISY-böcker.  Skriv in en sökväg eller bläddra efter en mapp att söka i.  Tryck sedan Sök för att starta sökningen.</text>
-                <audio from="" src="./audio/169_Sk_i_datorn_efter_DAISYbcker_S.mp3"/>
+                <audio from="" src="./audio/aud114.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>
@@ -1125,7 +1124,7 @@ Adaptive Multimedia Information System</text>
             </caption>
             <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
                 <text id="t188">Denna bok innehåller följande speciella typer av element. Markerade element kommer att spelas upp. Omarkerade kommer att hoppas över.</text>
-                <audio from="" src="./audio/189_Denna_bok_innehller_fljande_sp.mp3"/>
+                <audio from="" src="./audio/aud129.mp3"/>
             </description>
             <prompt type="instructions">
                 <promptItem refid="tabAround"/>

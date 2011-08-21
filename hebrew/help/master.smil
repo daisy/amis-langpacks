@@ -1,33 +1,39 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
 <smil>
-<head>
-    <meta name="ncc:generator" content="LpStudioGen 1.6" />
-    <meta name="dc:format" content="Daisy 2.02" />
-    <meta name="dc:title" content="AMIS User Guide" />
-    <meta name="ncc:timeInThisSmil" content="00:00:00" />
-    <layout>
-        <region id="txtView" />
-    </layout>
-</head>
-<body>
-    <ref title="AMIS User Guide" src="amis0001.smil" id="amis_0001" />
-    <ref title="What is AMIS?" src="amis0002.smil" id="amis_0003" />
-    <ref title="What is DAISY?" src="amis0003.smil" id="amis_0004" />
-    <ref title="Supported Formats" src="amis0004.smil" id="amis_0005" />
-    <ref title="System Requirements" src="amis0005.smil" id="amis_0006" />
-    <ref title="Screen Layout" src="amis0006.smil" id="amis_0007" />
-    <ref title="Features" src="amis0007.smil" id="amis_0008" />
-    <ref title="Opening a book" src="amis0008.smil" id="amis_0009" />
-    <ref title="Controlling playback" src="amis0009.smil" id="amis_000a" />
-    <ref title="Navigating" src="amis000a.smil" id="amis_000b" />
-    <ref title="Using the navigation window" src="amis000b.smil" id="amis_000c" />
-    <ref title="Setting bookmarks" src="amis000c.smil" id="amis_000d" />
-    <ref title="Getting information about the publication" src="amis000d.smil" id="amis_000e" />
-    <ref title="Getting help with AMIS" src="amis000e.smil" id="amis_000f" />
-    <ref title="Changing the look" src="amis000f.smil" id="amis_0010" />
-    <ref title="Setting preferences" src="amis0010.smil" id="amis_0011" />
-    <ref title="Setting text styles" src="amis0011.smil" id="amis_0012" />
-    <ref title="Contact Us" src="amis0012.smil" id="amis_0013" />
-</body>
+    <head>
+        <meta name="ncc:generator" content="Dolphin EasyProducer 2.00 Build 036 + DolphinDaisy 1.01 Build 049" />
+        <meta name="dc:format" content="Daisy 2.02" />
+        <meta name="dc:title" content="מדריך לשימוש בתוכנת AMIS" />
+        <meta name="dc:identifier" content="he-20110622075724" />
+        <meta name="ncc:timeInThisSmil" content="00:11:06.440" />
+        <layout>
+            <region id="txtView" />
+        </layout>
+    </head>
+    <body>
+        <ref title="מדריך לשימוש בתוכנת AMIS" id="smil_0001" src="he-20110622075724_001.smil#fgvm_0002" />
+        <ref id="smil_0002" src="he-20110622075724_002.smil#fgvm_0002" title="מהי תוכנת AMIS" />
+        <ref src="he-20110622075724_003.smil#fgvm_0002" title="מה זה DAISY" id="smil_0003" />
+        <ref id="smil_0004" src="he-20110622075724_004.smil#fgvm_0002" title="פורמטים נתמכים" />
+        <ref title="דרישות מערכת" id="smil_0005" src="he-20110622075724_005.smil#fgvm_0002" />
+        <ref id="smil_0006" title="מערך המסך" src="he-20110622075724_006.smil#fgvm_0002" />
+        <ref src="he-20110622075724_007.smil#fgvm_0002" id="smil_0007" title="תצוגת מסך של AMIS" />
+        <ref id="smil_0008" src="he-20110622075724_008.smil#fgvm_0002" title="סרגל הכלים" />
+        <ref id="smil_0009" src="he-20110622075724_009.smil#fgvm_0002" title="חלון הניווט" />
+        <ref title="AMIS במצב תצוגה בסיסי" src="he-20110622075724_010.smil#fgvm_0002" id="smil_0010" />
+        <ref src="he-20110622075724_011.smil#fgvm_0002" id="smil_0011" title="מאפיינים" />
+        <ref src="he-20110622075724_012.smil#fgvm_0002" title="פתיחת ספר" id="smil_0012" />
+        <ref id="smil_0013" title="שליטה על השמעת ספר DAISY" src="he-20110622075724_013.smil#fgvm_0002" />
+        <ref src="he-20110622075724_014.smil#fgvm_0002" title="ניווט" id="smil_0014" />
+        <ref src="he-20110622075724_015.smil#fgvm_0002" title="שימוש בחלון הניווט" id="smil_0015" />
+        <ref src="he-20110622075724_016.smil#fgvm_0002" title="הוספת סימניות" id="smil_0016" />
+        <ref src="he-20110622075724_017.smil#fgvm_0002" id="smil_0017" title="קבלת מידע על הפרסום" />
+        <ref src="he-20110622075724_018.smil#fgvm_0002" title="השגת עזרה מ-AMIS" id="smil_0018" />
+        <ref src="he-20110622075724_019.smil#fgvm_0002" title="שינוי המראה" id="smil_0019" />
+        <ref src="he-20110622075724_020.smil#fgvm_0002" title="בחירת העדפות" id="smil_0020" />
+        <ref src="he-20110622075724_021.smil#fgvm_0002" id="smil_0021" title="קביעת עיצובי טקסט" />
+        <ref src="he-20110622075724_022.smil#fgvm_0002" id="smil_0022" title="יצירת קשר" />
+        <ref id="smil_0023" src="he-20110622075724_023.smil#fgvm_0002" title=" " />
+    </body>
 </smil>

@@ -2,8 +2,8 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="8.00"
-	Name="AmisLangpack"
-	ProjectGUID="{92F93B73-6D27-47ED-89F3-B82590338216}"
+	Name="Tamil.AmisLangpack"
+	ProjectGUID="{AE503965-27EE-44B8-87EB-8547EA5127EB}"
 	RootNamespace="AmisLangpack"
 	Keyword="MFCProj"
 	>

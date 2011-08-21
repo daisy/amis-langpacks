@@ -1,6 +1,5 @@
-<?xml version="1.0" ?>
-<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-01-07_16:46:48"/>
+<?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2011-08-18_02:20:04"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -167,8 +166,8 @@
                     <audio from="" src="./audio/v.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+F">
-                <text id="t24">Alt+F</text>
+            <accelerator keys="Alt+K">
+                <text id="t24">Alt+K</text>
                 <audio from="" src="./audio/025_AltF.mp3"/>
             </accelerator>
             <mnemonic>
@@ -298,8 +297,8 @@
                     <promptVar name="NAVLIST_DESCRIPTION"/>
                 </description>
             </action>
-            <accelerator keys="Alt+V">
-                <text id="t44">Alt+V</text>
+            <accelerator keys="Alt+R">
+                <text id="t44">Alt+R</text>
                 <audio from="" src="./audio/045_AltV.mp3"/>
             </accelerator>
             <mnemonic>
@@ -474,8 +473,8 @@
                     <audio from="" src="./audio/k.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+P">
-                <text id="t79">Alt+P</text>
+            <accelerator keys="Alt+S">
+                <text id="t79">Alt+S</text>
                 <audio from="" src="./audio/080_AltP.mp3"/>
             </accelerator>
             <mnemonic>
@@ -661,8 +660,8 @@
                     <audio from="" src="./audio/u.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+N">
-                <text id="t113">Alt+N</text>
+            <accelerator keys="Alt+L">
+                <text id="t113">Alt+L</text>
                 <audio from="" src="./audio/114_AltN.mp3"/>
             </accelerator>
             <mnemonic>
@@ -704,8 +703,8 @@
                     </caption>
                 </list>
             </action>
-            <accelerator keys="Alt+B">
-                <text id="t120">Alt+B</text>
+            <accelerator keys="Alt+P">
+                <text id="t120">Alt+P</text>
                 <audio from="" src="./audio/121_AltB.mp3"/>
             </accelerator>
             <mnemonic>
@@ -749,8 +748,8 @@
                     <audio from="" src="./audio/v.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+I">
-                <text id="t135">Alt+I</text>
+            <accelerator keys="Alt+V">
+                <text id="t135">Alt+V</text>
                 <audio from="" src="./audio/136_AltI.mp3"/>
             </accelerator>
             <mnemonic>
@@ -807,8 +806,8 @@
                     <audio from="" src="./audio/a.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+H">
-                <text id="t144">Alt+H</text>
+            <accelerator keys="Alt+U">
+                <text id="t144">Alt+U</text>
                 <audio from="" src="./audio/145_AltH.mp3"/>
             </accelerator>
             <mnemonic>

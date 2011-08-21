@@ -1,6 +1,5 @@
-<?xml version="1.0" ?>
-<ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2010-01-07_16:44:27"/>
+<?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2011-08-18_02:17:02"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -167,8 +166,8 @@
                     <audio from="" src="./audio/aud284.mp3"/>
                 </mnemonic>
             </action>
-            <accelerator keys="Alt+F">
-                <text id="t24">Alt+F</text>
+            <accelerator keys="Alt+S">
+                <text id="t24">Alt+S</text>
                 <audio from="" src="./audio/aud283.mp3"/>
             </accelerator>
             <mnemonic>
@@ -298,8 +297,8 @@
                     <promptVar name="NAVLIST_DESCRIPTION"/>
                 </description>
             </action>
-            <accelerator keys="Alt+V">
-                <text id="t44">Alt+V</text>
+            <accelerator keys="Alt+T">
+                <text id="t44">Alt+T</text>
                 <audio from="" src="./audio/aud217.mp3"/>
             </accelerator>
             <mnemonic>

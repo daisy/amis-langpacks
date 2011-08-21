@@ -2,8 +2,8 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="8.00"
-	Name="AmisLangpack"
-	ProjectGUID="{92F93B73-6D27-47ED-89F3-B82590338216}"
+	Name="Icelandic.AmisLangpack"
+	ProjectGUID="{FD8F4369-6B62-4635-B677-E815D4246BF3}"
 	RootNamespace="AmisLangpack"
 	Keyword="MFCProj"
 	>
