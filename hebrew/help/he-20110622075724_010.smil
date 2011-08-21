@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:timeInThisSmil" content="00:00:02.322" />
+		<meta name="ncc:totalElapsedTime" content="00:05:37.656" />
+		<layout>
+			<region id="txt-view" />
+		</layout>
+		<meta name="ncc:generator" content="Dolphin EasyProducer 2.00 Build 036 + DolphinDaisy 1.01 Build 049" />
+        <meta name="title" content="AMIS במצב תצוגה בסיסי" />
+        <meta name="dc:title" content="מדריך לשימוש בתוכנת AMIS" />
+        <meta name="dc:identifier" content="he-20110622075724" />
+    </head>
+	<body>
+		<seq dur="2.322s">
+			<par endsync="last" id="fgvm_0002">
+				<text id="tts_0001" src="amishelp.html#fgvm_0155" />
+				<seq>
+					<audio clip-end="npt=2.322s" clip-begin="npt=0.000s" id="audio_0001" src="he-20110622075724_010.mp3" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

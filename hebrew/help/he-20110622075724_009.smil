@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:timeInThisSmil" content="00:00:29.691" />
+		<meta name="ncc:totalElapsedTime" content="00:05:07.965" />
+		<layout>
+			<region id="txt-view" />
+		</layout>
+		<meta name="ncc:generator" content="Dolphin EasyProducer 2.00 Build 036 + DolphinDaisy 1.01 Build 049" />
+        <meta name="title" content="חלון הניווט" />
+        <meta name="dc:title" content="מדריך לשימוש בתוכנת AMIS" />
+        <meta name="dc:identifier" content="he-20110622075724" />
+    </head>
+	<body>
+		<seq dur="29.691s">
+			<par endsync="last" id="fgvm_0002">
+				<text src="amishelp.html#fgvm_0141" id="tts_0001" />
+				<seq>
+					<audio clip-begin="npt=0.000s" clip-end="npt=1.364s" id="audio_0001" src="he-20110622075724_009.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0003">
+				<text src="amishelp.html#fgvm_0142" id="tts_0002" />
+				<seq>
+					<audio id="audio_0002" src="he-20110622075724_009.mp3" clip-end="npt=9.283s" clip-begin="npt=1.364s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0004">
+				<text id="tts_0003" src="amishelp.html#fgvm_0143" />
+				<seq>
+					<audio src="he-20110622075724_009.mp3" id="audio_0003" clip-end="npt=10.435s" clip-begin="npt=9.283s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0005">
+				<text src="amishelp.html#fgvm_0144" id="tts_0004" />
+				<seq>
+					<audio src="he-20110622075724_009.mp3" clip-end="npt=13.445s" clip-begin="npt=10.435s" id="audio_0004" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0006">
+				<text id="tts_0005" src="amishelp.html#fgvm_0145" />
+				<seq>
+					<audio id="audio_0005" src="he-20110622075724_009.mp3" clip-end="npt=15.203s" clip-begin="npt=13.445s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0007">
+				<text id="tts_0006" src="amishelp.html#fgvm_0146" />
+				<seq>
+					<audio id="audio_0006" src="he-20110622075724_009.mp3" clip-begin="npt=15.203s" clip-end="npt=16.000s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0008">
+				<text src="amishelp.html#fgvm_0147" id="tts_0007" />
+				<seq>
+					<audio src="he-20110622075724_009.mp3" id="audio_0007" clip-end="npt=17.309s" clip-begin="npt=16.000s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0009">
+				<text src="amishelp.html#fgvm_0148" id="tts_0008" />
+				<seq>
+					<audio src="he-20110622075724_009.mp3" id="audio_0008" clip-begin="npt=17.309s" clip-end="npt=18.106s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0010">
+				<text src="amishelp.html#fgvm_0149" id="tts_0009" />
+				<seq>
+					<audio src="he-20110622075724_009.mp3" clip-end="npt=19.532s" id="audio_0009" clip-begin="npt=18.106s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0011">
+				<text src="amishelp.html#fgvm_0150" id="tts_000a" />
+				<seq>
+					<audio id="audio_0010" clip-end="npt=20.329s" src="he-20110622075724_009.mp3" clip-begin="npt=19.532s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0012">
+				<text src="amishelp.html#fgvm_0151" id="tts_000b" />
+				<seq>
+					<audio id="audio_0011" clip-begin="npt=20.329s" src="he-20110622075724_009.mp3" clip-end="npt=23.664s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0013">
+				<text id="tts_000c" src="amishelp.html#fgvm_0152" />
+				<seq>
+					<audio clip-begin="npt=23.664s" clip-end="npt=24.816s" src="he-20110622075724_009.mp3" id="audio_0012" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0014">
+				<text id="tts_000d" src="amishelp.html#fgvm_0153" />
+				<seq>
+					<audio id="audio_0013" clip-end="npt=28.439s" clip-begin="npt=24.816s" src="he-20110622075724_009.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0015">
+				<text src="amishelp.html#fgvm_0154" id="tts_000e" />
+				<seq>
+					<audio id="audio_0014" clip-begin="npt=28.439s" clip-end="npt=29.691s" src="he-20110622075724_009.mp3" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

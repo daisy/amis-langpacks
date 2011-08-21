@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:timeInThisSmil" content="00:00:57.737" />
+		<meta name="ncc:totalElapsedTime" content="00:07:47.417" />
+		<layout>
+			<region id="txt-view" />
+		</layout>
+		<meta name="ncc:generator" content="Dolphin EasyProducer 2.00 Build 036 + DolphinDaisy 1.01 Build 049" />
+        <meta name="title" content="קבלת מידע על הפרסום" />
+        <meta name="dc:title" content="מדריך לשימוש בתוכנת AMIS" />
+        <meta name="dc:identifier" content="he-20110622075724" />
+    </head>
+	<body>
+		<seq dur="57.737s">
+			<par endsync="last" id="fgvm_0002">
+				<text src="amishelp.html#fgvm_0222" id="tts_0001" />
+				<seq>
+					<audio clip-begin="npt=0.000s" src="he-20110622075724_017.mp3" id="audio_0001" clip-end="npt=1.981s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0003">
+				<text src="amishelp.html#fgvm_0223" id="tts_0002" />
+				<seq>
+					<audio clip-begin="npt=1.981s" src="he-20110622075724_017.mp3" clip-end="npt=9.059s" id="audio_0002" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0004">
+				<text src="amishelp.html#fgvm_0224" id="tts_0003" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" clip-end="npt=9.797s" clip-begin="npt=9.059s" id="audio_0003" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0005">
+				<text src="amishelp.html#fgvm_0225" id="tts_0004" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" id="audio_0004" clip-begin="npt=9.797s" clip-end="npt=13.023s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0006">
+				<text id="tts_0005" src="amishelp.html#fgvm_0226" />
+				<seq>
+					<audio id="audio_0005" clip-begin="npt=13.023s" src="he-20110622075724_017.mp3" clip-end="npt=13.817s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0007">
+				<text id="tts_0006" src="amishelp.html#fgvm_0227" />
+				<seq>
+					<audio id="audio_0006" src="he-20110622075724_017.mp3" clip-end="npt=14.643s" clip-begin="npt=13.817s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0008">
+				<text id="tts_0007" src="amishelp.html#fgvm_0228" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" id="audio_0007" clip-end="npt=15.437s" clip-begin="npt=14.643s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0009">
+				<text id="tts_0008" src="amishelp.html#fgvm_0229" />
+				<seq>
+					<audio clip-end="npt=16.375s" id="audio_0008" src="he-20110622075724_017.mp3" clip-begin="npt=15.437s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0010">
+				<text id="tts_0009" src="amishelp.html#fgvm_0230" />
+				<seq>
+					<audio clip-begin="npt=16.375s" clip-end="npt=17.169s" id="audio_0009" src="he-20110622075724_017.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0011">
+				<text src="amishelp.html#fgvm_0231" id="tts_000a" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" id="audio_0010" clip-end="npt=18.318s" clip-begin="npt=17.169s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0012">
+				<text id="tts_000b" src="amishelp.html#fgvm_0232" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" id="audio_0011" clip-end="npt=19.112s" clip-begin="npt=18.318s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0013">
+				<text src="amishelp.html#fgvm_0233" id="tts_000c" />
+				<seq>
+					<audio id="audio_0012" clip-end="npt=20.493s" src="he-20110622075724_017.mp3" clip-begin="npt=19.112s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0014">
+				<text id="tts_000d" src="amishelp.html#fgvm_0234" />
+				<seq>
+					<audio clip-begin="npt=20.493s" clip-end="npt=21.287s" id="audio_0013" src="he-20110622075724_017.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0015">
+				<text src="amishelp.html#fgvm_0235" id="tts_000e" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" clip-begin="npt=21.287s" id="audio_0014" clip-end="npt=22.209s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0016">
+				<text src="amishelp.html#fgvm_0236" id="tts_000f" />
+				<seq>
+					<audio clip-begin="npt=22.209s" src="he-20110622075724_017.mp3" id="audio_0015" clip-end="npt=23.003s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0017">
+				<text id="tts_0010" src="amishelp.html#fgvm_0237" />
+				<seq>
+					<audio clip-end="npt=25.086s" clip-begin="npt=23.003s" src="he-20110622075724_017.mp3" id="audio_0016" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0018">
+				<text src="amishelp.html#fgvm_0238" id="tts_0011" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" id="audio_0017" clip-end="npt=25.880s" clip-begin="npt=25.086s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0019">
+				<text src="amishelp.html#fgvm_0239" id="tts_0012" />
+				<seq>
+					<audio clip-end="npt=27.296s" src="he-20110622075724_017.mp3" id="audio_0018" clip-begin="npt=25.880s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0020">
+				<text id="tts_0013" src="amishelp.html#fgvm_0240" />
+				<seq>
+					<audio clip-end="npt=28.090s" clip-begin="npt=27.296s" src="he-20110622075724_017.mp3" id="audio_0019" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0021">
+				<text src="amishelp.html#fgvm_0241" id="tts_0014" />
+				<seq>
+					<audio clip-end="npt=29.209s" id="audio_0020" clip-begin="npt=28.090s" src="he-20110622075724_017.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0022">
+				<text src="amishelp.html#fgvm_0242" id="tts_0015" />
+				<seq>
+					<audio clip-begin="npt=29.209s" src="he-20110622075724_017.mp3" id="audio_0021" clip-end="npt=30.003s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0023">
+				<text src="amishelp.html#fgvm_0243" id="tts_0016" />
+				<seq>
+					<audio clip-end="npt=31.563s" src="he-20110622075724_017.mp3" clip-begin="npt=30.003s" id="audio_0022" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0024">
+				<text id="tts_0017" src="amishelp.html#fgvm_0244" />
+				<seq>
+					<audio id="audio_0023" clip-end="npt=33.116s" clip-begin="npt=31.563s" src="he-20110622075724_017.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0025">
+				<text src="amishelp.html#fgvm_0245" id="tts_0018" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" clip-begin="npt=33.116s" id="audio_0024" clip-end="npt=33.910s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0026">
+				<text id="tts_0019" src="amishelp.html#fgvm_0246" />
+				<seq>
+					<audio id="audio_0025" clip-end="npt=38.809s" src="he-20110622075724_017.mp3" clip-begin="npt=33.910s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0027">
+				<text src="amishelp.html#fgvm_0247" id="tts_001a" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" id="audio_0026" clip-begin="npt=38.809s" clip-end="npt=40.362s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0028">
+				<text id="tts_001b" src="amishelp.html#fgvm_0248" />
+				<seq>
+					<audio id="audio_0027" src="he-20110622075724_017.mp3" clip-begin="npt=40.362s" clip-end="npt=41.156s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0029">
+				<text src="amishelp.html#fgvm_0249" id="tts_001c" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" id="audio_0028" clip-end="npt=42.263s" clip-begin="npt=41.156s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0030">
+				<text src="amishelp.html#fgvm_0250" id="tts_001d" />
+				<seq>
+					<audio clip-begin="npt=42.263s" src="he-20110622075724_017.mp3" id="audio_0029" clip-end="npt=43.057s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0031">
+				<text src="amishelp.html#fgvm_0251" id="tts_001e" />
+				<seq>
+					<audio clip-begin="npt=43.057s" src="he-20110622075724_017.mp3" id="audio_0030" clip-end="npt=46.729s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0032">
+				<text src="amishelp.html#fgvm_0252" id="tts_001f" />
+				<seq>
+					<audio id="audio_0031" clip-end="npt=48.282s" clip-begin="npt=46.729s" src="he-20110622075724_017.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0033">
+				<text id="tts_0020" src="amishelp.html#fgvm_0253" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" clip-end="npt=49.076s" clip-begin="npt=48.282s" id="audio_0032" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0034">
+				<text id="tts_0021" src="amishelp.html#fgvm_0254" />
+				<seq>
+					<audio src="he-20110622075724_017.mp3" clip-end="npt=52.462s" clip-begin="npt=49.076s" id="audio_0033" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0035">
+				<text src="amishelp.html#fgvm_0255" id="tts_0022" />
+				<seq>
+					<audio clip-begin="npt=52.462s" id="audio_0034" clip-end="npt=53.256s" src="he-20110622075724_017.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0036">
+				<text id="tts_0023" src="amishelp.html#fgvm_0256" />
+				<seq>
+					<audio id="audio_0035" clip-begin="npt=53.256s" src="he-20110622075724_017.mp3" clip-end="npt=55.607s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0037">
+				<text id="tts_0024" src="amishelp.html#fgvm_0257" />
+				<seq>
+					<audio clip-begin="npt=55.607s" clip-end="npt=57.737s" src="he-20110622075724_017.mp3" id="audio_0036" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

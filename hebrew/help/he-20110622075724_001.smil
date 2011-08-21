@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:timeInThisSmil" content="00:00:20.309" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000" />
+		<layout>
+			<region id="txt-view" />
+		</layout>
+		<meta name="ncc:generator" content="Dolphin EasyProducer 2.00 Build 036 + DolphinDaisy 1.01 Build 049" />
+        <meta name="title" content="מדריך לשימוש בתוכנת AMIS" />
+        <meta name="dc:title" content="מדריך לשימוש בתוכנת AMIS" />
+        <meta name="dc:identifier" content="he-20110622075724" />
+    </head>
+	<body>
+		<seq dur="20.309s">
+			<par endsync="last" id="fgvm_0002" system-required="pagenumber-on">
+				<text id="tts_0001" src="amishelp.html#fgvm_0001" />
+				<seq>
+					<audio clip-end="npt=2.557s" clip-begin="npt=0.000s" src="he-20110622075724_001.mp3" id="audio_0001" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0003">
+				<text src="amishelp.html#fgvm_0002" id="tts_0002" />
+				<seq>
+					<audio clip-begin="npt=2.557s" src="he-20110622075724_001.mp3" id="audio_0002" clip-end="npt=4.932s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0004">
+				<text id="tts_0003" src="amishelp.html#fgvm_0003" />
+				<seq>
+					<audio clip-begin="npt=4.932s" src="he-20110622075724_001.mp3" id="audio_0003" clip-end="npt=5.440s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0005">
+				<text id="tts_0004" src="amishelp.html#fgvm_0004" />
+				<seq>
+					<audio clip-end="npt=9.837s" src="he-20110622075724_001.mp3" clip-begin="npt=5.440s" id="audio_0004" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0006">
+				<text id="tts_0005" src="amishelp.html#fgvm_0005" />
+				<seq>
+					<audio clip-end="npt=10.989s" id="audio_0005" src="he-20110622075724_001.mp3" clip-begin="npt=9.837s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0007">
+				<text id="tts_0006" src="amishelp.html#fgvm_0006" />
+				<seq>
+					<audio src="he-20110622075724_001.mp3" id="audio_0006" clip-end="npt=16.146s" clip-begin="npt=10.989s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0008">
+				<text src="amishelp.html#fgvm_0007" id="tts_0007" />
+				<seq>
+					<audio clip-begin="npt=16.146s" src="he-20110622075724_001.mp3" id="audio_0007" clip-end="npt=16.943s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0009">
+				<text id="tts_0008" src="amishelp.html#fgvm_0008" />
+				<seq>
+					<audio id="audio_0008" src="he-20110622075724_001.mp3" clip-end="npt=19.057s" clip-begin="npt=16.943s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0010">
+				<text id="tts_0009" src="amishelp.html#fgvm_0009" />
+				<seq>
+					<audio src="he-20110622075724_001.mp3" id="audio_0009" clip-begin="npt=19.057s" clip-end="npt=20.309s" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

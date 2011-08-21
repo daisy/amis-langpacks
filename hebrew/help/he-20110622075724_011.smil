@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd" []>
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:timeInThisSmil" content="00:00:08.019" />
+		<meta name="ncc:totalElapsedTime" content="00:05:39.978" />
+		<layout>
+			<region id="txt-view" />
+		</layout>
+		<meta name="ncc:generator" content="Dolphin EasyProducer 2.00 Build 036 + DolphinDaisy 1.01 Build 049" />
+        <meta name="title" content="מאפיינים" />
+        <meta name="dc:title" content="מדריך לשימוש בתוכנת AMIS" />
+        <meta name="dc:identifier" content="he-20110622075724" />
+    </head>
+	<body>
+		<seq dur="8.019s">
+			<par endsync="last" id="fgvm_0002">
+				<text id="tts_0001" src="amishelp.html#fgvm_0156" />
+				<seq>
+					<audio clip-begin="npt=0.000s" clip-end="npt=1.034s" id="audio_0001" src="he-20110622075724_011.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0003">
+				<text id="tts_0002" src="amishelp.html#fgvm_0157" />
+				<seq>
+					<audio id="audio_0002" clip-end="npt=4.679s" src="he-20110622075724_011.mp3" clip-begin="npt=1.034s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0004">
+				<text src="amishelp.html#fgvm_0158" id="tts_0003" />
+				<seq>
+					<audio id="audio_0003" clip-end="npt=5.187s" clip-begin="npt=4.679s" src="he-20110622075724_011.mp3" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0005">
+				<text src="amishelp.html#fgvm_0159" id="tts_0004" />
+				<seq>
+					<audio src="he-20110622075724_011.mp3" clip-begin="npt=5.187s" id="audio_0004" clip-end="npt=6.767s" />
+				</seq>
+			</par>
+			<par endsync="last" id="fgvm_0006">
+				<text id="tts_0005" src="amishelp.html#fgvm_0160" />
+				<seq>
+					<audio clip-end="npt=8.019s" src="he-20110622075724_011.mp3" id="audio_0005" clip-begin="npt=6.767s" />
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>
