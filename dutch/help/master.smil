@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+<head>
+	<meta name="ncc:generator" content="Version 0.9.221" />
+	<meta name="dc:format" content="Daisy 2.02" />
+	<meta name="dc:title" content="Amis_Handleiding " /> 
+	<meta name="ncc:timeInThisSmil" content="00:38:31.505" />
+	<meta name="dc:identifier" content="amis3-help-NL-Dutch" />
+<layout>
+	<region id="txtView" />
+</layout>
+</head>
+<body>
+<ref title=" " src="000_AMIS_Gebruikershandleiding.smil" id="mstr_000000" />
+<ref title=" " src="001_Systeemeisen.smil" id="mstr_000001" />
+<ref title=" " src="002_Afspelen.smil" id="mstr_000002" />
+<ref title=" " src="003_Navigeren.smil" id="mstr_000003" />
+<ref title=" " src="004_Het_navigatievenster_gebruiken.smil" id="mstr_000004" />
+<ref title=" " src="005_Bladwijzers_toevoegen.smil" id="mstr_000005" />
+<ref title=" " src="006_Informatie_over_het_document.smil" id="mstr_000006" />
+<ref title=" " src="007_Amis_Helponderwerpen.smil" id="mstr_000007" />
+<ref title=" " src="008_De_weergave_veranderen.smil" id="mstr_000008" />
+<ref title=" " src="009_De_instellingen_veranderen.smil" id="mstr_000009" />
+<ref title=" " src="010_Tekststijl_aanpassen.smil" id="mstr_00000a" />
+<ref title=" " src="011_Contact.smil" id="mstr_00000b" />
+
+</body>
+</smil>

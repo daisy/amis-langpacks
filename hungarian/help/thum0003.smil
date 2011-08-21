@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:17.906"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:55.633"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213164304"/>
+		<meta name="title" content="Mi a DAISY?"/>
+		<meta name="dc:title" content="Help_hu"/>
+		<meta name="dc:identifier" content="Unknown"/>
+	</head>
+	<body>
+		<seq dur="77.906s">
+			<par endsync="last" id="duem_0010">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0010" id="kiux_0001"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=0.000s" clip-end="npt=2.698s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0011">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0011" id="kiux_0002"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=2.698s" clip-end="npt=10.129s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0012">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0012" id="kiux_0003"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=10.129s" clip-end="npt=14.221s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0013">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0013" id="kiux_0004"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=14.221s" clip-end="npt=27.816s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0014">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0014" id="kiux_0005"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=27.816s" clip-end="npt=31.134s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0015">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0015" id="kiux_0006"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=31.134s" clip-end="npt=38.968s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0016">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0016" id="kiux_0007"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=38.968s" clip-end="npt=49.979s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0017">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0017" id="kiux_0008"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=49.979s" clip-end="npt=57.652s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0018">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0018" id="kiux_0009"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=57.652s" clip-end="npt=71.899s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0019">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0019" id="kiux_000a"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=71.899s" clip-end="npt=74.771s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0020">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0020" id="kiux_000b"/>
+				<seq>
+					<audio src="h03.mp3" clip-begin="npt=74.771s" clip-end="npt=77.906s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0021">
+				<text src="amis-hun-help3.html#dol_1_3_duem_0021" id="kiux_000c"/>
+			</par>
+		</seq>
+	</body>
+</smil>

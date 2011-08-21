@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:16.388"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:13.720"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213164304"/>
+		<meta name="title" content="A navigációs ablak használata"/>
+		<meta name="dc:title" content="Help_hu"/>
+		<meta name="dc:identifier" content="Unknown"/>
+	</head>
+	<body>
+		<seq dur="16.388s">
+			<par endsync="last" id="duem_0082">
+				<text src="amis-hun-help3.html#dol_1_11_duem_0082" id="khvu_0001"/>
+				<seq>
+					<audio src="h11.mp3" clip-begin="npt=0.000s" clip-end="npt=2.864s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0083">
+				<text src="amis-hun-help3.html#dol_1_11_duem_0083" id="khvu_0002"/>
+				<seq>
+					<audio src="h11.mp3" clip-begin="npt=2.864s" clip-end="npt=8.568s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0084">
+				<text src="amis-hun-help3.html#dol_1_11_duem_0084" id="khvu_0003"/>
+				<seq>
+					<audio src="h11.mp3" clip-begin="npt=8.568s" clip-end="npt=10.986s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0085">
+				<text src="amis-hun-help3.html#dol_1_11_duem_0085" id="khvu_0004"/>
+				<seq>
+					<audio src="h11.mp3" clip-begin="npt=10.986s" clip-end="npt=12.916s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0086">
+				<text src="amis-hun-help3.html#dol_1_11_duem_0086" id="khvu_0005"/>
+				<seq>
+					<audio src="h11.mp3" clip-begin="npt=12.916s" clip-end="npt=16.388s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

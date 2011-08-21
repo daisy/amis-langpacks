@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:45.384"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:46.339"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213164304"/>
+		<meta name="title" content="Információ a kiadványról"/>
+		<meta name="dc:title" content="Help_hu"/>
+		<meta name="dc:identifier" content="Unknown"/>
+	</head>
+	<body>
+		<seq dur="45.384s">
+			<par endsync="last" id="duem_0091">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0091" id="oqnc_0001"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=0.000s" clip-end="npt=3.926s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0092">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0092" id="oqnc_0002"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=3.926s" clip-end="npt=13.032s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0093">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0093" id="oqnc_0003"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=13.032s" clip-end="npt=16.920s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0094">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0094" id="oqnc_0004"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=16.920s" clip-end="npt=18.007s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0095">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0095" id="oqnc_0005"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=18.007s" clip-end="npt=19.030s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0096">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0096" id="oqnc_0006"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=19.030s" clip-end="npt=19.963s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0097">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0097" id="oqnc_0007"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=19.963s" clip-end="npt=21.140s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0098">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0098" id="oqnc_0008"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=21.140s" clip-end="npt=22.278s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0099">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0099" id="oqnc_0009"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=22.278s" clip-end="npt=23.749s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0100">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0100" id="oqnc_000a"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=23.749s" clip-end="npt=24.912s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0101">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0101" id="oqnc_000b"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=24.912s" clip-end="npt=25.897s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0102">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0102" id="oqnc_000c"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=25.897s" clip-end="npt=27.074s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0103">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0103" id="oqnc_000d"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=27.074s" clip-end="npt=31.039s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0104">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0104" id="oqnc_000e"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=31.039s" clip-end="npt=32.458s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0105">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0105" id="oqnc_000f"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=32.458s" clip-end="npt=36.883s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0106">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0106" id="oqnc_0010"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=36.883s" clip-end="npt=39.032s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0107">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0107" id="oqnc_0011"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=39.032s" clip-end="npt=42.331s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0108">
+				<text src="amis-hun-help3.html#dol_1_13_duem_0108" id="oqnc_0012"/>
+				<seq>
+					<audio src="h13.mp3" clip-begin="npt=42.331s" clip-end="npt=45.384s" id="audio_0018"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

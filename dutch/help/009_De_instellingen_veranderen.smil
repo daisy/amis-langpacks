@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:35.920"/>
+		<meta name="ncc:totalElapsedTime" content="00:35:48.131"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="De instellingen veranderen "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="95.920s">
+			<par endsync="last" id="txt_0001e0">
+				<text src="amis_gebruikers_handleiding.html#cnt_00009d" id="txt_0001e2"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=0.000s" clip-end="npt=0.962s" id="phr_009_000000"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=0.962s" clip-end="npt=3.910s" id="phr_009_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001e4">
+				<text src="amis_gebruikers_handleiding.html#cnt_00009e" id="txt_0001e5"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=3.910s" clip-end="npt=9.974s" id="phr_009_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001e7">
+				<text src="amis_gebruikers_handleiding.html#cnt_00009f" id="txt_0001e8"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=9.974s" clip-end="npt=10.993s" id="phr_009_000003"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=10.993s" clip-end="npt=13.926s" id="phr_009_000004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001ea">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a0" id="txt_0001eb"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=13.926s" clip-end="npt=17.494s" id="phr_009_000005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001ed">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a1" id="txt_0001ee"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=17.494s" clip-end="npt=21.439s" id="phr_009_000006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001f0">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a2" id="txt_0001f1"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=21.439s" clip-end="npt=25.658s" id="phr_009_000007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001f3">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a3" id="txt_0001f4"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=25.658s" clip-end="npt=29.466s" id="phr_009_000008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001f6">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a4" id="txt_0001f7"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=29.466s" clip-end="npt=30.623s" id="phr_009_000009"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=30.623s" clip-end="npt=35.683s" id="phr_009_00000a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001f9">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a5" id="txt_0001fa"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=35.683s" clip-end="npt=39.704s" id="phr_009_00000b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001fc">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a6" id="txt_0001fd"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=39.704s" clip-end="npt=43.049s" id="phr_009_00000c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001ff">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a7" id="txt_000200"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=43.049s" clip-end="npt=46.141s" id="phr_009_00000d"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000202">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a8" id="txt_000203"/>
+				<seq>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=46.141s" clip-end="npt=49.684s" id="phr_009_00000e"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=49.684s" clip-end="npt=51.670s" id="phr_009_00000f"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=51.670s" clip-end="npt=61.387s" id="phr_009_000010"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=61.387s" clip-end="npt=68.283s" id="phr_009_000011"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=68.283s" clip-end="npt=71.836s" id="phr_009_000012"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=71.836s" clip-end="npt=75.363s" id="phr_009_000013"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=75.363s" clip-end="npt=76.695s" id="phr_009_000014"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=76.695s" clip-end="npt=93.366s" id="phr_009_000015"/>
+					<audio src="009_De_instellingen_veranderen.mp3" clip-begin="npt=93.366s" clip-end="npt=95.920s" id="phr_009_000016"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

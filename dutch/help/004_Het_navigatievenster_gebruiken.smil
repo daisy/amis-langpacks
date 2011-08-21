@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:57.930"/>
+		<meta name="ncc:totalElapsedTime" content="00:20:01.614"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="Het navigatievenster gebruiken "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="237.930s">
+			<par endsync="last" id="txt_00015d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000073" id="txt_00015f"/>
+				<seq>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=0.000s" clip-end="npt=2.953s" id="phr_004_000000"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000161">
+				<text src="amis_gebruikers_handleiding.html#cnt_000074" id="txt_000162"/>
+				<seq>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=2.953s" clip-end="npt=7.435s" id="phr_004_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000164">
+				<text src="amis_gebruikers_handleiding.html#cnt_000075" id="txt_000165"/>
+				<seq>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=7.435s" clip-end="npt=9.811s" id="phr_004_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000167">
+				<text src="amis_gebruikers_handleiding.html#cnt_000076" id="txt_000168"/>
+				<seq>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=9.811s" clip-end="npt=11.421s" id="phr_004_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00016a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000077" id="txt_00016b"/>
+				<seq>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=11.421s" clip-end="npt=14.141s" id="phr_004_000004"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=14.141s" clip-end="npt=14.814s" id="phr_004_000005"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=14.814s" clip-end="npt=17.269s" id="phr_004_000006"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=17.269s" clip-end="npt=19.751s" id="phr_004_000007"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=19.751s" clip-end="npt=24.897s" id="phr_004_000008"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=24.897s" clip-end="npt=27.431s" id="phr_004_000009"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=27.431s" clip-end="npt=34.014s" id="phr_004_00000a"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=34.014s" clip-end="npt=36.548s" id="phr_004_00000b"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=36.548s" clip-end="npt=44.045s" id="phr_004_00000c"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=44.045s" clip-end="npt=46.407s" id="phr_004_00000d"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=46.407s" clip-end="npt=49.646s" id="phr_004_00000e"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=49.646s" clip-end="npt=51.266s" id="phr_004_00000f"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=51.266s" clip-end="npt=52.885s" id="phr_004_000010"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=52.885s" clip-end="npt=54.453s" id="phr_004_000011"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=54.453s" clip-end="npt=57.614s" id="phr_004_000012"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=57.614s" clip-end="npt=60.017s" id="phr_004_000013"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=60.017s" clip-end="npt=61.297s" id="phr_004_000014"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=61.297s" clip-end="npt=62.916s" id="phr_004_000015"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=62.916s" clip-end="npt=64.223s" id="phr_004_000016"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=64.223s" clip-end="npt=68.533s" id="phr_004_000017"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=68.533s" clip-end="npt=70.414s" id="phr_004_000018"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=70.414s" clip-end="npt=71.772s" id="phr_004_000019"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=71.772s" clip-end="npt=75.325s" id="phr_004_00001a"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=75.325s" clip-end="npt=78.747s" id="phr_004_00001b"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=78.747s" clip-end="npt=81.986s" id="phr_004_00001c"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=81.986s" clip-end="npt=86.662s" id="phr_004_00001d"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=86.662s" clip-end="npt=91.103s" id="phr_004_00001e"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=91.103s" clip-end="npt=93.454s" id="phr_004_00001f"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=93.454s" clip-end="npt=96.980s" id="phr_004_000020"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=96.980s" clip-end="npt=99.018s" id="phr_004_000021"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=99.018s" clip-end="npt=100.768s" id="phr_004_000022"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=100.768s" clip-end="npt=103.199s" id="phr_004_000023"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=103.199s" clip-end="npt=106.438s" id="phr_004_000024"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=106.438s" clip-end="npt=115.006s" id="phr_004_000025"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=115.006s" clip-end="npt=119.160s" id="phr_004_000026"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=119.160s" clip-end="npt=123.183s" id="phr_004_000027"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=123.183s" clip-end="npt=126.239s" id="phr_004_000028"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=126.239s" clip-end="npt=128.825s" id="phr_004_000029"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=128.825s" clip-end="npt=130.967s" id="phr_004_00002a"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=130.967s" clip-end="npt=131.672s" id="phr_004_00002b"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=131.672s" clip-end="npt=139.916s" id="phr_004_00002c"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=139.916s" clip-end="npt=140.878s" id="phr_004_00002d"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=140.878s" clip-end="npt=144.169s" id="phr_004_00002e"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=144.169s" clip-end="npt=149.890s" id="phr_004_00002f"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=149.890s" clip-end="npt=150.909s" id="phr_004_000030"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=150.909s" clip-end="npt=154.279s" id="phr_004_000031"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=154.279s" clip-end="npt=158.458s" id="phr_004_000032"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=158.458s" clip-end="npt=162.298s" id="phr_004_000033"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=162.298s" clip-end="npt=166.556s" id="phr_004_000034"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=166.556s" clip-end="npt=169.959s" id="phr_004_000035"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=169.959s" clip-end="npt=170.847s" id="phr_004_000036"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=170.847s" clip-end="npt=175.907s" id="phr_004_000037"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=175.907s" clip-end="npt=176.926s" id="phr_004_000038"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=176.926s" clip-end="npt=181.236s" id="phr_004_000039"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=181.236s" clip-end="npt=184.292s" id="phr_004_00003a"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=184.292s" clip-end="npt=187.384s" id="phr_004_00003b"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=187.384s" clip-end="npt=191.694s" id="phr_004_00003c"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=191.694s" clip-end="npt=193.680s" id="phr_004_00003d"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=193.680s" clip-end="npt=203.397s" id="phr_004_00003e"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=203.397s" clip-end="npt=210.293s" id="phr_004_00003f"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=210.293s" clip-end="npt=213.846s" id="phr_004_000040"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=213.846s" clip-end="npt=217.373s" id="phr_004_000041"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=217.373s" clip-end="npt=218.705s" id="phr_004_000042"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=218.705s" clip-end="npt=235.376s" id="phr_004_000043"/>
+					<audio src="004_Het_navigatievenster_gebruiken.mp3" clip-begin="npt=235.376s" clip-end="npt=237.930s" id="phr_004_000044"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

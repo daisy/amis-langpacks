@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:04:25.829"/>
+		<meta name="ncc:totalElapsedTime" content="00:15:35.785"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="Navigeren "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="265.829s">
+			<par endsync="last" id="txt_000147">
+				<text src="amis_gebruikers_handleiding.html#cnt_00006c" id="txt_000149"/>
+				<seq>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=0.000s" clip-end="npt=0.861s" id="phr_003_000000"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=0.861s" clip-end="npt=2.115s" id="phr_003_000001"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=2.115s" clip-end="npt=2.716s" id="phr_003_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00014b">
+				<text src="amis_gebruikers_handleiding.html#cnt_00006d" id="txt_00014c"/>
+				<seq>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=2.716s" clip-end="npt=10.161s" id="phr_003_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00014e">
+				<text src="amis_gebruikers_handleiding.html#cnt_00006e" id="txt_00014f"/>
+				<seq>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=10.161s" clip-end="npt=11.180s" id="phr_003_000004"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=11.180s" clip-end="npt=12.669s" id="phr_003_000005"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=12.669s" clip-end="npt=14.960s" id="phr_003_000006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000151">
+				<text src="amis_gebruikers_handleiding.html#cnt_00006f" id="txt_000152"/>
+				<seq>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=14.960s" clip-end="npt=16.770s" id="phr_003_000007"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=16.770s" clip-end="npt=18.563s" id="phr_003_000008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000154">
+				<text src="amis_gebruikers_handleiding.html#cnt_000070" id="txt_000155"/>
+				<seq>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=18.563s" clip-end="npt=20.286s" id="phr_003_000009"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=20.286s" clip-end="npt=21.774s" id="phr_003_00000a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000157">
+				<text src="amis_gebruikers_handleiding.html#cnt_000071" id="txt_000158"/>
+				<seq>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=21.774s" clip-end="npt=24.124s" id="phr_003_00000b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00015a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000072" id="txt_00015b"/>
+				<seq>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=24.124s" clip-end="npt=27.338s" id="phr_003_00000c"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=27.338s" clip-end="npt=29.704s" id="phr_003_00000d"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=29.704s" clip-end="npt=35.346s" id="phr_003_00000e"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=35.346s" clip-end="npt=37.750s" id="phr_003_00000f"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=37.750s" clip-end="npt=39.369s" id="phr_003_000010"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=39.369s" clip-end="npt=41.694s" id="phr_003_000011"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=41.694s" clip-end="npt=42.713s" id="phr_003_000012"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=42.713s" clip-end="npt=45.168s" id="phr_003_000013"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=45.168s" clip-end="npt=47.650s" id="phr_003_000014"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=47.650s" clip-end="npt=52.796s" id="phr_003_000015"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=52.796s" clip-end="npt=55.330s" id="phr_003_000016"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=55.330s" clip-end="npt=61.913s" id="phr_003_000017"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=61.913s" clip-end="npt=64.447s" id="phr_003_000018"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=64.447s" clip-end="npt=71.944s" id="phr_003_000019"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=71.944s" clip-end="npt=74.306s" id="phr_003_00001a"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=74.306s" clip-end="npt=77.545s" id="phr_003_00001b"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=77.545s" clip-end="npt=79.165s" id="phr_003_00001c"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=79.165s" clip-end="npt=80.784s" id="phr_003_00001d"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=80.784s" clip-end="npt=82.352s" id="phr_003_00001e"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=82.352s" clip-end="npt=85.513s" id="phr_003_00001f"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=85.513s" clip-end="npt=87.916s" id="phr_003_000020"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=87.916s" clip-end="npt=89.196s" id="phr_003_000021"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=89.196s" clip-end="npt=90.815s" id="phr_003_000022"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=90.815s" clip-end="npt=92.122s" id="phr_003_000023"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=92.122s" clip-end="npt=96.432s" id="phr_003_000024"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=96.432s" clip-end="npt=98.313s" id="phr_003_000025"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=98.313s" clip-end="npt=99.671s" id="phr_003_000026"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=99.671s" clip-end="npt=103.224s" id="phr_003_000027"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=103.224s" clip-end="npt=106.646s" id="phr_003_000028"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=106.646s" clip-end="npt=109.885s" id="phr_003_000029"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=109.885s" clip-end="npt=114.561s" id="phr_003_00002a"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=114.561s" clip-end="npt=119.002s" id="phr_003_00002b"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=119.002s" clip-end="npt=121.353s" id="phr_003_00002c"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=121.353s" clip-end="npt=124.879s" id="phr_003_00002d"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=124.879s" clip-end="npt=126.917s" id="phr_003_00002e"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=126.917s" clip-end="npt=128.667s" id="phr_003_00002f"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=128.667s" clip-end="npt=131.098s" id="phr_003_000030"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=131.098s" clip-end="npt=134.337s" id="phr_003_000031"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=134.337s" clip-end="npt=142.905s" id="phr_003_000032"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=142.905s" clip-end="npt=147.059s" id="phr_003_000033"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=147.059s" clip-end="npt=151.082s" id="phr_003_000034"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=151.082s" clip-end="npt=154.138s" id="phr_003_000035"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=154.138s" clip-end="npt=156.724s" id="phr_003_000036"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=156.724s" clip-end="npt=158.866s" id="phr_003_000037"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=158.866s" clip-end="npt=159.571s" id="phr_003_000038"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=159.571s" clip-end="npt=167.815s" id="phr_003_000039"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=167.815s" clip-end="npt=168.777s" id="phr_003_00003a"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=168.777s" clip-end="npt=172.068s" id="phr_003_00003b"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=172.068s" clip-end="npt=177.789s" id="phr_003_00003c"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=177.789s" clip-end="npt=178.808s" id="phr_003_00003d"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=178.808s" clip-end="npt=182.178s" id="phr_003_00003e"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=182.178s" clip-end="npt=186.357s" id="phr_003_00003f"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=186.357s" clip-end="npt=190.197s" id="phr_003_000040"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=190.197s" clip-end="npt=194.455s" id="phr_003_000041"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=194.455s" clip-end="npt=197.858s" id="phr_003_000042"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=197.858s" clip-end="npt=198.746s" id="phr_003_000043"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=198.746s" clip-end="npt=203.806s" id="phr_003_000044"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=203.806s" clip-end="npt=204.825s" id="phr_003_000045"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=204.825s" clip-end="npt=209.135s" id="phr_003_000046"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=209.135s" clip-end="npt=212.191s" id="phr_003_000047"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=212.191s" clip-end="npt=215.283s" id="phr_003_000048"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=215.283s" clip-end="npt=219.593s" id="phr_003_000049"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=219.593s" clip-end="npt=221.579s" id="phr_003_00004a"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=221.579s" clip-end="npt=231.296s" id="phr_003_00004b"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=231.296s" clip-end="npt=238.192s" id="phr_003_00004c"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=238.192s" clip-end="npt=241.745s" id="phr_003_00004d"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=241.745s" clip-end="npt=245.272s" id="phr_003_00004e"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=245.272s" clip-end="npt=246.604s" id="phr_003_00004f"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=246.604s" clip-end="npt=263.275s" id="phr_003_000050"/>
+					<audio src="003_Navigeren.mp3" clip-begin="npt=263.275s" clip-end="npt=265.829s" id="phr_003_000051"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

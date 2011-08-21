@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:08:14.193"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:33.1777"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="Systeemeisen "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="494.193s">
+			<par endsync="last" id="txt_000073">
+				<text src="amis_gebruikers_handleiding.html#cnt_000026" id="txt_000075"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=0.000s" clip-end="npt=1.868s" id="phr_001_000000"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000077">
+				<text src="amis_gebruikers_handleiding.html#cnt_000027" id="txt_000078"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=1.868s" clip-end="npt=6.193s" id="phr_001_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00007a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000028" id="txt_00007b"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=6.193s" clip-end="npt=8.200s" id="phr_001_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00007d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000029" id="txt_00007e"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=8.200s" clip-end="npt=9.930s" id="phr_001_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000080">
+				<text src="amis_gebruikers_handleiding.html#cnt_00002a" id="txt_000081"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=9.930s" clip-end="npt=12.215s" id="phr_001_000004"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=12.215s" clip-end="npt=12.920s" id="phr_001_000005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000083">
+				<text src="amis_gebruikers_handleiding.html#cnt_00002b" id="txt_000084"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=12.920s" clip-end="npt=15.675s" id="phr_001_000006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000086">
+				<text src="amis_gebruikers_handleiding.html#cnt_00002c" id="txt_000087"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=15.675s" clip-end="npt=20.450s" id="phr_001_000007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000089">
+				<text src="amis_gebruikers_handleiding.html#cnt_00002d" id="txt_00008a"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=20.450s" clip-end="npt=23.683s" id="phr_001_000008"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=23.683s" clip-end="npt=27.197s" id="phr_001_000009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00008c">
+				<text src="amis_gebruikers_handleiding.html#cnt_00002e" id="txt_00008d"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=27.197s" clip-end="npt=30.294s" id="phr_001_00000a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00008f">
+				<text src="amis_gebruikers_handleiding.html#cnt_00002f" id="txt_000090"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=30.294s" clip-end="npt=37.093s" id="phr_001_00000b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000092">
+				<text src="amis_gebruikers_handleiding.html#cnt_000030" id="txt_000093"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=37.093s" clip-end="npt=38.944s" id="phr_001_00000c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000095">
+				<text src="amis_gebruikers_handleiding.html#cnt_000031" id="txt_000096"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=38.944s" clip-end="npt=41.210s" id="phr_001_00000d"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000098">
+				<text src="amis_gebruikers_handleiding.html#cnt_000032" id="txt_000099"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=41.210s" clip-end="npt=43.235s" id="phr_001_00000e"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00009b">
+				<text src="amis_gebruikers_handleiding.html#cnt_000033" id="txt_00009c"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=43.235s" clip-end="npt=50.103s" id="phr_001_00000f"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=50.103s" clip-end="npt=50.743s" id="phr_001_000010"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=50.743s" clip-end="npt=54.228s" id="phr_001_000011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00009e">
+				<text src="amis_gebruikers_handleiding.html#cnt_000034" id="txt_00009f"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=54.228s" clip-end="npt=57.740s" id="phr_001_000012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000a1">
+				<text src="amis_gebruikers_handleiding.html#cnt_000035" id="txt_0000a2"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=57.740s" clip-end="npt=58.605s" id="phr_001_000013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000a4">
+				<text src="amis_gebruikers_handleiding.html#cnt_000036" id="txt_0000a5"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=58.605s" clip-end="npt=59.539s" id="phr_001_000014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000a7">
+				<text src="amis_gebruikers_handleiding.html#cnt_000037" id="txt_0000a8"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=59.539s" clip-end="npt=65.255s" id="phr_001_000015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000aa">
+				<text src="amis_gebruikers_handleiding.html#cnt_000038" id="txt_0000ab"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=65.255s" clip-end="npt=66.326s" id="phr_001_000016"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=66.326s" clip-end="npt=69.331s" id="phr_001_000017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000ad">
+				<text src="amis_gebruikers_handleiding.html#cnt_000039" id="txt_0000ae"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=69.331s" clip-end="npt=72.549s" id="phr_001_000018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000b0">
+				<text src="amis_gebruikers_handleiding.html#cnt_00003a" id="txt_0000b1"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=72.549s" clip-end="npt=74.279s" id="phr_001_000019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000b3">
+				<text src="amis_gebruikers_handleiding.html#cnt_00003b" id="txt_0000b4"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=74.279s" clip-end="npt=76.044s" id="phr_001_00001a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000b6">
+				<text src="amis_gebruikers_handleiding.html#cnt_00003c" id="txt_0000b7"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=76.044s" clip-end="npt=78.432s" id="phr_001_00001b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000b9">
+				<text src="amis_gebruikers_handleiding.html#cnt_00003d" id="txt_0000ba"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=78.432s" clip-end="npt=81.546s" id="phr_001_00001c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000bc">
+				<text src="amis_gebruikers_handleiding.html#cnt_00003e" id="txt_0000bd"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=81.546s" clip-end="npt=83.034s" id="phr_001_00001d"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000bf">
+				<text src="amis_gebruikers_handleiding.html#cnt_00003f" id="txt_0000c0"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=83.034s" clip-end="npt=84.280s" id="phr_001_00001e"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000c2">
+				<text src="amis_gebruikers_handleiding.html#cnt_000040" id="txt_0000c3"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=84.280s" clip-end="npt=85.975s" id="phr_001_00001f"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000c5">
+				<text src="amis_gebruikers_handleiding.html#cnt_000041" id="txt_0000c6"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=85.975s" clip-end="npt=87.498s" id="phr_001_000020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000c8">
+				<text src="amis_gebruikers_handleiding.html#cnt_000042" id="txt_0000c9"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=87.498s" clip-end="npt=92.134s" id="phr_001_000021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000cb">
+				<text src="amis_gebruikers_handleiding.html#cnt_000043" id="txt_0000cc"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=92.134s" clip-end="npt=93.154s" id="phr_001_000022"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=93.154s" clip-end="npt=95.664s" id="phr_001_000023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000ce">
+				<text src="amis_gebruikers_handleiding.html#cnt_000044" id="txt_0000cf"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=95.664s" clip-end="npt=97.295s" id="phr_001_000024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000d1">
+				<text src="amis_gebruikers_handleiding.html#cnt_000045" id="txt_0000d2"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=97.295s" clip-end="npt=101.395s" id="phr_001_000025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000d4">
+				<text src="amis_gebruikers_handleiding.html#cnt_000046" id="txt_0000d5"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=101.395s" clip-end="npt=103.817s" id="phr_001_000026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000d7">
+				<text src="amis_gebruikers_handleiding.html#cnt_000047" id="txt_0000d8"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=103.817s" clip-end="npt=108.506s" id="phr_001_000027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000da">
+				<text src="amis_gebruikers_handleiding.html#cnt_000048" id="txt_0000db"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=108.506s" clip-end="npt=113.765s" id="phr_001_000028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000dd">
+				<text src="amis_gebruikers_handleiding.html#cnt_000049" id="txt_0000de"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=113.765s" clip-end="npt=119.903s" id="phr_001_000029"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=119.903s" clip-end="npt=120.495s" id="phr_001_00002a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000e0">
+				<text src="amis_gebruikers_handleiding.html#cnt_00004a" id="txt_0000e1"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=120.495s" clip-end="npt=122.606s" id="phr_001_00002b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000e3">
+				<text src="amis_gebruikers_handleiding.html#cnt_00004b" id="txt_0000e4"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=122.606s" clip-end="npt=125.928s" id="phr_001_00002c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000e6">
+				<text src="amis_gebruikers_handleiding.html#cnt_00004c" id="txt_0000e7"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=125.928s" clip-end="npt=127.986s" id="phr_001_00002d"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000e9">
+				<text src="amis_gebruikers_handleiding.html#cnt_00004d" id="txt_0000ea"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=127.986s" clip-end="npt=129.267s" id="phr_001_00002e"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000ec">
+				<text src="amis_gebruikers_handleiding.html#cnt_00004e" id="txt_0000ed"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=129.267s" clip-end="npt=131.620s" id="phr_001_00002f"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000ef">
+				<text src="amis_gebruikers_handleiding.html#cnt_00004f" id="txt_0000f0"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=131.620s" clip-end="npt=135.218s" id="phr_001_000030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000f2">
+				<text src="amis_gebruikers_handleiding.html#cnt_000050" id="txt_0000f3"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=135.218s" clip-end="npt=139.387s" id="phr_001_000031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000f5">
+				<text src="amis_gebruikers_handleiding.html#cnt_000051" id="txt_0000f6"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=139.387s" clip-end="npt=144.163s" id="phr_001_000032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000f8">
+				<text src="amis_gebruikers_handleiding.html#cnt_000052" id="txt_0000f9"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=144.163s" clip-end="npt=147.484s" id="phr_001_000033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000fb">
+				<text src="amis_gebruikers_handleiding.html#cnt_000053" id="txt_0000fc"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=147.484s" clip-end="npt=149.941s" id="phr_001_000034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0000fe">
+				<text src="amis_gebruikers_handleiding.html#cnt_000054" id="txt_0000ff"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=149.941s" clip-end="npt=153.132s" id="phr_001_000035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000101">
+				<text src="amis_gebruikers_handleiding.html#cnt_000055" id="txt_000102"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=153.132s" clip-end="npt=157.578s" id="phr_001_000036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000104">
+				<text src="amis_gebruikers_handleiding.html#cnt_000056" id="txt_000105"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=157.578s" clip-end="npt=160.986s" id="phr_001_000037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000107">
+				<text src="amis_gebruikers_handleiding.html#cnt_000057" id="txt_000108"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=160.986s" clip-end="npt=164.896s" id="phr_001_000038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00010a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000058" id="txt_00010b"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=164.896s" clip-end="npt=166.776s" id="phr_001_000039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00010d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000059" id="txt_00010e"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=166.776s" clip-end="npt=171.955s" id="phr_001_00003a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000110">
+				<text src="amis_gebruikers_handleiding.html#cnt_00005a" id="txt_000111"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=171.955s" clip-end="npt=172.197s" id="phr_001_00003b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000113">
+				<text src="amis_gebruikers_handleiding.html#cnt_00005b" id="txt_000114"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=172.197s" clip-end="npt=173.339s" id="phr_001_00003c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000116">
+				<text src="amis_gebruikers_handleiding.html#cnt_00005c" id="txt_000117"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=173.339s" clip-end="npt=174.654s" id="phr_001_00003d"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000119">
+				<text src="amis_gebruikers_handleiding.html#cnt_00005d" id="txt_00011a"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=174.654s" clip-end="npt=178.633s" id="phr_001_00003e"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00011c">
+				<text src="amis_gebruikers_handleiding.html#cnt_00005e" id="txt_00011d"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=178.633s" clip-end="npt=182.508s" id="phr_001_00003f"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00011f">
+				<text src="amis_gebruikers_handleiding.html#cnt_00005f" id="txt_000120"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=182.508s" clip-end="npt=183.390s" id="phr_001_000040"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=183.390s" clip-end="npt=186.592s" id="phr_001_000041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000122">
+				<text src="amis_gebruikers_handleiding.html#cnt_000060" id="txt_000123"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=186.592s" clip-end="npt=190.746s" id="phr_001_000042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000125">
+				<text src="amis_gebruikers_handleiding.html#cnt_000061" id="txt_000126"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=190.746s" clip-end="npt=194.241s" id="phr_001_000043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000128">
+				<text src="amis_gebruikers_handleiding.html#cnt_000062" id="txt_000129"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=194.241s" clip-end="npt=198.393s" id="phr_001_000044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00012b">
+				<text src="amis_gebruikers_handleiding.html#cnt_000063" id="txt_00012c"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=198.393s" clip-end="npt=202.476s" id="phr_001_000045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00012e">
+				<text src="amis_gebruikers_handleiding.html#cnt_000064" id="txt_00012f"/>
+				<seq>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=202.476s" clip-end="npt=205.778s" id="phr_001_000046"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=205.778s" clip-end="npt=206.044s" id="phr_001_000047"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=206.044s" clip-end="npt=207.428s" id="phr_001_000048"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=207.428s" clip-end="npt=211.649s" id="phr_001_000049"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=211.649s" clip-end="npt=212.668s" id="phr_001_00004a"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=212.668s" clip-end="npt=215.907s" id="phr_001_00004b"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=215.907s" clip-end="npt=217.851s" id="phr_001_00004c"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=217.851s" clip-end="npt=219.523s" id="phr_001_00004d"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=219.523s" clip-end="npt=221.978s" id="phr_001_00004e"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=221.978s" clip-end="npt=228.404s" id="phr_001_00004f"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=228.404s" clip-end="npt=229.658s" id="phr_001_000050"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=229.658s" clip-end="npt=230.259s" id="phr_001_000051"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=230.259s" clip-end="npt=237.704s" id="phr_001_000052"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=237.704s" clip-end="npt=238.723s" id="phr_001_000053"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=238.723s" clip-end="npt=240.212s" id="phr_001_000054"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=240.212s" clip-end="npt=242.928s" id="phr_001_000055"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=242.928s" clip-end="npt=244.313s" id="phr_001_000056"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=244.313s" clip-end="npt=246.873s" id="phr_001_000057"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=246.873s" clip-end="npt=248.205s" id="phr_001_000058"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=248.205s" clip-end="npt=250.530s" id="phr_001_000059"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=250.530s" clip-end="npt=253.012s" id="phr_001_00005a"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=253.012s" clip-end="npt=255.702s" id="phr_001_00005b"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=255.702s" clip-end="npt=258.068s" id="phr_001_00005c"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=258.068s" clip-end="npt=263.710s" id="phr_001_00005d"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=263.710s" clip-end="npt=266.114s" id="phr_001_00005e"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=266.114s" clip-end="npt=267.733s" id="phr_001_00005f"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=267.733s" clip-end="npt=270.058s" id="phr_001_000060"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=270.058s" clip-end="npt=271.077s" id="phr_001_000061"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=271.077s" clip-end="npt=273.532s" id="phr_001_000062"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=273.532s" clip-end="npt=276.014s" id="phr_001_000063"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=276.014s" clip-end="npt=281.160s" id="phr_001_000064"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=281.160s" clip-end="npt=283.694s" id="phr_001_000065"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=283.694s" clip-end="npt=290.277s" id="phr_001_000066"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=290.277s" clip-end="npt=292.811s" id="phr_001_000067"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=292.811s" clip-end="npt=300.308s" id="phr_001_000068"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=300.308s" clip-end="npt=302.670s" id="phr_001_000069"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=302.670s" clip-end="npt=305.909s" id="phr_001_00006a"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=305.909s" clip-end="npt=307.529s" id="phr_001_00006b"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=307.529s" clip-end="npt=309.148s" id="phr_001_00006c"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=309.148s" clip-end="npt=310.716s" id="phr_001_00006d"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=310.716s" clip-end="npt=313.877s" id="phr_001_00006e"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=313.877s" clip-end="npt=316.280s" id="phr_001_00006f"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=316.280s" clip-end="npt=317.560s" id="phr_001_000070"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=317.560s" clip-end="npt=319.179s" id="phr_001_000071"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=319.179s" clip-end="npt=320.486s" id="phr_001_000072"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=320.486s" clip-end="npt=324.796s" id="phr_001_000073"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=324.796s" clip-end="npt=326.677s" id="phr_001_000074"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=326.677s" clip-end="npt=328.035s" id="phr_001_000075"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=328.035s" clip-end="npt=331.588s" id="phr_001_000076"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=331.588s" clip-end="npt=335.010s" id="phr_001_000077"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=335.010s" clip-end="npt=338.249s" id="phr_001_000078"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=338.249s" clip-end="npt=342.925s" id="phr_001_000079"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=342.925s" clip-end="npt=347.366s" id="phr_001_00007a"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=347.366s" clip-end="npt=349.717s" id="phr_001_00007b"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=349.717s" clip-end="npt=353.243s" id="phr_001_00007c"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=353.243s" clip-end="npt=355.281s" id="phr_001_00007d"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=355.281s" clip-end="npt=357.031s" id="phr_001_00007e"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=357.031s" clip-end="npt=359.462s" id="phr_001_00007f"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=359.462s" clip-end="npt=362.701s" id="phr_001_000080"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=362.701s" clip-end="npt=371.269s" id="phr_001_000081"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=371.269s" clip-end="npt=375.423s" id="phr_001_000082"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=375.423s" clip-end="npt=379.446s" id="phr_001_000083"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=379.446s" clip-end="npt=382.502s" id="phr_001_000084"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=382.502s" clip-end="npt=385.088s" id="phr_001_000085"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=385.088s" clip-end="npt=387.230s" id="phr_001_000086"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=387.230s" clip-end="npt=387.935s" id="phr_001_000087"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=387.935s" clip-end="npt=396.179s" id="phr_001_000088"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=396.179s" clip-end="npt=397.141s" id="phr_001_000089"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=397.141s" clip-end="npt=400.432s" id="phr_001_00008a"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=400.432s" clip-end="npt=406.153s" id="phr_001_00008b"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=406.153s" clip-end="npt=407.172s" id="phr_001_00008c"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=407.172s" clip-end="npt=410.542s" id="phr_001_00008d"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=410.542s" clip-end="npt=414.721s" id="phr_001_00008e"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=414.721s" clip-end="npt=418.561s" id="phr_001_00008f"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=418.561s" clip-end="npt=422.819s" id="phr_001_000090"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=422.819s" clip-end="npt=426.222s" id="phr_001_000091"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=426.222s" clip-end="npt=427.110s" id="phr_001_000092"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=427.110s" clip-end="npt=432.170s" id="phr_001_000093"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=432.170s" clip-end="npt=433.189s" id="phr_001_000094"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=433.189s" clip-end="npt=437.499s" id="phr_001_000095"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=437.499s" clip-end="npt=440.555s" id="phr_001_000096"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=440.555s" clip-end="npt=443.647s" id="phr_001_000097"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=443.647s" clip-end="npt=447.957s" id="phr_001_000098"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=447.957s" clip-end="npt=449.943s" id="phr_001_000099"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=449.943s" clip-end="npt=459.660s" id="phr_001_00009a"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=459.660s" clip-end="npt=466.556s" id="phr_001_00009b"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=466.556s" clip-end="npt=470.109s" id="phr_001_00009c"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=470.109s" clip-end="npt=473.636s" id="phr_001_00009d"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=473.636s" clip-end="npt=474.968s" id="phr_001_00009e"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=474.968s" clip-end="npt=491.639s" id="phr_001_00009f"/>
+					<audio src="001_Systeemeisen.mp3" clip-begin="npt=491.639s" clip-end="npt=494.193s" id="phr_001_0000a0"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:23.923"/>
+		<meta name="ncc:totalElapsedTime" content="00:27:43.333"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="Informatie over het document "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="203.923s">
+			<par endsync="last" id="txt_00017a">
+				<text src="amis_gebruikers_handleiding.html#cnt_00007c" id="txt_00017c"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=0.000s" clip-end="npt=0.869s" id="phr_006_000000"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=0.869s" clip-end="npt=3.018s" id="phr_006_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00017e">
+				<text src="amis_gebruikers_handleiding.html#cnt_00007d" id="txt_00017f"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=3.018s" clip-end="npt=10.565s" id="phr_006_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000181">
+				<text src="amis_gebruikers_handleiding.html#cnt_00007e" id="txt_000182"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=10.565s" clip-end="npt=13.262s" id="phr_006_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000184">
+				<text src="amis_gebruikers_handleiding.html#cnt_00007f" id="txt_000185"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=13.262s" clip-end="npt=15.230s" id="phr_006_000004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000187">
+				<text src="amis_gebruikers_handleiding.html#cnt_000080" id="txt_000188"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=15.230s" clip-end="npt=16.877s" id="phr_006_000005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00018a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000081" id="txt_00018b"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=16.877s" clip-end="npt=18.523s" id="phr_006_000006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00018d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000082" id="txt_00018e"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=18.523s" clip-end="npt=20.170s" id="phr_006_000007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000190">
+				<text src="amis_gebruikers_handleiding.html#cnt_000083" id="txt_000191"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=20.170s" clip-end="npt=21.748s" id="phr_006_000008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000193">
+				<text src="amis_gebruikers_handleiding.html#cnt_000084" id="txt_000194"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=21.748s" clip-end="npt=23.347s" id="phr_006_000009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000196">
+				<text src="amis_gebruikers_handleiding.html#cnt_000085" id="txt_000197"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=23.347s" clip-end="npt=25.662s" id="phr_006_00000a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000199">
+				<text src="amis_gebruikers_handleiding.html#cnt_000086" id="txt_00019a"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=25.662s" clip-end="npt=26.983s" id="phr_006_00000b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00019c">
+				<text src="amis_gebruikers_handleiding.html#cnt_000087" id="txt_00019d"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=26.983s" clip-end="npt=28.407s" id="phr_006_00000c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00019f">
+				<text src="amis_gebruikers_handleiding.html#cnt_000088" id="txt_0001a0"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=28.407s" clip-end="npt=30.216s" id="phr_006_00000d"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=30.216s" clip-end="npt=31.785s" id="phr_006_00000e"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001a2">
+				<text src="amis_gebruikers_handleiding.html#cnt_000089" id="txt_0001a3"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=31.785s" clip-end="npt=32.643s" id="phr_006_00000f"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001a5">
+				<text src="amis_gebruikers_handleiding.html#cnt_00008a" id="txt_0001a6"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=32.643s" clip-end="npt=34.152s" id="phr_006_000010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001a8">
+				<text src="amis_gebruikers_handleiding.html#cnt_00008b" id="txt_0001a9"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=34.152s" clip-end="npt=35.936s" id="phr_006_000011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001ab">
+				<text src="amis_gebruikers_handleiding.html#cnt_00008c" id="txt_0001ac"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=35.936s" clip-end="npt=37.765s" id="phr_006_000012"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=37.765s" clip-end="npt=40.841s" id="phr_006_000013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001ae">
+				<text src="amis_gebruikers_handleiding.html#cnt_00008d" id="txt_0001af"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=40.841s" clip-end="npt=44.511s" id="phr_006_000014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001b1">
+				<text src="amis_gebruikers_handleiding.html#cnt_00008e" id="txt_0001b2"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=44.511s" clip-end="npt=47.272s" id="phr_006_000015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001b4">
+				<text src="amis_gebruikers_handleiding.html#cnt_00008f" id="txt_0001b5"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=47.272s" clip-end="npt=51.509s" id="phr_006_000016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001b7">
+				<text src="amis_gebruikers_handleiding.html#cnt_000090" id="txt_0001b8"/>
+				<seq>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=51.509s" clip-end="npt=52.655s" id="phr_006_000017"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=52.655s" clip-end="npt=57.096s" id="phr_006_000018"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=57.096s" clip-end="npt=59.447s" id="phr_006_000019"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=59.447s" clip-end="npt=62.973s" id="phr_006_00001a"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=62.973s" clip-end="npt=65.011s" id="phr_006_00001b"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=65.011s" clip-end="npt=66.761s" id="phr_006_00001c"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=66.761s" clip-end="npt=69.192s" id="phr_006_00001d"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=69.192s" clip-end="npt=72.431s" id="phr_006_00001e"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=72.431s" clip-end="npt=80.999s" id="phr_006_00001f"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=80.999s" clip-end="npt=85.153s" id="phr_006_000020"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=85.153s" clip-end="npt=89.176s" id="phr_006_000021"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=89.176s" clip-end="npt=92.232s" id="phr_006_000022"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=92.232s" clip-end="npt=94.818s" id="phr_006_000023"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=94.818s" clip-end="npt=96.960s" id="phr_006_000024"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=96.960s" clip-end="npt=97.665s" id="phr_006_000025"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=97.665s" clip-end="npt=105.909s" id="phr_006_000026"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=105.909s" clip-end="npt=106.871s" id="phr_006_000027"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=106.871s" clip-end="npt=110.162s" id="phr_006_000028"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=110.162s" clip-end="npt=115.883s" id="phr_006_000029"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=115.883s" clip-end="npt=116.902s" id="phr_006_00002a"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=116.902s" clip-end="npt=120.272s" id="phr_006_00002b"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=120.272s" clip-end="npt=124.451s" id="phr_006_00002c"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=124.451s" clip-end="npt=128.291s" id="phr_006_00002d"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=128.291s" clip-end="npt=132.549s" id="phr_006_00002e"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=132.549s" clip-end="npt=135.952s" id="phr_006_00002f"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=135.952s" clip-end="npt=136.840s" id="phr_006_000030"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=136.840s" clip-end="npt=141.900s" id="phr_006_000031"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=141.900s" clip-end="npt=142.919s" id="phr_006_000032"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=142.919s" clip-end="npt=147.229s" id="phr_006_000033"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=147.229s" clip-end="npt=150.285s" id="phr_006_000034"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=150.285s" clip-end="npt=153.377s" id="phr_006_000035"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=153.377s" clip-end="npt=157.687s" id="phr_006_000036"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=157.687s" clip-end="npt=159.673s" id="phr_006_000037"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=159.673s" clip-end="npt=169.390s" id="phr_006_000038"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=169.390s" clip-end="npt=176.286s" id="phr_006_000039"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=176.286s" clip-end="npt=179.839s" id="phr_006_00003a"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=179.839s" clip-end="npt=183.366s" id="phr_006_00003b"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=183.366s" clip-end="npt=184.698s" id="phr_006_00003c"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=184.698s" clip-end="npt=201.369s" id="phr_006_00003d"/>
+					<audio src="006_Informatie_over_het_document.mp3" clip-begin="npt=201.369s" clip-end="npt=203.923s" id="phr_006_00003e"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

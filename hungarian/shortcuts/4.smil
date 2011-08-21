@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Billentyűparancsok"/>
+		<meta name="dc:title" content="Billentyűparancsok"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-hun-HU"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t26">
+					<text src="amiskeys.html#t26"/>
+					<audio src="281.mp3"/>
+				</par>
+					<par endsync="last" id="t44">
+						<text src="amiskeys.html#t44"/>
+						<audio src="218.mp3"/>
+					</par>
+				<par endsync="last" id="t27">
+					<text src="amiskeys.html#t27"/>
+					<audio src="280.mp3"/>
+				</par>
+					<par endsync="last" id="t29">
+						<text src="amiskeys.html#t29"/>
+						<audio src="278.mp3"/>
+					</par>
+				<par endsync="last" id="t30">
+					<text src="amiskeys.html#t30"/>
+					<audio src="234.mp3"/>
+				</par>
+					<par endsync="last" id="t32">
+						<text src="amiskeys.html#t32"/>
+						<audio src="232.mp3"/>
+					</par>
+				<par endsync="last" id="t334">
+					<text src="amiskeys.html#t334"/>
+					<audio src="230.mp3"/>
+				</par>
+					<par endsync="last" id="t336">
+						<text src="amiskeys.html#t336"/>
+						<audio src="228.mp3"/>
+					</par>
+				<par endsync="last" id="t38">
+					<text src="amiskeys.html#t38"/>
+					<audio src="227.mp3"/>
+				</par>
+					<par endsync="last" id="t40">
+						<text src="amiskeys.html#t40"/>
+						<audio src="225.mp3"/>
+					</par>
+				<par endsync="last" id="t337">
+					<text src="amiskeys.html#t337"/>
+					<audio src="224.mp3"/>
+				</par>
+					<par endsync="last" id="t339">
+						<text src="amiskeys.html#t339"/>
+						<audio src="222.mp3"/>
+					</par>
+				<par endsync="last" id="t340">
+					<text src="amiskeys.html#t340"/>
+					<audio src="221.mp3"/>
+				</par>
+					<par endsync="last" id="t342">
+						<text src="amiskeys.html#t342"/>
+						<audio src="219.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>

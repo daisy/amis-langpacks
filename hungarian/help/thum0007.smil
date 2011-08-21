@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:07.245"/>
+		<meta name="ncc:totalElapsedTime" content="00:04:50.719"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213164304"/>
+		<meta name="title" content="Lehetőségek"/>
+		<meta name="dc:title" content="Help_hu"/>
+		<meta name="dc:identifier" content="Unknown"/>
+	</head>
+	<body>
+		<seq dur="7.245s">
+			<par endsync="last" id="duem_0059">
+				<text src="amis-hun-help3.html#dol_1_7_duem_0059" id="duem_0061"/>
+				<seq>
+					<audio src="h07.mp3" clip-begin="npt=0.000s" clip-end="npt=1.701s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="duem_0060">
+				<text src="amis-hun-help3.html#dol_1_7_duem_0060" id="duem_0062"/>
+				<seq>
+					<audio src="h07.mp3" clip-begin="npt=1.701s" clip-end="npt=7.245s" id="audio_0002"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

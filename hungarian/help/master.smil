@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="ncc:generator" content="EasePublisher 2.13 Build 163 # 044FS5213164304"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="dc:title" content="Help_hu"/>
+		<meta name="dc:identifier" content="Unknown"/>
+		<meta name="ncc:timeInThisSmil" content="00:10:08.086"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<ref title="AMIS felhasználói kézikönyv" src="thum0001.smil#sujp_0001" id="smil_0001"/>
+		<ref title="Mi az AMIS??" src="thum0002.smil#wfvk_0001" id="smil_0002"/>
+		<ref title="Mi a DAISY?" src="thum0003.smil#kiux_0001" id="smil_0003"/>
+		<ref title="Támogatott formátumok" src="thum0004.smil#fpxz_0001" id="smil_0004"/>
+		<ref title="Rendszerkövetelmények" src="thum0005.smil#duem_0034" id="smil_0005"/>
+		<ref title="Képernyő felosztás" src="thum0006.smil#duem_0059" id="smil_0006"/>
+		<ref title="Lehetőségek" src="thum0007.smil#duem_0061" id="smil_0007"/>
+		<ref title="Könyv megnyitása" src="thum0008.smil#wrlv_0001" id="smil_0008"/>
+		<ref title="Visszajátszás vezérlése" src="thum0009.smil#mhtd_0001" id="smil_0009"/>
+		<ref title="Navigálás" src="thum0010.smil#psdg_0001" id="smil_0010"/>
+		<ref title="A navigációs ablak használata" src="thum0011.smil#khvu_0001" id="smil_0011"/>
+		<ref title="Könyvjelzők alkalmazása" src="thum0012.smil#ycfu_0001" id="smil_0012"/>
+		<ref title="Információ a kiadványról" src="thum0013.smil#oqnc_0001" id="smil_0013"/>
+		<ref title="Segítség az AMIS használatához" src="thum0014.smil#nike_0001" id="smil_0014"/>
+		<ref title="A kinézet megváltoztatása" src="thum0015.smil#tzfj_0001" id="smil_0015"/>
+		<ref title="Beállítások megváltoztatása" src="thum0016.smil#duem_0132" id="smil_0016"/>
+		<ref title="Szövegstílus beállítása" src="thum0017.smil#rbhb_0001" id="smil_0017"/>
+		<ref title="Kapcsolat" src="thum0018.smil#wass_0001" id="smil_0018"/>
+	</body>
+</smil>

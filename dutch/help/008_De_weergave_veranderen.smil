@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:13.820"/>
+		<meta name="ncc:totalElapsedTime" content="00:33:34.311"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="De weergave veranderen "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="133.820s">
+			<par endsync="last" id="txt_0001c7">
+				<text src="amis_gebruikers_handleiding.html#cnt_000095" id="txt_0001c9"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=0.000s" clip-end="npt=2.675s" id="phr_008_000000"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001cb">
+				<text src="amis_gebruikers_handleiding.html#cnt_000096" id="txt_0001cc"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=2.675s" clip-end="npt=10.976s" id="phr_008_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001ce">
+				<text src="amis_gebruikers_handleiding.html#cnt_000097" id="txt_0001cf"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=10.976s" clip-end="npt=15.161s" id="phr_008_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001d1">
+				<text src="amis_gebruikers_handleiding.html#cnt_000098" id="txt_0001d2"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=15.161s" clip-end="npt=19.072s" id="phr_008_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001d4">
+				<text src="amis_gebruikers_handleiding.html#cnt_000099" id="txt_0001d5"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=19.072s" clip-end="npt=22.228s" id="phr_008_000004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001d7">
+				<text src="amis_gebruikers_handleiding.html#cnt_00009a" id="txt_0001d8"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=22.228s" clip-end="npt=24.686s" id="phr_008_000005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001da">
+				<text src="amis_gebruikers_handleiding.html#cnt_00009b" id="txt_0001db"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=24.686s" clip-end="npt=27.051s" id="phr_008_000006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_0001dd">
+				<text src="amis_gebruikers_handleiding.html#cnt_00009c" id="txt_0001de"/>
+				<seq>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=27.051s" clip-end="npt=35.806s" id="phr_008_000007"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=35.806s" clip-end="npt=36.768s" id="phr_008_000008"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=36.768s" clip-end="npt=40.059s" id="phr_008_000009"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=40.059s" clip-end="npt=45.780s" id="phr_008_00000a"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=45.780s" clip-end="npt=46.799s" id="phr_008_00000b"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=46.799s" clip-end="npt=50.169s" id="phr_008_00000c"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=50.169s" clip-end="npt=54.348s" id="phr_008_00000d"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=54.348s" clip-end="npt=58.188s" id="phr_008_00000e"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=58.188s" clip-end="npt=62.446s" id="phr_008_00000f"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=62.446s" clip-end="npt=65.849s" id="phr_008_000010"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=65.849s" clip-end="npt=66.737s" id="phr_008_000011"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=66.737s" clip-end="npt=71.797s" id="phr_008_000012"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=71.797s" clip-end="npt=72.816s" id="phr_008_000013"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=72.816s" clip-end="npt=77.126s" id="phr_008_000014"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=77.126s" clip-end="npt=80.182s" id="phr_008_000015"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=80.182s" clip-end="npt=83.274s" id="phr_008_000016"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=83.274s" clip-end="npt=87.584s" id="phr_008_000017"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=87.584s" clip-end="npt=89.570s" id="phr_008_000018"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=89.570s" clip-end="npt=99.287s" id="phr_008_000019"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=99.287s" clip-end="npt=106.183s" id="phr_008_00001a"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=106.183s" clip-end="npt=109.736s" id="phr_008_00001b"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=109.736s" clip-end="npt=113.263s" id="phr_008_00001c"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=113.263s" clip-end="npt=114.595s" id="phr_008_00001d"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=114.595s" clip-end="npt=131.266s" id="phr_008_00001e"/>
+					<audio src="008_De_weergave_veranderen.mp3" clip-begin="npt=131.266s" clip-end="npt=133.820s" id="phr_008_00001f"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

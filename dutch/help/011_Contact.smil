@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:20.826"/>
+		<meta name="ncc:totalElapsedTime" content="00:38:10.679"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="Contact "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="20.826s">
+			<par endsync="last" id="txt_000218">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000af" id="txt_00021a"/>
+				<seq>
+					<audio src="011_Contact.mp3" clip-begin="npt=0.000s" clip-end="npt=0.825s" id="phr_011_000000"/>
+					<audio src="011_Contact.mp3" clip-begin="npt=0.825s" clip-end="npt=1.677s" id="phr_011_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00021c">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000b0" id="txt_00021d"/>
+				<seq>
+					<audio src="011_Contact.mp3" clip-begin="npt=1.677s" clip-end="npt=9.717s" id="phr_011_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00021f">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000b1" id="txt_000220"/>
+				<seq>
+					<audio src="011_Contact.mp3" clip-begin="npt=9.717s" clip-end="npt=12.775s" id="phr_011_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000222">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000b2" id="txt_000223"/>
+				<seq>
+					<audio src="011_Contact.mp3" clip-begin="npt=12.775s" clip-end="npt=14.353s" id="phr_011_000004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000225">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000b3" id="txt_000226"/>
+				<seq>
+					<audio src="011_Contact.mp3" clip-begin="npt=14.353s" clip-end="npt=18.828s" id="phr_011_000005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000228">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000b4" id="txt_000229"/>
+				<seq>
+					<audio src="011_Contact.mp3" clip-begin="npt=18.828s" clip-end="npt=20.826s" id="phr_011_000006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

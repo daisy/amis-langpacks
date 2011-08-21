@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:46.628"/>
+		<meta name="ncc:totalElapsedTime" content="00:37:24.051"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="Tekststijl aanpassen "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="46.628s">
+			<par endsync="last" id="txt_000205">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000a9" id="txt_000207"/>
+				<seq>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=0.000s" clip-end="npt=2.195s" id="phr_010_000000"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000209">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000aa" id="txt_00020a"/>
+				<seq>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=2.195s" clip-end="npt=8.712s" id="phr_010_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00020c">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000ab" id="txt_00020d"/>
+				<seq>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=8.712s" clip-end="npt=11.697s" id="phr_010_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00020f">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000ac" id="txt_000210"/>
+				<seq>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=11.697s" clip-end="npt=18.368s" id="phr_010_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000212">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000ad" id="txt_000213"/>
+				<seq>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=18.368s" clip-end="npt=21.935s" id="phr_010_000004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000215">
+				<text src="amis_gebruikers_handleiding.html#cnt_0000ae" id="txt_000216"/>
+				<seq>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=21.935s" clip-end="npt=26.071s" id="phr_010_000005"/>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=26.071s" clip-end="npt=27.403s" id="phr_010_000006"/>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=27.403s" clip-end="npt=44.074s" id="phr_010_000007"/>
+					<audio src="010_Tekststijl_aanpassen.mp3" clip-begin="npt=44.074s" clip-end="npt=46.628s" id="phr_010_000008"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

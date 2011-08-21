@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:43.789"/>
+		<meta name="ncc:totalElapsedTime" content="00:23:59.544"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="Bladwijzers toevoegen "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="223.789s">
+			<par endsync="last" id="txt_00016d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000078" id="txt_00016f"/>
+				<seq>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=0.000s" clip-end="npt=2.744s" id="phr_005_000000"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000171">
+				<text src="amis_gebruikers_handleiding.html#cnt_000079" id="txt_000172"/>
+				<seq>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=2.744s" clip-end="npt=5.610s" id="phr_005_000001"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=5.610s" clip-end="npt=10.291s" id="phr_005_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000174">
+				<text src="amis_gebruikers_handleiding.html#cnt_00007a" id="txt_000175"/>
+				<seq>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=10.291s" clip-end="npt=12.898s" id="phr_005_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000177">
+				<text src="amis_gebruikers_handleiding.html#cnt_00007b" id="txt_000178"/>
+				<seq>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=12.898s" clip-end="npt=19.873s" id="phr_005_000004"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=19.873s" clip-end="npt=22.407s" id="phr_005_000005"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=22.407s" clip-end="npt=29.904s" id="phr_005_000006"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=29.904s" clip-end="npt=32.266s" id="phr_005_000007"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=32.266s" clip-end="npt=35.505s" id="phr_005_000008"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=35.505s" clip-end="npt=37.125s" id="phr_005_000009"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=37.125s" clip-end="npt=38.744s" id="phr_005_00000a"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=38.744s" clip-end="npt=40.312s" id="phr_005_00000b"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=40.312s" clip-end="npt=43.473s" id="phr_005_00000c"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=43.473s" clip-end="npt=45.876s" id="phr_005_00000d"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=45.876s" clip-end="npt=47.156s" id="phr_005_00000e"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=47.156s" clip-end="npt=48.775s" id="phr_005_00000f"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=48.775s" clip-end="npt=50.082s" id="phr_005_000010"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=50.082s" clip-end="npt=54.392s" id="phr_005_000011"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=54.392s" clip-end="npt=56.273s" id="phr_005_000012"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=56.273s" clip-end="npt=57.631s" id="phr_005_000013"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=57.631s" clip-end="npt=61.184s" id="phr_005_000014"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=61.184s" clip-end="npt=64.606s" id="phr_005_000015"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=64.606s" clip-end="npt=67.845s" id="phr_005_000016"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=67.845s" clip-end="npt=72.521s" id="phr_005_000017"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=72.521s" clip-end="npt=76.962s" id="phr_005_000018"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=76.962s" clip-end="npt=79.313s" id="phr_005_000019"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=79.313s" clip-end="npt=82.839s" id="phr_005_00001a"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=82.839s" clip-end="npt=84.877s" id="phr_005_00001b"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=84.877s" clip-end="npt=86.627s" id="phr_005_00001c"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=86.627s" clip-end="npt=89.058s" id="phr_005_00001d"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=89.058s" clip-end="npt=92.297s" id="phr_005_00001e"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=92.297s" clip-end="npt=100.865s" id="phr_005_00001f"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=100.865s" clip-end="npt=105.019s" id="phr_005_000020"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=105.019s" clip-end="npt=109.042s" id="phr_005_000021"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=109.042s" clip-end="npt=112.098s" id="phr_005_000022"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=112.098s" clip-end="npt=114.684s" id="phr_005_000023"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=114.684s" clip-end="npt=116.826s" id="phr_005_000024"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=116.826s" clip-end="npt=117.531s" id="phr_005_000025"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=117.531s" clip-end="npt=125.775s" id="phr_005_000026"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=125.775s" clip-end="npt=126.737s" id="phr_005_000027"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=126.737s" clip-end="npt=130.028s" id="phr_005_000028"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=130.028s" clip-end="npt=135.749s" id="phr_005_000029"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=135.749s" clip-end="npt=136.768s" id="phr_005_00002a"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=136.768s" clip-end="npt=140.138s" id="phr_005_00002b"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=140.138s" clip-end="npt=144.317s" id="phr_005_00002c"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=144.317s" clip-end="npt=148.157s" id="phr_005_00002d"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=148.157s" clip-end="npt=152.415s" id="phr_005_00002e"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=152.415s" clip-end="npt=155.818s" id="phr_005_00002f"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=155.818s" clip-end="npt=156.706s" id="phr_005_000030"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=156.706s" clip-end="npt=161.766s" id="phr_005_000031"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=161.766s" clip-end="npt=162.785s" id="phr_005_000032"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=162.785s" clip-end="npt=167.095s" id="phr_005_000033"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=167.095s" clip-end="npt=170.151s" id="phr_005_000034"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=170.151s" clip-end="npt=173.243s" id="phr_005_000035"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=173.243s" clip-end="npt=177.553s" id="phr_005_000036"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=177.553s" clip-end="npt=179.539s" id="phr_005_000037"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=179.539s" clip-end="npt=189.256s" id="phr_005_000038"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=189.256s" clip-end="npt=196.152s" id="phr_005_000039"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=196.152s" clip-end="npt=199.705s" id="phr_005_00003a"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=199.705s" clip-end="npt=203.232s" id="phr_005_00003b"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=203.232s" clip-end="npt=204.564s" id="phr_005_00003c"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=204.564s" clip-end="npt=221.235s" id="phr_005_00003d"/>
+					<audio src="005_Bladwijzers_toevoegen.mp3" clip-begin="npt=221.235s" clip-end="npt=223.789s" id="phr_005_00003e"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

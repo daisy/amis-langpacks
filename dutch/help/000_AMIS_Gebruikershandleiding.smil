@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:33.177"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Version 0.9.221"/>
+		<meta name="title" content="AMIS Gebruikershandleiding "/>
+		<meta name="dc:title" content="amisHandleiding"/>
+		<meta name="dc:identifier" content="amis3-help-NL-Dutch"/>
+	</head>
+	<body>
+		<seq dur="153.177s">
+			<par endsync="last" id="txt_000000">
+				<text src="amis_gebruikers_handleiding.html#cnt_000000" id="txt_000002"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=0.000s" clip-end="npt=1.453s" id="phr_000_000000"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000004">
+				<text src="amis_gebruikers_handleiding.html#cnt_000001" id="txt_000005"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=1.453s" clip-end="npt=3.191s" id="phr_000_000001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000007">
+				<text src="amis_gebruikers_handleiding.html#cnt_000002" id="txt_000008"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=3.191s" clip-end="npt=7.577s" id="phr_000_000002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00000a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000003" id="txt_00000b"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=7.577s" clip-end="npt=9.896s" id="phr_000_000003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00000d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000004" id="txt_00000e"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=9.896s" clip-end="npt=14.636s" id="phr_000_000004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000010">
+				<text src="amis_gebruikers_handleiding.html#cnt_000005" id="txt_000011"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=14.636s" clip-end="npt=15.813s" id="phr_000_000005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000013">
+				<text src="amis_gebruikers_handleiding.html#cnt_000006" id="txt_000014"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=15.813s" clip-end="npt=17.059s" id="phr_000_000006"/>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=17.059s" clip-end="npt=17.644s" id="phr_000_000007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000016">
+				<text src="amis_gebruikers_handleiding.html#cnt_000007" id="txt_000017"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=17.644s" clip-end="npt=19.789s" id="phr_000_000008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000019">
+				<text src="amis_gebruikers_handleiding.html#cnt_000008" id="txt_00001a"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=19.789s" clip-end="npt=24.996s" id="phr_000_000009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00001c">
+				<text src="amis_gebruikers_handleiding.html#cnt_000009" id="txt_00001d"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=24.996s" clip-end="npt=29.200s" id="phr_000_00000a"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00001f">
+				<text src="amis_gebruikers_handleiding.html#cnt_00000a" id="txt_000020"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=29.200s" clip-end="npt=31.691s" id="phr_000_00000b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000022">
+				<text src="amis_gebruikers_handleiding.html#cnt_00000b" id="txt_000023"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=31.691s" clip-end="npt=39.561s" id="phr_000_00000c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000025">
+				<text src="amis_gebruikers_handleiding.html#cnt_00000c" id="txt_000026"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=39.561s" clip-end="npt=43.869s" id="phr_000_00000d"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000028">
+				<text src="amis_gebruikers_handleiding.html#cnt_00000d" id="txt_000029"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=43.869s" clip-end="npt=46.775s" id="phr_000_00000e"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00002b">
+				<text src="amis_gebruikers_handleiding.html#cnt_00000e" id="txt_00002c"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=46.775s" clip-end="npt=50.585s" id="phr_000_00000f"/>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=50.585s" clip-end="npt=55.637s" id="phr_000_000010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00002e">
+				<text src="amis_gebruikers_handleiding.html#cnt_00000f" id="txt_00002f"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=55.637s" clip-end="npt=56.562s" id="phr_000_000011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000031">
+				<text src="amis_gebruikers_handleiding.html#cnt_000010" id="txt_000032"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=56.562s" clip-end="npt=58.933s" id="phr_000_000012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000034">
+				<text src="amis_gebruikers_handleiding.html#cnt_000011" id="txt_000035"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=58.933s" clip-end="npt=62.082s" id="phr_000_000013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000037">
+				<text src="amis_gebruikers_handleiding.html#cnt_000012" id="txt_000038"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=62.082s" clip-end="npt=67.531s" id="phr_000_000014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00003a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000013" id="txt_00003b"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=67.531s" clip-end="npt=72.193s" id="phr_000_000015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00003d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000014" id="txt_00003e"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=72.193s" clip-end="npt=74.737s" id="phr_000_000016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000040">
+				<text src="amis_gebruikers_handleiding.html#cnt_000015" id="txt_000041"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=74.737s" clip-end="npt=76.190s" id="phr_000_000017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000043">
+				<text src="amis_gebruikers_handleiding.html#cnt_000016" id="txt_000044"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=76.190s" clip-end="npt=76.986s" id="phr_000_000018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000046">
+				<text src="amis_gebruikers_handleiding.html#cnt_000017" id="txt_000047"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=76.986s" clip-end="npt=77.885s" id="phr_000_000019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000049">
+				<text src="amis_gebruikers_handleiding.html#cnt_000018" id="txt_00004a"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=77.885s" clip-end="npt=81.869s" id="phr_000_00001a"/>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=81.869s" clip-end="npt=85.028s" id="phr_000_00001b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00004c">
+				<text src="amis_gebruikers_handleiding.html#cnt_000019" id="txt_00004d"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=85.028s" clip-end="npt=87.795s" id="phr_000_00001c"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00004f">
+				<text src="amis_gebruikers_handleiding.html#cnt_00001a" id="txt_000050"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=87.795s" clip-end="npt=92.068s" id="phr_000_00001d"/>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=92.068s" clip-end="npt=95.621s" id="phr_000_00001e"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000052">
+				<text src="amis_gebruikers_handleiding.html#cnt_00001b" id="txt_000053"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=95.621s" clip-end="npt=96.736s" id="phr_000_00001f"/>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=96.736s" clip-end="npt=102.983s" id="phr_000_000020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000055">
+				<text src="amis_gebruikers_handleiding.html#cnt_00001c" id="txt_000056"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=102.983s" clip-end="npt=109.357s" id="phr_000_000021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000058">
+				<text src="amis_gebruikers_handleiding.html#cnt_00001d" id="txt_000059"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=109.357s" clip-end="npt=124.098s" id="phr_000_000022"/>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=124.098s" clip-end="npt=124.355s" id="phr_000_000023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00005b">
+				<text src="amis_gebruikers_handleiding.html#cnt_00001e" id="txt_00005c"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=124.355s" clip-end="npt=126.777s" id="phr_000_000024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00005e">
+				<text src="amis_gebruikers_handleiding.html#cnt_00001f" id="txt_00005f"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=126.777s" clip-end="npt=131.985s" id="phr_000_000025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000061">
+				<text src="amis_gebruikers_handleiding.html#cnt_000020" id="txt_000062"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=131.985s" clip-end="npt=132.962s" id="phr_000_000026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000064">
+				<text src="amis_gebruikers_handleiding.html#cnt_000021" id="txt_000065"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=132.962s" clip-end="npt=134.502s" id="phr_000_000027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000067">
+				<text src="amis_gebruikers_handleiding.html#cnt_000022" id="txt_000068"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=134.502s" clip-end="npt=138.066s" id="phr_000_000028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00006a">
+				<text src="amis_gebruikers_handleiding.html#cnt_000023" id="txt_00006b"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=138.066s" clip-end="npt=141.561s" id="phr_000_000029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_00006d">
+				<text src="amis_gebruikers_handleiding.html#cnt_000024" id="txt_00006e"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=141.561s" clip-end="npt=143.455s" id="phr_000_00002a"/>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=143.455s" clip-end="npt=144.571s" id="phr_000_00002b"/>
+				</seq>
+			</par>
+			<par endsync="last" id="txt_000070">
+				<text src="amis_gebruikers_handleiding.html#cnt_000025" id="txt_000071"/>
+				<seq>
+					<audio src="000_AMIS_Gebruikershandleiding.mp3" clip-begin="npt=144.571s" clip-end="npt=153.177s" id="phr_000_00002c"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

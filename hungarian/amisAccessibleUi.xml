@@ -1,0 +1,2021 @@
+<?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2011-08-18_02:50:07"/>
+    <containers>
+        <container id="file">
+            <note>This is the menu header &quot;File&quot;</note>
+            <caption>
+                <text id="t1">Fájl</text>
+                <audio from="" src="./audio/312.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_OPEN_FILE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and a toolbar item</note>
+                <icon src="./open.png" type="smallIcon"/>
+                <caption>
+                    <text id="t2">Megnyitás...</text>
+                    <audio from="" src="./audio/313.mp3"/>
+                </caption>
+                <description>
+                    <text id="t3">DAISY könyv megnyitása a helyi fájlrendszerből</text>
+                    <audio from="" src="./audio/311.mp3"/>
+                </description>
+                <!--keys = the actual keys; text = the name of the keys-->
+                <accelerator keys="Ctrl+O">
+                    <text id="t4">Ctrl+O</text>
+                    <audio from="" src="./audio/310.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t5">M</text>
+                    <audio from="" src="./audio/309.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_OPEN_URL" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <icon src="./open.png" type="smallIcon"/>
+                <caption>
+                    <text id="t327">URL megnyitása...</text>
+                    <audio from="" src="./audio/308.mp3"/>
+                </caption>
+                <description>
+                    <text id="t328">DAISY kiadvány megnyitása URL-ből</text>
+                    <audio from="" src="./audio/307.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+U">
+                    <text id="t329">Ctrl+U</text>
+                    <audio from="" src="./audio/306.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t330">U</text>
+                    <audio from="" src="./audio/305.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_CLOSE_BOOK" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <icon src="./close.png" type="smallIcon"/>
+                <caption>
+                    <text id="t331">Bezárás</text>
+                    <audio from="" src="./audio/304.mp3"/>
+                </caption>
+                <description>
+                    <text id="t332">A DAISY kiadvány bezárása</text>
+                    <audio from="" src="./audio/303.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t333">Z</text>
+                    <audio from="" src="./audio/301.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_LOAD_CD" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and a toolbar item</note>
+                <icon src="./settings/img/cd3.ico" type="smallIcon"/>
+                <icon src="./settings/img/cd_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t6">CD betöltése</text>
+                    <audio from="" src="./audio/302.mp3"/>
+                </caption>
+                <description>
+                    <text id="t7">DAISY könyv betöltése CD-ről</text>
+                    <audio from="" src="./audio/300.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+L">
+                    <text id="t8">Ctrl+L</text>
+                    <audio from="" src="./audio/299.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t9">C</text>
+                    <audio from="" src="./audio/298.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SEARCH_LOCAL_DRIVES" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t10">Keresés a meghajtókon...</text>
+                    <audio from="" src="./audio/297.mp3"/>
+                </caption>
+                <description>
+                    <text id="t11">DAISY könyvek keresése a helyi lemezeken</text>
+                    <audio from="" src="./audio/296.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t12">G</text>
+                    <audio from="" src="./audio/295.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_PREFERENCES" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t13">Beállítások...</text>
+                    <audio from="" src="./audio/294.mp3"/>
+                </caption>
+                <description>
+                    <text id="t14">Ez a párbeszédpanel tartalmazza a program beállításait.</text>
+                    <audio from="" src="./audio/293.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t15">B</text>
+                    <audio from="" src="./audio/292.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="recentBooksList">
+                <note>This is the menu header for the recent books sub-menu.</note>
+                <caption>
+                    <text id="t16">Legutóbbi</text>
+                    <audio from="" src="./audio/291.mp3"/>
+                </caption>
+                <switch element="action">
+                    <action condition="ID_AMIS_RECENT_BOOKS_EMPTY" mfcid="ID_AMIS_RECENT_BOOKS_EMPTY" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <caption>
+                            <text id="t17">Üres</text>
+                            <audio from="" src="./audio/290.mp3"/>
+                        </caption>
+                        <description>
+                            <text id="t18">Nincsenek korábban megnyitott könyvek.</text>
+                            <audio from="" src="./audio/289.mp3"/>
+                        </description>
+                    </action>
+                    <action condition="AMIS_RECENT_BOOK_BASE_ID" mfcid="AMIS_RECENT_BOOK_BASE_ID" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <list repeat="yes">
+                            <caption>
+                                <promptVar name="RECENT_BOOK_TITLE"/>
+                            </caption>
+                        </list>
+                    </action>
+                </switch>
+                <mnemonic>
+                    <text id="t19">E</text>
+                    <audio from="" src="./audio/288.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_EXIT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t20">Kilépés</text>
+                    <audio from="" src="./audio/287.mp3"/>
+                </caption>
+                <description>
+                    <text id="t21">Kilépés az AMIS-ből</text>
+                    <audio from="" src="./audio/286.mp3"/>
+                </description>
+                <accelerator keys="Alt+F4">
+                    <text id="t22">Alt+F4</text>
+                    <audio from="" src="./audio/285.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t23">K</text>
+                    <audio from="" src="./audio/284.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+F">
+                <text id="t24">Alt+F</text>
+                <audio from="" src="./audio/283.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t25">F</text>
+                <audio from="" src="./audio/169.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="view">
+            <note>This is the menu header &quot;View&quot;</note>
+            <caption>
+                <text id="t26">Nézet</text>
+                <audio from="" src="./audio/281.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_TOGGLE_SIDEBAR" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t27">Oldalsáv</text>
+                    <audio from="" src="./audio/280.mp3"/>
+                </caption>
+                <description>
+                    <text id="t28">Az oldalsáv ki- és bekapcsolása.</text>
+                    <audio from="" src="./audio/279.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t29">O</text>
+                    <audio from="" src="./audio/278.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_TOGGLE_VIEW" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t30">Egyszerű nézet</text>
+                    <audio from="" src="./audio/234.mp3"/>
+                </caption>
+                <description>
+                    <text id="t31">A nézet módosítása</text>
+                    <audio from="" src="./audio/233.mp3"/>
+                </description>
+                <accelerator keys="F11">
+                    <text id="t32">F11</text>
+                    <audio from="" src="./audio/232.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t33">E</text>
+                    <audio from="" src="./audio/231.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="pageStylesList">
+                <note>This is the menu header for the list of styles available for this page.</note>
+                <caption>
+                    <text id="t334">Oldal stílusa</text>
+                    <audio from="" src="./audio/230.mp3"/>
+                </caption>
+                <action mfcid="ID_AMIS_NO_PAGE_STYLES" widget="menuItem">
+                    <note>This is going to be a menu item</note>
+                    <caption>
+                        <text id="t335">Nincs</text>
+                        <audio from="" src="./audio/229.mp3"/>
+                    </caption>
+                </action>
+                <action mfcid="AMIS_PAGE_STYLE_BASE_ID" widget="menuItem">
+                    <note>This is going to be a menu item</note>
+                    <list repeat="yes">
+                        <caption>
+                            <promptVar name="PAGE_STYLE_NAME"/>
+                        </caption>
+                    </list>
+                </action>
+                <mnemonic>
+                    <text id="t336">L</text>
+                    <audio from="" src="./audio/228.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_BIGGER_FONT" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/font.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t38">Betűméret növelése</text>
+                    <audio from="" src="./audio/227.mp3"/>
+                </caption>
+                <description>
+                    <text id="t39">A betűméret fokozatának növelése.</text>
+                    <audio from="" src="./audio/226.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t40">V</text>
+                    <audio from="" src="./audio/225.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SMALLER_FONT" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/font.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t337">Betűméret csökkentése</text>
+                    <audio from="" src="./audio/224.mp3"/>
+                </caption>
+                <description>
+                    <text id="t338">A betűméret fokozatának  csökkentése.</text>
+                    <audio from="" src="./audio/223.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t339">C</text>
+                    <audio from="" src="./audio/222.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_TEXTSTYLE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t340">Szöveg stílusa...</text>
+                    <audio from="" src="./audio/221.mp3"/>
+                </caption>
+                <description>
+                    <text id="t341">A szöveg stílusbeállításainak módosítása.</text>
+                    <audio from="" src="./audio/220.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t342">Z</text>
+                    <audio from="" src="./audio/219.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="AMIS_NAVLIST_BASE_ID" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <promptVar name="NAVLIST_NAME"/>
+                </caption>
+                <description>
+                    <promptVar name="NAVLIST_DESCRIPTION"/>
+                </description>
+            </action>
+            <accelerator keys="Alt+N">
+                <text id="t44">Alt+N</text>
+                <audio from="" src="./audio/218.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t45">N</text>
+                <audio from="" src="./audio/217.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="play">
+            <note>This is the menu header &quot;Play&quot;</note>
+            <caption>
+                <text id="t46">Lejátszás</text>
+                <audio from="" src="./audio/216.mp3"/>
+            </caption>
+            <switch element="action">
+                <action condition="canPlay" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
+                    <note>This is going to be a menu item and toolbar item</note>
+                    <icon src="./settings/img/play-big.ico" type="smallIcon"/>
+                    <icon src="./settings/img/play_big.ico" type="largeIcon"/>
+                    <caption>
+                        <text id="t47">Lejátszás</text>
+                        <audio from="" src="./audio/216.mp3"/>
+                    </caption>
+                    <description>
+                        <text id="t48">A szinkronizált visszajátszás indítása vagy megállítása.</text>
+                        <audio from="" src="./audio/214.mp3"/>
+                    </description>
+                    <accelerator keys="Space">
+                        <text id="t49">Szóköz</text>
+                        <audio from="" src="./audio/213.mp3"/>
+                    </accelerator>
+                    <mnemonic>
+                        <text id="t50">L</text>
+                        <audio from="" src="./audio/212.mp3"/>
+                    </mnemonic>
+                </action>
+                <action condition="canPause" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
+                    <note>This is going to be a menu item and toolbar item</note>
+                    <icon src="./settings/img/pause.ico" type="smallIcon"/>
+                    <icon src="./settings/img/pause_big.ico" type="largeIcon"/>
+                    <caption>
+                        <text id="t51">Megállítás</text>
+                        <audio from="" src="./audio/211.mp3"/>
+                    </caption>
+                    <description>
+                        <text id="t52">A DAISY könyv visszajátszásának indítása vagy megállítása.</text>
+                        <audio from="" src="./audio/210.mp3"/>
+                    </description>
+                    <accelerator keys="Space">
+                        <text id="t53">Szóköz</text>
+                        <audio from="" src="./audio/209.mp3"/>
+                    </accelerator>
+                    <mnemonic>
+                        <text id="t54">E</text>
+                        <audio from="" src="./audio/208.mp3"/>
+                    </mnemonic>
+                </action>
+            </switch>
+            <action mfcid="ID_AMIS_ESCAPE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t55">Megszakítás</text>
+                    <audio from="" src="./audio/207.mp3"/>
+                </caption>
+                <description>
+                    <text id="t56">Az aktuális elem vagy struktúra lejátszásának megszakítása.</text>
+                    <audio from="" src="./audio/206.mp3"/>
+                </description>
+                <accelerator keys="Esc">
+                    <text id="t57">Escape</text>
+                    <audio from="" src="./audio/205.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t58">G</text>
+                    <audio from="" src="./audio/204.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_FASTER" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/fullspeedahead.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t59">Gyorsítás</text>
+                    <audio from="" src="./audio/203.mp3"/>
+                </caption>
+                <description>
+                    <text id="t60">A visszajátszás sebességének növelése.</text>
+                    <audio from="" src="./audio/202.mp3"/>
+                </description>
+                <accelerator keys="Ctrl++">
+                    <text id="t61">Ctrl++</text>
+                    <audio from="" src="./audio/201.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t62">Y</text>
+                    <audio from="" src="./audio/200.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SLOWER" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/slowdown.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t63">Lassítás</text>
+                    <audio from="" src="./audio/199.mp3"/>
+                </caption>
+                <description>
+                    <text id="t64">A visszajátszás sebességének csökkentése.</text>
+                    <audio from="" src="./audio/198.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+-">
+                    <text id="t65">Ctrl+-</text>
+                    <audio from="" src="./audio/197.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t66">T</text>
+                    <audio from="" src="./audio/196.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_RESET_SPEED" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/normalspeed.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t67">Eredeti sebesség</text>
+                    <audio from="" src="./audio/195.mp3"/>
+                </caption>
+                <description>
+                    <text id="t68">A visszajátszás sebességének visszaállítása az eredeti értékre.</text>
+                    <audio from="" src="./audio/194.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+0">
+                    <text id="t69">Ctrl+0</text>
+                    <audio from="" src="./audio/193.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t70">R</text>
+                    <audio from="" src="./audio/192.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_INCREASE_VOLUME" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t71">Hangerő növelése</text>
+                    <audio from="" src="./audio/190.mp3"/>
+                </caption>
+                <description>
+                    <text id="t72">A hangerő fokozatának növelése.</text>
+                    <audio from="" src="./audio/191.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Up">
+                    <text id="t73">Ctrl+Fel</text>
+                    <audio from="" src="./audio/189.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t74">V</text>
+                    <audio from="" src="./audio/188.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_DECREASE_VOLUME" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t75">Hangerő csökkentése</text>
+                    <audio from="" src="./audio/187.mp3"/>
+                </caption>
+                <description>
+                    <text id="t76">A hangerő fokozatának csökkentése.</text>
+                    <audio from="" src="./audio/186.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Down">
+                    <text id="t77">Ctrl+Le</text>
+                    <audio from="" src="./audio/185.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t78">C</text>
+                    <audio from="" src="./audio/184.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+L">
+                <text id="t79">Alt+L</text>
+                <audio from="" src="./audio/183.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t80">L</text>
+                <audio from="" src="./audio/181.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="navigate">
+            <note>This is the menu header &quot;Navigate&quot;</note>
+            <caption>
+                <text id="t81">Navigáció</text>
+                <audio from="" src="./audio/182.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_PREVIOUS_SECTION" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevsection.ico" type="smallIcon"/>
+                <icon src="./settings/img/prevsection_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t82">Előző fejezet</text>
+                    <audio from="" src="./audio/180.mp3"/>
+                </caption>
+                <description>
+                    <text id="t83">Ugrás az előző fejezetre.</text>
+                    <audio from="" src="./audio/179.mp3"/>
+                </description>
+                <accelerator keys="Up">
+                    <text id="t84">Fel</text>
+                    <audio from="" src="./audio/178.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t85">E</text>
+                    <audio from="" src="./audio/177.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_SECTION" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextsection.ico" type="smallIcon"/>
+                <icon src="./settings/img/nextsection_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t86">Következő fejezet</text>
+                    <audio from="" src="./audio/176.mp3"/>
+                </caption>
+                <description>
+                    <text id="t87">Ugrás a következő fejezetre.</text>
+                    <audio from="" src="./audio/175.mp3"/>
+                </description>
+                <accelerator keys="Down">
+                    <text id="t88">Le</text>
+                    <audio from="" src="./audio/174.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t89">V</text>
+                    <audio from="" src="./audio/173.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="sectiondepth">
+                <note>This is the &quot;show section depth&quot; sub-menu pop-up</note>
+                <caption>
+                    <text id="t90">Fejezet mélység megjelenítése</text>
+                    <audio from="" src="./audio/172.mp3"/>
+                </caption>
+                <switch element="action">
+                    <action condition="ID_AMIS_SECTION_DEPTH_EMPTY" mfcid="ID_AMIS_SECTION_DEPTH_EMPTY" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <caption>
+                            <text id="t91">Üres</text>
+                            <audio from="" src="./audio/171.mp3"/>
+                        </caption>
+                        <description>
+                            <text id="t92">Nincsenek fejezet szintek.</text>
+                            <audio from="" src="./audio/170.mp3"/>
+                        </description>
+                    </action>
+                    <action condition="AMIS_SECTION_DEPTH_BASE_ID" mfcid="AMIS_SECTION_DEPTH_BASE_ID" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <list repeat="yes">
+                            <caption>
+                                <promptVar name="SECTION_DEPTH_OPTION"/>
+                            </caption>
+                        </list>
+                    </action>
+                </switch>
+                <mnemonic>
+                    <text id="t93">F</text>
+                    <audio from="" src="./audio/282.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_PREVIOUS_PHRASE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevphasecirc.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t94">Előző mondat</text>
+                    <audio from="" src="./audio/168.mp3"/>
+                </caption>
+                <description>
+                    <text id="t95">Ugrás az előző mondatra.</text>
+                    <audio from="" src="./audio/167.mp3"/>
+                </description>
+                <accelerator keys="Left">
+                    <text id="t96">Balra</text>
+                    <audio from="" src="./audio/166.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_PHRASE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextphrasecirc.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t97">Következő mondat</text>
+                    <audio from="" src="./audio/165.mp3"/>
+                </caption>
+                <description>
+                    <text id="t98">Ugrás a következő mondatra.</text>
+                    <audio from="" src="./audio/164.mp3"/>
+                </description>
+                <accelerator keys="Right">
+                    <text id="t99">Jobbra</text>
+                    <audio from="" src="./audio/163.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_PREVIOUS_PAGE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevpage.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t100">Előző oldal</text>
+                    <audio from="" src="./audio/162.mp3"/>
+                </caption>
+                <description>
+                    <text id="t101">Ugrás az előző oldalra.</text>
+                    <audio from="" src="./audio/161.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Left">
+                    <text id="t102">Ctrl+Balra</text>
+                    <audio from="" src="./audio/160.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_PAGE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextpage.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t103">Következő oldal</text>
+                    <audio from="" src="./audio/159.mp3"/>
+                </caption>
+                <description>
+                    <text id="t104">Ugrás a következő oldalra.</text>
+                    <audio from="" src="./audio/158.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Right">
+                    <text id="t105">Ctrl+Jobbra</text>
+                    <audio from="" src="./audio/157.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_GOTO_PAGE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t106">Ugrás oldalra...</text>
+                    <audio from="" src="./audio/156.mp3"/>
+                </caption>
+                <description>
+                    <text id="t107">Ugrás egy megadott oldalra.</text>
+                    <audio from="" src="./audio/155.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+G">
+                    <text id="t108">Ctrl+G</text>
+                    <audio from="" src="./audio/154.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_FIND_IN_TEXT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t109">Keresés a szövegben...</text>
+                    <audio from="" src="./audio/153.mp3"/>
+                </caption>
+                <description>
+                    <text id="t110">Szó, vagy kifejezés keresése a szövegben.</text>
+                    <audio from="" src="./audio/152.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+F">
+                    <text id="t111">Ctrl+F</text>
+                    <audio from="" src="./audio/151.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t112">K</text>
+                    <audio from="" src="./audio/143.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+A">
+                <text id="t113">Alt+A</text>
+                <audio from="" src="./audio/149.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t114">A</text>
+                <audio from="" src="./audio/148.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="bookmarks">
+            <note>This is the menu header &quot;Bookmarks&quot;</note>
+            <caption>
+                <text id="t115">Könyvjelzők</text>
+                <audio from="" src="./audio/147.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_ADD_BOOKMARK" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/adbookmark.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t116">Könyvjelző hozzáadása</text>
+                    <audio from="" src="./audio/146.mp3"/>
+                </caption>
+                <description>
+                    <text id="t117">Az aktuális pozíció elmentése könyvjelzőként.</text>
+                    <audio from="" src="./audio/145.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+D">
+                    <text id="t118">Ctrl+D</text>
+                    <audio from="" src="./audio/144.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t119">K</text>
+                    <audio from="" src="./audio/141.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="AMIS_BOOKMARK_BASE_ID" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOKMARK_TITLE"/>
+                    </caption>
+                </list>
+            </action>
+            <accelerator keys="Alt+K">
+                <text id="t120">Alt+K</text>
+                <audio from="" src="./audio/142.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t121">K</text>
+                <audio from="" src="./audio/134.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="info">
+            <note>This is the menu header &quot;Info&quot;</note>
+            <caption>
+                <text id="t122">Információ</text>
+                <audio from="" src="./audio/140.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_SHOW_READING_OPTIONS" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t123">Olvasási beállítások...</text>
+                    <audio from="" src="./audio/139.mp3"/>
+                </caption>
+                <description>
+                    <text id="t124">Az ehhez a kiadványhoz tartozó olvasási beállítások megtekintése.</text>
+                    <audio from="" src="./audio/138.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t125">O</text>
+                    <audio from="" src="./audio/137.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_PUBLICATION_SUMMARY" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t343">Kiadvány összegzés...</text>
+                    <audio from="" src="./audio/136.mp3"/>
+                </caption>
+                <description>
+                    <text id="t344">Információ megjelenítése a kiadványról.</text>
+                    <audio from="" src="./audio/135.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t345">K</text>
+                    <audio from="" src="./audio/134.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+I">
+                <text id="t135">Alt+I</text>
+                <audio from="" src="./audio/132.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t136">I</text>
+                <audio from="" src="./audio/133.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="help">
+            <note>This is the menu header &quot;Help&quot;</note>
+            <caption>
+                <text id="t137">Súgó</text>
+                <audio from="" src="./audio/131.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_SHOW_HELP_CONTENTS" widget="menuItem toolbarItem">
+                <caption>
+                    <text id="t138">Témakörök</text>
+                    <audio from="" src="./audio/130.mp3"/>
+                </caption>
+                <description>
+                    <text id="t139">Segítség az AMIS használatához</text>
+                    <audio from="" src="./audio/129.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t140">T</text>
+                    <audio from="" src="./audio/128.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_KEYBOARD_SHORTCUTS" widget="menuItem">
+                <caption>
+                    <text id="t373">Billentyűparancsok</text>
+                    <audio from="" src="./audio/127.mp3"/>
+                </caption>
+                <description>
+                    <text id="t374">Tekintse, és hallgassa meg az AMIS programhoz tartozó összes billentyűparancsot.</text>
+                    <audio from="" src="./audio/126.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t375">B</text>
+                    <audio from="" src="./audio/125.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_ABOUT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t141">Az AMIS névjegye</text>
+                    <audio from="" src="./audio/107.mp3"/>
+                </caption>
+                <description>
+                    <text id="t142">Tudjon meg többet az AMIS-ről és a DAISY-ről.</text>
+                    <audio from="" src="./audio/123.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t143">A</text>
+                    <audio from="" src="./audio/122.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+S">
+                <text id="t144">Alt+S</text>
+                <audio from="" src="./audio/120.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t145">S</text>
+                <audio from="" src="./audio/121.mp3"/>
+            </mnemonic>
+        </container>
+    </containers>
+    <dialogs>
+        <dialog mfcid="IDD_FIND">
+            <note>This is the find in text dialog</note>
+            <caption>
+                <text id="t146">Keresés a szövegben</text>
+                <audio from="" src="./audio/119.mp3"/>
+            </caption>
+            <description mfcid="IDC_FIND_DESCRIPTION">
+                <text id="t147">Szöveg keresése a könyvben bármely irányban.</text>
+                <audio from="" src="./audio/118.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SEARCHSTRING" widget="textfield autoplay">
+                <description>
+                    <text id="t151">Adja meg a keresendő szöveget.</text>
+                    <audio from="" src="./audio/117.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_FINDPREVIOUS" widget="radiobutton">
+                <note>This indicates the direction of the search</note>
+                <caption>
+                    <text id="t152">Előző keresése</text>
+                    <audio from="" src="./audio/116.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="SELECTED_OR_DESELECTED" param="FIND_PREV_IN_TEXT"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t149">Kattintson ide a szöveg keresésének megkezdéséhez.</text>
+                    <audio from="" src="./audio/115.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t150">M</text>
+                    <audio from="" src="./audio/114.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_CDSEARCH">
+            <note>This dialog appears when more than one book is on a CD-ROM</note>
+            <caption>
+                <text id="t154">Több könyv található</text>
+                <audio from="" src="./audio/113.mp3"/>
+            </caption>
+            <description mfcid="IDC_MULTIVOLCD_INSTRUCTIONS">
+                <text id="t155">Ez a CD több könyvet tartalmaz. Kérem, válasszon egyet az alábbi listából.</text>
+                <audio from="" src="./audio/112.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_BOOKLIST" widget="list autoplay">
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOK_TITLE"/>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t156">M</text>
+                    <audio from="" src="./audio/111.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_OPENBOOK" widget="button">
+                <caption>
+                    <text id="t157">Megnyitás</text>
+                    <audio from="" src="./audio/110.mp3"/>
+                </caption>
+                <description>
+                    <text id="t158">Kattintson ide a párbeszédpanel bezárásához, és a kiválasztott könyv megnyitásához.</text>
+                    <audio from="" src="./audio/109.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t159">E</text>
+                    <audio from="" src="./audio/108.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_ABOUTBOX">
+            <note>This dialog gives some basic information about AMIS.</note>
+            <caption>
+                <text id="t161">Az AMIS névjegye</text>
+                <audio from="" src="./audio/107.mp3"/>
+            </caption>
+            <description>
+                <text id="t162">Információk az AMIS szoftverről.</text>
+                <audio from="" src="./audio/106.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_AMISNAME" translate="no" widget="textlabel autoplay">
+                <caption>
+                    <text id="t163">AMIS: 
+Adaptív multimédiás információs rendszer</text>
+                    <audio from="" src="./audio/105.mp3"/>
+                </caption>
+            </control>
+            <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
+                <caption>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">Verzió:</text>
+                      <audio from="" src="./audio/366.mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
+                </caption>
+            </control>
+            <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
+                <caption>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">Kiadás dátuma:</text>
+                      <audio from="" src="./audio/365.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
+                </caption>
+            </control>
+            <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
+                <caption>
+                    <text id="t166">Copyright (c) 2009 DAISY Consortium</text>
+                    <audio from="" src="./audio/102.mp3"/>
+                </caption>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_SEARCHDAISY">
+            <note>This dialog is for searching your hard drive for DAISY books.</note>
+            <caption>
+                <text id="t167">DAISY könyvek keresése</text>
+                <audio from="" src="./audio/101.mp3"/>
+            </caption>
+            <description mfcid="IDC_SEARCHINSTRUCTIONS">
+                <text id="t168">Itt tud keresni DAISY könyveket a számítógépén. Adjon meg egy elérési utat vagy tallózással válasszon egy mappát, majd a keresés megkezdéséhez kattintson a keresés gombra.</text>
+                <audio from="" src="./audio/100.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SEARCHPATH" widget="textfield autoplay">
+                <description>
+                    <text id="t169">Adja meg a mappa elérési útját.</text>
+                    <audio from="" src="./audio/099.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_BROWSE" widget="button">
+                <caption>
+                    <text id="t260">Tallózás...</text>
+                    <audio from="" src="./audio/098.mp3"/>
+                </caption>
+                <description>
+                    <text id="t261">Kattintson ide a tallózás a mappák között párbeszédpanel megnyitásához.</text>
+                    <audio from="" src="./audio/097.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_STARTSEARCH" widget="button">
+                <caption>
+                    <text id="t170">Keresés</text>
+                    <audio from="" src="./audio/096.mp3"/>
+                </caption>
+                <description>
+                    <text id="t171">Kattintson ide a keresés indításához.</text>
+                    <audio from="" src="./audio/095.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t172">K</text>
+                    <audio from="" src="./audio/094.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_STOPSEARCH" widget="button">
+                <caption>
+                    <text id="t173">Leállítás</text>
+                    <audio from="" src="./audio/093.mp3"/>
+                </caption>
+                <description>
+                    <text id="t174">Kattintson ide a keresés leállításához.</text>
+                    <audio from="" src="./audio/092.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t175">E</text>
+                    <audio from="" src="./audio/091.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_SEARCHING" widget="textlabel">
+                <switch element="caption">
+                    <caption condition="default">
+                        <text id="t176">Kész</text>
+                        <audio from="" src="./audio/089.mp3"/>
+                    </caption>
+                    <caption condition="WhileSearching">
+                        <text id="t177">Keresés...</text>
+                        <audio from="" src="./audio/090.mp3"/>
+                    </caption>
+                    <caption condition="SearchAborted">
+                        <text id="t178">A keresés leállítva.</text>
+                        <audio from="" src="./audio/088.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteNoFilesFound">
+                        <text id="t179">A keresés befejeződött: nincs találat.</text>
+                        <audio from="" src="./audio/087.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteOneFileFound">
+                        <text id="t180">A keresés befejeződött: egy fájl található.</text>
+                        <audio from="" src="./audio/086.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteFilesFound">
+                        <prompt>
+                            <promptVar name="NUM_FILES_FOUND"/>
+                            <promptItem>
+                                <note>This is used in the sentence &quot;7 files were found&quot;</note>
+                                <text id="t181">fájl található.</text>
+                                <audio from="" src="./audio/085.mp3"/>
+                            </promptItem>
+                        </prompt>
+                    </caption>
+                </switch>
+            </control>
+            <control mfcid="IDC_FILESFOUND" widget="list">
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOK_TITLE"/>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDC_OPENBOOK" widget="button">
+                <caption>
+                    <text id="t183">Megnyitás</text>
+                    <audio from="" src="./audio/084.mp3"/>
+                </caption>
+                <description>
+                    <text id="t184">Kattintson ide a kiválasztott cím megnyitásához.</text>
+                    <audio from="" src="./audio/083.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t185">G</text>
+                    <audio from="" src="./audio/082.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t186">M</text>
+                    <audio from="" src="./audio/081.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_READING_OPTIONS">
+            <note>This dialog lets the user control rendering of skippable structures.</note>
+            <caption>
+                <text id="t187">Olvasási beállítások</text>
+                <audio from="" src="./audio/080.mp3"/>
+            </caption>
+            <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
+                <text id="t188">Ez a könyv a következő speciális tipusú elemeket tartalmazza. A program a bejelölteket lejátsza, a nem bejelölteket kihagya.</text>
+                <audio from="" src="./audio/079.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_OPTIONS_LIST" widget="list autoplay">
+                <caption>
+                    <text id="t190">Olvasási beállítások listája:</text>
+                    <audio from="" src="./audio/078.mp3"/>
+                </caption>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="SKIPPABLE_ITEM"/>
+                    </caption>
+                    <description>
+                        <prompt>
+                            <promptItem refid="thisItemIsCurrently"/>
+                            <promptVar name="WILL_SKIP_OR_NOT" param="SKIPPABLE_ITEM_ID"/>
+                            <promptItem refid="spaceToToggle"/>
+                        </prompt>
+                    </description>
+                </list>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t381">M</text>
+                    <audio from="" src="./audio/077.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_PREFERENCES">
+            <note>This dialog lets the user set some basic preferences for AMIS.</note>
+            <caption>
+                <text id="t218">Beállítások</text>
+                <audio from="" src="./audio/076.mp3"/>
+            </caption>
+            <description>
+                <text id="t219">Itt tudja módosítani az AMIS általános beállításait.</text>
+                <audio from="" src="./audio/075.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_ISSELFVOICING" widget="checkbox autoplay">
+                <caption>
+                    <text id="t220">A beépített beszédtámogatás használata</text>
+                    <audio from="" src="./audio/074.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="SELF_VOICING_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_TTSVOICES" widget="list">
+                <caption mfcid="IDC_SELTTSLABEL">
+                    <text id="t221">TTS hang kiválasztása:</text>
+                    <audio from="" src="./audio/072.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="TTS_VOICE_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTTEXT" widget="checkbox">
+                <caption>
+                    <text id="t346">A felolvasott szöveg kiemelése</text>
+                    <audio from="" src="./audio/073.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="HIGHLIGHTTEXT_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_LOADLASTBOOK" widget="checkbox">
+                <caption>
+                    <text id="t225">A legutóbb olvasott könyv betöltése indításkor</text>
+                    <audio from="" src="./audio/071.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="LOAD_LAST_READ_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_STARTINBASICVIEW" widget="checkbox">
+                <caption>
+                    <text id="t223">Indítás egyszerű nézetben</text>
+                    <audio from="" src="./audio/070.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="BASIC_VIEW_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_PAUSEONLOSTFOCUS" widget="checkbox">
+                <caption>
+                    <text id="t347">Alkalmazás váltásakor a hanglejátszás szüneteltetése</text>
+                    <audio from="" src="./audio/069.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="PAUSEONLOSTFOCUS_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_DISABLESCREENSAVER" widget="checkbox">
+                <caption>
+                    <text id="t348">Olvasás közben a képernyőkímélő letiltása</text>
+                    <audio from="" src="./audio/068.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="DISABLESCREENSAVER_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_INSTALLEDLANGUAGES" widget="list">
+                <caption mfcid="IDC_CURRLANG">
+                    <prompt>
+                        <promptItem>
+                            <text id="t349">Az AMIS-t jelenleg a következő nyelven használja:</text>
+                            <audio from="" src="./audio/067.mp3"/>
+                        </promptItem>
+                        <promptVar name="CURRENT_LANGUAGE_NAME"/>
+                    </prompt>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="LANGUAGE_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t350">M</text>
+                    <audio from="" src="./audio/066.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_GOTOPAGE">
+            <note>This dialog lets the user jump to a certain page</note>
+            <caption>
+                <text id="t231">Ugrás oldalra</text>
+                <audio from="" src="./audio/065.mp3"/>
+            </caption>
+            <description mfcid="IDC_GOTOPAGE_CAPTION">
+                <text id="t236">Adja meg az oldal számát vagy címkéjét amelyre ugrani szeretne:</text>
+                <audio from="" src="./audio/064.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_PAGENUM" widget="textfield autoplay">
+                <description>
+                    <text id="t237">Adja meg az oldal számát vagy címkéjét.</text>
+                    <audio from="" src="./audio/063.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t234">Kattintson ide a kívánt oldalra történő ugráshoz.</text>
+                    <audio from="" src="./audio/062.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t235">M</text>
+                    <audio from="" src="./audio/060.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_PUBLICATIONSUMMARY">
+            <note>This dialog contains publication metadata and feedback about the user's current position.</note>
+            <caption>
+                <text id="t238">Kiadvány összegzése</text>
+                <audio from="" src="./audio/061.mp3"/>
+            </caption>
+            <description mfcid="IDC_PUBLICATIONSUMMARYCAPTION">
+                <text id="t214">Információ a kiadványról és a jelenlegi pozícióról</text>
+                <audio from="" src="./audio/059.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SUMMARYLIST" widget="list autoplay">
+                <caption>
+                    <text id="t434">Kiadvány információs lista:</text>
+                    <audio from="" src="./audio/058.mp3"/>
+                </caption>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="no">
+                    <caption>
+                        <prompt>
+                            <promptItem>
+                                <text id="t240">Cím:</text>
+                                <audio from="" src="./audio/057.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TITLE"/>
+                        </prompt>
+                    </caption>
+                    <caption>
+                        <prompt>
+                            <promptItem>
+                                <text id="t241">Szerző:</text>
+                                <audio from="" src="./audio/056.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_CREATOR"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t242">Kiadó:</text>
+                                <audio from="" src="./audio/055.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_PUBLISHER"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t243">Leírás:</text>
+                                <audio from="" src="./audio/054.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DESC"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t351">Felolvasó:</text>
+                                <audio from="" src="./audio/053.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_NARRATOR"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t249">Teljes időtartam:</text>
+                                <audio from="" src="./audio/052.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TOTALTIME"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t352">Összes oldal:</text>
+                                <audio from="" src="./audio/051.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_NUMPAGES"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t353">Dátum:</text>
+                                <audio from="" src="./audio/050.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DATE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t354">Formátum:</text>
+                                <audio from="" src="./audio/049.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_FORMAT"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t355">Felosztás:</text>
+                                <audio from="" src="./audio/048.mp3"/>
+                            </promptItem>
+                            <promptVar name="TOC_CATEGORIES"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t356">Aktuális oldal:</text>
+                                <audio from="" src="./audio/047.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_PAGE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t215">Aktuális fejezet:</text>
+                                <audio from="" src="./audio/046.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_TITLE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t390">Fejezet tartalma:</text>
+                                <audio from="" src="./audio/045.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_NUM_SUBSECTIONS"/>
+                            <promptItem>
+                                <text id="t217">alfejezet,</text>
+                                <audio from="" src="./audio/044.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
+                            <promptItem>
+                                <text id="t216">oldal</text>
+                                <audio from="" src="./audio/043.mp3"/>
+                            </promptItem>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t244">Tartalomjegyzék elemek:</text>
+                                <audio from="" src="./audio/042.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TOCITEMS"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t245">Maximális fejezet mélység:</text>
+                                <audio from="" src="./audio/041.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DEPTH"/>
+                        </prompt>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_TEXTSTYLE">
+            <note>This dialog lets the user set text style properties.</note>
+            <caption>
+                <text id="t358">Szöveg stílusa</text>
+                <audio from="" src="./audio/040.mp3"/>
+            </caption>
+            <description>
+                <text id="t359">Ebben az ablakban lehetősége van a szöveg stílusbeállításainak  megváltoztatására.</text>
+                <audio from="" src="./audio/039.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_FONT" widget="list autoplay">
+                <caption mfcid="IDC_FONTLABEL">
+                    <text id="t360">Alkalmazás betűtipusa:</text>
+                    <audio from="" src="./audio/038.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="FONT_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTFOREGROUND" widget="list">
+                <caption mfcid="IDC_HIGHLIGHTFOREGROUNDLABEL">
+                    <text id="t362">Kijelölt szöveg színe:</text>
+                    <audio from="" src="./audio/037.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="FOREGROUND_COLOR_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTBACKGROUND" widget="list">
+                <caption mfcid="IDC_HIGHLIGHTBACKGROUNDLABEL">
+                    <text id="t364">Kiemelés háttérszíne:</text>
+                    <audio from="" src="./audio/036.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BACKGROUND_COLOR_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t366">M</text>
+                    <audio from="" src="./audio/035.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_OPENURL">
+            <note>This is the open URL dialog</note>
+            <caption>
+                <text id="t368">URL megnyitása</text>
+                <audio from="" src="./audio/033.mp3"/>
+            </caption>
+            <description mfcid="IDC_OPENURL_CAPTION">
+                <text id="t369">Írja be a megnyitni kívánt könyv URL címét:</text>
+                <audio from="" src="./audio/032.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_URL" widget="textfield autoplay">
+                <description>
+                    <text id="t371">Adja meg az URL-címet.</text>
+                    <audio from="" src="./audio/031.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t372">Kattintson ide az URL betöltéséhez</text>
+                    <audio from="" src="./audio/030.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t367">M</text>
+                    <audio from="" src="./audio/029.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+    </dialogs>
+    <prompts>
+        <promptItemRefs>
+            <promptItem id="useArrowsList">
+                <text id="t380">A lista elemein történő navigáláshoz használja a nyílbillentyűket.</text>
+                <audio from="" src="./audio/028.mp3"/>
+            </promptItem>
+            <promptItem id="thisItem">
+                <text id="t252">Ez az elem</text>
+                <audio from="" src="./audio/027.mp3"/>
+            </promptItem>
+            <promptItem id="spaceToToggle">
+                <text id="t253">Az érték megváltoztatásához nyomja meg a szóköz billentyűt.</text>
+                <audio from="" src="./audio/026.mp3"/>
+            </promptItem>
+            <promptItem id="tabAround">
+                <text id="t254">A párbeszédpanel elemein történő navigáláshoz nyomja meg a tab billentyűt.</text>
+                <audio from="" src="./audio/025.mp3"/>
+            </promptItem>
+            <promptItem id="thisItemIsCurrently">
+                <text id="t258">Az elem jelenleg</text>
+                <audio from="" src="./audio/024.mp3"/>
+            </promptItem>
+            <promptItem id="enter_to_close">
+                <text id="t259">A párbeszédpanel bezárásához nyomja meg az enter billentyűt</text>
+                <audio from="" src="./audio/023.mp3"/>
+            </promptItem>
+            <promptItem id="ok_button_caption">
+                <text id="t262">OK</text>
+                <audio from="" src="./audio/022.mp3"/>
+            </promptItem>
+            <promptItem id="ok_button_description">
+                <text id="t263">A párbeszédpanel bezárásához kattintson az OK gombra</text>
+                <audio from="" src="./audio/021.mp3"/>
+            </promptItem>
+            <promptItem id="cancel_button_caption">
+                <text id="t264">Mégse</text>
+                <audio from="" src="./audio/020.mp3"/>
+            </promptItem>
+            <promptItem id="cancel_button_description">
+                <text id="t265">A párbeszédpanelből történő kilépéshez kattintson a mégse gombra.</text>
+                <audio from="" src="./audio/019.mp3"/>
+            </promptItem>
+            <promptItem id="thisDialogNotSelfVoicing">
+                <text id="t268">Ehhez a párbeszédpanelhez nem tartozik beépített beszédtámogatás.</text>
+                <audio from="" src="./audio/018.mp3"/>
+            </promptItem>
+            <promptItem id="escapeToCancel">
+                <text id="t269">A kilépéshez nyomja meg az Esc billentyűt.</text>
+                <audio from="" src="./audio/017.mp3"/>
+            </promptItem>
+            <promptItem id="hearDlgInstructions">
+                <text id="t270">A súgó párbeszédpanelhez nyomja meg az F1 billentyűt.</text>
+                <audio from="" src="./audio/016.mp3"/>
+            </promptItem>
+            <promptItem id="nav_window">
+                <text id="t272">Navigálás</text>
+                <audio from="" src="./audio/015.mp3"/>
+            </promptItem>
+            <promptItem id="sections">
+                <text id="t273">Fejezetek</text>
+                <audio from="" src="./audio/014.mp3"/>
+            </promptItem>
+            <promptItem id="pages">
+                <text id="t274">Oldalak</text>
+                <audio from="" src="./audio/013.mp3"/>
+            </promptItem>
+            <promptItem id="noterefs">
+                <text id="t275">Lábjegyzetek</text>
+                <audio from="" src="./audio/012.mp3"/>
+            </promptItem>
+            <promptItem id="prodnotes">
+                <text id="t276">Produceri megjegyzések</text>
+                <audio from="" src="./audio/011.mp3"/>
+            </promptItem>
+            <promptItem id="sidebars">
+                <text id="t277">Széljegyzetek</text>
+                <audio from="" src="./audio/010.mp3"/>
+            </promptItem>
+            <promptItem id="groups">
+                <text id="t278">Csoportosított elemek</text>
+                <audio from="" src="./audio/009.mp3"/>
+            </promptItem>
+            <promptItem id="ready">
+                <text id="t280">Kész</text>
+                <audio from="" src="./audio/008.mp3"/>
+            </promptItem>
+            <promptItem id="selfolder_title">
+                <text id="t282">Válasszon egy mappát</text>
+                <audio from="" src="./audio/007.mp3"/>
+            </promptItem>
+            <promptItem id="selfolder_instr">
+                <text id="t283">Válasszon egy mappát az alábbi könyvtárból.</text>
+                <audio from="" src="./audio/006.mp3"/>
+            </promptItem>
+            <promptItem id="daisy_books">
+                <note>This is for the file open dialog's file type filter</note>
+                <text id="t284">DAISY-könyvek</text>
+                <audio from="" src="./audio/005.mp3"/>
+            </promptItem>
+            <promptItem id="folder_does_not_exist">
+                <text id="t285">A mappa %s nem létezik. Kívánja létrehozni?</text>
+                <audio from="" src="./audio/004.mp3"/>
+            </promptItem>
+            <promptItem id="folder_invalid">
+                <text id="t286">A mappa neve érvénytelen. Kérem, adjon meg egy másik nevet.</text>
+                <audio from="" src="./audio/003.mp3"/>
+            </promptItem>
+            <promptItem id="cant_create_folder">
+                <text id="t287">A mappa nem hozható létre. Kérem, ellenőrizze.</text>
+                <audio from="" src="./audio/002.mp3"/>
+            </promptItem>
+            <promptItem id="not_available">
+                <text id="t288">Nem érhető el</text>
+                <audio from="" src="./audio/001.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_zero">
+                <note>All numerals should be translated into numerals, not words.</note>
+                <text id="t289">0</text>
+                <audio from="" src="./audio/314.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_one">
+                <text id="t290">1</text>
+                <audio from="" src="./audio/315.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_two">
+                <text id="t291">2</text>
+                <audio from="" src="./audio/316.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_three">
+                <text id="t292">3</text>
+                <audio from="" src="./audio/317.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_four">
+                <text id="t293">4</text>
+                <audio from="" src="./audio/318.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_five">
+                <text id="t294">5</text>
+                <audio from="" src="./audio/319.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_six">
+                <text id="t295">6</text>
+                <audio from="" src="./audio/320.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_seven">
+                <text id="t296">7</text>
+                <audio from="" src="./audio/321.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_eight">
+                <text id="t297">8</text>
+                <audio from="" src="./audio/322.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_nine">
+                <text id="t298">9</text>
+                <audio from="" src="./audio/323.mp3"/>
+            </promptItem>
+            <promptItem id="will_be_skipped">
+                <text id="t300">kihagyásra kerül</text>
+                <audio from="" src="./audio/324.mp3"/>
+            </promptItem>
+            <promptItem id="will_be_played">
+                <text id="t301">lejátszásra kerül</text>
+                <audio from="" src="./audio/325.mp3"/>
+            </promptItem>
+            <promptItem id="item_selected">
+                <text id="t304">bejelölve</text>
+                <audio from="" src="./audio/326.mp3"/>
+            </promptItem>
+            <promptItem id="item_deselected">
+                <text id="t305">nincs bejelölve</text>
+                <audio from="" src="./audio/327.mp3"/>
+            </promptItem>
+            <promptItem id="menu">
+                <text id="t308">Menü</text>
+                <audio from="" src="./audio/328.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="keyboardShortcut">
+                <text id="t306">Billentyűparancs</text>
+                <audio from="" src="./audio/329.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="icon">
+                <text id="t307">Ikon</text>
+                <audio from="" src="./audio/330.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="followedBy">
+                <note>This is used in the context of a sequence of key presses, as in &quot;Press Alt + V, followed by S&quot;.  </note>
+                <text id="t309">követve</text>
+                <audio from="" src="./audio/331.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="submenu">
+                <text id="t310">Almenü</text>
+                <audio from="" src="./audio/332.mp3"/>
+            </promptItem>
+        </promptItemRefs>
+        <generalPrompts>
+            <prompt id="dialogClosed">
+                <promptItem>
+                    <text id="t311">Párbeszédpanel bezárva.</text>
+                    <audio from="" src="./audio/333.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="textFieldEntry">
+                <promptItem>
+                    <text id="t312">A szövegmező tartalma:</text>
+                    <audio from="" src="./audio/334.mp3"/>
+                </promptItem>
+                <promptVar name="TEXT_FIELD"/>
+            </prompt>
+            <prompt id="bookAtPathChanged">
+                <promptItem>
+                    <text id="t313">A megnyitni kívánt könyv nem található.</text>
+                    <audio from="" src="./audio/335.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="generalBookError">
+                <promptItem>
+                    <text id="t314">A könyv nem nyitható meg.</text>
+                    <audio from="" src="./audio/336.mp3"/>
+                </promptItem>
+                <promptVar name="BOOK_PATH"/>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="noCdLoaded">
+                <promptItem>
+                    <text id="t315">Nincs CD a meghajtóban.</text>
+                    <audio from="" src="./audio/337.mp3"/>
+                </promptItem>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="OpenFile_notSelfVoicing">
+                <promptItem>
+                    <text id="t319">Fájl megnyitása párbeszédpanel</text>
+                    <audio from="" src="./audio/338.mp3"/>
+                </promptItem>
+                <promptItem refid="thisDialogNotSelfVoicing"/>
+                <promptItem refid="escapeToCancel"/>
+            </prompt>
+            <prompt id="BrowseForFolder_notSelfVoicing">
+                <promptItem>
+                    <text id="t321">Tallózás a mappák között párbeszédpanel</text>
+                    <audio from="" src="./audio/339.mp3"/>
+                </promptItem>
+                <promptItem refid="thisDialogNotSelfVoicing"/>
+                <promptItem refid="escapeToCancel"/>
+            </prompt>
+            <prompt id="loading">
+                <promptItem>
+                    <text id="t324">Betöltés</text>
+                    <audio from="" src="./audio/340.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="restartForChanges">
+                <promptItem>
+                    <text id="t325">Az AMIS nyelvének megváltoztatásához kérem, indítsa újra a programot.</text>
+                    <audio from="" src="./audio/341.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="noBooksFoundOnCd">
+                <promptItem>
+                    <text id="t326">A CD-n nem található DAISY könyv.</text>
+                    <audio from="" src="./audio/342.mp3"/>
+                </promptItem>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="done">
+                <promptItem>
+                    <text id="t376">Kész</text>
+                    <audio from="" src="./audio/343.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="sidebarHasFocus">
+                <promptItem>
+                    <text id="t377">Fókusz az oldalsávon</text>
+                    <audio from="" src="./audio/344.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="textWindowHasFocus">
+                <promptItem>
+                    <text id="t378">Fókusz a szöveget tartalmazó ablakon</text>
+                    <audio from="" src="./audio/345.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="generalBookErrorReloading">
+                <promptItem>
+                    <text id="t382">A könyv nem nyitható meg. Az AMIS a legutóbb megnyitott könyvet fogja betölteni.</text>
+                    <audio from="" src="./audio/346.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="shift_key">
+                <promptItem>
+                    <text id="t383">shift</text>
+                    <audio from="" src="./audio/347.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="control_key">
+                <promptItem>
+                    <text id="t384">control</text>
+                    <audio from="" src="./audio/348.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="alt_key">
+                <promptItem>
+                    <text id="t385">alt</text>
+                    <audio from="" src="./audio/349.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="space_key">
+                <promptItem>
+                    <text id="t386">szóköz</text>
+                    <audio from="" src="./audio/350.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="delete_key">
+                <promptItem>
+                    <text id="t387">delete</text>
+                    <audio from="" src="./audio/351.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="backspace_key">
+                <promptItem>
+                    <text id="t388">backspace</text>
+                    <audio from="" src="./audio/352.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="enter_key">
+                <promptItem>
+                    <text id="t389">enter</text>
+                    <audio from="" src="./audio/353.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="searching_for_text">
+               <promptItem>
+                 <text id="t435">Szöveg keresése</text>
+                 <audio from="" src="./audio/354.mp3"/>
+               </promptItem>
+           </prompt>
+           <prompt id="not_found">
+             <promptItem>
+               <text id="t436">A szöveg nem található</text>
+               <audio from="" src="./audio/355.mp3"/>
+             </promptItem>
+           </prompt>
+           <prompt id="paused">
+             <promptItem>
+               <text id="t437">Megállítva</text>
+               <audio from="" src="./audio/356.mp3"/>
+             </promptItem>
+           </prompt>
+          </generalPrompts>
+    </prompts>
+</ui>
