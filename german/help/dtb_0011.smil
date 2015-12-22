@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="0"/>
+		<meta name="dc:title" content="AMIS Benutzerhandbuch"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Verwendung des Navigationsbereiches"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:32"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:23"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="23.37s">
+			<par endsync="last" id="lhor_0085">
+				<text src="amishelp.html#rgn_cnt_0085" id="rgn_txt_0011_0001"/>
+				<seq>
+					<audio src="dtb_0011.mp3" clip-begin="npt=0.000s" clip-end="npt=4.019s" id="rgn_aud_0011_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0086">
+				<text src="amishelp.html#rgn_cnt_0086" id="rgn_txt_0011_0002"/>
+				<seq>
+					<audio src="dtb_0011.mp3" clip-begin="npt=4.019s" clip-end="npt=11.380s" id="rgn_aud_0011_0002"/>
+					<audio src="dtb_0011.mp3" clip-begin="npt=11.380s" clip-end="npt=12.279s" id="rgn_aud_0011_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0087">
+				<text src="amishelp.html#rgn_cnt_0087" id="rgn_txt_0011_0003"/>
+				<seq>
+					<audio src="dtb_0011.mp3" clip-begin="npt=12.279s" clip-end="npt=15.999s" id="rgn_aud_0011_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0088">
+				<text src="amishelp.html#rgn_cnt_0088" id="rgn_txt_0011_0004"/>
+				<seq>
+					<audio src="dtb_0011.mp3" clip-begin="npt=15.999s" clip-end="npt=18.819s" id="rgn_aud_0011_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0089">
+				<text src="amishelp.html#rgn_cnt_0089" id="rgn_txt_0011_0005"/>
+				<seq>
+					<audio src="dtb_0011.mp3" clip-begin="npt=18.819s" clip-end="npt=23.370s" id="rgn_aud_0011_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

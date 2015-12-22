@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Tastenkombinationen"/>
+		<meta name="dc:title" content="Tastenkombinationen"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-ger-DE"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t1">
+					<text src="amiskeys.html#t1"/>
+					<audio src="313 Datei.mp3"/>
+				</par>
+					<par endsync="last" id="t24">
+						<text src="amiskeys.html#t24"/>
+						<audio src="284 Alt+D.mp3"/>
+					</par>
+				<par endsync="last" id="t2">
+					<text src="amiskeys.html#t2"/>
+					<audio src="085 Oeffnen.mp3"/>
+				</par>
+					<par endsync="last" id="t4">
+						<text src="amiskeys.html#t4"/>
+						<audio src="311 Strg+O.mp3"/>
+					</par>
+				<par endsync="last" id="t327">
+					<text src="amiskeys.html#t327"/>
+					<audio src="309 URL oeffnen.mp3"/>
+				</par>
+					<par endsync="last" id="t329">
+						<text src="amiskeys.html#t329"/>
+						<audio src="307 Strg+U.mp3"/>
+					</par>
+				<par endsync="last" id="t331">
+					<text src="amiskeys.html#t331"/>
+					<audio src="305 Schliessen.mp3"/>
+				</par>
+					<par endsync="last" id="t333">
+						<text src="amiskeys.html#t333"/>
+						<audio src="095 S.mp3"/>
+					</par>
+				<par endsync="last" id="t6">
+					<text src="amiskeys.html#t6"/>
+					<audio src="303 Von CD laden.mp3"/>
+				</par>
+					<par endsync="last" id="t8">
+						<text src="amiskeys.html#t8"/>
+						<audio src="300 Strg+L.mp3"/>
+					</par>
+				<par endsync="last" id="t10">
+					<text src="amiskeys.html#t10"/>
+					<audio src="298 Laufwerke durchsuchen.mp3"/>
+				</par>
+					<par endsync="last" id="t12">
+						<text src="amiskeys.html#t12"/>
+						<audio src="283 D.mp3"/>
+					</par>
+				<par endsync="last" id="t13">
+					<text src="amiskeys.html#t13"/>
+					<audio src="077 Einstellungen.mp3"/>
+				</par>
+					<par endsync="last" id="t15">
+						<text src="amiskeys.html#t15"/>
+						<audio src="185 E.mp3"/>
+					</par>
+				<par endsync="last" id="t16">
+					<text src="amiskeys.html#t16"/>
+					<audio src="292 Zuletzt geoeffnet.mp3"/>
+				</par>
+					<par endsync="last" id="t19">
+						<text src="amiskeys.html#t19"/>
+						<audio src="170 Z.mp3"/>
+					</par>
+				<par endsync="last" id="t20">
+					<text src="amiskeys.html#t20"/>
+					<audio src="288 Beenden.mp3"/>
+				</par>
+					<par endsync="last" id="t22">
+						<text src="amiskeys.html#t22"/>
+						<audio src="286 Alt+F4.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>

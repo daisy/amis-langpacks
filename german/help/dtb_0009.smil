@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="0"/>
+		<meta name="dc:title" content="AMIS Benutzerhandbuch"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Wiedergabe-Steuerung"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:34"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:31"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="31.373s">
+			<par endsync="last" id="lhor_0071">
+				<text src="amishelp.html#rgn_cnt_0071" id="rgn_txt_0009_0001"/>
+				<seq>
+					<audio src="dtb_0009.mp3" clip-begin="npt=0.000s" clip-end="npt=3.599s" id="rgn_aud_0009_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0072">
+				<text src="amishelp.html#rgn_cnt_0072" id="rgn_txt_0009_0002"/>
+				<seq>
+					<audio src="dtb_0009.mp3" clip-begin="npt=3.599s" clip-end="npt=8.999s" id="rgn_aud_0009_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0073">
+				<text src="amishelp.html#rgn_cnt_0073" id="rgn_txt_0009_0003"/>
+				<seq>
+					<audio src="dtb_0009.mp3" clip-begin="npt=8.999s" clip-end="npt=13.379s" id="rgn_aud_0009_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0074">
+				<text src="amishelp.html#rgn_cnt_0074" id="rgn_txt_0009_0004"/>
+				<seq>
+					<audio src="dtb_0009.mp3" clip-begin="npt=13.379s" clip-end="npt=19.619s" id="rgn_aud_0009_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0075">
+				<text src="amishelp.html#rgn_cnt_0075" id="rgn_txt_0009_0005"/>
+				<seq>
+					<audio src="dtb_0009.mp3" clip-begin="npt=19.619s" clip-end="npt=22.919s" id="rgn_aud_0009_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0076">
+				<text src="amishelp.html#rgn_cnt_0076" id="rgn_txt_0009_0006"/>
+				<seq>
+					<audio src="dtb_0009.mp3" clip-begin="npt=22.919s" clip-end="npt=28.859s" id="rgn_aud_0009_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0077">
+				<text src="amishelp.html#rgn_cnt_0077" id="rgn_txt_0009_0007"/>
+				<seq>
+					<audio src="dtb_0009.mp3" clip-begin="npt=28.859s" clip-end="npt=31.373s" id="rgn_aud_0009_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

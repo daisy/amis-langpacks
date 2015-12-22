@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="0"/>
+		<meta name="dc:title" content="AMIS Benutzerhandbuch"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Ein Buch öffnen"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:49"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:45"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="45.414s">
+			<par endsync="last" id="lhor_0062">
+				<text src="amishelp.html#rgn_cnt_0062" id="rgn_txt_0008_0001"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=0.000s" clip-end="npt=2.759s" id="rgn_aud_0008_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0063">
+				<text src="amishelp.html#rgn_cnt_0063" id="rgn_txt_0008_0002"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=2.759s" clip-end="npt=9.359s" id="rgn_aud_0008_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0064">
+				<text src="amishelp.html#rgn_cnt_0064" id="rgn_txt_0008_0003"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=9.359s" clip-end="npt=12.599s" id="rgn_aud_0008_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0065">
+				<text src="amishelp.html#rgn_cnt_0065" id="rgn_txt_0008_0004"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=12.599s" clip-end="npt=16.859s" id="rgn_aud_0008_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0066">
+				<text src="amishelp.html#rgn_cnt_0066" id="rgn_txt_0008_0005"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=16.859s" clip-end="npt=22.619s" id="rgn_aud_0008_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0067">
+				<text src="amishelp.html#rgn_cnt_0067" id="rgn_txt_0008_0006"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=22.619s" clip-end="npt=29.399s" id="rgn_aud_0008_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0068">
+				<text src="amishelp.html#rgn_cnt_0068" id="rgn_txt_0008_0007"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=29.399s" clip-end="npt=36.419s" id="rgn_aud_0008_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0069">
+				<text src="amishelp.html#rgn_cnt_0069" id="rgn_txt_0008_0008"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=36.419s" clip-end="npt=40.739s" id="rgn_aud_0008_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lhor_0070">
+				<text src="amishelp.html#rgn_cnt_0070" id="rgn_txt_0008_0009"/>
+				<seq>
+					<audio src="dtb_0008.mp3" clip-begin="npt=40.739s" clip-end="npt=45.414s" id="rgn_aud_0008_0009"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<moduleDesc xmlns="http://daisy.org/ns/amis" id="ger-DE" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
+	<label>
+			<text>Deutsch</text>
+			<audio src="./thislang.mp3"/>
+			<image src="./flag.ico"/>
+	</label>
+</moduleDesc>

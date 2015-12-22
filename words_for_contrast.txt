@@ -20,6 +20,7 @@ nno-NO    Norwegian Nynorsk (Norway)  kontrast
 nob-NO    Norwegian Bokmål (Norway)    kontrast
 por-PT    Portuguese                   
 hun-HU    Hungarian  "kontrasztos"
+ger-DE    German    "Kontrast"
 
 For the moment, we can't accommodate these languages' scripts:
 ben-BD    Bangla (Bangladesh)

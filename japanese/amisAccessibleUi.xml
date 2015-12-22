@@ -1,5 +1,5 @@
 <?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2011-08-18_02:31:22"/>
+    <created by="DAISY Lion" date="2015-12-15_21:54:52"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -1122,7 +1122,7 @@
                 <audio from="" src="./audio/aud128.mp3"/>
             </caption>
             <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
-                <text id="t188">この本には、下記の構造が含まれます。飛ばし読みしたいものはチェックしてください。</text>
+                <text id="t188">この本には、次の構造が含まれます。選択したものは再生されます。飛ばし読みしたいものはチェックをはずしてください。</text>
                 <audio from="" src="./audio/aud129.mp3"/>
             </description>
             <prompt type="instructions">

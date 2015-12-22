@@ -1,0 +1,12 @@
+*.user
+*.bak
+*.res
+*BuildLog.htm
+*.manifest
+*.dep
+*AmisLangpack.dll*
+*.ncb
+*.pdb
+*unused_audio*
+*.clw
+*.DS_Store*

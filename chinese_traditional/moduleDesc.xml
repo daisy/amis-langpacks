@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<moduleDesc xmlns="http://amis.sf.net" id="zho-TW" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
+<moduleDesc xmlns="http://daisy.org/ns/amis" id="zho-TW" filename="./AmisLangpack.dll" type="langpack" enabled="yes">
 	<label>
 			<text>繁體中文(Traditional Chinese)</text>
 			<audio src="./thislang.mp3"/>

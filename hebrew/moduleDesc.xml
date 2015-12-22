@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<moduleDesc xmlns="http://amis.sf.net" id="heb-IL" filename="./AmisLangpack.dll" type="langpack_rtl" enabled="yes">
+<moduleDesc xmlns="http://daisy.org/ns/amis" id="heb-IL" filename="./AmisLangpack.dll" type="langpack_rtl" enabled="yes">
 	<label>
 		<text>עברית (Hebrew)</text>
 			<audio src="./thislang.mp3"/>
