@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+    <head>
+        <meta name="ncc:generator" content="Publisher (Evaluation version) 3.52 Build 262"/>
+        <meta name="dc:format" content="Daisy 2.02"/>
+        <meta name="dc:title" content="amis3_help"/>
+        <meta name="dc:identifier" content="Unknown"/>
+        <meta name="ncc:timeInThisSmil" content="00:09:44.803"/>
+        <layout>
+            <region id="txtView"/>
+        </layout>
+    </head>
+    <body>
+        <ref title="Οδηγός Χρήσης του AMIS" src="lxwh0001.smil#mkks_0001" id="smil_0001"/>
+        <ref title="Οδηγός χρήσης της εφαρμογής AMIS" src="lxwh0002.smil#mkks_0002" id="smil_0002"/>
+        <ref title="Τι είναι το AMIS;" src="lxwh0003.smil#mkks_0009" id="smil_0003"/>
+        <ref title="Τι είναι το DAISY;" src="lxwh0004.smil#mkks_0017" id="smil_0004"/>
+        <ref title="Υποστηριζόμενες μορφές εγγράφων (Formats)" src="lxwh0005.smil#mkks_0037" id="smil_0005"/>
+        <ref title="Απαιτήσεις συστήματος" src="lxwh0006.smil#mkks_0041" id="smil_0006"/>
+        <ref title="Διάταξη οθόνης" src="lxwh0007.smil#mkks_0051" id="smil_0007"/>
+        <ref title="Χαρακτηριστικά" src="lxwh0008.smil#mkks_0105" id="smil_0008"/>
+        <ref title="Ανοίγοντας ένα βιβλίο" src="lxwh0009.smil#mkks_0108" id="smil_0009"/>
+        <ref title="Έλεγχος της αναπαραγωγής" src="lxwh0010.smil#mkks_0117" id="smil_0010"/>
+        <ref title="Πλοήγηση" src="lxwh0011.smil#mkks_0124" id="smil_0011"/>
+        <ref title="Χρησιμοποιώντας το παράθυρο πλοήγησης" src="lxwh0012.smil#mkks_0132" id="smil_0012"/>
+        <ref title="Επιλογές σελιδοδεικτών" src="lxwh0013.smil#mkks_0137" id="smil_0013"/>
+        <ref title="Συλλογή πληροφοριών σχετικά με τη δημοσίευση" src="lxwh0014.smil#mkks_0141" id="smil_0014"/>
+        <ref title="Λήψη βοήθειας για το AMIS" src="lxwh0015.smil#mkks_0160" id="smil_0015"/>
+        <ref title="Αλλαγή της εμφάνισης" src="lxwh0016.smil#mkks_0164" id="smil_0016"/>
+        <ref title="Ρύθμιση προτιμήσεων" src="lxwh0017.smil#mkks_0172" id="smil_0017"/>
+        <ref title="Ρύθμιση στυλ κειμένου" src="lxwh0018.smil#mkks_0184" id="smil_0018"/>
+        <ref title="Επικοινωνήστε μαζί μας" src="lxwh0019.smil#mkks_0189" id="smil_0019"/>
+    </body>
+</smil>

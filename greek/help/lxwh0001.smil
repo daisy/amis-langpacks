@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:02.516"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher (Evaluation version) 3.52 Build 262"/>
+    <meta name="title" content="Οδηγός Χρήσης του AMIS"/>
+    <meta name="dc:title" content="amis3_help"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="2.516s">
+			<par endsync="last" id="mkks_0001">
+				<text src="amis_dtbook.html#dol_1_1_mkks_0001" id="mkks_0002"/>
+				<seq>
+					<audio src="lxwh0004.mp3" clip-begin="npt=0.000s" clip-end="npt=2.516s" id="audio_0001"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:07.533"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:57.538"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher (Evaluation version) 3.52 Build 262"/>
+    <meta name="title" content="Διάταξη οθόνης"/>
+    <meta name="dc:title" content="amis3_help"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="127.533s">
+			<par endsync="last" id="mkks_0051">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0051" id="zlrr_0001"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=0.000s" clip-end="npt=1.705s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0052">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0052" id="zlrr_0002"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=1.705s" clip-end="npt=4.487s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0053">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0053" id="zlrr_0003"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=4.487s" clip-end="npt=6.303s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0054">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0054" id="zlrr_0004"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=6.303s" clip-end="npt=9.841s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0055">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0055" id="zlrr_0005"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=9.841s" clip-end="npt=16.247s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0056">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0056" id="zlrr_0006"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=16.247s" clip-end="npt=19.487s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0057">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0057" id="zlrr_0007"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=19.487s" clip-end="npt=20.088s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0058">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0058" id="zlrr_0008"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=20.088s" clip-end="npt=21.288s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0059">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0059" id="zlrr_0009"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=21.288s" clip-end="npt=27.106s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0060">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0060" id="zlrr_000a"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=27.106s" clip-end="npt=28.821s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0061">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0061" id="zlrr_000b"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=28.821s" clip-end="npt=32.490s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0062">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0062" id="zlrr_000c"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=32.490s" clip-end="npt=33.940s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0063">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0063" id="zlrr_000d"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=33.940s" clip-end="npt=34.640s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0064">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0064" id="zlrr_000e"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=34.640s" clip-end="npt=36.253s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0065">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0065" id="zlrr_000f"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=36.253s" clip-end="npt=36.953s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0066">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0066" id="zlrr_0010"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=36.953s" clip-end="npt=39.507s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0067">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0067" id="zlrr_0011"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=39.507s" clip-end="npt=40.207s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0068">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0068" id="zlrr_0012"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=40.207s" clip-end="npt=41.764s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0069">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0069" id="zlrr_0013"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=41.764s" clip-end="npt=42.464s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0070">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0070" id="zlrr_0014"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=42.464s" clip-end="npt=44.709s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0071">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0071" id="zlrr_0015"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=44.709s" clip-end="npt=45.409s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0072">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0072" id="zlrr_0016"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=45.409s" clip-end="npt=46.630s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0073">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0073" id="zlrr_0017"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=46.630s" clip-end="npt=47.330s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0074">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0074" id="zlrr_0018"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=47.330s" clip-end="npt=48.503s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0075">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0075" id="zlrr_0019"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=48.503s" clip-end="npt=49.203s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0076">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0076" id="zlrr_001a"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=49.203s" clip-end="npt=51.854s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0077">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0077" id="zlrr_001b"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=51.854s" clip-end="npt=52.554s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0078">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0078" id="zlrr_001c"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=52.554s" clip-end="npt=55.165s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0079">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0079" id="zlrr_001d"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=55.165s" clip-end="npt=55.865s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0080">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0080" id="zlrr_001e"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=55.865s" clip-end="npt=57.805s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0081">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0081" id="zlrr_001f"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=57.805s" clip-end="npt=59.832s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0082">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0082" id="zlrr_0020"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=59.832s" clip-end="npt=61.415s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0083">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0083" id="zlrr_0021"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=61.415s" clip-end="npt=67.269s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0084">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0084" id="zlrr_0022"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=67.269s" clip-end="npt=69.688s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0085">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0085" id="zlrr_0023"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=69.688s" clip-end="npt=74.944s" id="audio_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0086">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0086" id="zlrr_0024"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=74.944s" clip-end="npt=75.954s" id="audio_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0087">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0087" id="zlrr_0025"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=75.954s" clip-end="npt=81.908s" id="audio_0037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0088">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0088" id="zlrr_0026"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=81.908s" clip-end="npt=87.392s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0089">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0089" id="zlrr_0027"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=87.392s" clip-end="npt=89.931s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0090">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0090" id="zlrr_0028"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=89.931s" clip-end="npt=93.810s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0091">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0091" id="zlrr_0029"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=93.810s" clip-end="npt=95.864s" id="audio_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0092">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0092" id="zlrr_002a"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=95.864s" clip-end="npt=99.391s" id="audio_0042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0093">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0093" id="zlrr_002b"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=99.391s" clip-end="npt=105.820s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0094">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0094" id="zlrr_002c"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=105.820s" clip-end="npt=109.101s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0095">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0095" id="zlrr_002d"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=109.101s" clip-end="npt=111.495s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0096">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0096" id="zlrr_002e"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=111.495s" clip-end="npt=112.195s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0097">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0097" id="zlrr_002f"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=112.195s" clip-end="npt=113.752s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0098">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0098" id="zlrr_0030"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=113.752s" clip-end="npt=114.452s" id="audio_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0099">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0099" id="zlrr_0031"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=114.452s" clip-end="npt=116.546s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0100">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0100" id="zlrr_0032"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=116.546s" clip-end="npt=117.246s" id="audio_0050"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0101">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0101" id="zlrr_0033"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=117.246s" clip-end="npt=119.609s" id="audio_0051"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0102">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0102" id="zlrr_0034"/>
+			</par>
+			<par endsync="last" id="mkks_0103">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0103" id="zlrr_0035"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=119.609s" clip-end="npt=124.905s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0104">
+				<text src="amis_dtbook.html#dol_1_7_mkks_0104" id="zlrr_0036"/>
+				<seq>
+					<audio src="lxwh0068.mp3" clip-begin="npt=124.905s" clip-end="npt=127.533s" id="audio_0053"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

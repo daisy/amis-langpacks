@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:16.208"/>
+		<meta name="ncc:totalElapsedTime" content="00:06:23.478"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher (Evaluation version) 3.52 Build 262"/>
+    <meta name="title" content="Χρησιμοποιώντας το παράθυρο πλοήγησης"/>
+    <meta name="dc:title" content="amis3_help"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="16.208s">
+			<par endsync="last" id="mkks_0132">
+				<text src="amis_dtbook.html#dol_1_12_mkks_0132" id="rmgy_0001"/>
+				<seq>
+					<audio src="lxwh0033.mp3" clip-begin="npt=0.000s" clip-end="npt=3.061s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0133">
+				<text src="amis_dtbook.html#dol_1_12_mkks_0133" id="rmgy_0002"/>
+				<seq>
+					<audio src="lxwh0033.mp3" clip-begin="npt=3.061s" clip-end="npt=8.738s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0134">
+				<text src="amis_dtbook.html#dol_1_12_mkks_0134" id="rmgy_0003"/>
+				<seq>
+					<audio src="lxwh0033.mp3" clip-begin="npt=8.738s" clip-end="npt=11.335s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0135">
+				<text src="amis_dtbook.html#dol_1_12_mkks_0135" id="rmgy_0004"/>
+				<seq>
+					<audio src="lxwh0033.mp3" clip-begin="npt=11.335s" clip-end="npt=12.967s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0136">
+				<text src="amis_dtbook.html#dol_1_12_mkks_0136" id="rmgy_0005"/>
+				<seq>
+					<audio src="lxwh0033.mp3" clip-begin="npt=12.967s" clip-end="npt=16.208s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

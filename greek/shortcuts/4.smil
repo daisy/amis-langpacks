@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Συντομεύσεις πληκτρολογίου"/>
+		<meta name="dc:title" content="Συντομεύσεις πληκτρολογίου"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-gre-GR"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t26">
+					<text src="amiskeys.html#t26"/>
+					<audio src="rec0405-124325.mp3"/>
+				</par>
+					<par endsync="last" id="t44">
+						<text src="amiskeys.html#t44"/>
+						<audio src="rec0201-110913.mp3"/>
+					</par>
+				<par endsync="last" id="t27">
+					<text src="amiskeys.html#t27"/>
+					<audio src="rec0128-142714.mp3"/>
+				</par>
+					<par endsync="last" id="t29">
+						<text src="amiskeys.html#t29"/>
+						<audio src="rec0201-114154.mp3"/>
+					</par>
+				<par endsync="last" id="t30">
+					<text src="amiskeys.html#t30"/>
+					<audio src="rec0128-135436.mp3"/>
+				</par>
+					<par endsync="last" id="t32">
+						<text src="amiskeys.html#t32"/>
+						<audio src="rec0201-110931.mp3"/>
+					</par>
+				<par endsync="last" id="t334">
+					<text src="amiskeys.html#t334"/>
+					<audio src="rec0128-132921.mp3"/>
+				</par>
+					<par endsync="last" id="t336">
+						<text src="amiskeys.html#t336"/>
+						<audio src="rec0201-113054.mp3"/>
+					</par>
+				<par endsync="last" id="t38">
+					<text src="amiskeys.html#t38"/>
+					<audio src="rec0128-132841.mp3"/>
+				</par>
+					<par endsync="last" id="t40">
+						<text src="amiskeys.html#t40"/>
+						<audio src="rec0201-115306.mp3"/>
+					</par>
+				<par endsync="last" id="t337">
+					<text src="amiskeys.html#t337"/>
+					<audio src="rec0128-132709.mp3"/>
+				</par>
+					<par endsync="last" id="t339">
+						<text src="amiskeys.html#t339"/>
+						<audio src="rec0201-115246.mp3"/>
+					</par>
+				<par endsync="last" id="t340">
+					<text src="amiskeys.html#t340"/>
+					<audio src="rec0128-132533.mp3"/>
+				</par>
+					<par endsync="last" id="t342">
+						<text src="amiskeys.html#t342"/>
+						<audio src="rec0201-115208.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>

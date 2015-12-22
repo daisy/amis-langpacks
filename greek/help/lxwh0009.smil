@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:29.890"/>
+		<meta name="ncc:totalElapsedTime" content="00:05:13.256"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher (Evaluation version) 3.52 Build 262"/>
+    <meta name="title" content="Ανοίγοντας ένα βιβλίο"/>
+    <meta name="dc:title" content="amis3_help"/>
+    <meta name="dc:identifier" content="Unknown"/>
+  </head>
+	<body>
+		<seq dur="29.890s">
+			<par endsync="last" id="mkks_0108">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0108" id="udud_0001"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=0.000s" clip-end="npt=1.676s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0109">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0109" id="udud_0002"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=1.676s" clip-end="npt=5.344s" id="audio_0002"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0110">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0110" id="udud_0003"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=5.344s" clip-end="npt=7.846s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0111">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0111" id="udud_0004"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=7.846s" clip-end="npt=10.625s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0112">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0112" id="udud_0005"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=10.625s" clip-end="npt=14.888s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0113">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0113" id="udud_0006"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=14.888s" clip-end="npt=17.507s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0114">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0114" id="udud_0007"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=17.507s" clip-end="npt=22.590s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0115">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0115" id="udud_0008"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=22.590s" clip-end="npt=25.936s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mkks_0116">
+				<text src="amis_dtbook.html#dol_1_9_mkks_0116" id="udud_0009"/>
+				<seq>
+					<audio src="lxwh0037.mp3" clip-begin="npt=25.936s" clip-end="npt=29.890s" id="audio_0009"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

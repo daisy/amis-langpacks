@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Συντομεύσεις πληκτρολογίου"/>
+		<meta name="dc:title" content="Συντομεύσεις πληκτρολογίου"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+		<meta name="dc:identifier" content="amis-keyboard-shortcuts-gre-GR"/>
+	</head>
+	<body>
+		<seq>
+				<par endsync="last" id="t1">
+					<text src="amiskeys.html#t1"/>
+					<audio src="rec0130-184700.mp3"/>
+				</par>
+					<par endsync="last" id="t24">
+						<text src="amiskeys.html#t24"/>
+						<audio src="rec0201-111559.mp3"/>
+					</par>
+				<par endsync="last" id="t2">
+					<text src="amiskeys.html#t2"/>
+					<audio src="rec0130-184727.mp3"/>
+				</par>
+					<par endsync="last" id="t4">
+						<text src="amiskeys.html#t4"/>
+						<audio src="rec0325-121201.mp3"/>
+					</par>
+				<par endsync="last" id="t327">
+					<text src="amiskeys.html#t327"/>
+					<audio src="rec0130-184511.mp3"/>
+				</par>
+					<par endsync="last" id="t329">
+						<text src="amiskeys.html#t329"/>
+						<audio src="rec0201-111714.mp3"/>
+					</par>
+				<par endsync="last" id="t331">
+					<text src="amiskeys.html#t331"/>
+					<audio src="rec0130-184439.mp3"/>
+				</par>
+					<par endsync="last" id="t333">
+						<text src="amiskeys.html#t333"/>
+						<audio src="rec0201-114027.mp3"/>
+					</par>
+				<par endsync="last" id="t6">
+					<text src="amiskeys.html#t6"/>
+					<audio src="rec0130-184359.mp3"/>
+				</par>
+					<par endsync="last" id="t8">
+						<text src="amiskeys.html#t8"/>
+						<audio src="rec0201-111644.mp3"/>
+					</par>
+				<par endsync="last" id="t10">
+					<text src="amiskeys.html#t10"/>
+					<audio src="rec0308-112710.mp3"/>
+				</par>
+					<par endsync="last" id="t12">
+						<text src="amiskeys.html#t12"/>
+						<audio src="rec0201-114154.mp3"/>
+					</par>
+				<par endsync="last" id="t13">
+					<text src="amiskeys.html#t13"/>
+					<audio src="rec0130-184124.mp3"/>
+				</par>
+					<par endsync="last" id="t15">
+						<text src="amiskeys.html#t15"/>
+						<audio src="rec0201-113054.mp3"/>
+					</par>
+				<par endsync="last" id="t16">
+					<text src="amiskeys.html#t16"/>
+					<audio src="rec0130-183800.mp3"/>
+				</par>
+					<par endsync="last" id="t19">
+						<text src="amiskeys.html#t19"/>
+						<audio src="rec0201-114102.mp3"/>
+					</par>
+				<par endsync="last" id="t20">
+					<text src="amiskeys.html#t20"/>
+					<audio src="rec0130-183526.mp3"/>
+				</par>
+					<par endsync="last" id="t22">
+						<text src="amiskeys.html#t22"/>
+						<audio src="rec0201-111616.mp3"/>
+					</par>
+		</seq>
+	</body>
+</smil>

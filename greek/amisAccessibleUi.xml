@@ -1,0 +1,2021 @@
+<?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
+    <created by="DAISY Lion" date="2015-12-16_13:13:28"/>
+    <containers>
+        <container id="file">
+            <note>This is the menu header &quot;File&quot;</note>
+            <caption>
+                <text id="t1">Αρχείο</text>
+                <audio from="" src="./audio/rec0130-184700.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_OPEN_FILE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and a toolbar item</note>
+                <icon src="./open.png" type="smallIcon"/>
+                <caption>
+                    <text id="t2">Άνοιγμα...</text>
+                    <audio from="" src="./audio/rec0130-184727.mp3"/>
+                </caption>
+                <description>
+                    <text id="t3">Άνοιγμα ενός βιβλίου DAISY από το τοπικό σύστημα αρχείων</text>
+                    <audio from="" src="./audio/rec0130-184624.mp3"/>
+                </description>
+                <!--keys = the actual keys; text = the name of the keys-->
+                <accelerator keys="Ctrl+O">
+                    <text id="t4">Ctrl + O</text>
+                    <audio from="" src="./audio/rec0325-121201.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t5">O</text>
+                    <audio from="" src="./audio/rec0201-115409.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_OPEN_URL" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <icon src="./open.png" type="smallIcon"/>
+                <caption>
+                    <text id="t327">Άνοιγμα URL...</text>
+                    <audio from="" src="./audio/rec0130-184511.mp3"/>
+                </caption>
+                <description>
+                    <text id="t328">Άνοιγμα μίας δημοσίευσης DAISY από μια διεύθυνση URL</text>
+                    <audio from="" src="./audio/rec0130-194715.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+U">
+                    <text id="t329">Ctrl + U</text>
+                    <audio from="" src="./audio/rec0201-111714.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t330">U</text>
+                    <audio from="" src="./audio/rec0201-115353.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_CLOSE_BOOK" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <icon src="./close.png" type="smallIcon"/>
+                <caption>
+                    <text id="t331">Κλείσιμο</text>
+                    <audio from="" src="./audio/rec0130-184439.mp3"/>
+                </caption>
+                <description>
+                    <text id="t332">Κλείσιμο της δημοσίευσης DAISY</text>
+                    <audio from="" src="./audio/rec0130-194622.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t333">C</text>
+                    <audio from="" src="./audio/rec0201-114027.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_LOAD_CD" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and a toolbar item</note>
+                <icon src="./settings/img/cd3.ico" type="smallIcon"/>
+                <icon src="./settings/img/cd_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t6">Φόρτωση CD</text>
+                    <audio from="" src="./audio/rec0130-184359.mp3"/>
+                </caption>
+                <description>
+                    <text id="t7">Φόρτωση ενός βιβλίου DAISY από CD-ROM</text>
+                    <audio from="" src="./audio/rec0130-184329.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+L">
+                    <text id="t8">Ctrl + L</text>
+                    <audio from="" src="./audio/rec0201-111644.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t9">L</text>
+                    <audio from="" src="./audio/rec0201-115337.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SEARCH_LOCAL_DRIVES" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t10">Αναζήτηση Μονάδων Αποθήκευσης...</text>
+                    <audio from="" src="./audio/rec0308-112710.mp3"/>
+                </caption>
+                <description>
+                    <text id="t11">Αναζήτηση στις τοπικές μονάδες αποθήκευσης για βιβλία DAISY</text>
+                    <audio from="" src="./audio/rec0308-112637.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t12">S</text>
+                    <audio from="" src="./audio/rec0201-114154.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_PREFERENCES" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t13">Προτιμήσεις...</text>
+                    <audio from="" src="./audio/rec0130-184124.mp3"/>
+                </caption>
+                <description>
+                    <text id="t14">Αυτός είναι ο διάλογος προτιμήσεων της εφαρμογής.</text>
+                    <audio from="" src="./audio/rec0130-184033.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t15">P</text>
+                    <audio from="" src="./audio/rec0201-113054.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="recentBooksList">
+                <note>This is the menu header for the recent books sub-menu.</note>
+                <caption>
+                    <text id="t16">Πρόσφατο</text>
+                    <audio from="" src="./audio/rec0130-183800.mp3"/>
+                </caption>
+                <switch element="action">
+                    <action condition="ID_AMIS_RECENT_BOOKS_EMPTY" mfcid="ID_AMIS_RECENT_BOOKS_EMPTY" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <caption>
+                            <text id="t17">Κενό</text>
+                            <audio from="" src="./audio/rec0130-183716.mp3"/>
+                        </caption>
+                        <description>
+                            <text id="t18">Δεν υπάρχουν πρόσφατα διαβασμένα βιβλία.</text>
+                            <audio from="" src="./audio/rec0130-183642.mp3"/>
+                        </description>
+                    </action>
+                    <action condition="AMIS_RECENT_BOOK_BASE_ID" mfcid="AMIS_RECENT_BOOK_BASE_ID" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <list repeat="yes">
+                            <caption>
+                                <promptVar name="RECENT_BOOK_TITLE"/>
+                            </caption>
+                        </list>
+                    </action>
+                </switch>
+                <mnemonic>
+                    <text id="t19">R</text>
+                    <audio from="" src="./audio/rec0201-114102.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_EXIT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t20">Έξοδος</text>
+                    <audio from="" src="./audio/rec0130-183526.mp3"/>
+                </caption>
+                <description>
+                    <text id="t21">Έξοδος από το AMIS</text>
+                    <audio from="" src="./audio/rec0405-124643.mp3"/>
+                </description>
+                <accelerator keys="Alt+F4">
+                    <text id="t22">Alt+F4</text>
+                    <audio from="" src="./audio/rec0201-111616.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t23">X</text>
+                    <audio from="" src="./audio/rec0201-115321.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+F">
+                <text id="t24">Alt+F</text>
+                <audio from="" src="./audio/rec0201-111559.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t25">F</text>
+                <audio from="" src="./audio/rec0201-113800.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="view">
+            <note>This is the menu header &quot;View&quot;</note>
+            <caption>
+                <text id="t26">Προβολή</text>
+                <audio from="" src="./audio/rec0405-124325.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_TOGGLE_SIDEBAR" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t27">Πλαϊνή μπάρα</text>
+                    <audio from="" src="./audio/rec0128-142714.mp3"/>
+                </caption>
+                <description>
+                    <text id="t28">Ενεργοποίηση ή απενεργοποίηση της πλαϊνής μπάρας.</text>
+                    <audio from="" src="./audio/rec0128-142648.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t29">S</text>
+                    <audio from="" src="./audio/rec0201-114154.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_TOGGLE_VIEW" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t30">Βασική Προβολή</text>
+                    <audio from="" src="./audio/rec0128-135436.mp3"/>
+                </caption>
+                <description>
+                    <text id="t31">Αλλαγή προβολής</text>
+                    <audio from="" src="./audio/rec0128-133057.mp3"/>
+                </description>
+                <accelerator keys="F11">
+                    <text id="t32">F11</text>
+                    <audio from="" src="./audio/rec0201-110931.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t33">B</text>
+                    <audio from="" src="./audio/rec0201-112801.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="pageStylesList">
+                <note>This is the menu header for the list of styles available for this page.</note>
+                <caption>
+                    <text id="t334">Στυλ Σελίδας</text>
+                    <audio from="" src="./audio/rec0128-132921.mp3"/>
+                </caption>
+                <action mfcid="ID_AMIS_NO_PAGE_STYLES" widget="menuItem">
+                    <note>This is going to be a menu item</note>
+                    <caption>
+                        <text id="t335">Κανένα</text>
+                        <audio from="" src="./audio/rec0128-132901.mp3"/>
+                    </caption>
+                </action>
+                <action mfcid="AMIS_PAGE_STYLE_BASE_ID" widget="menuItem">
+                    <note>This is going to be a menu item</note>
+                    <list repeat="yes">
+                        <caption>
+                            <promptVar name="PAGE_STYLE_NAME"/>
+                        </caption>
+                    </list>
+                </action>
+                <mnemonic>
+                    <text id="t336">P</text>
+                    <audio from="" src="./audio/rec0201-113054.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_BIGGER_FONT" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/font.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t38">Μεγαλύτερη Γραμματοσειρά</text>
+                    <audio from="" src="./audio/rec0128-132841.mp3"/>
+                </caption>
+                <description>
+                    <text id="t39">Σταδιακή αύξηση του μεγέθους της γραμματοσειράς.</text>
+                    <audio from="" src="./audio/rec0308-111528.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t40">G</text>
+                    <audio from="" src="./audio/rec0201-115306.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SMALLER_FONT" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/font.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t337">Μικρότερη Γραμματοσειρά</text>
+                    <audio from="" src="./audio/rec0128-132709.mp3"/>
+                </caption>
+                <description>
+                    <text id="t338">Σταδιακή μείωση του μεγέθους της γραμματοσειράς.</text>
+                    <audio from="" src="./audio/rec0128-132631.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t339">M</text>
+                    <audio from="" src="./audio/rec0201-115246.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_TEXTSTYLE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t340">Στυλ Κειμένου...</text>
+                    <audio from="" src="./audio/rec0128-132533.mp3"/>
+                </caption>
+                <description>
+                    <text id="t341">Αλλαγή των ιδιοτήτων του στυλ κειμένου.</text>
+                    <audio from="" src="./audio/rec0128-132454.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t342">T</text>
+                    <audio from="" src="./audio/rec0201-115208.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="AMIS_NAVLIST_BASE_ID" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <promptVar name="NAVLIST_NAME"/>
+                </caption>
+                <description>
+                    <promptVar name="NAVLIST_DESCRIPTION"/>
+                </description>
+            </action>
+            <accelerator keys="Alt+V">
+                <text id="t44">Alt+V</text>
+                <audio from="" src="./audio/rec0201-110913.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t45">V</text>
+                <audio from="" src="./audio/rec0201-113509.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="play">
+            <note>This is the menu header &quot;Play&quot;</note>
+            <caption>
+                <text id="t46">Αναπαραγωγή</text>
+                <audio from="" src="./audio/rec0128-132246.mp3"/>
+            </caption>
+            <switch element="action">
+                <action condition="canPlay" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
+                    <note>This is going to be a menu item and toolbar item</note>
+                    <icon src="./settings/img/play-big.ico" type="smallIcon"/>
+                    <icon src="./settings/img/play_big.ico" type="largeIcon"/>
+                    <caption>
+                        <text id="t47">Αναπαραγωγή</text>
+                        <audio from="" src="./audio/rec0128-132246.mp3"/>
+                    </caption>
+                    <description>
+                        <text id="t48">Έναρξη ή παύση της συγχρονισμένης αναπαραγωγής.</text>
+                        <audio from="" src="./audio/rec0405-123418.mp3"/>
+                    </description>
+                    <accelerator keys="Space">
+                        <text id="t49">Space</text>
+                        <audio from="" src="./audio/rec0201-110817.mp3"/>
+                    </accelerator>
+                    <mnemonic>
+                        <text id="t50">P</text>
+                        <audio from="" src="./audio/rec0201-113054.mp3"/>
+                    </mnemonic>
+                </action>
+                <action condition="canPause" mfcid="ID_AMIS_PLAYPAUSE" widget="menuItem toolbarItem">
+                    <note>This is going to be a menu item and toolbar item</note>
+                    <icon src="./settings/img/pause.ico" type="smallIcon"/>
+                    <icon src="./settings/img/pause_big.ico" type="largeIcon"/>
+                    <caption>
+                        <text id="t51">Παύση</text>
+                        <audio from="" src="./audio/rec0405-123839.mp3"/>
+                    </caption>
+                    <description>
+                        <text id="t52">Έναρξη ή παύση της αναπαραγωγής αυτού του βιβλίου DAISY.</text>
+                        <audio from="" src="./audio/rec0128-132023.mp3"/>
+                    </description>
+                    <accelerator keys="Space">
+                        <text id="t53">Space</text>
+                        <audio from="" src="./audio/rec0201-110817.mp3"/>
+                    </accelerator>
+                    <mnemonic>
+                        <text id="t54">A</text>
+                        <audio from="" src="./audio/rec0201-113850.mp3"/>
+                    </mnemonic>
+                </action>
+            </switch>
+            <action mfcid="ID_AMIS_ESCAPE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t55">Escape</text>
+                    <audio from="" src="./audio/rec0128-131921.mp3"/>
+                </caption>
+                <description>
+                    <text id="t56">Μετάβαση από το τρέχον στοιχείο ή δομή που αναπαράγεται.</text>
+                    <audio from="" src="./audio/rec0128-131812.mp3"/>
+                </description>
+                <accelerator keys="Esc">
+                    <text id="t57">Esc</text>
+                    <audio from="" src="./audio/rec0201-110742.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t58">E</text>
+                    <audio from="" src="./audio/rec0201-115231.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_FASTER" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/fullspeedahead.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t59">Πιο γρήγορα</text>
+                    <audio from="" src="./audio/rec0128-131721.mp3"/>
+                </caption>
+                <description>
+                    <text id="t60">Επιτάχυνση του ρυθμού αναπαραγωγής.</text>
+                    <audio from="" src="./audio/rec0308-111450.mp3"/>
+                </description>
+                <accelerator keys="Ctrl++">
+                    <text id="t61">Ctrl + +</text>
+                    <audio from="" src="./audio/rec0201-110717.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t62">F</text>
+                    <audio from="" src="./audio/rec0201-113800.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SLOWER" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/slowdown.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t63">Πιο αργά</text>
+                    <audio from="" src="./audio/rec0128-131609.mp3"/>
+                </caption>
+                <description>
+                    <text id="t64">Επιβράδυνση του ρυθμού αναπαραγωγής.</text>
+                    <audio from="" src="./audio/rec0128-131541.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+-">
+                    <text id="t65">Ctrl + -</text>
+                    <audio from="" src="./audio/rec0201-110621.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t66">S</text>
+                    <audio from="" src="./audio/rec0201-114154.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_RESET_SPEED" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/normalspeed.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t67">Κανονική Ταχύτητα</text>
+                    <audio from="" src="./audio/rec0128-131500.mp3"/>
+                </caption>
+                <description>
+                    <text id="t68">Επαναφορά του ρυθμού αναπαραγωγής στο κανονικό.</text>
+                    <audio from="" src="./audio/rec0128-134009.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+0">
+                    <text id="t69">Ctrl + 0</text>
+                    <audio from="" src="./audio/rec0201-110553.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t70">N</text>
+                    <audio from="" src="./audio/rec0201-112933.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_INCREASE_VOLUME" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t71">Αύξηση Έντασης Ήχου</text>
+                    <audio from="" src="./audio/rec0308-111328.mp3"/>
+                </caption>
+                <description>
+                    <text id="t72">Σταδιακή αύξηση της έντασης του ήχου.</text>
+                    <audio from="" src="./audio/rec0308-111359.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Up">
+                    <text id="t73">Ctrl + Άνω βέλος</text>
+                    <audio from="" src="./audio/rec0325-115803.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t74">I</text>
+                    <audio from="" src="./audio/rec0201-112655.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_DECREASE_VOLUME" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t75">Μείωση Έντασης Ήχου</text>
+                    <audio from="" src="./audio/rec0308-111304.mp3"/>
+                </caption>
+                <description>
+                    <text id="t76">Σταδιακή μείωση της έντασης του ήχου.</text>
+                    <audio from="" src="./audio/rec0325-131718.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Down">
+                    <text id="t77">Ctrl + Κάτω βέλος</text>
+                    <audio from="" src="./audio/rec0325-115647.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t78">D</text>
+                    <audio from="" src="./audio/rec0201-114258.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+P">
+                <text id="t79">Alt+P</text>
+                <audio from="" src="./audio/rec0201-110318.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t80">P</text>
+                <audio from="" src="./audio/rec0201-113054.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="navigate">
+            <note>This is the menu header &quot;Navigate&quot;</note>
+            <caption>
+                <text id="t81">Πλοήγηση</text>
+                <audio from="" src="./audio/rec0128-131048.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_PREVIOUS_SECTION" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevsection.ico" type="smallIcon"/>
+                <icon src="./settings/img/prevsection_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t82">Προηγούμενη Ενότητα</text>
+                    <audio from="" src="./audio/rec0128-131031.mp3"/>
+                </caption>
+                <description>
+                    <text id="t83">Μετάβαση στην προηγούμενη ενότητα.</text>
+                    <audio from="" src="./audio/rec0128-131009.mp3"/>
+                </description>
+                <accelerator keys="Up">
+                    <text id="t84">Άνω βέλος</text>
+                    <audio from="" src="./audio/rec0325-114822.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t85">P</text>
+                    <audio from="" src="./audio/rec0201-113054.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_SECTION" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextsection.ico" type="smallIcon"/>
+                <icon src="./settings/img/nextsection_big.ico" type="largeIcon"/>
+                <caption>
+                    <text id="t86">Επόμενη Ενότητα</text>
+                    <audio from="" src="./audio/rec0128-130919.mp3"/>
+                </caption>
+                <description>
+                    <text id="t87">Μετάβαση στην επόμενη ενότητα.</text>
+                    <audio from="" src="./audio/rec0308-111201.mp3"/>
+                </description>
+                <accelerator keys="Down">
+                    <text id="t88">Κάτω βέλος</text>
+                    <audio from="" src="./audio/rec0325-114634.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t89">N</text>
+                    <audio from="" src="./audio/rec0201-112933.mp3"/>
+                </mnemonic>
+            </action>
+            <container id="sectiondepth">
+                <note>This is the &quot;show section depth&quot; sub-menu pop-up</note>
+                <caption>
+                    <text id="t90">Εμφάνιση Βάθους Ενότητας</text>
+                    <audio from="" src="./audio/rec0308-111117.mp3"/>
+                </caption>
+                <switch element="action">
+                    <action condition="ID_AMIS_SECTION_DEPTH_EMPTY" mfcid="ID_AMIS_SECTION_DEPTH_EMPTY" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <caption>
+                            <text id="t91">Κενό</text>
+                            <audio from="" src="./audio/rec0126-170004.mp3"/>
+                        </caption>
+                        <description>
+                            <text id="t92">Δεν υπάρχουν επίπεδα ενότητας.</text>
+                            <audio from="" src="./audio/rec0126-165923.mp3"/>
+                        </description>
+                    </action>
+                    <action condition="AMIS_SECTION_DEPTH_BASE_ID" mfcid="AMIS_SECTION_DEPTH_BASE_ID" widget="menuItem">
+                        <note>This is going to be a menu item</note>
+                        <list repeat="yes">
+                            <caption>
+                                <promptVar name="SECTION_DEPTH_OPTION"/>
+                            </caption>
+                        </list>
+                    </action>
+                </switch>
+                <mnemonic>
+                    <text id="t93">S</text>
+                    <audio from="" src="./audio/rec0201-114154.mp3"/>
+                </mnemonic>
+            </container>
+            <action mfcid="ID_AMIS_PREVIOUS_PHRASE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevphasecirc.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t94">Προηγούμενη Φράση</text>
+                    <audio from="" src="./audio/rec0126-165723.mp3"/>
+                </caption>
+                <description>
+                    <text id="t95">Go to the previous phrase.</text>
+                    <audio from="" src="./audio/rec0126-165654.mp3"/>
+                </description>
+                <accelerator keys="Left">
+                    <text id="t96">Αριστερό βέλος</text>
+                    <audio from="" src="./audio/rec0325-114501.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_PHRASE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextphrasecirc.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t97">Επόμενη Φράση</text>
+                    <audio from="" src="./audio/rec0126-165558.mp3"/>
+                </caption>
+                <description>
+                    <text id="t98">Go to the next phrase.</text>
+                    <audio from="" src="./audio/rec0126-165535.mp3"/>
+                </description>
+                <accelerator keys="Right">
+                    <text id="t99">Δεξί βέλος</text>
+                    <audio from="" src="./audio/rec0325-114303.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_PREVIOUS_PAGE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/prevpage.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t100">Προηγούμενη Σελίδα</text>
+                    <audio from="" src="./audio/rec0126-165041.mp3"/>
+                </caption>
+                <description>
+                    <text id="t101">Μετάβαση στην προηγούμενη σελίδα.</text>
+                    <audio from="" src="./audio/rec0308-111048.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Left">
+                    <text id="t102">Ctrl + Αριστερό βέλος</text>
+                    <audio from="" src="./audio/rec0325-113855.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_NEXT_PAGE" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/nextpage.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t103">Επόμενη Σελίδα</text>
+                    <audio from="" src="./audio/rec0126-164943.mp3"/>
+                </caption>
+                <description>
+                    <text id="t104">Μετάβαση στην επόμενη σελίδα.</text>
+                    <audio from="" src="./audio/rec0308-111025.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+Right">
+                    <text id="t105">Ctrl + Δεξί βέλος</text>
+                    <audio from="" src="./audio/rec0325-113452.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_GOTO_PAGE" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t106">Μετάβαση στη Σελίδα...</text>
+                    <audio from="" src="./audio/rec0126-164755.mp3"/>
+                </caption>
+                <description>
+                    <text id="t107">Μετάβαση σε μια συγκεκριμένη σελίδα.</text>
+                    <audio from="" src="./audio/rec0325-131349.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+G">
+                    <text id="t108">Ctrl + G</text>
+                    <audio from="" src="./audio/rec0201-105940.mp3"/>
+                </accelerator>
+            </action>
+            <action mfcid="ID_AMIS_FIND_IN_TEXT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t109">Αναζήτηση στο Κείμενο...</text>
+                    <audio from="" src="./audio/rec0325-131248.mp3"/>
+                </caption>
+                <description>
+                    <text id="t110">Αναζήτηση μίας λέξης ή φράσης στο κείμενο.</text>
+                    <audio from="" src="./audio/rec0128-133707.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+F">
+                    <text id="t111">Ctrl + F</text>
+                    <audio from="" src="./audio/rec0201-105918.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t112">F</text>
+                    <audio from="" src="./audio/rec0201-113800.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+N">
+                <text id="t113">Alt+N</text>
+                <audio from="" src="./audio/rec0201-105852.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t114">N</text>
+                <audio from="" src="./audio/rec0201-112933.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="bookmarks">
+            <note>This is the menu header &quot;Bookmarks&quot;</note>
+            <caption>
+                <text id="t115">Σελιδοδείκτες</text>
+                <audio from="" src="./audio/rec0126-164547.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_ADD_BOOKMARK" widget="menuItem toolbarItem">
+                <note>This is going to be a menu item and toolbar item</note>
+                <icon src="./settings/img/adbookmark.ico" type="smallIcon"/>
+                <caption>
+                    <text id="t116">Προσθήκη Σελιδοδείκτη</text>
+                    <audio from="" src="./audio/rec0126-164517.mp3"/>
+                </caption>
+                <description>
+                    <text id="t117">Προσθήκη σελιδοδείκτη στην τρέχουσα θέση σας.</text>
+                    <audio from="" src="./audio/rec0126-164446.mp3"/>
+                </description>
+                <accelerator keys="Ctrl+D">
+                    <text id="t118">Ctrl + D</text>
+                    <audio from="" src="./audio/rec0201-105813.mp3"/>
+                </accelerator>
+                <mnemonic>
+                    <text id="t119">A</text>
+                    <audio from="" src="./audio/rec0201-113850.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="AMIS_BOOKMARK_BASE_ID" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOKMARK_TITLE"/>
+                    </caption>
+                </list>
+            </action>
+            <accelerator keys="Alt+B">
+                <text id="t120">Alt+B</text>
+                <audio from="" src="./audio/rec0201-105712.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t121">B</text>
+                <audio from="" src="./audio/rec0201-112801.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="info">
+            <note>This is the menu header &quot;Info&quot;</note>
+            <caption>
+                <text id="t122">Πληροφορίες</text>
+                <audio from="" src="./audio/rec0126-164157.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_SHOW_READING_OPTIONS" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t123">Επιλογές Ανάγνωσης...</text>
+                    <audio from="" src="./audio/rec0126-164052.mp3"/>
+                </caption>
+                <description>
+                    <text id="t124">Δείτε τις επιλογές ανάγνωσης για αυτή τη δημοσίευση.</text>
+                    <audio from="" src="./audio/rec0325-131104.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t125">R</text>
+                    <audio from="" src="./audio/rec0201-114102.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_PUBLICATION_SUMMARY" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t343">Σύνοψη Δημοσίευσης...</text>
+                    <audio from="" src="./audio/rec0126-163721.mp3"/>
+                </caption>
+                <description>
+                    <text id="t344">Δείτε πληροφορίες σχετικά με αυτήν τη δημοσίευση.</text>
+                    <audio from="" src="./audio/rec0126-163612.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t345">P</text>
+                    <audio from="" src="./audio/rec0201-113054.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+I">
+                <text id="t135">Alt+I</text>
+                <audio from="" src="./audio/rec0201-105635.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t136">I</text>
+                <audio from="" src="./audio/rec0201-112655.mp3"/>
+            </mnemonic>
+        </container>
+        <container id="help">
+            <note>This is the menu header &quot;Help&quot;</note>
+            <caption>
+                <text id="t137">Βοήθεια</text>
+                <audio from="" src="./audio/rec0126-163547.mp3"/>
+            </caption>
+            <action mfcid="ID_AMIS_SHOW_HELP_CONTENTS" widget="menuItem toolbarItem">
+                <caption>
+                    <text id="t138">Περιεχόμενα</text>
+                    <audio from="" src="./audio/rec0126-163516.mp3"/>
+                </caption>
+                <description>
+                    <text id="t139">Λάβετε βοήθεια για να χρησιμοποιήσετε το AMIS</text>
+                    <audio from="" src="./audio/rec0308-110959.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t140">C</text>
+                    <audio from="" src="./audio/rec0201-114027.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_SHOW_KEYBOARD_SHORTCUTS" widget="menuItem">
+                <caption>
+                    <text id="t373">Συντομεύσεις πληκτρολογίου</text>
+                    <audio from="" src="./audio/rec0126-163325.mp3"/>
+                </caption>
+                <description>
+                    <text id="t374">Δείτε και ακούστε όλες τις συντομεύσεις πληκτρολογίου για το AMIS.</text>
+                    <audio from="" src="./audio/rec0126-163253.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t375">K</text>
+                    <audio from="" src="./audio/rec0201-113947.mp3"/>
+                </mnemonic>
+            </action>
+            <action mfcid="ID_AMIS_ABOUT" widget="menuItem">
+                <note>This is going to be a menu item</note>
+                <caption>
+                    <text id="t141">Σχετικά με το AMIS</text>
+                    <audio from="" src="./audio/rec0126-163227.mp3"/>
+                </caption>
+                <description>
+                    <text id="t142">Μάθετε περισσότερα για το AMIS και το DAISY-for-All.</text>
+                    <audio from="" src="./audio/rec0126-163058.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t143">A</text>
+                    <audio from="" src="./audio/rec0201-113850.mp3"/>
+                </mnemonic>
+            </action>
+            <accelerator keys="Alt+H">
+                <text id="t144">Alt+H</text>
+                <audio from="" src="./audio/rec0201-105459.mp3"/>
+            </accelerator>
+            <mnemonic>
+                <text id="t145">H</text>
+                <audio from="" src="./audio/rec0201-112555.mp3"/>
+            </mnemonic>
+        </container>
+    </containers>
+    <dialogs>
+        <dialog mfcid="IDD_FIND">
+            <note>This is the find in text dialog</note>
+            <caption>
+                <text id="t146">Αναζήτηση στο Κείμενο</text>
+                <audio from="" src="./audio/rec0126-162942.mp3"/>
+            </caption>
+            <description mfcid="IDC_FIND_DESCRIPTION">
+                <text id="t147">Αναζήτηση στο κείμενο του βιβλίου σε οποιαδήποτε κατεύθυνση.</text>
+                <audio from="" src="./audio/rec0126-162913.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SEARCHSTRING" widget="textfield autoplay">
+                <description>
+                    <text id="t151">Πληκτρολογήστε το κείμενο αναζήτησης σε αυτό το πεδίο.</text>
+                    <audio from="" src="./audio/rec0325-130724.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_FINDPREVIOUS" widget="radiobutton">
+                <note>This indicates the direction of the search</note>
+                <caption>
+                    <text id="t152">Εύρεση προηγούμενου</text>
+                    <audio from="" src="./audio/rec0126-162742.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="SELECTED_OR_DESELECTED" param="FIND_PREV_IN_TEXT"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t149">Πατήστε για να ξεκινήσετε την αναζήτηση κειμένου στο αρχείο.</text>
+                    <audio from="" src="./audio/rec0126-162654.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t150">C</text>
+                    <audio from="" src="./audio/rec0201-112529.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_CDSEARCH">
+            <note>This dialog appears when more than one book is on a CD-ROM</note>
+            <caption>
+                <text id="t154">Βρέθηκαν πολλαπλά βιβλία</text>
+                <audio from="" src="./audio/rec0126-162618.mp3"/>
+            </caption>
+            <description mfcid="IDC_MULTIVOLCD_INSTRUCTIONS">
+                <text id="t155">Περισσότερα από ένα βιβλίο βρέθηκαν σε αυτό το CD. Παρακαλώ επιλέξτε ένα βιβλίο από την παρακάτω λίστα.</text>
+                <audio from="" src="./audio/rec0126-162508.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_BOOKLIST" widget="list autoplay">
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOK_TITLE"/>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t156">C</text>
+                    <audio from="" src="./audio/rec0201-112529.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_OPENBOOK" widget="button">
+                <caption>
+                    <text id="t157">Άνοιγμα</text>
+                    <audio from="" src="./audio/rec0126-162343.mp3"/>
+                </caption>
+                <description>
+                    <text id="t158">Πατήστε για να κλείσετε αυτό το παράθυρο διαλόγου και να ανοίξετε το επιλεγμένο βιβλίο.</text>
+                    <audio from="" src="./audio/rec0126-162308.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t159">O</text>
+                    <audio from="" src="./audio/rec0201-112510.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_ABOUTBOX">
+            <note>This dialog gives some basic information about AMIS.</note>
+            <caption>
+                <text id="t161">Σχετικά με το AMIS</text>
+                <audio from="" src="./audio/rec0126-162218.mp3"/>
+            </caption>
+            <description>
+                <text id="t162">Διάλογος πληροφοριών σχετικά με το λογισμικό AMIS.</text>
+                <audio from="" src="./audio/rec0126-162150.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_AMISNAME" translate="no" widget="textlabel autoplay">
+                <caption>
+                    <text id="t163">AMIS: 
+Adaptive Multimedia Information System</text>
+                    <audio from="" src="./audio/rec0126-162037.mp3"/>
+                </caption>
+            </control>
+            <control mfcid="IDC_VERSION" translate="no" widget="textlabel autoplay">
+                <caption>
+                <!-- removed text id=164-->
+                  <prompt>
+                    <promptItem>
+                      <text id="t448">Έκδοση:</text>
+                      <audio from="" src="./audio/rec0130-194532.mp3"/>
+                    </promptItem>
+                    <promptVar name="VERSION_NUMBER"/>
+                </prompt>
+                </caption>
+            </control>
+            <control mfcid="IDC_VERSIONNOTE" translate="no" widget="textlabel autoplay">
+                <caption>
+                  <prompt>
+                    <promptItem>
+                      <!-- removed text id=165-->
+                      <text id="t447">Ημερομηνία κυκλοφορίας:</text>
+                      <audio from="" src="./audio/rec0130-194507.mp3"/>
+                    </promptItem>
+                    <promptVar name="RELEASE_DATE"/>
+                  </prompt>
+                </caption>
+            </control>
+            <control mfcid="IDC_COPYRIGHT" translate="no" widget="textlabel autoplay">
+                <caption>
+                    <text id="t166">Copyright (c) 2009 DAISY Consortium</text>
+                    <audio from="" src="./audio/rec0126-161702.mp3"/>
+                </caption>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_SEARCHDAISY">
+            <note>This dialog is for searching your hard drive for DAISY books.</note>
+            <caption>
+                <text id="t167">Αναζήτηση για βιβλία DAISY</text>
+                <audio from="" src="./audio/rec0126-161515.mp3"/>
+            </caption>
+            <description mfcid="IDC_SEARCHINSTRUCTIONS">
+                <text id="t168">Μπορείτε να αναζητήσετε στον υπολογιστή σας για βιβλία DAISY. Πληκτρολογήστε μια διαδρομή ή αναζητήστε ένα φάκελο για αναζήτηση, στη συνέχεια, πατήστε Αναζήτηση για να ξεκινήσετε την αναζήτηση.</text>
+                <audio from="" src="./audio/rec0126-161219.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SEARCHPATH" widget="textfield autoplay">
+                <description>
+                    <text id="t169">Πληκτρολογήστε τη διαδρομή προς το φάκελο σε αυτό το πεδίο.</text>
+                    <audio from="" src="./audio/rec0126-161119.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_BROWSE" widget="button">
+                <caption>
+                    <text id="t260">Αναζήτηση...</text>
+                    <audio from="" src="./audio/rec0126-160740.mp3"/>
+                </caption>
+                <description>
+                    <text id="t261">Πατήστε για να ανοίξετε το παράθυρο διαλόγου αναζήτησης φακέλου.</text>
+                    <audio from="" src="./audio/rec0126-140320.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDC_STARTSEARCH" widget="button">
+                <caption>
+                    <text id="t170">Αναζήτηση</text>
+                    <audio from="" src="./audio/rec0126-140152.mp3"/>
+                </caption>
+                <description>
+                    <text id="t171">Πατήστε για να ξεκινήσετε την αναζήτηση.</text>
+                    <audio from="" src="./audio/rec0126-140109.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t172">S</text>
+                    <audio from="" src="./audio/rec0201-112444.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_STOPSEARCH" widget="button">
+                <caption>
+                    <text id="t173">Σταμάτα</text>
+                    <audio from="" src="./audio/rec0126-140029.mp3"/>
+                </caption>
+                <description>
+                    <text id="t174">Πατήστε για να διακόψετε την αναζήτηση.</text>
+                    <audio from="" src="./audio/rec0126-135850.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t175">T</text>
+                    <audio from="" src="./audio/rec0201-112347.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDC_SEARCHING" widget="textlabel">
+                <switch element="caption">
+                    <caption condition="default">
+                        <text id="t176">Έτοιμο</text>
+                        <audio from="" src="./audio/rec0126-135744.mp3"/>
+                    </caption>
+                    <caption condition="WhileSearching">
+                        <text id="t177">Αναζήτηση...</text>
+                        <audio from="" src="./audio/rec0126-135805.mp3"/>
+                    </caption>
+                    <caption condition="SearchAborted">
+                        <text id="t178">Η αναζήτηση σταμάτησε.</text>
+                        <audio from="" src="./audio/rec0126-135710.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteNoFilesFound">
+                        <text id="t179">Η αναζήτηση ολοκληρώθηκε: Δε βρέθηκαν αρχεία.</text>
+                        <audio from="" src="./audio/rec0126-135637.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteOneFileFound">
+                        <text id="t180">Η αναζήτηση ολοκληρώθηκε: Βρέθηκε ένα αρχείο</text>
+                        <audio from="" src="./audio/rec0126-135547.mp3"/>
+                    </caption>
+                    <caption condition="SearchCompleteFilesFound">
+                        <prompt>
+                            <promptVar name="NUM_FILES_FOUND"/>
+                            <promptItem>
+                                <note>This is used in the sentence &quot;7 files were found&quot;</note>
+                                <text id="t181">αρχεία βρέθηκαν.</text>
+                                <audio from="" src="./audio/rec0325-130509.mp3"/>
+                            </promptItem>
+                        </prompt>
+                    </caption>
+                </switch>
+            </control>
+            <control mfcid="IDC_FILESFOUND" widget="list">
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BOOK_TITLE"/>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDC_OPENBOOK" widget="button">
+                <caption>
+                    <text id="t183">Άνοιγμα</text>
+                    <audio from="" src="./audio/rec0126-135212.mp3"/>
+                </caption>
+                <description>
+                    <text id="t184">Πατήστε για να ανοίξετε τον επιλεγμένο τίτλο.</text>
+                    <audio from="" src="./audio/rec0126-135142.mp3"/>
+                </description>
+                <mnemonic>
+                    <text id="t185">O</text>
+                    <audio from="" src="./audio/rec0201-112258.mp3"/>
+                </mnemonic>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t186">C</text>
+                    <audio from="" src="./audio/rec0201-112053.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_READING_OPTIONS">
+            <note>This dialog lets the user control rendering of skippable structures.</note>
+            <caption>
+                <text id="t187">Επιλογές Ανάγνωσης</text>
+                <audio from="" src="./audio/rec0126-135102.mp3"/>
+            </caption>
+            <description mfcid="IDC_READING_OPTIONS_INSTRUCTIONS">
+                <text id="t188">Το βιβλίο αυτό περιέχει τους παρακάτω ειδικούς τύπους στοιχείων. Τα επιλεγμένα στοιχεία θα αναπαραχθούν. Τα μη επιλεγμένα στοιχεία θα παραλειφθούν.</text>
+                <audio from="" src="./audio/rec0126-135019.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_OPTIONS_LIST" widget="list autoplay">
+                <caption>
+                    <text id="t190">Λίστα επιλογών ανάγνωσης:</text>
+                    <audio from="" src="./audio/rec0308-110815.mp3"/>
+                </caption>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="SKIPPABLE_ITEM"/>
+                    </caption>
+                    <description>
+                        <prompt>
+                            <promptItem refid="thisItemIsCurrently"/>
+                            <promptVar name="WILL_SKIP_OR_NOT" param="SKIPPABLE_ITEM_ID"/>
+                            <promptItem refid="spaceToToggle"/>
+                        </prompt>
+                    </description>
+                </list>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t381">C</text>
+                    <audio from="" src="./audio/rec0201-112053.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_PREFERENCES">
+            <note>This dialog lets the user set some basic preferences for AMIS.</note>
+            <caption>
+                <text id="t218">Προτιμήσεις</text>
+                <audio from="" src="./audio/rec0126-134749.mp3"/>
+            </caption>
+            <description>
+                <text id="t219">Εδώ μπορείτε να ορίσετε γενικές προτιμήσεις για το AMIS.</text>
+                <audio from="" src="./audio/rec0126-134711.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_ISSELFVOICING" widget="checkbox autoplay">
+                <caption>
+                    <text id="t220">Χρήση αυτόματης ομιλίας</text>
+                    <audio from="" src="./audio/rec0126-133349.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="SELF_VOICING_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_TTSVOICES" widget="list">
+                <caption mfcid="IDC_SELTTSLABEL">
+                    <text id="t221">Επιλέξτε φωνή μετατροπής Κειμένου σε Ομιλία:</text>
+                    <audio from="" src="./audio/rec0308-110653.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="TTS_VOICE_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTTEXT" widget="checkbox">
+                <caption>
+                    <text id="t346">Επισημάνση κειμένου καθώς διαβάζεται με ήχο</text>
+                    <audio from="" src="./audio/rec0308-110735.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="HIGHLIGHTTEXT_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_LOADLASTBOOK" widget="checkbox">
+                <caption>
+                    <text id="t225">Κατά την εκκίνηση να φορτώνεται το βιβλίο που έχει διαβαστεί πιο πρόσφατα</text>
+                    <audio from="" src="./audio/rec0308-110348.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="LOAD_LAST_READ_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_STARTINBASICVIEW" widget="checkbox">
+                <caption>
+                    <text id="t223">Ξεκινήστε στη βασική λειτουργία προβολής</text>
+                    <audio from="" src="./audio/rec0126-131957.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="BASIC_VIEW_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_PAUSEONLOSTFOCUS" widget="checkbox">
+                <caption>
+                    <text id="t347">Παύση ήχου κατά την εναλλαγή μεταξύ εφαρμογών</text>
+                    <audio from="" src="./audio/rec0126-131847.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="PAUSEONLOSTFOCUS_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_DISABLESCREENSAVER" widget="checkbox">
+                <caption>
+                    <text id="t348">Απενεργοποίηση της προστασίας της οθόνης κατά τη διάρκεια της ανάγνωσης</text>
+                    <audio from="" src="./audio/rec0126-131738.mp3"/>
+                </caption>
+                <description>
+                    <prompt>
+                        <promptItem refid="thisItemIsCurrently"/>
+                        <promptVar name="ON_OR_OFF" param="DISABLESCREENSAVER_FEATURE"/>
+                        <promptItem refid="spaceToToggle"/>
+                    </prompt>
+                </description>
+            </control>
+            <control mfcid="IDC_INSTALLEDLANGUAGES" widget="list">
+                <caption mfcid="IDC_CURRLANG">
+                    <prompt>
+                        <promptItem>
+                            <text id="t349">Αυτήν τη στιγμή χρησιμοποιείτε το AMIS σε:</text>
+                            <audio from="" src="./audio/rec0126-134523.mp3"/>
+                        </promptItem>
+                        <promptVar name="CURRENT_LANGUAGE_NAME"/>
+                    </prompt>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="LANGUAGE_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t350">C</text>
+                    <audio from="" src="./audio/rec0201-112053.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_GOTOPAGE">
+            <note>This dialog lets the user jump to a certain page</note>
+            <caption>
+                <text id="t231">Μετάβαση Στη Σελίδα</text>
+                <audio from="" src="./audio/rec0126-131236.mp3"/>
+            </caption>
+            <description mfcid="IDC_GOTOPAGE_CAPTION">
+                <text id="t236">Πληκτρολογήστε τον αριθμό ή την ετικέτα της σελίδας όπου θέλετε να μεταβείτε:</text>
+                <audio from="" src="./audio/rec0325-130317.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_PAGENUM" widget="textfield autoplay">
+                <description>
+                    <text id="t237">Πληκτρολογήστε τον αριθμό ή την ετικέτα της σελίδας εδώ.</text>
+                    <audio from="" src="./audio/rec0126-130559.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t234">Πατήστε για να μεταβείτε στην επιθυμητή σελίδα.</text>
+                    <audio from="" src="./audio/rec0126-130454.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t235">C</text>
+                    <audio from="" src="./audio/rec0201-112053.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_PUBLICATIONSUMMARY">
+            <note>This dialog contains publication metadata and feedback about the user's current position.</note>
+            <caption>
+                <text id="t238">Σύνοψη Έκδοσης</text>
+                <audio from="" src="./audio/rec0308-110127.mp3"/>
+            </caption>
+            <description mfcid="IDC_PUBLICATIONSUMMARYCAPTION">
+                <text id="t214">Πληροφορίες για την παρούσα έκδοση και την τρέχουσα θέση σας</text>
+                <audio from="" src="./audio/rec0126-130336.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="enter_to_close"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_SUMMARYLIST" widget="list autoplay">
+                <caption>
+                    <text id="t434">Δημοσίευση λίστας πληροφοριών:</text>
+                    <audio from="" src="./audio/rec0126-130233.mp3"/>
+                </caption>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+                <list repeat="no">
+                    <caption>
+                        <prompt>
+                            <promptItem>
+                                <text id="t240">Title:</text>
+                                <audio from="" src="./audio/rec0126-130153.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TITLE"/>
+                        </prompt>
+                    </caption>
+                    <caption>
+                        <prompt>
+                            <promptItem>
+                                <text id="t241">Συγγραφέας:</text>
+                                <audio from="" src="./audio/rec0126-130123.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_CREATOR"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t242">Εκδότης:</text>
+                                <audio from="" src="./audio/rec0126-130027.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_PUBLISHER"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t243">Περιγραφή:</text>
+                                <audio from="" src="./audio/rec0126-130000.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DESC"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t351">Αφηγητής:</text>
+                                <audio from="" src="./audio/rec0126-125932.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_NARRATOR"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t249">Συνολική διάρκεια:</text>
+                                <audio from="" src="./audio/rec0126-125854.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TOTALTIME"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t352">Σύνολο σελίδων:</text>
+                                <audio from="" src="./audio/rec0126-125829.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_NUMPAGES"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t353">Ημερομηνία:</text>
+                                <audio from="" src="./audio/rec0126-125729.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DATE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t354">Μορφή:</text>
+                                <audio from="" src="./audio/rec0126-125224.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_FORMAT"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t355">Χαρακτηριστικά:</text>
+                                <audio from="" src="./audio/rec0126-124951.mp3"/>
+                            </promptItem>
+                            <promptVar name="TOC_CATEGORIES"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t356">Current page:</text>
+                                <audio from="" src="./audio/rec0126-124745.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_PAGE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t215">Τρέχουσα ενότητα:</text>
+                                <audio from="" src="./audio/rec0126-124710.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_TITLE"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t390">Περιεχόμενα ενότητας:</text>
+                                <audio from="" src="./audio/rec0126-124557.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_NUM_SUBSECTIONS"/>
+                            <promptItem>
+                                <text id="t217">υποενότητες,</text>
+                                <audio from="" src="./audio/rec0325-125955.mp3"/>
+                            </promptItem>
+                            <promptVar name="CURRENT_SECTION_NUM_PAGES"/>
+                            <promptItem>
+                                <text id="t216">σελίδες</text>
+                                <audio from="" src="./audio/rec0126-124222.mp3"/>
+                            </promptItem>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t244">Συνολικά στοιχεία Πίνακα Περιεχομένων:</text>
+                                <audio from="" src="./audio/rec0325-125741.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_TOCITEMS"/>
+                        </prompt>
+                    </caption>
+                    <caption condition="DATA_EXISTS">
+                        <prompt>
+                            <promptItem>
+                                <text id="t245">Μέγιστο βάθος ενότητας:</text>
+                                <audio from="" src="./audio/rec0126-123925.mp3"/>
+                            </promptItem>
+                            <promptVar name="META_DEPTH"/>
+                        </prompt>
+                    </caption>
+                </list>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_TEXTSTYLE">
+            <note>This dialog lets the user set text style properties.</note>
+            <caption>
+                <text id="t358">Στυλ Κειμένου</text>
+                <audio from="" src="./audio/rec0124-152505.mp3"/>
+            </caption>
+            <description>
+                <text id="t359">Εδώ μπορείτε να αλλάξετε τις ιδιότητες στυλ κειμένου.</text>
+                <audio from="" src="./audio/rec0124-152427.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_FONT" widget="list autoplay">
+                <caption mfcid="IDC_FONTLABEL">
+                    <text id="t360">Γραμματοσειρά εφαρμογής:</text>
+                    <audio from="" src="./audio/rec0124-152242.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="FONT_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTFOREGROUND" widget="list">
+                <caption mfcid="IDC_HIGHLIGHTFOREGROUNDLABEL">
+                    <text id="t362">Χρώμα τονισμένου κειμένου:</text>
+                    <audio from="" src="./audio/rec0124-152116.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="FOREGROUND_COLOR_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDC_HIGHLIGHTBACKGROUND" widget="list">
+                <caption mfcid="IDC_HIGHLIGHTBACKGROUNDLABEL">
+                    <text id="t364">Τονισμός χρώματος φόντου:</text>
+                    <audio from="" src="./audio/rec0124-152022.mp3"/>
+                </caption>
+                <list repeat="yes">
+                    <caption>
+                        <promptVar name="BACKGROUND_COLOR_NAME"/>
+                    </caption>
+                </list>
+                <description>
+                    <promptItem refid="useArrowsList"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="ok_button_description"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t366">C</text>
+                    <audio from="" src="./audio/rec0201-112053.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+        <dialog mfcid="IDD_OPENURL">
+            <note>This is the open URL dialog</note>
+            <caption>
+                <text id="t368">Άνοιγμα URL</text>
+                <audio from="" src="./audio/rec0124-151032.mp3"/>
+            </caption>
+            <description mfcid="IDC_OPENURL_CAPTION">
+                <text id="t369">Εισάγετε τη διεύθυνση URL του βιβλίου που θέλετε να ανοίξετε:</text>
+                <audio from="" src="./audio/rec0124-150944.mp3"/>
+            </description>
+            <prompt type="instructions">
+                <promptItem refid="tabAround"/>
+                <promptItem refid="escapeToCancel"/>
+                <promptItem refid="hearDlgInstructions"/>
+            </prompt>
+            <control mfcid="IDC_URL" widget="textfield autoplay">
+                <description>
+                    <text id="t371">Πληκτρολογήστε τη διεύθυνση URL σε αυτό το πεδίο.</text>
+                    <audio from="" src="./audio/rec0124-150904.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDOK" widget="button">
+                <caption>
+                    <promptItem refid="ok_button_caption"/>
+                </caption>
+                <description>
+                    <text id="t372">Πατήστε για να φορτώσει το URL</text>
+                    <audio from="" src="./audio/rec0124-150734.mp3"/>
+                </description>
+            </control>
+            <control mfcid="IDCANCEL" widget="button">
+                <caption>
+                    <promptItem refid="cancel_button_caption"/>
+                </caption>
+                <description>
+                    <promptItem refid="cancel_button_description"/>
+                </description>
+                <mnemonic>
+                    <text id="t367">C</text>
+                    <audio from="" src="./audio/rec0201-112053.mp3"/>
+                </mnemonic>
+            </control>
+        </dialog>
+    </dialogs>
+    <prompts>
+        <promptItemRefs>
+            <promptItem id="useArrowsList">
+                <text id="t380">Χρησιμοποιήστε τα πλήκτρα βέλους για να μετακινηθείτε στη λίστα των στοιχείων.</text>
+                <audio from="" src="./audio/rec0124-150617.mp3"/>
+            </promptItem>
+            <promptItem id="thisItem">
+                <text id="t252">Αυτό το στοιχείο</text>
+                <audio from="" src="./audio/rec0124-150503.mp3"/>
+            </promptItem>
+            <promptItem id="spaceToToggle">
+                <text id="t253">Πατήστε το πλήκτρο Space Bar για να αλλάξετε την τιμή.</text>
+                <audio from="" src="./audio/rec0124-150108.mp3"/>
+            </promptItem>
+            <promptItem id="tabAround">
+                <text id="t254">Πατήστε Tab για να μετακινηθείτε γύρω από τα στοιχεία παραθύρου.</text>
+                <audio from="" src="./audio/rec0124-150411.mp3"/>
+            </promptItem>
+            <promptItem id="thisItemIsCurrently">
+                <text id="t258">Το στοιχείο αυτό είναι τη στιγμή αυτή</text>
+                <audio from="" src="./audio/rec0325-125440.mp3"/>
+            </promptItem>
+            <promptItem id="enter_to_close">
+                <text id="t259">Πατήστε Enter για να κλείσετε αυτό το παράθυρο διαλόγου</text>
+                <audio from="" src="./audio/rec0325-125308.mp3"/>
+            </promptItem>
+            <promptItem id="ok_button_caption">
+                <text id="t262">OK</text>
+                <audio from="" src="./audio/rec0124-143716.mp3"/>
+            </promptItem>
+            <promptItem id="ok_button_description">
+                <text id="t263">Πατήστε OK για να κλείσετε αυτό το παράθυρο διαλόγου</text>
+                <audio from="" src="./audio/rec0325-125059.mp3"/>
+            </promptItem>
+            <promptItem id="cancel_button_caption">
+                <text id="t264">Ακύρωση</text>
+                <audio from="" src="./audio/rec0124-143611.mp3"/>
+            </promptItem>
+            <promptItem id="cancel_button_description">
+                <text id="t265">Πατήστε άκυρο για να ακυρώσετε το παράθυρο διαλόγου</text>
+                <audio from="" src="./audio/rec0325-124850.mp3"/>
+            </promptItem>
+            <promptItem id="thisDialogNotSelfVoicing">
+                <text id="t268">Αυτό το παράθυρο διαλόγου δεν υποστηρίζεται με ομιλία.</text>
+                <audio from="" src="./audio/rec0325-124731.mp3"/>
+            </promptItem>
+            <promptItem id="escapeToCancel">
+                <text id="t269">Πατήστε Esc για ακυρώση.</text>
+                <audio from="" src="./audio/rec0124-143422.mp3"/>
+            </promptItem>
+            <promptItem id="hearDlgInstructions">
+                <text id="t270">Πατήστε F1 για παράθυρο βοήθειας.</text>
+                <audio from="" src="./audio/rec0325-122425.mp3"/>
+            </promptItem>
+            <promptItem id="nav_window">
+                <text id="t272">Πλοήγηση</text>
+                <audio from="" src="./audio/rec0124-143052.mp3"/>
+            </promptItem>
+            <promptItem id="sections">
+                <text id="t273">Ενότητες</text>
+                <audio from="" src="./audio/rec0124-143005.mp3"/>
+            </promptItem>
+            <promptItem id="pages">
+                <text id="t274">Σελίδες</text>
+                <audio from="" src="./audio/rec0124-142914.mp3"/>
+            </promptItem>
+            <promptItem id="noterefs">
+                <text id="t275">Υποσημειώσεις</text>
+                <audio from="" src="./audio/rec0124-142430.mp3"/>
+            </promptItem>
+            <promptItem id="prodnotes">
+                <text id="t276">Σημειώσεις δημιουργού</text>
+                <audio from="" src="./audio/rec0124-142352.mp3"/>
+            </promptItem>
+            <promptItem id="sidebars">
+                <text id="t277">Πλαϊνές μπάρες</text>
+                <audio from="" src="./audio/rec0325-122240.mp3"/>
+            </promptItem>
+            <promptItem id="groups">
+                <text id="t278">Ομαδοποιημένα αντικείμενα</text>
+                <audio from="" src="./audio/rec0325-122015.mp3"/>
+            </promptItem>
+            <promptItem id="ready">
+                <text id="t280">Έτοιμο</text>
+                <audio from="" src="./audio/rec0325-121839.mp3"/>
+            </promptItem>
+            <promptItem id="selfolder_title">
+                <text id="t282">Επιλέξτε ένα Φάκελο</text>
+                <audio from="" src="./audio/rec0130-195556.mp3"/>
+            </promptItem>
+            <promptItem id="selfolder_instr">
+                <text id="t283">Επιλέξτε ένα φάκελο από τον παρακάτω κατάλογο.</text>
+                <audio from="" src="./audio/rec0124-141750.mp3"/>
+            </promptItem>
+            <promptItem id="daisy_books">
+                <note>This is for the file open dialog's file type filter</note>
+                <text id="t284">Βιβλία DAISY</text>
+                <audio from="" src="./audio/rec0130-195333.mp3"/>
+            </promptItem>
+            <promptItem id="folder_does_not_exist">
+                <text id="t285">Ο φάκελος %s δεν υπάρχει. Θέλετε να δημιουργηθεί ο φάκελος;</text>
+                <audio from="" src="./audio/rec0124-141451.mp3"/>
+            </promptItem>
+            <promptItem id="folder_invalid">
+                <text id="t286">Αυτό το όνομα φακέλου είναι άκυρο. Παρακαλώ επιλέξτε ένα άλλο.</text>
+                <audio from="" src="./audio/rec0130-195234.mp3"/>
+            </promptItem>
+            <promptItem id="cant_create_folder">
+                <text id="t287">Δεν μπορεί να δημιουργηθεί αυτός ο φάκελος. Παρακαλώ διπλο ελέγξτε.</text>
+                <audio from="" src="./audio/rec0130-195023.mp3"/>
+            </promptItem>
+            <promptItem id="not_available">
+                <text id="t288">Μη διαθέσιμο</text>
+                <audio from="" src="./audio/rec0130-195133.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_zero">
+                <note>All numerals should be translated into numerals, not words.</note>
+                <text id="t289">0</text>
+                <audio from="" src="./audio/rec0130-185853.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_one">
+                <text id="t290">1</text>
+                <audio from="" src="./audio/rec0130-185925.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_two">
+                <text id="t291">2</text>
+                <audio from="" src="./audio/rec0130-190001.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_three">
+                <text id="t292">3</text>
+                <audio from="" src="./audio/rec0130-190109.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_four">
+                <text id="t293">4</text>
+                <audio from="" src="./audio/rec0130-184754.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_five">
+                <text id="t294">5</text>
+                <audio from="" src="./audio/rec0130-184938.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_six">
+                <text id="t295">6</text>
+                <audio from="" src="./audio/rec0130-185016.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_seven">
+                <text id="t296">7</text>
+                <audio from="" src="./audio/rec0130-185130.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_eight">
+                <text id="t297">8</text>
+                <audio from="" src="./audio/rec0130-185200.mp3"/>
+            </promptItem>
+            <promptItem id="numeric_nine">
+                <text id="t298">9</text>
+                <audio from="" src="./audio/rec0130-185230.mp3"/>
+            </promptItem>
+            <promptItem id="will_be_skipped">
+                <text id="t300">θα παραλειφθούν</text>
+                <audio from="" src="./audio/rec0130-185318.mp3"/>
+            </promptItem>
+            <promptItem id="will_be_played">
+                <text id="t301">θα αναπαραχθούν</text>
+                <audio from="" src="./audio/rec0130-185422.mp3"/>
+            </promptItem>
+            <promptItem id="item_selected">
+                <text id="t304">επιλεγμένο</text>
+                <audio from="" src="./audio/rec0130-185510.mp3"/>
+            </promptItem>
+            <promptItem id="item_deselected">
+                <text id="t305">αποεπιλεγμένο</text>
+                <audio from="" src="./audio/rec0130-185638.mp3"/>
+            </promptItem>
+            <promptItem id="menu">
+                <text id="t308">Μενού</text>
+                <audio from="" src="./audio/rec0130-185702.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="keyboardShortcut">
+                <text id="t306">Συντόμευση Πληκτρολογίου</text>
+                <audio from="" src="./audio/rec0130-190243.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="icon">
+                <text id="t307">Εικονίδιο</text>
+                <audio from="" src="./audio/rec0130-190624.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="followedBy">
+                <note>This is used in the context of a sequence of key presses, as in &quot;Press Alt + V, followed by S&quot;.  </note>
+                <text id="t309">ακολουθείται από</text>
+                <audio from="" src="./audio/rec0130-190700.mp3"/>
+            </promptItem>
+            <!--This is for the keyboard shortcuts document and can eventually be removed from this XML document-->
+            <promptItem id="submenu">
+                <text id="t310">Υπο Μενού</text>
+                <audio from="" src="./audio/rec0130-194821.mp3"/>
+            </promptItem>
+        </promptItemRefs>
+        <generalPrompts>
+            <prompt id="dialogClosed">
+                <promptItem>
+                    <text id="t311">Το παράθυρο διαλόγου έκλεισε.</text>
+                    <audio from="" src="./audio/rec0308-112745.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="textFieldEntry">
+                <promptItem>
+                    <text id="t312">Το πεδίο κειμένου περιέχει:</text>
+                    <audio from="" src="./audio/rec0130-191125.mp3"/>
+                </promptItem>
+                <promptVar name="TEXT_FIELD"/>
+            </prompt>
+            <prompt id="bookAtPathChanged">
+                <promptItem>
+                    <text id="t313">Το βιβλίο που προσπαθήσατε να ανοίξετε δε βρέθηκε.</text>
+                    <audio from="" src="./audio/rec0130-191302.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="generalBookError">
+                <promptItem>
+                    <text id="t314">Το βιβλίο δε μπόρεσε να ανοίξει.</text>
+                    <audio from="" src="./audio/rec0130-191420.mp3"/>
+                </promptItem>
+                <promptVar name="BOOK_PATH"/>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="noCdLoaded">
+                <promptItem>
+                    <text id="t315">Δεν έχετε εισάγει CD.</text>
+                    <audio from="" src="./audio/rec0308-112805.mp3"/>
+                </promptItem>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="OpenFile_notSelfVoicing">
+                <promptItem>
+                    <text id="t319">Άνοιγμα Παράθυρου Διαλόγου Αρχείου</text>
+                    <audio from="" src="./audio/rec0308-112916.mp3"/>
+                </promptItem>
+                <promptItem refid="thisDialogNotSelfVoicing"/>
+                <promptItem refid="escapeToCancel"/>
+            </prompt>
+            <prompt id="BrowseForFolder_notSelfVoicing">
+                <promptItem>
+                    <text id="t321">Αναζήτηση παράθυρου διαλόγου φακέλου</text>
+                    <audio from="" src="./audio/rec0308-112941.mp3"/>
+                </promptItem>
+                <promptItem refid="thisDialogNotSelfVoicing"/>
+                <promptItem refid="escapeToCancel"/>
+            </prompt>
+            <prompt id="loading">
+                <promptItem>
+                    <text id="t324">Loading</text>
+                    <audio from="" src="./audio/rec0130-191728.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="restartForChanges">
+                <promptItem>
+                    <text id="t325">Παρακαλώ κάντε επανεκκίνηση για να αλλάξετε τη γλώσσα του AMIS.</text>
+                    <audio from="" src="./audio/rec0130-191817.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="noBooksFoundOnCd">
+                <promptItem>
+                    <text id="t326">Δε βρέθηκαν βιβλία DAISY σε αυτό το CD-ROM.</text>
+                    <audio from="" src="./audio/rec0130-191853.mp3"/>
+                </promptItem>
+                <promptItem refid="enter_to_close"/>
+            </prompt>
+            <prompt id="done">
+                <promptItem>
+                    <text id="t376">Ολοκληρώθηκε</text>
+                    <audio from="" src="./audio/rec0130-191924.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="sidebarHasFocus">
+                <promptItem>
+                    <text id="t377">Η εστίαση βρίσκεται στην πλαϊνή μπάρα</text>
+                    <audio from="" src="./audio/rec0308-113006.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="textWindowHasFocus">
+                <promptItem>
+                    <text id="t378">Το παράθυρο κειμένου έχει εστίαση</text>
+                    <audio from="" src="./audio/rec0130-192139.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="generalBookErrorReloading">
+                <promptItem>
+                    <text id="t382">Το βιβλίο δε μπόρεσε να ανοιχτεί. Το AMIS θα ανοίξει πάλι το προηγούμενο βιβλίο σας.</text>
+                    <audio from="" src="./audio/rec0130-192220.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="shift_key">
+                <promptItem>
+                    <text id="t383">shift</text>
+                    <audio from="" src="./audio/rec0130-192256.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="control_key">
+                <promptItem>
+                    <text id="t384">control</text>
+                    <audio from="" src="./audio/rec0130-193252.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="alt_key">
+                <promptItem>
+                    <text id="t385">alt</text>
+                    <audio from="" src="./audio/rec0130-193314.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="space_key">
+                <promptItem>
+                    <text id="t386">space</text>
+                    <audio from="" src="./audio/rec0130-193339.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="delete_key">
+                <promptItem>
+                    <text id="t387">delete</text>
+                    <audio from="" src="./audio/rec0405-125054.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="backspace_key">
+                <promptItem>
+                    <text id="t388">backspace</text>
+                    <audio from="" src="./audio/rec0130-193505.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="enter_key">
+                <promptItem>
+                    <text id="t389">enter</text>
+                    <audio from="" src="./audio/rec0130-193536.mp3"/>
+                </promptItem>
+            </prompt>
+            <prompt id="searching_for_text">
+               <promptItem>
+                 <text id="t435">Αναζήτηση για κείμενο</text>
+                 <audio from="" src="./audio/rec0130-193630.mp3"/>
+               </promptItem>
+           </prompt>
+           <prompt id="not_found">
+             <promptItem>
+               <text id="t436">Το κείμενο δε βρέθηκε</text>
+               <audio from="" src="./audio/rec0130-193811.mp3"/>
+             </promptItem>
+           </prompt>
+           <prompt id="paused">
+             <promptItem>
+               <text id="t437">Διακόπηκε</text>
+               <audio from="" src="./audio/rec0130-193903.mp3"/>
+             </promptItem>
+           </prompt>
+          </generalPrompts>
+    </prompts>
+</ui>
