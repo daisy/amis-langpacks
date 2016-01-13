@@ -1,5 +1,5 @@
 <?xml version="1.0" ?><ui next-id="t451" xml:lang="en" xmlns="http://amisproject.org">
-    <created by="DAISY Lion" date="2015-12-16_13:13:28"/>
+    <created by="DAISY Lion" date="2016-01-07_13:04:34"/>
     <containers>
         <container id="file">
             <note>This is the menu header &quot;File&quot;</note>
@@ -570,7 +570,7 @@
                     <audio from="" src="./audio/rec0126-165723.mp3"/>
                 </caption>
                 <description>
-                    <text id="t95">Go to the previous phrase.</text>
+                    <text id="t95">Μετάβαση στην προηγούμενη φράση.</text>
                     <audio from="" src="./audio/rec0126-165654.mp3"/>
                 </description>
                 <accelerator keys="Left">
@@ -586,7 +586,7 @@
                     <audio from="" src="./audio/rec0126-165558.mp3"/>
                 </caption>
                 <description>
-                    <text id="t98">Go to the next phrase.</text>
+                    <text id="t98">Μετάβαση στην επόμενη φράση.</text>
                     <audio from="" src="./audio/rec0126-165535.mp3"/>
                 </description>
                 <accelerator keys="Right">
@@ -1390,7 +1390,7 @@ Adaptive Multimedia Information System</text>
                     <caption>
                         <prompt>
                             <promptItem>
-                                <text id="t240">Title:</text>
+                                <text id="t240">Τίτλος:</text>
                                 <audio from="" src="./audio/rec0126-130153.mp3"/>
                             </promptItem>
                             <promptVar name="META_TITLE"/>
@@ -1480,7 +1480,7 @@ Adaptive Multimedia Information System</text>
                     <caption condition="DATA_EXISTS">
                         <prompt>
                             <promptItem>
-                                <text id="t356">Current page:</text>
+                                <text id="t356">Τρέχουσα σελίδα:</text>
                                 <audio from="" src="./audio/rec0126-124745.mp3"/>
                             </promptItem>
                             <promptVar name="CURRENT_PAGE"/>
@@ -1915,7 +1915,7 @@ Adaptive Multimedia Information System</text>
             </prompt>
             <prompt id="loading">
                 <promptItem>
-                    <text id="t324">Loading</text>
+                    <text id="t324">Φόρτωση</text>
                     <audio from="" src="./audio/rec0130-191728.mp3"/>
                 </promptItem>
             </prompt>
